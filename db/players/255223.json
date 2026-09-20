@@ -1,0 +1,89 @@
+{
+  "255223": {
+    "clubId": 1943,
+    "leagueId": 13,
+    "countryId": 129,
+    "versionId": "2002",
+    "rating": 78,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "ST"
+    ],
+    "playStyles": [
+      20,
+      7
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      30,
+      32,
+      43
+    ],
+    "attributes": [
+      84,
+      76,
+      70,
+      82,
+      42,
+      69
+    ],
+    "hasDynamicImage": false,
+    "price": 1000,
+    "resourceId": 255223,
+    "assetId": 255223,
+    "originalVersionId": 0
+  },
+  "50586871": {
+    "clubId": 1943,
+    "leagueId": 13,
+    "countryId": 129,
+    "versionId": "3",
+    "rating": 84,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      20,
+      22,
+      7,
+      9
+    ],
+    "playStylesPlus": [
+      25
+    ],
+    "rolesPlus": [
+      32,
+      130,
+      139,
+      143
+    ],
+    "attributes": [
+      90,
+      83,
+      78,
+      88,
+      48,
+      77
+    ],
+    "hasDynamicImage": true,
+    "price": 55000,
+    "resourceId": 50586871,
+    "assetId": 255223,
+    "originalVersionId": 3
+  },
+  "cardName": "Adli",
+  "name": "Amine Adli"
+}
