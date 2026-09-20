@@ -1,0 +1,93 @@
+{
+  "clubName": "FC Lugano",
+  "players": {
+    "50571656": {
+      "name": "Antonios Papadopoulos",
+      "cardName": "Papadopoulos",
+      "originalVersionId": "3",
+      "clubId": 10032,
+      "leagueId": 189,
+      "countryId": 21,
+      "versionId": "3",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        14,
+        17,
+        19,
+        28
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        112
+      ],
+      "attributes": [
+        80,
+        45,
+        70,
+        73,
+        83,
+        89
+      ],
+      "hasDynamicImage": true,
+      "price": 30000,
+      "resourceId": 50571656,
+      "assetId": 240008
+    },
+    "50602561": {
+      "name": "Uran Bislimi",
+      "cardName": "Bislimi",
+      "originalVersionId": "3",
+      "clubId": 10032,
+      "leagueId": 189,
+      "countryId": 47,
+      "versionId": "3",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        0,
+        14,
+        2,
+        20,
+        26
+      ],
+      "playStylesPlus": [
+        9
+      ],
+      "rolesPlus": [
+        22,
+        33,
+        114,
+        118
+      ],
+      "attributes": [
+        81,
+        80,
+        83,
+        86,
+        76,
+        84
+      ],
+      "hasDynamicImage": true,
+      "price": 50500,
+      "resourceId": 50602561,
+      "assetId": 270913
+    }
+  }
+}

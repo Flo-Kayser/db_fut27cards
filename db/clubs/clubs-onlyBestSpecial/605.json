@@ -1,0 +1,671 @@
+{
+  "clubName": "Al Hilal",
+  "players": {
+    "50542162": {
+      "name": "João Cancelo",
+      "cardName": "João Cancelo",
+      "originalVersionId": "96",
+      "clubId": 605,
+      "leagueId": 350,
+      "countryId": 38,
+      "versionId": "96",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "LB",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        12,
+        13,
+        15,
+        20,
+        22,
+        23
+      ],
+      "playStylesPlus": [
+        11
+      ],
+      "rolesPlus": [
+        6,
+        10,
+        25,
+        105,
+        109,
+        123
+      ],
+      "attributes": [
+        87,
+        76,
+        87,
+        87,
+        85,
+        84
+      ],
+      "hasDynamicImage": true,
+      "price": 70000,
+      "resourceId": 50542162,
+      "assetId": 210514
+    },
+    "50551723": {
+      "name": "Mohammed Kanno",
+      "cardName": "Kanno",
+      "originalVersionId": "109",
+      "clubId": 605,
+      "leagueId": 350,
+      "countryId": 183,
+      "versionId": "109",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        149
+      ],
+      "attributes": [
+        92,
+        90,
+        90,
+        90,
+        90,
+        90
+      ],
+      "hasDynamicImage": true,
+      "price": 30000,
+      "resourceId": 50551723,
+      "assetId": 220075
+    },
+    "50554385": {
+      "name": "Malcom",
+      "cardName": "Malcom",
+      "originalVersionId": "3",
+      "clubId": 605,
+      "leagueId": 350,
+      "countryId": 54,
+      "versionId": "3",
+      "rating": 87,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        12,
+        13,
+        26,
+        3,
+        6,
+        8
+      ],
+      "playStylesPlus": [
+        21
+      ],
+      "rolesPlus": [
+        26,
+        33,
+        123,
+        131,
+        135
+      ],
+      "attributes": [
+        94,
+        84,
+        85,
+        89,
+        48,
+        80
+      ],
+      "hasDynamicImage": true,
+      "price": 118000,
+      "resourceId": 50554385,
+      "assetId": 222737
+    },
+    "50584720": {
+      "name": "Darwin Núñez",
+      "cardName": "Núñez",
+      "originalVersionId": "34",
+      "clubId": 605,
+      "leagueId": 350,
+      "countryId": 60,
+      "versionId": "34",
+      "rating": 90,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        1,
+        21,
+        25,
+        26
+      ],
+      "playStylesPlus": [
+        11,
+        6
+      ],
+      "rolesPlus": [
+        35,
+        37,
+        44,
+        136,
+        141,
+        142
+      ],
+      "attributes": [
+        93,
+        89,
+        83,
+        86,
+        58,
+        87
+      ],
+      "hasDynamicImage": true,
+      "price": 11250,
+      "resourceId": 50584720,
+      "assetId": 253072
+    },
+    "50609445": {
+      "name": "Marcos Leonardo",
+      "cardName": "Marcos Leonardo",
+      "originalVersionId": "91",
+      "clubId": 605,
+      "leagueId": 350,
+      "countryId": 54,
+      "versionId": "91",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [
+        1,
+        24,
+        29,
+        6,
+        7
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        33,
+        41,
+        44,
+        143
+      ],
+      "attributes": [
+        88,
+        86,
+        75,
+        85,
+        33,
+        75
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 33250,
+      "price": 45900,
+      "resourceId": 50609445,
+      "assetId": 277797
+    },
+    "67318845": {
+      "name": "Yassine Bounou",
+      "cardName": "Bounou",
+      "originalVersionId": "109",
+      "clubId": 605,
+      "leagueId": 350,
+      "countryId": 129,
+      "versionId": "109",
+      "rating": 94,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        94,
+        94,
+        88,
+        95,
+        70,
+        95
+      ],
+      "hasDynamicImage": true,
+      "price": 68500,
+      "resourceId": 67318845,
+      "assetId": 209981
+    },
+    "67332712": {
+      "name": "Sergej Milinković-Savić",
+      "cardName": "Milinković-Savić",
+      "originalVersionId": "16",
+      "clubId": 605,
+      "leagueId": 350,
+      "countryId": 51,
+      "versionId": "16",
+      "rating": 96,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CB",
+        "CDM",
+        "CM",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        131,
+        132,
+        133,
+        134,
+        148,
+        149
+      ],
+      "attributes": [
+        91,
+        92,
+        96,
+        96,
+        92,
+        96
+      ],
+      "hasDynamicImage": true,
+      "price": 15000,
+      "resourceId": 67332712,
+      "assetId": 223848
+    },
+    "67334840": {
+      "name": "Sultan Mandash",
+      "cardName": "Mandash",
+      "originalVersionId": "107",
+      "clubId": 605,
+      "leagueId": 350,
+      "countryId": 183,
+      "versionId": "107",
+      "rating": 93,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        10,
+        20,
+        22,
+        24,
+        26,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        12,
+        25,
+        6
+      ],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        135,
+        136,
+        137
+      ],
+      "attributes": [
+        93,
+        92,
+        93,
+        95,
+        53,
+        93
+      ],
+      "hasDynamicImage": true,
+      "price": 30750,
+      "resourceId": 67334840,
+      "assetId": 225976
+    },
+    "84096682": {
+      "name": "Salem Al Dawsari",
+      "cardName": "Al Dawsari",
+      "originalVersionId": "11",
+      "clubId": 605,
+      "leagueId": 350,
+      "countryId": 183,
+      "versionId": "11",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        11,
+        12,
+        13,
+        22,
+        25,
+        26,
+        6
+      ],
+      "playStylesPlus": [
+        0,
+        20,
+        21
+      ],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        93,
+        90,
+        90,
+        92,
+        67,
+        90
+      ],
+      "hasDynamicImage": true,
+      "price": 110000,
+      "resourceId": 84096682,
+      "assetId": 210602
+    },
+    "100864320": {
+      "name": "Kalidou Koulibaly",
+      "cardName": "Koulibaly",
+      "originalVersionId": "16",
+      "clubId": 605,
+      "leagueId": 350,
+      "countryId": 136,
+      "versionId": "16",
+      "rating": 97,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM",
+        "LB",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        146,
+        147,
+        148,
+        149
+      ],
+      "attributes": [
+        93,
+        70,
+        90,
+        91,
+        97,
+        98
+      ],
+      "hasDynamicImage": true,
+      "price": 11250,
+      "resourceId": 100864320,
+      "assetId": 201024
+    },
+    "100887589": {
+      "name": "Rúben Neves",
+      "cardName": "Rúben Neves",
+      "originalVersionId": "11",
+      "clubId": 605,
+      "leagueId": 350,
+      "countryId": 38,
+      "versionId": "11",
+      "rating": 95,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        13,
+        16,
+        19,
+        28,
+        3,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        10,
+        11,
+        17
+      ],
+      "rolesPlus": [
+        18,
+        21,
+        22,
+        114,
+        115,
+        116,
+        117,
+        119,
+        120,
+        149
+      ],
+      "attributes": [
+        88,
+        87,
+        95,
+        91,
+        95,
+        88
+      ],
+      "hasDynamicImage": true,
+      "price": 160000,
+      "resourceId": 100887589,
+      "assetId": 224293
+    },
+    "100895952": {
+      "name": "Theo Hernández",
+      "cardName": "Hernández",
+      "originalVersionId": "96",
+      "clubId": 605,
+      "leagueId": 350,
+      "countryId": 18,
+      "versionId": "96",
+      "rating": 99,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CDM",
+        "LB",
+        "LM",
+        "LW",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [
+        25,
+        28
+      ],
+      "rolesPlus": [
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        114,
+        115,
+        116,
+        117,
+        127,
+        128,
+        129,
+        130,
+        138,
+        139,
+        140,
+        146,
+        147,
+        149
+      ],
+      "attributes": [
+        99,
+        93,
+        94,
+        98,
+        95,
+        99
+      ],
+      "hasDynamicImage": true,
+      "price": 500000,
+      "resourceId": 100895952,
+      "assetId": 232656
+    },
+    "117605665": {
+      "name": "Karim Benzema",
+      "cardName": "Benzema",
+      "originalVersionId": "16",
+      "clubId": 605,
+      "leagueId": 350,
+      "countryId": 18,
+      "versionId": "16",
+      "rating": 97,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        131,
+        132,
+        133,
+        134,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        91,
+        98,
+        92,
+        96,
+        55,
+        96
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 117605665,
+      "assetId": 165153
+    }
+  }
+}

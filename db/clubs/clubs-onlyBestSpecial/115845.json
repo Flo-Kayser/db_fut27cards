@@ -1,0 +1,501 @@
+{
+  "clubName": "Bergamo Calcio",
+  "players": {
+    "50540109": {
+      "name": "Marten de Roon",
+      "cardName": "de Roon",
+      "originalVersionId": "150",
+      "clubId": 115845,
+      "leagueId": 31,
+      "countryId": 34,
+      "versionId": "150",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        16,
+        19,
+        26
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        20,
+        114,
+        118
+      ],
+      "attributes": [
+        74,
+        78,
+        82,
+        81,
+        87,
+        84
+      ],
+      "hasDynamicImage": true,
+      "price": 30000,
+      "resourceId": 50540109,
+      "assetId": 208461
+    },
+    "50547798": {
+      "name": "Davide Zappacosta",
+      "cardName": "Zappacosta",
+      "originalVersionId": "8",
+      "clubId": 115845,
+      "leagueId": 31,
+      "countryId": 27,
+      "versionId": "8",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        10,
+        12,
+        14,
+        16,
+        20,
+        6,
+        9
+      ],
+      "playStylesPlus": [
+        0,
+        8
+      ],
+      "rolesPlus": [
+        23,
+        27,
+        35,
+        38,
+        124,
+        126,
+        128,
+        130,
+        136,
+        139
+      ],
+      "attributes": [
+        87,
+        85,
+        89,
+        89,
+        87,
+        82
+      ],
+      "hasDynamicImage": true,
+      "price": 55000,
+      "resourceId": 50547798,
+      "assetId": 216150
+    },
+    "50554921": {
+      "name": "Mario Pašalić",
+      "cardName": "Pašalić",
+      "originalVersionId": "107",
+      "clubId": 115845,
+      "leagueId": 31,
+      "countryId": 10,
+      "versionId": "107",
+      "rating": 93,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        0,
+        10,
+        19,
+        2,
+        20,
+        22,
+        24,
+        9
+      ],
+      "playStylesPlus": [
+        11,
+        6,
+        8
+      ],
+      "rolesPlus": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134
+      ],
+      "attributes": [
+        92,
+        91,
+        94,
+        94,
+        81,
+        89
+      ],
+      "hasDynamicImage": true,
+      "price": 40000,
+      "resourceId": 50554921,
+      "assetId": 223273
+    },
+    "50558358": {
+      "name": "Gianluca Scamacca",
+      "cardName": "Scamacca",
+      "originalVersionId": "111",
+      "clubId": 115845,
+      "leagueId": 31,
+      "countryId": 27,
+      "versionId": "111",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        1,
+        11,
+        13,
+        22,
+        29,
+        4
+      ],
+      "playStylesPlus": [
+        2,
+        6
+      ],
+      "rolesPlus": [
+        42,
+        141,
+        143,
+        144
+      ],
+      "attributes": [
+        86,
+        90,
+        80,
+        87,
+        45,
+        82
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50558358,
+      "assetId": 226710
+    },
+    "50578523": {
+      "name": "Odilon Kossounou",
+      "cardName": "Kossounou",
+      "originalVersionId": "109",
+      "clubId": 115845,
+      "leagueId": 31,
+      "countryId": 108,
+      "versionId": "109",
+      "rating": 93,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        93,
+        70,
+        80,
+        84,
+        94,
+        91
+      ],
+      "hasDynamicImage": true,
+      "price": 37250,
+      "resourceId": 50578523,
+      "assetId": 246875
+    },
+    "50583802": {
+      "name": "Marco Carnesecchi",
+      "cardName": "Carnesecchi",
+      "originalVersionId": "3",
+      "clubId": 115845,
+      "leagueId": 31,
+      "countryId": 27,
+      "versionId": "3",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        31,
+        32,
+        34,
+        35,
+        9
+      ],
+      "playStylesPlus": [
+        33
+      ],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        89,
+        87,
+        75,
+        90,
+        35,
+        88
+      ],
+      "hasDynamicImage": true,
+      "price": 95000,
+      "resourceId": 50583802,
+      "assetId": 252154
+    },
+    "50596836": {
+      "name": "Giorgio Scalvini",
+      "cardName": "Scalvini",
+      "originalVersionId": "3",
+      "clubId": 115845,
+      "leagueId": 31,
+      "countryId": 27,
+      "versionId": "3",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        15,
+        16,
+        19,
+        28,
+        9
+      ],
+      "playStylesPlus": [
+        17
+      ],
+      "rolesPlus": [
+        11,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        75,
+        45,
+        66,
+        71,
+        89,
+        86
+      ],
+      "hasDynamicImage": true,
+      "price": 25000,
+      "resourceId": 50596836,
+      "assetId": 265188
+    },
+    "67364475": {
+      "name": "Daniel Maldini",
+      "cardName": "Maldini",
+      "originalVersionId": "16",
+      "clubId": 115845,
+      "leagueId": 31,
+      "countryId": 27,
+      "versionId": "16",
+      "rating": 95,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CAM",
+        "CB",
+        "CDM",
+        "CM",
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        147,
+        148,
+        149
+      ],
+      "attributes": [
+        90,
+        77,
+        82,
+        82,
+        96,
+        94
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 39750,
+      "resourceId": 67364475,
+      "assetId": 255611
+    },
+    "84152946": {
+      "name": "Éderson",
+      "cardName": "Éderson",
+      "originalVersionId": "63",
+      "clubId": 115845,
+      "leagueId": 31,
+      "countryId": 54,
+      "versionId": "63",
+      "rating": 95,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        17,
+        19,
+        26,
+        4,
+        6,
+        9
+      ],
+      "playStylesPlus": [
+        15,
+        16,
+        20,
+        8
+      ],
+      "rolesPlus": [
+        118,
+        119,
+        120,
+        121,
+        122
+      ],
+      "attributes": [
+        92,
+        91,
+        92,
+        95,
+        94,
+        95
+      ],
+      "hasDynamicImage": false,
+      "sbcPrice": 63650,
+      "resourceId": 84152946,
+      "assetId": 266866
+    },
+    "117691982": {
+      "name": "Charles De Ketelaere",
+      "cardName": "De Ketelaere",
+      "originalVersionId": "16",
+      "clubId": 115845,
+      "leagueId": 31,
+      "countryId": 7,
+      "versionId": "16",
+      "rating": 98,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LW",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        97,
+        97,
+        96,
+        99,
+        73,
+        88
+      ],
+      "hasDynamicImage": true,
+      "price": 55000,
+      "resourceId": 117691982,
+      "assetId": 251470
+    }
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "210881": {
+    "clubId": 2,
+    "leagueId": 13,
+    "countryId": 42,
+    "versionId": "2002",
+    "rating": 81,
+    "preferredFoot": "Left",
+    "weakFoot": 2,
+    "skillMoves": 3,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "CAM",
+      "LB",
+      "LM",
+      "RM"
+    ],
+    "playStyles": [
+      24,
+      26,
+      29
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      24,
+      34,
+      128
+    ],
+    "attributes": [
+      69,
+      77,
+      78,
+      80,
+      77,
+      83
+    ],
+    "hasDynamicImage": false,
+    "price": 1000,
+    "resourceId": 210881,
+    "assetId": 210881,
+    "originalVersionId": 0
+  },
+  "50542529": {
+    "clubId": 2,
+    "leagueId": 13,
+    "countryId": 42,
+    "versionId": "3",
+    "rating": 85,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      24,
+      26,
+      29,
+      6
+    ],
+    "playStylesPlus": [
+      25
+    ],
+    "rolesPlus": [
+      24,
+      34,
+      123,
+      128
+    ],
+    "attributes": [
+      88,
+      82,
+      83,
+      85,
+      81,
+      87
+    ],
+    "hasDynamicImage": true,
+    "price": 32250,
+    "resourceId": 50542529,
+    "assetId": 210881,
+    "originalVersionId": 3
+  },
+  "67319745": {
+    "clubId": 2,
+    "leagueId": 13,
+    "countryId": 42,
+    "versionId": "125",
+    "rating": 96,
+    "preferredFoot": "Left",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "LB",
+      "RM"
+    ],
+    "playStyles": [
+      0,
+      11,
+      16,
+      24,
+      26,
+      29,
+      8
+    ],
+    "playStylesPlus": [
+      20,
+      6,
+      9
+    ],
+    "rolesPlus": [
+      107,
+      108,
+      109,
+      110,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      131,
+      132,
+      133,
+      134,
+      147
+    ],
+    "attributes": [
+      91,
+      92,
+      95,
+      96,
+      93,
+      93
+    ],
+    "hasDynamicImage": true,
+    "price": 140000,
+    "resourceId": 67319745,
+    "assetId": 210881,
+    "originalVersionId": 125
+  },
+  "cardName": "McGinn",
+  "name": "John McGinn"
+}

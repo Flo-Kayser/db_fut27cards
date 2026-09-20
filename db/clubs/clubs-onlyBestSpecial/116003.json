@@ -1,0 +1,100 @@
+{
+  "clubName": "1. FC Köln",
+  "players": {
+    "50580363": {
+      "name": "Marina Hegering",
+      "cardName": "Hegering",
+      "originalVersionId": "108",
+      "clubId": 116003,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "108",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        15,
+        16,
+        18,
+        19
+      ],
+      "playStylesPlus": [
+        17
+      ],
+      "rolesPlus": [
+        11,
+        12,
+        113,
+        148
+      ],
+      "attributes": [
+        85,
+        70,
+        81,
+        84,
+        87,
+        86
+      ],
+      "hasDynamicImage": true,
+      "price": 46000,
+      "resourceId": 50580363,
+      "assetId": 248715
+    },
+    "50596654": {
+      "name": "Vanessa Leimenstoll",
+      "cardName": "Leimenstoll",
+      "originalVersionId": "151",
+      "clubId": 116003,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "151",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        12,
+        13,
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        135,
+        136,
+        137,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        90,
+        84,
+        80,
+        85,
+        56,
+        72
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50596654,
+      "assetId": 265006
+    }
+  }
+}

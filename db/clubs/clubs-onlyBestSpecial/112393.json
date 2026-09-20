@@ -1,0 +1,92 @@
+{
+  "clubName": "Al Taawoun",
+  "players": {
+    "50551445": {
+      "name": "Roger Martínez",
+      "cardName": "Martínez",
+      "originalVersionId": "3",
+      "clubId": 112393,
+      "leagueId": 350,
+      "countryId": 56,
+      "versionId": "3",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        1,
+        29,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        39,
+        43,
+        142
+      ],
+      "attributes": [
+        84,
+        83,
+        79,
+        86,
+        53,
+        89
+      ],
+      "hasDynamicImage": false,
+      "price": 30000,
+      "resourceId": 50551445,
+      "assetId": 219797
+    },
+    "50575478": {
+      "name": "Mailson",
+      "cardName": "Mailson",
+      "originalVersionId": "11",
+      "clubId": 112393,
+      "leagueId": 350,
+      "countryId": 54,
+      "versionId": "11",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        10,
+        33,
+        34,
+        9
+      ],
+      "playStylesPlus": [
+        30,
+        31,
+        32
+      ],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        91,
+        92,
+        91,
+        91,
+        70,
+        92
+      ],
+      "hasDynamicImage": true,
+      "price": 130000,
+      "resourceId": 50575478,
+      "assetId": 243830
+    }
+  }
+}

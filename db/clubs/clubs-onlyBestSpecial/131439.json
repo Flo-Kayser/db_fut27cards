@@ -1,0 +1,110 @@
+{
+  "clubName": "San Diego FC",
+  "players": {
+    "50553640": {
+      "name": "Hirving Lozano",
+      "cardName": "Lozano",
+      "originalVersionId": "91",
+      "clubId": 131439,
+      "leagueId": 39,
+      "countryId": 83,
+      "versionId": "91",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        12,
+        20,
+        25
+      ],
+      "playStylesPlus": [
+        21
+      ],
+      "rolesPlus": [
+        30,
+        36,
+        39,
+        129,
+        137,
+        140
+      ],
+      "attributes": [
+        94,
+        85,
+        81,
+        88,
+        51,
+        72
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50553640,
+      "assetId": 221992
+    },
+    "67345782": {
+      "name": "Anders Dreyer",
+      "cardName": "Dreyer",
+      "originalVersionId": "11",
+      "clubId": 131439,
+      "leagueId": 39,
+      "countryId": 13,
+      "versionId": "11",
+      "rating": 94,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        11,
+        12,
+        21,
+        22,
+        24,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        0,
+        10,
+        7
+      ],
+      "rolesPlus": [
+        24,
+        123,
+        125,
+        126,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        94,
+        94,
+        92,
+        94,
+        58,
+        83
+      ],
+      "hasDynamicImage": true,
+      "price": 18000,
+      "resourceId": 67345782,
+      "assetId": 236918
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "clubName": "Atlanta United",
+  "players": {
+    "50496153": {
+      "name": "Brad Guzan",
+      "cardName": "Guzan",
+      "originalVersionId": "150",
+      "clubId": 112885,
+      "leagueId": 39,
+      "countryId": 95,
+      "versionId": "150",
+      "rating": 84,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        10,
+        30,
+        31,
+        35
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1,
+        145
+      ],
+      "attributes": [
+        84,
+        83,
+        81,
+        84,
+        55,
+        82
+      ],
+      "hasDynamicImage": true,
+      "price": 110000,
+      "resourceId": 50496153,
+      "assetId": 164505
+    },
+    "50562625": {
+      "name": "Miguel Almirón",
+      "cardName": "Almirón",
+      "originalVersionId": "107",
+      "clubId": 112885,
+      "leagueId": 39,
+      "countryId": 58,
+      "versionId": "107",
+      "rating": 93,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        11,
+        12,
+        21,
+        23,
+        26,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        0,
+        20,
+        25,
+        6
+      ],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        96,
+        92,
+        89,
+        94,
+        74,
+        84
+      ],
+      "hasDynamicImage": true,
+      "price": 19250,
+      "resourceId": 50562625,
+      "assetId": 230977
+    }
+  }
+}
