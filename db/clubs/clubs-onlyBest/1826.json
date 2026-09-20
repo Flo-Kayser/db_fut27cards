@@ -1,0 +1,946 @@
+{
+  "clubName": "Aleman. Aachen",
+  "players": {
+    "73160": {
+      "name": "Matti Wagner",
+      "cardName": "Wagner",
+      "originalVersionId": "0",
+      "clubId": 1826,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        30,
+        39
+      ],
+      "attributes": [
+        76,
+        41,
+        54,
+        61,
+        59,
+        50
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 73160,
+      "assetId": 73160
+    },
+    "74004": {
+      "name": "Meiko Wäschenbach",
+      "cardName": "Wäschenbach",
+      "originalVersionId": "0",
+      "clubId": 1826,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19
+      ],
+      "attributes": [
+        66,
+        47,
+        59,
+        65,
+        62,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 74004,
+      "assetId": 74004
+    },
+    "76802": {
+      "name": "Mika Pobrić",
+      "cardName": "Pobrić",
+      "originalVersionId": "0",
+      "clubId": 1826,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 55,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        69,
+        37,
+        55,
+        54,
+        48,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 76802,
+      "assetId": 76802
+    },
+    "78776": {
+      "name": "Kacper Kościerski",
+      "cardName": "Kościerski",
+      "originalVersionId": "0",
+      "clubId": 1826,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3,
+        24
+      ],
+      "attributes": [
+        69,
+        37,
+        52,
+        64,
+        60,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 78776,
+      "assetId": 78776
+    },
+    "79335": {
+      "name": "Joel da Silva Kiala",
+      "cardName": "Joel da Silva Kiala",
+      "originalVersionId": "0",
+      "clubId": 1826,
+      "leagueId": 2076,
+      "countryId": 98,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        4,
+        11,
+        17,
+        48
+      ],
+      "attributes": [
+        64,
+        40,
+        51,
+        54,
+        64,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 79335,
+      "assetId": 79335
+    },
+    "87425": {
+      "name": "Daniel Starodid",
+      "cardName": "Starodid",
+      "originalVersionId": "0",
+      "clubId": 1826,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        68,
+        60,
+        48,
+        56,
+        38,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 87425,
+      "assetId": 87425
+    },
+    "199339": {
+      "name": "Manuel Riemann",
+      "cardName": "Riemann",
+      "originalVersionId": "0",
+      "clubId": 1826,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        10,
+        30,
+        31
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        45
+      ],
+      "attributes": [
+        66,
+        67,
+        75,
+        67,
+        52,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 199339,
+      "assetId": 199339
+    },
+    "220881": {
+      "name": "Valmir Sulejmani",
+      "cardName": "Sulejmani",
+      "originalVersionId": "0",
+      "clubId": 1826,
+      "leagueId": 2076,
+      "countryId": 219,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        30,
+        32,
+        39,
+        42,
+        43
+      ],
+      "attributes": [
+        63,
+        60,
+        55,
+        62,
+        39,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 220881,
+      "assetId": 220881
+    },
+    "223751": {
+      "name": "Gideon Jung",
+      "cardName": "Jung",
+      "originalVersionId": "0",
+      "clubId": 1826,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        18
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        68,
+        41,
+        57,
+        57,
+        63,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 223751,
+      "assetId": 223751
+    },
+    "238563": {
+      "name": "Danilo Wiebe",
+      "cardName": "Wiebe",
+      "originalVersionId": "0",
+      "clubId": 1826,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        18
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        15,
+        16,
+        18
+      ],
+      "attributes": [
+        53,
+        52,
+        59,
+        60,
+        64,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 238563,
+      "assetId": 238563
+    },
+    "239700": {
+      "name": "Marius Wegmann",
+      "cardName": "Wegmann",
+      "originalVersionId": "0",
+      "clubId": 1826,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        28
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        48
+      ],
+      "attributes": [
+        56,
+        29,
+        43,
+        54,
+        66,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 239700,
+      "assetId": 239700
+    },
+    "245865": {
+      "name": "Stefan Bajic",
+      "cardName": "Bajic",
+      "originalVersionId": "0",
+      "clubId": 1826,
+      "leagueId": 2076,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        66,
+        65,
+        65,
+        65,
+        25,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 750,
+      "resourceId": 245865,
+      "assetId": 245865
+    },
+    "247058": {
+      "name": "Tom Hendriks",
+      "cardName": "Hendriks",
+      "originalVersionId": "0",
+      "clubId": 1826,
+      "leagueId": 2076,
+      "countryId": 34,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        59,
+        59,
+        56,
+        57,
+        27,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 247058,
+      "assetId": 247058
+    },
+    "251440": {
+      "name": "Lukas Scepanik",
+      "cardName": "Scepanik",
+      "originalVersionId": "0",
+      "clubId": 1826,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "LW",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        27,
+        28,
+        31,
+        38
+      ],
+      "attributes": [
+        73,
+        60,
+        60,
+        64,
+        54,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 251440,
+      "assetId": 251440
+    },
+    "257916": {
+      "name": "Mika Schroers",
+      "cardName": "Schroers",
+      "originalVersionId": "0",
+      "clubId": 1826,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        1,
+        2,
+        21,
+        22
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        30,
+        32,
+        39,
+        41,
+        43
+      ],
+      "attributes": [
+        75,
+        71,
+        65,
+        70,
+        40,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 257916,
+      "assetId": 257916
+    },
+    "264026": {
+      "name": "Nathan Bitumazala",
+      "cardName": "Bitumazala",
+      "originalVersionId": "0",
+      "clubId": 1826,
+      "leagueId": 2076,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CAM",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "attributes": [
+        61,
+        42,
+        57,
+        63,
+        61,
+        54
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 264026,
+      "assetId": 264026
+    },
+    "268533": {
+      "name": "Mika Hanraths",
+      "cardName": "Hanraths",
+      "originalVersionId": "0",
+      "clubId": 1826,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        12
+      ],
+      "attributes": [
+        59,
+        27,
+        43,
+        47,
+        63,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 268533,
+      "assetId": 268533
+    },
+    "269993": {
+      "name": "Mehdi Loune",
+      "cardName": "Loune",
+      "originalVersionId": "0",
+      "clubId": 1826,
+      "leagueId": 2076,
+      "countryId": 129,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        13,
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        31,
+        33
+      ],
+      "attributes": [
+        68,
+        58,
+        64,
+        72,
+        52,
+        51
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 269993,
+      "assetId": 269993
+    },
+    "270009": {
+      "name": "Petros Bagalianis",
+      "cardName": "Bagalianis",
+      "originalVersionId": "0",
+      "clubId": 1826,
+      "leagueId": 2076,
+      "countryId": 22,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        18
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        48
+      ],
+      "attributes": [
+        64,
+        39,
+        46,
+        53,
+        63,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 270009,
+      "assetId": 270009
+    },
+    "270940": {
+      "name": "Fabio Torsiello",
+      "cardName": "Torsiello",
+      "originalVersionId": "0",
+      "clubId": 1826,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        32,
+        36,
+        41,
+        43
+      ],
+      "attributes": [
+        73,
+        63,
+        56,
+        66,
+        24,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 270940,
+      "assetId": 270940
+    },
+    "274393": {
+      "name": "Ken Izekor",
+      "cardName": "Izekor",
+      "originalVersionId": "0",
+      "clubId": 1826,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        68,
+        60,
+        44,
+        60,
+        22,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 274393,
+      "assetId": 274393
+    },
+    "274696": {
+      "name": "Louis Köster",
+      "cardName": "Köster",
+      "originalVersionId": "0",
+      "clubId": 1826,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        38,
+        41
+      ],
+      "attributes": [
+        69,
+        55,
+        58,
+        64,
+        43,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 274696,
+      "assetId": 274696
+    },
+    "50404746": {
+      "name": "Dylan Leonard",
+      "cardName": "Leonard",
+      "originalVersionId": "0",
+      "clubId": 1826,
+      "leagueId": 2076,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        62,
+        34,
+        46,
+        53,
+        64,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 50404746,
+      "assetId": 73098
+    },
+    "50410864": {
+      "name": "Justin von der Hitz",
+      "cardName": "von der Hitz",
+      "originalVersionId": "0",
+      "clubId": 1826,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "attributes": [
+        77,
+        57,
+        57,
+        65,
+        57,
+        50
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 50410864,
+      "assetId": 79216
+    },
+    "50595816": {
+      "name": "Jonas Oehmichen",
+      "cardName": "Oehmichen",
+      "originalVersionId": "0",
+      "clubId": 1826,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CDM",
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        24
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        20,
+        27,
+        28,
+        38
+      ],
+      "attributes": [
+        71,
+        52,
+        63,
+        67,
+        47,
+        47
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 50595816,
+      "assetId": 264168
+    }
+  }
+}

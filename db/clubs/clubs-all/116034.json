@@ -1,0 +1,946 @@
+{
+  "clubName": "PSG",
+  "players": {
+    "70803": {
+      "name": "Anaïs Ebayilin",
+      "cardName": "Ebayilin",
+      "originalVersionId": "0",
+      "clubId": 116034,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19
+      ],
+      "attributes": [
+        47,
+        65,
+        72,
+        75,
+        66,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 1500,
+      "resourceId": 70803,
+      "assetId": 70803
+    },
+    "75175": {
+      "name": "Ornella Graziani",
+      "cardName": "Graziani",
+      "originalVersionId": "0",
+      "clubId": 116034,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        38
+      ],
+      "attributes": [
+        64,
+        57,
+        63,
+        67,
+        40,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 1100,
+      "resourceId": 75175,
+      "assetId": 75175
+    },
+    "77050": {
+      "name": "Merveille Kanjinga",
+      "cardName": "Kanjinga",
+      "originalVersionId": "0",
+      "clubId": 116034,
+      "leagueId": 2218,
+      "countryId": 110,
+      "versionId": "2002",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        29
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        32,
+        36,
+        43,
+        44
+      ],
+      "attributes": [
+        86,
+        78,
+        63,
+        73,
+        29,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 77050,
+      "assetId": 77050
+    },
+    "79955": {
+      "name": "Noémie Fatier",
+      "cardName": "Fatier",
+      "originalVersionId": "0",
+      "clubId": 116034,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7
+      ],
+      "attributes": [
+        54,
+        30,
+        57,
+        59,
+        61,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 79955,
+      "assetId": 79955
+    },
+    "79958": {
+      "name": "Florianne Jourde",
+      "cardName": "Jourde",
+      "originalVersionId": "0",
+      "clubId": 116034,
+      "leagueId": 2218,
+      "countryId": 70,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        20
+      ],
+      "attributes": [
+        65,
+        64,
+        65,
+        69,
+        46,
+        53
+      ],
+      "hasDynamicImage": false,
+      "price": 1400,
+      "resourceId": 79958,
+      "assetId": 79958
+    },
+    "81437": {
+      "name": "Léa Morissaint",
+      "cardName": "Morissaint",
+      "originalVersionId": "0",
+      "clubId": 116034,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        70,
+        57,
+        48,
+        63,
+        20,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 81437,
+      "assetId": 81437
+    },
+    "81625": {
+      "name": "Isabela",
+      "cardName": "Isabela",
+      "originalVersionId": "0",
+      "clubId": 116034,
+      "leagueId": 2218,
+      "countryId": 54,
+      "versionId": "2002",
+      "rating": 77,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        26,
+        36
+      ],
+      "attributes": [
+        76,
+        56,
+        66,
+        69,
+        76,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 800,
+      "resourceId": 81625,
+      "assetId": 81625
+    },
+    "81760": {
+      "name": "Tanté Diakité",
+      "cardName": "Diakité",
+      "originalVersionId": "0",
+      "clubId": 116034,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19
+      ],
+      "attributes": [
+        58,
+        38,
+        55,
+        55,
+        57,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 81760,
+      "assetId": 81760
+    },
+    "88879": {
+      "name": "Maren Groothoff",
+      "cardName": "Groothoff",
+      "originalVersionId": "0",
+      "clubId": 116034,
+      "leagueId": 2218,
+      "countryId": 34,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        65,
+        57,
+        54,
+        61,
+        26,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 88879,
+      "assetId": 88879
+    },
+    "227346": {
+      "name": "Griedge Mbock",
+      "cardName": "Mbock",
+      "originalVersionId": "0",
+      "clubId": 116034,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2002",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        15,
+        18,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        113
+      ],
+      "attributes": [
+        64,
+        55,
+        67,
+        66,
+        84,
+        84
+      ],
+      "hasDynamicImage": false,
+      "price": 850,
+      "resourceId": 227346,
+      "assetId": 227346
+    },
+    "233662": {
+      "name": "Sakina Karchaoui",
+      "cardName": "Karchaoui",
+      "originalVersionId": "0",
+      "clubId": 116034,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2002",
+      "rating": 87,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM",
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        12,
+        13,
+        14,
+        16,
+        20,
+        25,
+        26
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        10,
+        22,
+        49,
+        118,
+        130
+      ],
+      "attributes": [
+        89,
+        76,
+        87,
+        88,
+        79,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 71000,
+      "resourceId": 233662,
+      "assetId": 233662
+    },
+    "233852": {
+      "name": "Jackie Groenen",
+      "cardName": "Groenen",
+      "originalVersionId": "0",
+      "clubId": 116034,
+      "leagueId": 2218,
+      "countryId": 34,
+      "versionId": "2002",
+      "rating": 81,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        11,
+        24
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        13,
+        15,
+        20
+      ],
+      "attributes": [
+        80,
+        66,
+        81,
+        82,
+        72,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 233852,
+      "assetId": 233852
+    },
+    "246630": {
+      "name": "Rasheedat Ajibade",
+      "cardName": "Ajibade",
+      "originalVersionId": "0",
+      "clubId": 116034,
+      "leagueId": 2218,
+      "countryId": 133,
+      "versionId": "2002",
+      "rating": 81,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        21,
+        25,
+        26
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        30,
+        36,
+        39,
+        126
+      ],
+      "attributes": [
+        87,
+        79,
+        73,
+        85,
+        37,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 246630,
+      "assetId": 246630
+    },
+    "262457": {
+      "name": "Olga Carmona",
+      "cardName": "Olga Carmona",
+      "originalVersionId": "0",
+      "clubId": 116034,
+      "leagueId": 2218,
+      "countryId": 45,
+      "versionId": "2002",
+      "rating": 83,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        14,
+        21,
+        25,
+        26,
+        28
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        110
+      ],
+      "attributes": [
+        87,
+        74,
+        78,
+        80,
+        80,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 1400,
+      "resourceId": 262457,
+      "assetId": 262457
+    },
+    "264884": {
+      "name": "Paulina Dudek",
+      "cardName": "Dudek",
+      "originalVersionId": "0",
+      "clubId": 116034,
+      "leagueId": 2218,
+      "countryId": 37,
+      "versionId": "2002",
+      "rating": 81,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        16,
+        17,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        13
+      ],
+      "attributes": [
+        59,
+        46,
+        62,
+        68,
+        85,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 750,
+      "resourceId": 264884,
+      "assetId": 264884
+    },
+    "264905": {
+      "name": "Jade Le Guilly",
+      "cardName": "Le Guilly",
+      "originalVersionId": "0",
+      "clubId": 116034,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2002",
+      "rating": 78,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        21
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        6,
+        23
+      ],
+      "attributes": [
+        71,
+        55,
+        72,
+        72,
+        78,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 800,
+      "resourceId": 264905,
+      "assetId": 264905
+    },
+    "264967": {
+      "name": "Katarzyna Kiedrzynek",
+      "cardName": "Kiedrzynek",
+      "originalVersionId": "0",
+      "clubId": 116034,
+      "leagueId": 2218,
+      "countryId": 37,
+      "versionId": "2002",
+      "rating": 77,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        77,
+        76,
+        73,
+        79,
+        39,
+        77
+      ],
+      "hasDynamicImage": false,
+      "price": 750,
+      "resourceId": 264967,
+      "assetId": 264967
+    },
+    "265900": {
+      "name": "Naomie Feller",
+      "cardName": "Feller",
+      "originalVersionId": "0",
+      "clubId": 116034,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2002",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "RM",
+        "ST"
+      ],
+      "playStyles": [
+        21,
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        32,
+        38,
+        43
+      ],
+      "attributes": [
+        87,
+        80,
+        71,
+        82,
+        37,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 750,
+      "resourceId": 265900,
+      "assetId": 265900
+    },
+    "267531": {
+      "name": "Romée Leuchter",
+      "cardName": "Leuchter",
+      "originalVersionId": "0",
+      "clubId": 116034,
+      "leagueId": 2218,
+      "countryId": 34,
+      "versionId": "2002",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        20,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        30,
+        39,
+        142
+      ],
+      "attributes": [
+        82,
+        84,
+        70,
+        80,
+        29,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 800,
+      "resourceId": 267531,
+      "assetId": 267531
+    },
+    "274759": {
+      "name": "Yaya",
+      "cardName": "Yaya",
+      "originalVersionId": "0",
+      "clubId": 116034,
+      "leagueId": 2218,
+      "countryId": 54,
+      "versionId": "2002",
+      "rating": 76,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        18
+      ],
+      "attributes": [
+        76,
+        66,
+        75,
+        79,
+        61,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 800,
+      "resourceId": 274759,
+      "assetId": 274759
+    },
+    "275916": {
+      "name": "Jennifer Echegini",
+      "cardName": "Echegini",
+      "originalVersionId": "0",
+      "clubId": 116034,
+      "leagueId": 2218,
+      "countryId": 133,
+      "versionId": "2002",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [
+        20,
+        22,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        18,
+        21,
+        31,
+        43
+      ],
+      "attributes": [
+        76,
+        71,
+        72,
+        79,
+        67,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 275916,
+      "assetId": 275916
+    },
+    "276774": {
+      "name": "Océane Toussaint",
+      "cardName": "Toussaint",
+      "originalVersionId": "0",
+      "clubId": 116034,
+      "leagueId": 2218,
+      "countryId": 80,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        67,
+        63,
+        68,
+        69,
+        43,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 1400,
+      "resourceId": 276774,
+      "assetId": 276774
+    },
+    "277866": {
+      "name": "Thiniba Samoura",
+      "cardName": "Samoura",
+      "originalVersionId": "0",
+      "clubId": 116034,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2002",
+      "rating": 78,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CM",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        13,
+        22,
+        46
+      ],
+      "attributes": [
+        61,
+        32,
+        59,
+        69,
+        79,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 750,
+      "resourceId": 277866,
+      "assetId": 277866
+    },
+    "278225": {
+      "name": "Tara Elimbi Gilbert",
+      "cardName": "Elimbi Gilbert",
+      "originalVersionId": "0",
+      "clubId": 116034,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2002",
+      "rating": 77,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CM",
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        21
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        22,
+        30,
+        39,
+        47
+      ],
+      "attributes": [
+        80,
+        50,
+        68,
+        72,
+        73,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 1100,
+      "resourceId": 278225,
+      "assetId": 278225
+    }
+  }
+}

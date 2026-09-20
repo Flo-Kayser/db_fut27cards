@@ -1,0 +1,873 @@
+{
+  "clubName": "Chennaiyin FC",
+  "players": {
+    "70970": {
+      "name": "Dippendu Biswas",
+      "cardName": "Biswas",
+      "originalVersionId": "0",
+      "clubId": 113297,
+      "leagueId": 2149,
+      "countryId": 159,
+      "versionId": "2000",
+      "rating": 55,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        48
+      ],
+      "attributes": [
+        48,
+        34,
+        43,
+        44,
+        55,
+        51
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 70970,
+      "assetId": 70970
+    },
+    "73056": {
+      "name": "Muhammed Saheef",
+      "cardName": "Saheef",
+      "originalVersionId": "0",
+      "clubId": 113297,
+      "leagueId": 2149,
+      "countryId": 159,
+      "versionId": "2000",
+      "rating": 50,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "LB",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        8,
+        9,
+        17
+      ],
+      "attributes": [
+        56,
+        27,
+        33,
+        46,
+        48,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 73056,
+      "assetId": 73056
+    },
+    "81920": {
+      "name": "Nikola Stojanović",
+      "cardName": "Stojanović",
+      "originalVersionId": "0",
+      "clubId": 113297,
+      "leagueId": 2149,
+      "countryId": 51,
+      "versionId": "2000",
+      "rating": 56,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18
+      ],
+      "attributes": [
+        58,
+        49,
+        59,
+        57,
+        46,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 81920,
+      "assetId": 81920
+    },
+    "83539": {
+      "name": "Klusner Pereira",
+      "cardName": "Pereira",
+      "originalVersionId": "0",
+      "clubId": 113297,
+      "leagueId": 2149,
+      "countryId": 159,
+      "versionId": "2000",
+      "rating": 51,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7
+      ],
+      "attributes": [
+        59,
+        28,
+        28,
+        43,
+        55,
+        49
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 83539,
+      "assetId": 83539
+    },
+    "84100": {
+      "name": "Vivek S",
+      "cardName": "S",
+      "originalVersionId": "0",
+      "clubId": 113297,
+      "leagueId": 2149,
+      "countryId": 159,
+      "versionId": "2000",
+      "rating": 48,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        35
+      ],
+      "attributes": [
+        54,
+        51,
+        38,
+        53,
+        22,
+        50
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 84100,
+      "assetId": 84100
+    },
+    "197062": {
+      "name": "Nuno Reis",
+      "cardName": "Nuno Reis",
+      "originalVersionId": "0",
+      "clubId": 113297,
+      "leagueId": 2149,
+      "countryId": 38,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "RB"
+      ],
+      "playStyles": [
+        10,
+        16,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        40,
+        45,
+        58,
+        58,
+        64,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 950,
+      "resourceId": 197062,
+      "assetId": 197062
+    },
+    "239324": {
+      "name": "Madih Talal",
+      "cardName": "Talal",
+      "originalVersionId": "0",
+      "clubId": 113297,
+      "leagueId": 2149,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        31,
+        32,
+        43
+      ],
+      "attributes": [
+        55,
+        59,
+        64,
+        68,
+        51,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 239324,
+      "assetId": 239324
+    },
+    "248197": {
+      "name": "Vignesh Dakshinamurthy",
+      "cardName": "Dakshinamurthy",
+      "originalVersionId": "0",
+      "clubId": 113297,
+      "leagueId": 2149,
+      "countryId": 159,
+      "versionId": "2000",
+      "rating": 55,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7,
+        27,
+        38
+      ],
+      "attributes": [
+        66,
+        38,
+        46,
+        50,
+        51,
+        54
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 248197,
+      "assetId": 248197
+    },
+    "248292": {
+      "name": "Mohammad Nawaz",
+      "cardName": "Nawaz",
+      "originalVersionId": "0",
+      "clubId": 113297,
+      "leagueId": 2149,
+      "countryId": 159,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        60,
+        59,
+        60,
+        64,
+        39,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 248292,
+      "assetId": 248292
+    },
+    "248319": {
+      "name": "Farukh Choudhary",
+      "cardName": "Choudhary",
+      "originalVersionId": "0",
+      "clubId": 113297,
+      "leagueId": 2149,
+      "countryId": 159,
+      "versionId": "2000",
+      "rating": 55,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CDM",
+        "CM",
+        "LM",
+        "LW",
+        "RM"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19,
+        27,
+        28,
+        38
+      ],
+      "attributes": [
+        74,
+        46,
+        51,
+        55,
+        39,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 248319,
+      "assetId": 248319
+    },
+    "252088": {
+      "name": "Saúl Crespo",
+      "cardName": "Saúl Crespo",
+      "originalVersionId": "0",
+      "clubId": 113297,
+      "leagueId": 2149,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        13,
+        15,
+        22,
+        33
+      ],
+      "attributes": [
+        43,
+        63,
+        67,
+        64,
+        63,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 252088,
+      "assetId": 252088
+    },
+    "253724": {
+      "name": "Kingslee Fernandes",
+      "cardName": "Fernandes",
+      "originalVersionId": "0",
+      "clubId": 113297,
+      "leagueId": 2149,
+      "countryId": 159,
+      "versionId": "2000",
+      "rating": 53,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18
+      ],
+      "attributes": [
+        56,
+        42,
+        48,
+        58,
+        47,
+        49
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 253724,
+      "assetId": 253724
+    },
+    "258556": {
+      "name": "Samik Mitra",
+      "cardName": "Mitra",
+      "originalVersionId": "0",
+      "clubId": 113297,
+      "leagueId": 2149,
+      "countryId": 159,
+      "versionId": "2000",
+      "rating": 54,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        54,
+        52,
+        52,
+        54,
+        26,
+        53
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 258556,
+      "assetId": 258556
+    },
+    "259346": {
+      "name": "Glan Martins",
+      "cardName": "Martins",
+      "originalVersionId": "0",
+      "clubId": 113297,
+      "leagueId": 2149,
+      "countryId": 159,
+      "versionId": "2000",
+      "rating": 55,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14
+      ],
+      "attributes": [
+        56,
+        46,
+        50,
+        53,
+        51,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 259346,
+      "assetId": 259346
+    },
+    "259764": {
+      "name": "Namgyal Bhutia",
+      "cardName": "Bhutia",
+      "originalVersionId": "0",
+      "clubId": 113297,
+      "leagueId": 2149,
+      "countryId": 159,
+      "versionId": "2000",
+      "rating": 53,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "LB",
+        "RB",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        23,
+        35
+      ],
+      "attributes": [
+        72,
+        45,
+        48,
+        49,
+        49,
+        51
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 259764,
+      "assetId": 259764
+    },
+    "264362": {
+      "name": "Pachuau Laldinpuia",
+      "cardName": "Laldinpuia",
+      "originalVersionId": "0",
+      "clubId": 113297,
+      "leagueId": 2149,
+      "countryId": 159,
+      "versionId": "2000",
+      "rating": 56,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "LB",
+        "RB"
+      ],
+      "playStyles": [
+        16,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        8,
+        11,
+        17,
+        48
+      ],
+      "attributes": [
+        35,
+        36,
+        37,
+        41,
+        57,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 264362,
+      "assetId": 264362
+    },
+    "265564": {
+      "name": "Devansh Dabas",
+      "cardName": "Dabas",
+      "originalVersionId": "0",
+      "clubId": 113297,
+      "leagueId": 2149,
+      "countryId": 159,
+      "versionId": "2000",
+      "rating": 50,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        50,
+        50,
+        52,
+        49,
+        28,
+        51
+      ],
+      "hasDynamicImage": false,
+      "price": 900,
+      "resourceId": 265564,
+      "assetId": 265564
+    },
+    "269671": {
+      "name": "Jiteshwor Singh",
+      "cardName": "Singh",
+      "originalVersionId": "0",
+      "clubId": 113297,
+      "leagueId": 2149,
+      "countryId": 159,
+      "versionId": "2000",
+      "rating": 54,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        16,
+        18
+      ],
+      "attributes": [
+        32,
+        37,
+        48,
+        55,
+        50,
+        48
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 269671,
+      "assetId": 269671
+    },
+    "270629": {
+      "name": "Bryce Brian Miranda",
+      "cardName": "Miranda",
+      "originalVersionId": "0",
+      "clubId": 113297,
+      "leagueId": 2149,
+      "countryId": 159,
+      "versionId": "2000",
+      "rating": 56,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        21
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        38
+      ],
+      "attributes": [
+        78,
+        50,
+        50,
+        57,
+        42,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 270629,
+      "assetId": 270629
+    },
+    "271011": {
+      "name": "Ayush Chhetri",
+      "cardName": "Chhetri",
+      "originalVersionId": "0",
+      "clubId": 113297,
+      "leagueId": 2149,
+      "countryId": 159,
+      "versionId": "2000",
+      "rating": 56,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        15,
+        20
+      ],
+      "attributes": [
+        51,
+        44,
+        50,
+        55,
+        51,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 271011,
+      "assetId": 271011
+    },
+    "271900": {
+      "name": "Brison Fernandes",
+      "cardName": "Fernandes",
+      "originalVersionId": "0",
+      "clubId": 113297,
+      "leagueId": 2149,
+      "countryId": 159,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CDM",
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        20,
+        27,
+        30,
+        39
+      ],
+      "attributes": [
+        63,
+        57,
+        61,
+        63,
+        41,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 271900,
+      "assetId": 271900
+    },
+    "277360": {
+      "name": "Irfan Yadwad",
+      "cardName": "Yadwad",
+      "originalVersionId": "0",
+      "clubId": 113297,
+      "leagueId": 2149,
+      "countryId": 159,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "ST"
+      ],
+      "playStyles": [
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        38,
+        42
+      ],
+      "attributes": [
+        40,
+        53,
+        60,
+        61,
+        20,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 277360,
+      "assetId": 277360
+    },
+    "277545": {
+      "name": "Maheson Singh",
+      "cardName": "Singh",
+      "originalVersionId": "0",
+      "clubId": 113297,
+      "leagueId": 2149,
+      "countryId": 159,
+      "versionId": "2000",
+      "rating": 50,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM",
+        "LM",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        53,
+        40,
+        45,
+        54,
+        48,
+        50
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 277545,
+      "assetId": 277545
+    }
+  }
+}

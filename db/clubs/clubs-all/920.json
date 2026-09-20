@@ -1,0 +1,813 @@
+{
+  "clubName": "Vålerenga Fotball",
+  "players": {
+    "71867": {
+      "name": "Håkon Sjåtil",
+      "cardName": "Sjåtil",
+      "originalVersionId": "0",
+      "clubId": 920,
+      "leagueId": 41,
+      "countryId": 36,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB"
+      ],
+      "playStyles": [
+        27
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "attributes": [
+        65,
+        43,
+        56,
+        61,
+        62,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 71867,
+      "assetId": 71867
+    },
+    "76477": {
+      "name": "Brice Ambina",
+      "cardName": "Ambina",
+      "originalVersionId": "0",
+      "clubId": 920,
+      "leagueId": 41,
+      "countryId": 103,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        17,
+        20
+      ],
+      "attributes": [
+        68,
+        54,
+        61,
+        65,
+        63,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 76477,
+      "assetId": 76477
+    },
+    "76478": {
+      "name": "Carl Lange",
+      "cardName": "Lange",
+      "originalVersionId": "0",
+      "clubId": 920,
+      "leagueId": 41,
+      "countryId": 13,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        20,
+        31
+      ],
+      "attributes": [
+        79,
+        62,
+        63,
+        65,
+        55,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 76478,
+      "assetId": 76478
+    },
+    "79810": {
+      "name": "Mathias Grundetjern",
+      "cardName": "Grundetjern",
+      "originalVersionId": "0",
+      "clubId": 920,
+      "leagueId": 41,
+      "countryId": 36,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        73,
+        65,
+        53,
+        63,
+        25,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 79810,
+      "assetId": 79810
+    },
+    "80013": {
+      "name": "Even Forcha",
+      "cardName": "Forcha",
+      "originalVersionId": "0",
+      "clubId": 920,
+      "leagueId": 41,
+      "countryId": 36,
+      "versionId": "2000",
+      "rating": 54,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        66,
+        51,
+        51,
+        54,
+        46,
+        52
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 80013,
+      "assetId": 80013
+    },
+    "84393": {
+      "name": "Alexander Ordal",
+      "cardName": "Ordal",
+      "originalVersionId": "0",
+      "clubId": 920,
+      "leagueId": 41,
+      "countryId": 36,
+      "versionId": "2000",
+      "rating": 55,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        55,
+        53,
+        55,
+        57,
+        28,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 84393,
+      "assetId": 84393
+    },
+    "186267": {
+      "name": "Vegar Eggen Hedenstad",
+      "cardName": "Hedenstad",
+      "originalVersionId": "0",
+      "clubId": 920,
+      "leagueId": 41,
+      "countryId": 36,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CDM",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        4,
+        17
+      ],
+      "attributes": [
+        70,
+        51,
+        60,
+        61,
+        59,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 1500,
+      "resourceId": 186267,
+      "assetId": 186267
+    },
+    "204675": {
+      "name": "Ghayas Zahid",
+      "cardName": "Zahid",
+      "originalVersionId": "0",
+      "clubId": 920,
+      "leagueId": 41,
+      "countryId": 36,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        20,
+        22
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        20,
+        27,
+        31,
+        38
+      ],
+      "attributes": [
+        73,
+        64,
+        70,
+        74,
+        43,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 204675,
+      "assetId": 204675
+    },
+    "216114": {
+      "name": "Ivan Näsberg",
+      "cardName": "Näsberg",
+      "originalVersionId": "0",
+      "clubId": 920,
+      "leagueId": 41,
+      "countryId": 36,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        13
+      ],
+      "attributes": [
+        62,
+        35,
+        52,
+        54,
+        66,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 216114,
+      "assetId": 216114
+    },
+    "222215": {
+      "name": "Petter Strand",
+      "cardName": "Strand",
+      "originalVersionId": "0",
+      "clubId": 920,
+      "leagueId": 41,
+      "countryId": 36,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        17
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        26,
+        33,
+        36
+      ],
+      "attributes": [
+        80,
+        62,
+        63,
+        66,
+        62,
+        78
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 222215,
+      "assetId": 222215
+    },
+    "234658": {
+      "name": "Oscar Hedvall",
+      "cardName": "Hedvall",
+      "originalVersionId": "0",
+      "clubId": 920,
+      "leagueId": 41,
+      "countryId": 13,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        45
+      ],
+      "attributes": [
+        68,
+        63,
+        68,
+        68,
+        31,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 234658,
+      "assetId": 234658
+    },
+    "237019": {
+      "name": "Lucas Haren",
+      "cardName": "Haren",
+      "originalVersionId": "0",
+      "clubId": 920,
+      "leagueId": 41,
+      "countryId": 13,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        26,
+        36
+      ],
+      "attributes": [
+        80,
+        56,
+        55,
+        60,
+        33,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 237019,
+      "assetId": 237019
+    },
+    "238725": {
+      "name": "Kevin Tshiembe",
+      "cardName": "Tshiembe",
+      "originalVersionId": "0",
+      "clubId": 920,
+      "leagueId": 41,
+      "countryId": 13,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        15,
+        28
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12,
+        13
+      ],
+      "attributes": [
+        68,
+        40,
+        53,
+        54,
+        63,
+        77
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 238725,
+      "assetId": 238725
+    },
+    "243283": {
+      "name": "Magnus Westergaard",
+      "cardName": "Westergaard",
+      "originalVersionId": "0",
+      "clubId": 920,
+      "leagueId": 41,
+      "countryId": 13,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        31,
+        49
+      ],
+      "attributes": [
+        72,
+        56,
+        60,
+        64,
+        60,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 2600,
+      "resourceId": 243283,
+      "assetId": 243283
+    },
+    "245270": {
+      "name": "Kolbeinn Finnsson",
+      "cardName": "Finnsson",
+      "originalVersionId": "0",
+      "clubId": 920,
+      "leagueId": 41,
+      "countryId": 24,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        10,
+        27
+      ],
+      "attributes": [
+        74,
+        54,
+        61,
+        64,
+        61,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 1100,
+      "resourceId": 245270,
+      "assetId": 245270
+    },
+    "246860": {
+      "name": "Odin Thiago Holm",
+      "cardName": "Holm",
+      "originalVersionId": "0",
+      "clubId": 920,
+      "leagueId": 41,
+      "countryId": 36,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        18
+      ],
+      "attributes": [
+        76,
+        55,
+        64,
+        64,
+        55,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 246860,
+      "assetId": 246860
+    },
+    "248337": {
+      "name": "Sebastian Jarl",
+      "cardName": "Jarl",
+      "originalVersionId": "0",
+      "clubId": 920,
+      "leagueId": 41,
+      "countryId": 36,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        13
+      ],
+      "attributes": [
+        47,
+        37,
+        55,
+        57,
+        61,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 248337,
+      "assetId": 248337
+    },
+    "260567": {
+      "name": "Ole Christian Sæter",
+      "cardName": "Sæter",
+      "originalVersionId": "0",
+      "clubId": 920,
+      "leagueId": 41,
+      "countryId": 36,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        42,
+        44
+      ],
+      "attributes": [
+        69,
+        65,
+        52,
+        62,
+        29,
+        77
+      ],
+      "hasDynamicImage": false,
+      "price": 550,
+      "resourceId": 260567,
+      "assetId": 260567
+    },
+    "263877": {
+      "name": "Magnus Sjøeng",
+      "cardName": "Sjøeng",
+      "originalVersionId": "0",
+      "clubId": 920,
+      "leagueId": 41,
+      "countryId": 36,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        31
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        66,
+        62,
+        62,
+        65,
+        38,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 263877,
+      "assetId": 263877
+    },
+    "272611": {
+      "name": "Omar Bully Drammeh",
+      "cardName": "Drammeh",
+      "originalVersionId": "0",
+      "clubId": 920,
+      "leagueId": 41,
+      "countryId": 36,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        38
+      ],
+      "attributes": [
+        74,
+        52,
+        51,
+        62,
+        35,
+        48
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 272611,
+      "assetId": 272611
+    },
+    "273545": {
+      "name": "Aaron Kiil Olsen",
+      "cardName": "Olsen",
+      "originalVersionId": "0",
+      "clubId": 920,
+      "leagueId": 41,
+      "countryId": 36,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        77,
+        29,
+        48,
+        54,
+        65,
+        77
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 273545,
+      "assetId": 273545
+    },
+    "50600050": {
+      "name": "Dennis Gjengaar",
+      "cardName": "Gjengaar",
+      "originalVersionId": "0",
+      "clubId": 920,
+      "leagueId": 41,
+      "countryId": 36,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        24,
+        36
+      ],
+      "attributes": [
+        84,
+        51,
+        51,
+        61,
+        51,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 50600050,
+      "assetId": 268402
+    }
+  }
+}

@@ -1,0 +1,987 @@
+{
+  "clubName": "UTA Arad",
+  "players": {
+    "72404": {
+      "name": "Marius Coman",
+      "cardName": "Coman",
+      "originalVersionId": "0",
+      "clubId": 110750,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        42,
+        44
+      ],
+      "attributes": [
+        63,
+        64,
+        52,
+        63,
+        31,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 72404,
+      "assetId": 72404
+    },
+    "72620": {
+      "name": "Dmytro Pospelov",
+      "cardName": "Pospelov",
+      "originalVersionId": "0",
+      "clubId": 110750,
+      "leagueId": 330,
+      "countryId": 49,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        16,
+        19,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12
+      ],
+      "attributes": [
+        38,
+        56,
+        54,
+        55,
+        69,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 72620,
+      "assetId": 72620
+    },
+    "72627": {
+      "name": "Andrei Dorobanțu",
+      "cardName": "Dorobanțu",
+      "originalVersionId": "0",
+      "clubId": 110750,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "attributes": [
+        75,
+        56,
+        56,
+        60,
+        59,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 72627,
+      "assetId": 72627
+    },
+    "75786": {
+      "name": "Denis Țăroi",
+      "cardName": "Țăroi",
+      "originalVersionId": "0",
+      "clubId": 110750,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        23,
+        33,
+        35,
+        36
+      ],
+      "attributes": [
+        76,
+        53,
+        57,
+        62,
+        31,
+        39
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 75786,
+      "assetId": 75786
+    },
+    "76763": {
+      "name": "Alexandru Matei",
+      "cardName": "Matei",
+      "originalVersionId": "0",
+      "clubId": 110750,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2000",
+      "rating": 52,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        31
+      ],
+      "attributes": [
+        69,
+        42,
+        47,
+        57,
+        35,
+        36
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 76763,
+      "assetId": 76763
+    },
+    "79123": {
+      "name": "Din Alomerović",
+      "cardName": "Alomerović",
+      "originalVersionId": "0",
+      "clubId": 110750,
+      "leagueId": 330,
+      "countryId": 19,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7,
+        9,
+        28
+      ],
+      "attributes": [
+        84,
+        43,
+        64,
+        64,
+        62,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 79123,
+      "assetId": 79123
+    },
+    "84355": {
+      "name": "Andrei Tolcea",
+      "cardName": "Tolcea",
+      "originalVersionId": "0",
+      "clubId": 110750,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2000",
+      "rating": 53,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        38
+      ],
+      "attributes": [
+        71,
+        50,
+        46,
+        54,
+        26,
+        53
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 84355,
+      "assetId": 84355
+    },
+    "86417": {
+      "name": "Ismet Sinani",
+      "cardName": "Sinani",
+      "originalVersionId": "0",
+      "clubId": 110750,
+      "leagueId": 330,
+      "countryId": 219,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        30,
+        39,
+        41
+      ],
+      "attributes": [
+        63,
+        61,
+        50,
+        57,
+        20,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 86417,
+      "assetId": 86417
+    },
+    "87682": {
+      "name": "Denis Ile",
+      "cardName": "Ile",
+      "originalVersionId": "0",
+      "clubId": 110750,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2000",
+      "rating": 53,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        35
+      ],
+      "attributes": [
+        69,
+        52,
+        47,
+        53,
+        28,
+        45
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 87682,
+      "assetId": 87682
+    },
+    "88077": {
+      "name": "Alexandru Popescu",
+      "cardName": "Popescu",
+      "originalVersionId": "0",
+      "clubId": 110750,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2000",
+      "rating": 51,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        48,
+        57,
+        56,
+        52,
+        21,
+        46
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 88077,
+      "assetId": 88077
+    },
+    "235380": {
+      "name": "Răzvan Oaidă",
+      "cardName": "Oaidă",
+      "originalVersionId": "0",
+      "clubId": 110750,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        27
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        13,
+        15,
+        18
+      ],
+      "attributes": [
+        65,
+        57,
+        60,
+        61,
+        63,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 235380,
+      "assetId": 235380
+    },
+    "237666": {
+      "name": "Hakim Abdallah",
+      "cardName": "Abdallah",
+      "originalVersionId": "0",
+      "clubId": 110750,
+      "leagueId": 330,
+      "countryId": 124,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        32,
+        39,
+        43,
+        44
+      ],
+      "attributes": [
+        79,
+        64,
+        58,
+        63,
+        37,
+        77
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 237666,
+      "assetId": 237666
+    },
+    "242500": {
+      "name": "Alexandru Benga",
+      "cardName": "Benga",
+      "originalVersionId": "0",
+      "clubId": 110750,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        19,
+        28
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        12
+      ],
+      "attributes": [
+        34,
+        36,
+        45,
+        37,
+        64,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 242500,
+      "assetId": 242500
+    },
+    "243599": {
+      "name": "Peter Ouaneh",
+      "cardName": "Ouaneh",
+      "originalVersionId": "0",
+      "clubId": 110750,
+      "leagueId": 330,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        48
+      ],
+      "attributes": [
+        60,
+        30,
+        48,
+        45,
+        64,
+        78
+      ],
+      "hasDynamicImage": false,
+      "price": 800,
+      "resourceId": 243599,
+      "assetId": 243599
+    },
+    "248104": {
+      "name": "Árpád Tordai",
+      "cardName": "Tordai",
+      "originalVersionId": "0",
+      "clubId": 110750,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        60,
+        60,
+        65,
+        61,
+        21,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 248104,
+      "assetId": 248104
+    },
+    "248118": {
+      "name": "Alexi Pitu",
+      "cardName": "Pitu",
+      "originalVersionId": "0",
+      "clubId": 110750,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        20,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        30,
+        40
+      ],
+      "attributes": [
+        72,
+        55,
+        63,
+        66,
+        36,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 248118,
+      "assetId": 248118
+    },
+    "251646": {
+      "name": "Jayson Papeau",
+      "cardName": "Papeau",
+      "originalVersionId": "0",
+      "clubId": 110750,
+      "leagueId": 330,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LB",
+        "LM",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        10,
+        22,
+        24,
+        28,
+        33
+      ],
+      "attributes": [
+        80,
+        61,
+        62,
+        68,
+        38,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 251646,
+      "assetId": 251646
+    },
+    "258740": {
+      "name": "Andrea Padula",
+      "cardName": "Padula",
+      "originalVersionId": "0",
+      "clubId": 110750,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        9,
+        24,
+        28
+      ],
+      "attributes": [
+        58,
+        38,
+        52,
+        59,
+        62,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 258740,
+      "assetId": 258740
+    },
+    "266734": {
+      "name": "Marinos Tzionis",
+      "cardName": "Tzionis",
+      "originalVersionId": "0",
+      "clubId": 110750,
+      "leagueId": 330,
+      "countryId": 11,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        27,
+        30,
+        36,
+        39
+      ],
+      "attributes": [
+        76,
+        54,
+        59,
+        71,
+        26,
+        42
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 266734,
+      "assetId": 266734
+    },
+    "269406": {
+      "name": "Andrei Gorcea",
+      "cardName": "Gorcea",
+      "originalVersionId": "0",
+      "clubId": 110750,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 1,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        64,
+        64,
+        63,
+        70,
+        28,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 269406,
+      "assetId": 269406
+    },
+    "269424": {
+      "name": "Sota Mino",
+      "cardName": "Mino",
+      "originalVersionId": "0",
+      "clubId": 110750,
+      "leagueId": 330,
+      "countryId": 163,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        16
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        18
+      ],
+      "attributes": [
+        56,
+        50,
+        57,
+        59,
+        62,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 269424,
+      "assetId": 269424
+    },
+    "271308": {
+      "name": "Richard Odada",
+      "cardName": "Odada",
+      "originalVersionId": "0",
+      "clubId": 110750,
+      "leagueId": 330,
+      "countryId": 120,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        16,
+        18
+      ],
+      "attributes": [
+        50,
+        45,
+        55,
+        59,
+        64,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 271308,
+      "assetId": 271308
+    },
+    "272944": {
+      "name": "Robert Badescu",
+      "cardName": "Badescu",
+      "originalVersionId": "0",
+      "clubId": 110750,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CB",
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7,
+        48
+      ],
+      "attributes": [
+        67,
+        38,
+        52,
+        52,
+        60,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 272944,
+      "assetId": 272944
+    },
+    "275225": {
+      "name": "Alin Roman",
+      "cardName": "Roman",
+      "originalVersionId": "0",
+      "clubId": 110750,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        3,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        20,
+        31,
+        32
+      ],
+      "attributes": [
+        74,
+        68,
+        71,
+        74,
+        34,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 275225,
+      "assetId": 275225
+    },
+    "50409991": {
+      "name": "Samuel Gueulette",
+      "cardName": "Gueulette",
+      "originalVersionId": "0",
+      "clubId": 110750,
+      "leagueId": 330,
+      "countryId": 134,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        18
+      ],
+      "attributes": [
+        56,
+        55,
+        61,
+        65,
+        57,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 50409991,
+      "assetId": 78343
+    },
+    "50607387": {
+      "name": "Omar El Sawy",
+      "cardName": "El Sawy",
+      "originalVersionId": "0",
+      "clubId": 110750,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        27,
+        31,
+        35,
+        38
+      ],
+      "attributes": [
+        88,
+        62,
+        61,
+        67,
+        34,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 50607387,
+      "assetId": 275739
+    }
+  }
+}

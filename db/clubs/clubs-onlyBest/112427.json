@@ -1,0 +1,816 @@
+{
+  "clubName": "WS Wanderers",
+  "players": {
+    "70177": {
+      "name": "Aydan Hammond",
+      "cardName": "Hammond",
+      "originalVersionId": "0",
+      "clubId": 112427,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        24,
+        26,
+        30,
+        32,
+        36
+      ],
+      "attributes": [
+        84,
+        54,
+        54,
+        59,
+        22,
+        46
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 70177,
+      "assetId": 70177
+    },
+    "71563": {
+      "name": "Nathan Barrie",
+      "cardName": "Barrie",
+      "originalVersionId": "0",
+      "clubId": 112427,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 53,
+      "preferredFoot": "Left",
+      "weakFoot": 1,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        52,
+        24,
+        28,
+        32,
+        55,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 71563,
+      "assetId": 71563
+    },
+    "73102": {
+      "name": "Liam Gillion",
+      "cardName": "Gillion",
+      "originalVersionId": "0",
+      "clubId": 112427,
+      "leagueId": 351,
+      "countryId": 198,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        27,
+        29,
+        35,
+        38
+      ],
+      "attributes": [
+        84,
+        51,
+        43,
+        65,
+        24,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 73102,
+      "assetId": 73102
+    },
+    "74757": {
+      "name": "Tristan Vidackovic",
+      "cardName": "Vidackovic",
+      "originalVersionId": "0",
+      "clubId": 112427,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 54,
+      "preferredFoot": "Right",
+      "weakFoot": 1,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        54,
+        55,
+        53,
+        51,
+        22,
+        52
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 74757,
+      "assetId": 74757
+    },
+    "77387": {
+      "name": "Alaat Abdul-Rahman",
+      "cardName": "Abdul-Rahman",
+      "originalVersionId": "0",
+      "clubId": 112427,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 52,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        47,
+        54,
+        42,
+        47,
+        23,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 77387,
+      "assetId": 77387
+    },
+    "81486": {
+      "name": "Ricky Fransen",
+      "cardName": "Fransen",
+      "originalVersionId": "0",
+      "clubId": 112427,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 55,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        58,
+        28,
+        38,
+        41,
+        53,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 81486,
+      "assetId": 81486
+    },
+    "81487": {
+      "name": "Ben Mewett",
+      "cardName": "Mewett",
+      "originalVersionId": "0",
+      "clubId": 112427,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 54,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7
+      ],
+      "attributes": [
+        62,
+        30,
+        42,
+        51,
+        49,
+        54
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 81487,
+      "assetId": 81487
+    },
+    "190644": {
+      "name": "Hiroshi Ibusuki",
+      "cardName": "Ibusuki",
+      "originalVersionId": "0",
+      "clubId": 112427,
+      "leagueId": 351,
+      "countryId": 163,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        19,
+        29,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        35,
+        67,
+        58,
+        61,
+        31,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 190644,
+      "assetId": 190644
+    },
+    "203423": {
+      "name": "Lawrence Thomas",
+      "cardName": "Thomas",
+      "originalVersionId": "0",
+      "clubId": 112427,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        31
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        45
+      ],
+      "attributes": [
+        68,
+        67,
+        68,
+        66,
+        36,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 203423,
+      "assetId": 203423
+    },
+    "220708": {
+      "name": "Brandon Borrello",
+      "cardName": "Borrello",
+      "originalVersionId": "0",
+      "clubId": 112427,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        2,
+        24,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        36,
+        42
+      ],
+      "attributes": [
+        73,
+        68,
+        65,
+        68,
+        43,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 4900,
+      "resourceId": 220708,
+      "assetId": 220708
+    },
+    "224297": {
+      "name": "Alex Gersbach",
+      "cardName": "Gersbach",
+      "originalVersionId": "0",
+      "clubId": 112427,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        10,
+        27
+      ],
+      "attributes": [
+        81,
+        35,
+        55,
+        61,
+        56,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 224297,
+      "assetId": 224297
+    },
+    "228416": {
+      "name": "Germán Ferreyra",
+      "cardName": "Ferreyra",
+      "originalVersionId": "0",
+      "clubId": 112427,
+      "leagueId": 351,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12,
+        13
+      ],
+      "attributes": [
+        71,
+        46,
+        59,
+        56,
+        66,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 228416,
+      "assetId": 228416
+    },
+    "231172": {
+      "name": "Jordan Holmes",
+      "cardName": "Holmes",
+      "originalVersionId": "0",
+      "clubId": 112427,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        30
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        59,
+        59,
+        61,
+        60,
+        38,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 231172,
+      "assetId": 231172
+    },
+    "232162": {
+      "name": "Steven Ugarković",
+      "cardName": "Ugarković",
+      "originalVersionId": "0",
+      "clubId": 112427,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        24,
+        26
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        17,
+        20,
+        23,
+        35
+      ],
+      "attributes": [
+        60,
+        61,
+        61,
+        65,
+        61,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 232162,
+      "assetId": 232162
+    },
+    "242154": {
+      "name": "Angus Thurgate",
+      "cardName": "Thurgate",
+      "originalVersionId": "0",
+      "clubId": 112427,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        16,
+        3
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        20,
+        31
+      ],
+      "attributes": [
+        72,
+        61,
+        66,
+        68,
+        63,
+        77
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 242154,
+      "assetId": 242154
+    },
+    "256324": {
+      "name": "Jarrod Carluccio",
+      "cardName": "Carluccio",
+      "originalVersionId": "0",
+      "clubId": 112427,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        6,
+        9,
+        24,
+        28
+      ],
+      "attributes": [
+        81,
+        51,
+        52,
+        62,
+        51,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 256324,
+      "assetId": 256324
+    },
+    "257326": {
+      "name": "Nicolas Milanović",
+      "cardName": "Milanović",
+      "originalVersionId": "0",
+      "clubId": 112427,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        25,
+        27,
+        35,
+        38
+      ],
+      "attributes": [
+        85,
+        62,
+        60,
+        68,
+        36,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 257326,
+      "assetId": 257326
+    },
+    "272708": {
+      "name": "Panashe Madanha",
+      "cardName": "Madanha",
+      "originalVersionId": "0",
+      "clubId": 112427,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB"
+      ],
+      "playStyles": [
+        21
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "attributes": [
+        85,
+        50,
+        52,
+        58,
+        48,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 272708,
+      "assetId": 272708
+    },
+    "275267": {
+      "name": "Miguel Di Pizio",
+      "cardName": "Di Pizio",
+      "originalVersionId": "0",
+      "clubId": 112427,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "LB",
+        "LM",
+        "RB",
+        "RM",
+        "ST"
+      ],
+      "playStyles": [
+        24
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        10,
+        24,
+        28,
+        32,
+        43
+      ],
+      "attributes": [
+        67,
+        60,
+        55,
+        65,
+        44,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 275267,
+      "assetId": 275267
+    },
+    "277524": {
+      "name": "Anthony Pantazopoulos",
+      "cardName": "Pantazopoulos",
+      "originalVersionId": "0",
+      "clubId": 112427,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CM",
+        "LB",
+        "RB"
+      ],
+      "playStyles": [
+        10,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        13,
+        22,
+        47
+      ],
+      "attributes": [
+        63,
+        36,
+        49,
+        50,
+        61,
+        77
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 277524,
+      "assetId": 277524
+    },
+    "278838": {
+      "name": "Dylan Scicluna",
+      "cardName": "Scicluna",
+      "originalVersionId": "0",
+      "clubId": 112427,
+      "leagueId": 351,
+      "countryId": 32,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM",
+        "RB"
+      ],
+      "playStyles": [
+        10
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        15,
+        16,
+        20,
+        46
+      ],
+      "attributes": [
+        75,
+        48,
+        62,
+        66,
+        60,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 278838,
+      "assetId": 278838
+    }
+  }
+}

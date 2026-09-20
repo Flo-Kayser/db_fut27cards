@@ -1,0 +1,805 @@
+{
+  "clubName": "Laval MFC",
+  "players": {
+    "72982": {
+      "name": "Chafik Gourichy",
+      "cardName": "Gourichy",
+      "originalVersionId": "0",
+      "clubId": 1814,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 57,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RB",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        31
+      ],
+      "attributes": [
+        84,
+        50,
+        51,
+        65,
+        40,
+        40
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 72982,
+      "assetId": 72982
+    },
+    "74416": {
+      "name": "Sidi Bane",
+      "cardName": "Bane",
+      "originalVersionId": "0",
+      "clubId": 1814,
+      "leagueId": 17,
+      "countryId": 136,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        69,
+        48,
+        55,
+        53,
+        62,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 74416,
+      "assetId": 74416
+    },
+    "79515": {
+      "name": "Mattéo Commaret",
+      "cardName": "Commaret",
+      "originalVersionId": "0",
+      "clubId": 1814,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        48
+      ],
+      "attributes": [
+        64,
+        30,
+        40,
+        45,
+        65,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 79515,
+      "assetId": 79515
+    },
+    "79797": {
+      "name": "Corentin Fatou",
+      "cardName": "Fatou",
+      "originalVersionId": "0",
+      "clubId": 1814,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        75,
+        61,
+        52,
+        61,
+        30,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 79797,
+      "assetId": 79797
+    },
+    "80239": {
+      "name": "Ethan Clavreul",
+      "cardName": "Clavreul",
+      "originalVersionId": "0",
+      "clubId": 1814,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        10,
+        22,
+        28,
+        33
+      ],
+      "attributes": [
+        63,
+        55,
+        59,
+        67,
+        40,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 80239,
+      "assetId": 80239
+    },
+    "81789": {
+      "name": "Joseph Layousse Samb",
+      "cardName": "Layousse Samb",
+      "originalVersionId": "0",
+      "clubId": 1814,
+      "leagueId": 17,
+      "countryId": 136,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7
+      ],
+      "attributes": [
+        64,
+        36,
+        52,
+        54,
+        61,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 81789,
+      "assetId": 81789
+    },
+    "82952": {
+      "name": "Mathys Houdayer",
+      "cardName": "Houdayer",
+      "originalVersionId": "0",
+      "clubId": 1814,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        57,
+        54,
+        53,
+        57,
+        58,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 82952,
+      "assetId": 82952
+    },
+    "87984": {
+      "name": "Esteban Mouton",
+      "cardName": "Mouton",
+      "originalVersionId": "0",
+      "clubId": 1814,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "attributes": [
+        61,
+        29,
+        52,
+        53,
+        57,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 87984,
+      "assetId": 87984
+    },
+    "87985": {
+      "name": "Hermann Esmel",
+      "cardName": "Esmel",
+      "originalVersionId": "0",
+      "clubId": 1814,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19
+      ],
+      "attributes": [
+        61,
+        36,
+        53,
+        54,
+        56,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 87985,
+      "assetId": 87985
+    },
+    "88385": {
+      "name": "Mamadou Sidibé",
+      "cardName": "Sidibé",
+      "originalVersionId": "0",
+      "clubId": 1814,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 57,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "attributes": [
+        60,
+        29,
+        47,
+        46,
+        55,
+        54
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 88385,
+      "assetId": 88385
+    },
+    "189271": {
+      "name": "Francis Coquelin",
+      "cardName": "Coquelin",
+      "originalVersionId": "0",
+      "clubId": 1814,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        18
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19
+      ],
+      "attributes": [
+        50,
+        65,
+        72,
+        70,
+        73,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 750,
+      "resourceId": 189271,
+      "assetId": 189271
+    },
+    "190195": {
+      "name": "Mamadou Samassa",
+      "cardName": "Samassa",
+      "originalVersionId": "0",
+      "clubId": 1814,
+      "leagueId": 17,
+      "countryId": 126,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 1,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        10,
+        31,
+        32
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        71,
+        68,
+        66,
+        69,
+        49,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 190195,
+      "assetId": 190195
+    },
+    "199705": {
+      "name": "Maxime Hautbois",
+      "cardName": "Hautbois",
+      "originalVersionId": "0",
+      "clubId": 1814,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        61,
+        65,
+        62,
+        64,
+        43,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 199705,
+      "assetId": 199705
+    },
+    "229045": {
+      "name": "Aboubakary Kanté",
+      "cardName": "Kanté",
+      "originalVersionId": "0",
+      "clubId": 1814,
+      "leagueId": 17,
+      "countryId": 116,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        88,
+        62,
+        56,
+        62,
+        23,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 229045,
+      "assetId": 229045
+    },
+    "234537": {
+      "name": "Teddy Bouriaud",
+      "cardName": "Bouriaud",
+      "originalVersionId": "0",
+      "clubId": 1814,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        20
+      ],
+      "attributes": [
+        61,
+        56,
+        69,
+        67,
+        61,
+        54
+      ],
+      "hasDynamicImage": false,
+      "price": 750,
+      "resourceId": 234537,
+      "assetId": 234537
+    },
+    "239502": {
+      "name": "William Bianda",
+      "cardName": "Bianda",
+      "originalVersionId": "0",
+      "clubId": 1814,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        42,
+        28,
+        43,
+        50,
+        63,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 239502,
+      "assetId": 239502
+    },
+    "240057": {
+      "name": "Cyril Mandouki",
+      "cardName": "Mandouki",
+      "originalVersionId": "0",
+      "clubId": 1814,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        13,
+        15,
+        16,
+        18
+      ],
+      "attributes": [
+        39,
+        53,
+        63,
+        62,
+        65,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 750,
+      "resourceId": 240057,
+      "assetId": 240057
+    },
+    "251915": {
+      "name": "Aboubacar Lô",
+      "cardName": "Lô",
+      "originalVersionId": "0",
+      "clubId": 1814,
+      "leagueId": 17,
+      "countryId": 136,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3,
+        11
+      ],
+      "attributes": [
+        50,
+        35,
+        42,
+        45,
+        68,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 251915,
+      "assetId": 251915
+    },
+    "252599": {
+      "name": "Sam Sanna",
+      "cardName": "Sanna",
+      "originalVersionId": "0",
+      "clubId": 1814,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM",
+        "LB"
+      ],
+      "playStyles": [
+        16
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        8,
+        16,
+        19
+      ],
+      "attributes": [
+        75,
+        58,
+        68,
+        73,
+        63,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 750,
+      "resourceId": 252599,
+      "assetId": 252599
+    },
+    "263465": {
+      "name": "Jules Gaudin",
+      "cardName": "Gaudin",
+      "originalVersionId": "0",
+      "clubId": 1814,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        8,
+        9,
+        28
+      ],
+      "attributes": [
+        65,
+        55,
+        62,
+        65,
+        64,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 850,
+      "resourceId": 263465,
+      "assetId": 263465
+    },
+    "269293": {
+      "name": "Julien Maggiotti",
+      "cardName": "Maggiotti",
+      "originalVersionId": "0",
+      "clubId": 1814,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        31,
+        33,
+        43
+      ],
+      "attributes": [
+        58,
+        64,
+        65,
+        68,
+        57,
+        80
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 269293,
+      "assetId": 269293
+    },
+    "276324": {
+      "name": "Trévis Dago",
+      "cardName": "Dago",
+      "originalVersionId": "0",
+      "clubId": 1814,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41,
+        44
+      ],
+      "attributes": [
+        77,
+        63,
+        45,
+        63,
+        18,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 276324,
+      "assetId": 276324
+    }
+  }
+}

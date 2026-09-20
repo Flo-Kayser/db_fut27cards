@@ -1,0 +1,753 @@
+{
+  "clubName": "Granada CF",
+  "players": {
+    "72293": {
+      "name": "Rodelas",
+      "cardName": "Rodelas",
+      "originalVersionId": "0",
+      "clubId": 110832,
+      "leagueId": 54,
+      "countryId": 45,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        30,
+        38,
+        39
+      ],
+      "attributes": [
+        81,
+        57,
+        58,
+        67,
+        31,
+        38
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 72293,
+      "assetId": 72293
+    },
+    "75269": {
+      "name": "Iker García",
+      "cardName": "Iker García",
+      "originalVersionId": "0",
+      "clubId": 110832,
+      "leagueId": 54,
+      "countryId": 45,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        62,
+        58,
+        60,
+        58,
+        26,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 75269,
+      "assetId": 75269
+    },
+    "80707": {
+      "name": "Gambín",
+      "cardName": "Gambín",
+      "originalVersionId": "0",
+      "clubId": 110832,
+      "leagueId": 54,
+      "countryId": 45,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        31
+      ],
+      "attributes": [
+        57,
+        56,
+        59,
+        61,
+        49,
+        41
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 80707,
+      "assetId": 80707
+    },
+    "86212": {
+      "name": "Owen Emeka",
+      "cardName": "Owen Emeka",
+      "originalVersionId": "0",
+      "clubId": 110832,
+      "leagueId": 54,
+      "countryId": 45,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 2,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "CAM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        35
+      ],
+      "attributes": [
+        80,
+        51,
+        49,
+        61,
+        29,
+        45
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 86212,
+      "assetId": 86212
+    },
+    "199101": {
+      "name": "Raúl Lizoain",
+      "cardName": "Raúl Lizoain",
+      "originalVersionId": "0",
+      "clubId": 110832,
+      "leagueId": 54,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        31
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        67,
+        68,
+        67,
+        67,
+        50,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 199101,
+      "assetId": 199101
+    },
+    "214944": {
+      "name": "Gumbau",
+      "cardName": "Gumbau",
+      "originalVersionId": "0",
+      "clubId": 110832,
+      "leagueId": 54,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 73,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        3
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        18
+      ],
+      "attributes": [
+        40,
+        70,
+        75,
+        69,
+        72,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 650,
+      "resourceId": 214944,
+      "assetId": 214944
+    },
+    "228883": {
+      "name": "Benedikt Gimber",
+      "cardName": "Gimber",
+      "originalVersionId": "0",
+      "clubId": 110832,
+      "leagueId": 54,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        28
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        12,
+        14,
+        19
+      ],
+      "attributes": [
+        64,
+        48,
+        59,
+        57,
+        71,
+        77
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 228883,
+      "assetId": 228883
+    },
+    "229788": {
+      "name": "Rubén Alcaraz",
+      "cardName": "Rubén Alcaraz",
+      "originalVersionId": "0",
+      "clubId": 110832,
+      "leagueId": 54,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        2,
+        3
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        13,
+        15,
+        20
+      ],
+      "attributes": [
+        44,
+        68,
+        73,
+        70,
+        69,
+        83
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 229788,
+      "assetId": 229788
+    },
+    "231530": {
+      "name": "José Arnáiz",
+      "cardName": "José Arnáiz",
+      "originalVersionId": "0",
+      "clubId": 110832,
+      "leagueId": 54,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        21,
+        22
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        27,
+        33,
+        35,
+        38
+      ],
+      "attributes": [
+        80,
+        70,
+        70,
+        71,
+        40,
+        53
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 231530,
+      "assetId": 231530
+    },
+    "241055": {
+      "name": "Diego Pampín",
+      "cardName": "Diego Pampín",
+      "originalVersionId": "0",
+      "clubId": 110832,
+      "leagueId": 54,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        28
+      ],
+      "attributes": [
+        77,
+        41,
+        64,
+        69,
+        63,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 550,
+      "resourceId": 241055,
+      "assetId": 241055
+    },
+    "243047": {
+      "name": "Alejandro Marqués",
+      "cardName": "Marqués",
+      "originalVersionId": "0",
+      "clubId": 110832,
+      "leagueId": 54,
+      "countryId": 61,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        69,
+        71,
+        60,
+        71,
+        36,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 243047,
+      "assetId": 243047
+    },
+    "245287": {
+      "name": "Sergio López",
+      "cardName": "Sergio López",
+      "originalVersionId": "0",
+      "clubId": 110832,
+      "leagueId": 54,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        6
+      ],
+      "attributes": [
+        76,
+        56,
+        66,
+        71,
+        64,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 245287,
+      "assetId": 245287
+    },
+    "246790": {
+      "name": "Abdoul Kader Bamba",
+      "cardName": "Bamba",
+      "originalVersionId": "0",
+      "clubId": 110832,
+      "leagueId": 54,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        20,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        38
+      ],
+      "attributes": [
+        82,
+        64,
+        64,
+        72,
+        36,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 650,
+      "resourceId": 246790,
+      "assetId": 246790
+    },
+    "261153": {
+      "name": "Baïla Diallo",
+      "cardName": "Diallo",
+      "originalVersionId": "0",
+      "clubId": 110832,
+      "leagueId": 54,
+      "countryId": 136,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        12
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        10,
+        27
+      ],
+      "attributes": [
+        89,
+        38,
+        58,
+        67,
+        62,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 261153,
+      "assetId": 261153
+    },
+    "267717": {
+      "name": "Manu Lama",
+      "cardName": "Manu Lama",
+      "originalVersionId": "0",
+      "clubId": 110832,
+      "leagueId": 54,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        63,
+        48,
+        56,
+        63,
+        71,
+        78
+      ],
+      "hasDynamicImage": false,
+      "price": 550,
+      "resourceId": 267717,
+      "assetId": 267717
+    },
+    "271439": {
+      "name": "Casadesús",
+      "cardName": "Casadesús",
+      "originalVersionId": "0",
+      "clubId": 110832,
+      "leagueId": 54,
+      "countryId": 45,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "attributes": [
+        76,
+        44,
+        56,
+        58,
+        57,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 271439,
+      "assetId": 271439
+    },
+    "272427": {
+      "name": "Alberto Flores",
+      "cardName": "Alberto Flores",
+      "originalVersionId": "0",
+      "clubId": 110832,
+      "leagueId": 54,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        65,
+        66,
+        63,
+        64,
+        30,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 550,
+      "resourceId": 272427,
+      "assetId": 272427
+    },
+    "272904": {
+      "name": "Alemañ",
+      "cardName": "Alemañ",
+      "originalVersionId": "0",
+      "clubId": 110832,
+      "leagueId": 54,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        31
+      ],
+      "attributes": [
+        70,
+        64,
+        70,
+        73,
+        52,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 650,
+      "resourceId": 272904,
+      "assetId": 272904
+    },
+    "275415": {
+      "name": "Jorge Pascual",
+      "cardName": "Jorge Pascual",
+      "originalVersionId": "0",
+      "clubId": 110832,
+      "leagueId": 54,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        32,
+        41
+      ],
+      "attributes": [
+        75,
+        67,
+        63,
+        70,
+        37,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 275415,
+      "assetId": 275415
+    },
+    "275622": {
+      "name": "Hormigo",
+      "cardName": "Hormigo",
+      "originalVersionId": "0",
+      "clubId": 110832,
+      "leagueId": 54,
+      "countryId": 45,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        8,
+        9
+      ],
+      "attributes": [
+        68,
+        26,
+        53,
+        57,
+        59,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 275622,
+      "assetId": 275622
+    }
+  }
+}

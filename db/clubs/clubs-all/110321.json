@@ -1,0 +1,845 @@
+{
+  "clubName": "Pau FC",
+  "players": {
+    "70001": {
+      "name": "Royce Openda",
+      "cardName": "Openda",
+      "originalVersionId": "0",
+      "clubId": 110321,
+      "leagueId": 17,
+      "countryId": 115,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LM",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        35
+      ],
+      "attributes": [
+        82,
+        59,
+        53,
+        66,
+        30,
+        43
+      ],
+      "hasDynamicImage": false,
+      "price": 800,
+      "resourceId": 70001,
+      "assetId": 70001
+    },
+    "70473": {
+      "name": "Tom Pouilly",
+      "cardName": "Pouilly",
+      "originalVersionId": "0",
+      "clubId": 110321,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        24
+      ],
+      "attributes": [
+        73,
+        47,
+        58,
+        64,
+        60,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 850,
+      "resourceId": 70473,
+      "assetId": 70473
+    },
+    "72133": {
+      "name": "Hacène Benali",
+      "cardName": "Benali",
+      "originalVersionId": "0",
+      "clubId": 110321,
+      "leagueId": 17,
+      "countryId": 97,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        42
+      ],
+      "attributes": [
+        75,
+        66,
+        58,
+        63,
+        31,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 72133,
+      "assetId": 72133
+    },
+    "74734": {
+      "name": "Kyllian Gasnier",
+      "cardName": "Gasnier",
+      "originalVersionId": "0",
+      "clubId": 110321,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        31
+      ],
+      "attributes": [
+        70,
+        54,
+        62,
+        66,
+        36,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 74734,
+      "assetId": 74734
+    },
+    "75735": {
+      "name": "Rony Mimb",
+      "cardName": "Mimb",
+      "originalVersionId": "0",
+      "clubId": 110321,
+      "leagueId": 17,
+      "countryId": 103,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        56,
+        30,
+        41,
+        39,
+        61,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 300,
+      "resourceId": 75735,
+      "assetId": 75735
+    },
+    "80534": {
+      "name": "Luan Gadegbeku",
+      "cardName": "Gadegbeku",
+      "originalVersionId": "0",
+      "clubId": 110321,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18
+      ],
+      "attributes": [
+        67,
+        40,
+        55,
+        63,
+        56,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 80534,
+      "assetId": 80534
+    },
+    "82204": {
+      "name": "Axel Dodote",
+      "cardName": "Dodote",
+      "originalVersionId": "0",
+      "clubId": 110321,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 57,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        37,
+        29,
+        44,
+        44,
+        58,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 82204,
+      "assetId": 82204
+    },
+    "85230": {
+      "name": "Abdoulaye Mbaye",
+      "cardName": "Mbaye",
+      "originalVersionId": "0",
+      "clubId": 110321,
+      "leagueId": 17,
+      "countryId": 136,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        73,
+        59,
+        45,
+        63,
+        29,
+        53
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 85230,
+      "assetId": 85230
+    },
+    "87046": {
+      "name": "Babacar Leye",
+      "cardName": "Leye",
+      "originalVersionId": "0",
+      "clubId": 110321,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        54,
+        66,
+        46,
+        56,
+        26,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 87046,
+      "assetId": 87046
+    },
+    "196316": {
+      "name": "Brice Maubleu",
+      "cardName": "Maubleu",
+      "originalVersionId": "0",
+      "clubId": 110321,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        30,
+        31
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        45
+      ],
+      "attributes": [
+        69,
+        67,
+        66,
+        68,
+        40,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 196316,
+      "assetId": 196316
+    },
+    "220030": {
+      "name": "Gaëtan Paquiez",
+      "cardName": "Paquiez",
+      "originalVersionId": "0",
+      "clubId": 110321,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CB",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        14,
+        15,
+        16
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3,
+        5,
+        24,
+        48
+      ],
+      "attributes": [
+        63,
+        54,
+        60,
+        62,
+        68,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 800,
+      "resourceId": 220030,
+      "assetId": 220030
+    },
+    "222820": {
+      "name": "Esteban Salles",
+      "cardName": "Salles",
+      "originalVersionId": "0",
+      "clubId": 110321,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        66,
+        64,
+        63,
+        64,
+        25,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 850,
+      "resourceId": 222820,
+      "assetId": 222820
+    },
+    "223138": {
+      "name": "Anthony Briançon",
+      "cardName": "Briançon",
+      "originalVersionId": "0",
+      "clubId": 110321,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        28
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        13
+      ],
+      "attributes": [
+        39,
+        47,
+        56,
+        52,
+        68,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 850,
+      "resourceId": 223138,
+      "assetId": 223138
+    },
+    "224590": {
+      "name": "Jessy Benet",
+      "cardName": "Benet",
+      "originalVersionId": "0",
+      "clubId": 110321,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 73,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        16,
+        26,
+        3
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        19,
+        31
+      ],
+      "attributes": [
+        59,
+        70,
+        73,
+        72,
+        65,
+        78
+      ],
+      "hasDynamicImage": false,
+      "price": 800,
+      "resourceId": 224590,
+      "assetId": 224590
+    },
+    "234173": {
+      "name": "Quentin Daubin",
+      "cardName": "Daubin",
+      "originalVersionId": "0",
+      "clubId": 110321,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        13,
+        15
+      ],
+      "attributes": [
+        45,
+        53,
+        58,
+        58,
+        63,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 234173,
+      "assetId": 234173
+    },
+    "237347": {
+      "name": "Abdel Hakim Abdallah",
+      "cardName": "Abdallah",
+      "originalVersionId": "0",
+      "clubId": 110321,
+      "leagueId": 17,
+      "countryId": 214,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        12
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        10,
+        27
+      ],
+      "attributes": [
+        83,
+        45,
+        57,
+        63,
+        59,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 237347,
+      "assetId": 237347
+    },
+    "240729": {
+      "name": "Lorenzo Rajot",
+      "cardName": "Rajot",
+      "originalVersionId": "0",
+      "clubId": 110321,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        0,
+        10
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        85,
+        57,
+        63,
+        66,
+        60,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 800,
+      "resourceId": 240729,
+      "assetId": 240729
+    },
+    "241858": {
+      "name": "Axel Bamba",
+      "cardName": "Bamba",
+      "originalVersionId": "0",
+      "clubId": 110321,
+      "leagueId": 17,
+      "countryId": 108,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        74,
+        33,
+        54,
+        57,
+        65,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 241858,
+      "assetId": 241858
+    },
+    "273536": {
+      "name": "Tom Saettel",
+      "cardName": "Saettel",
+      "originalVersionId": "0",
+      "clubId": 110321,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        38
+      ],
+      "attributes": [
+        78,
+        56,
+        56,
+        65,
+        31,
+        37
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 273536,
+      "assetId": 273536
+    },
+    "274845": {
+      "name": "Mathys Tourraine",
+      "cardName": "Tourraine",
+      "originalVersionId": "0",
+      "clubId": 110321,
+      "leagueId": 17,
+      "countryId": 129,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "attributes": [
+        78,
+        39,
+        59,
+        66,
+        62,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 274845,
+      "assetId": 274845
+    },
+    "278038": {
+      "name": "Alexis Lefebvre",
+      "cardName": "Lefebvre",
+      "originalVersionId": "0",
+      "clubId": 110321,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LM",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        35
+      ],
+      "attributes": [
+        83,
+        62,
+        55,
+        65,
+        35,
+        45
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 278038,
+      "assetId": 278038
+    },
+    "278116": {
+      "name": "Souleymane Basse",
+      "cardName": "Basse",
+      "originalVersionId": "0",
+      "clubId": 110321,
+      "leagueId": 17,
+      "countryId": 136,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        27,
+        38
+      ],
+      "attributes": [
+        66,
+        37,
+        50,
+        57,
+        58,
+        54
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 278116,
+      "assetId": 278116
+    },
+    "278279": {
+      "name": "Cheikh Fall",
+      "cardName": "Fall",
+      "originalVersionId": "0",
+      "clubId": 110321,
+      "leagueId": 17,
+      "countryId": 136,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        19
+      ],
+      "attributes": [
+        56,
+        49,
+        56,
+        66,
+        46,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 278279,
+      "assetId": 278279
+    }
+  }
+}

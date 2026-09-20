@@ -1,0 +1,948 @@
+{
+  "clubName": "Dundee FC",
+  "players": {
+    "76306": {
+      "name": "Ashley Hay",
+      "cardName": "Hay",
+      "originalVersionId": "0",
+      "clubId": 180,
+      "leagueId": 50,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        44
+      ],
+      "attributes": [
+        71,
+        61,
+        47,
+        61,
+        33,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 76306,
+      "assetId": 76306
+    },
+    "76712": {
+      "name": "Joe Westley",
+      "cardName": "Westley",
+      "originalVersionId": "0",
+      "clubId": 180,
+      "leagueId": 50,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        38,
+        41
+      ],
+      "attributes": [
+        74,
+        62,
+        47,
+        60,
+        35,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 76712,
+      "assetId": 76712
+    },
+    "77047": {
+      "name": "Joe Bevan",
+      "cardName": "Bevan",
+      "originalVersionId": "0",
+      "clubId": 180,
+      "leagueId": 50,
+      "countryId": 42,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LM",
+        "RM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        75,
+        57,
+        51,
+        57,
+        24,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 650,
+      "resourceId": 77047,
+      "assetId": 77047
+    },
+    "80529": {
+      "name": "Ethan Crombie",
+      "cardName": "Crombie",
+      "originalVersionId": "0",
+      "clubId": 180,
+      "leagueId": 50,
+      "countryId": 42,
+      "versionId": "2000",
+      "rating": 56,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        64,
+        48,
+        52,
+        54,
+        45,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 3800,
+      "resourceId": 80529,
+      "assetId": 80529
+    },
+    "86872": {
+      "name": "Zan Besir",
+      "cardName": "Besir",
+      "originalVersionId": "0",
+      "clubId": 180,
+      "leagueId": 50,
+      "countryId": 44,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        66,
+        56,
+        61,
+        57,
+        51,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 86872,
+      "assetId": 86872
+    },
+    "208999": {
+      "name": "Drey Wright",
+      "cardName": "Wright",
+      "originalVersionId": "0",
+      "clubId": 180,
+      "leagueId": 50,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "LB",
+        "RB",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        10
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        23,
+        35
+      ],
+      "attributes": [
+        78,
+        59,
+        61,
+        64,
+        60,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 208999,
+      "assetId": 208999
+    },
+    "213678": {
+      "name": "Kieran O'Hara",
+      "cardName": "O'Hara",
+      "originalVersionId": "0",
+      "clubId": 180,
+      "leagueId": 50,
+      "countryId": 25,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        62,
+        58,
+        58,
+        62,
+        46,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 213678,
+      "assetId": 213678
+    },
+    "219467": {
+      "name": "Bradley Halliday",
+      "cardName": "Halliday",
+      "originalVersionId": "0",
+      "clubId": 180,
+      "leagueId": 50,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        12,
+        14
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        6,
+        26,
+        36
+      ],
+      "attributes": [
+        77,
+        40,
+        54,
+        60,
+        58,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 219467,
+      "assetId": 219467
+    },
+    "227758": {
+      "name": "Simon Murray",
+      "cardName": "Murray",
+      "originalVersionId": "0",
+      "clubId": 180,
+      "leagueId": 50,
+      "countryId": 42,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        26,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        77,
+        65,
+        49,
+        64,
+        22,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 800,
+      "resourceId": 227758,
+      "assetId": 227758
+    },
+    "240513": {
+      "name": "Ethan Hamilton",
+      "cardName": "Hamilton",
+      "originalVersionId": "0",
+      "clubId": 180,
+      "leagueId": 50,
+      "countryId": 42,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        2
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        18
+      ],
+      "attributes": [
+        59,
+        66,
+        64,
+        66,
+        66,
+        78
+      ],
+      "hasDynamicImage": false,
+      "price": 850,
+      "resourceId": 240513,
+      "assetId": 240513
+    },
+    "246950": {
+      "name": "Ryan Astley",
+      "cardName": "Astley",
+      "originalVersionId": "0",
+      "clubId": 180,
+      "leagueId": 50,
+      "countryId": 50,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "RB"
+      ],
+      "playStyles": [
+        19,
+        27
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        4,
+        17,
+        48
+      ],
+      "attributes": [
+        48,
+        36,
+        54,
+        54,
+        66,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 246950,
+      "assetId": 246950
+    },
+    "248809": {
+      "name": "Finlay Robertson",
+      "cardName": "Robertson",
+      "originalVersionId": "0",
+      "clubId": 180,
+      "leagueId": 50,
+      "countryId": 42,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        22,
+        28,
+        33
+      ],
+      "attributes": [
+        69,
+        62,
+        63,
+        64,
+        59,
+        48
+      ],
+      "hasDynamicImage": false,
+      "price": 650,
+      "resourceId": 248809,
+      "assetId": 248809
+    },
+    "250830": {
+      "name": "Imari Samuels",
+      "cardName": "Samuels",
+      "originalVersionId": "0",
+      "clubId": 180,
+      "leagueId": 50,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7,
+        27,
+        38
+      ],
+      "attributes": [
+        65,
+        34,
+        54,
+        62,
+        60,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 250830,
+      "assetId": 250830
+    },
+    "251851": {
+      "name": "Bradley Fink",
+      "cardName": "Fink",
+      "originalVersionId": "0",
+      "clubId": 180,
+      "leagueId": 50,
+      "countryId": 47,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        29
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        42,
+        44
+      ],
+      "attributes": [
+        71,
+        61,
+        47,
+        61,
+        30,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 251851,
+      "assetId": 251851
+    },
+    "256421": {
+      "name": "Alan Forrest",
+      "cardName": "Forrest",
+      "originalVersionId": "0",
+      "clubId": 180,
+      "leagueId": 50,
+      "countryId": 42,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        21
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        27,
+        30,
+        36,
+        39
+      ],
+      "attributes": [
+        80,
+        62,
+        59,
+        65,
+        45,
+        54
+      ],
+      "hasDynamicImage": false,
+      "price": 1300,
+      "resourceId": 256421,
+      "assetId": 256421
+    },
+    "258969": {
+      "name": "Callum Jones",
+      "cardName": "Jones",
+      "originalVersionId": "0",
+      "clubId": 180,
+      "leagueId": 50,
+      "countryId": 50,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        18,
+        31
+      ],
+      "attributes": [
+        63,
+        54,
+        59,
+        63,
+        57,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 258969,
+      "assetId": 258969
+    },
+    "260929": {
+      "name": "Ryan Finnigan",
+      "cardName": "Finnigan",
+      "originalVersionId": "0",
+      "clubId": 180,
+      "leagueId": 50,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        18
+      ],
+      "attributes": [
+        69,
+        58,
+        61,
+        64,
+        56,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 260929,
+      "assetId": 260929
+    },
+    "262358": {
+      "name": "Harrison Sharp",
+      "cardName": "Sharp",
+      "originalVersionId": "0",
+      "clubId": 180,
+      "leagueId": 50,
+      "countryId": 42,
+      "versionId": "2000",
+      "rating": 57,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        57,
+        56,
+        56,
+        57,
+        23,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 650,
+      "resourceId": 262358,
+      "assetId": 262358
+    },
+    "270683": {
+      "name": "Idris Odutayo",
+      "cardName": "Odutayo",
+      "originalVersionId": "0",
+      "clubId": 180,
+      "leagueId": 50,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CB",
+        "LB"
+      ],
+      "playStyles": [
+        16
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7,
+        12
+      ],
+      "attributes": [
+        73,
+        43,
+        56,
+        58,
+        60,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 270683,
+      "assetId": 270683
+    },
+    "271235": {
+      "name": "Owen Bevan",
+      "cardName": "Bevan",
+      "originalVersionId": "0",
+      "clubId": 180,
+      "leagueId": 50,
+      "countryId": 50,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12,
+        48
+      ],
+      "attributes": [
+        58,
+        33,
+        43,
+        47,
+        62,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 271235,
+      "assetId": 271235
+    },
+    "272736": {
+      "name": "Bobby Wales",
+      "cardName": "Wales",
+      "originalVersionId": "0",
+      "clubId": 180,
+      "leagueId": 50,
+      "countryId": 42,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        30,
+        32,
+        39,
+        41
+      ],
+      "attributes": [
+        78,
+        60,
+        49,
+        59,
+        21,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 650,
+      "resourceId": 272736,
+      "assetId": 272736
+    },
+    "275965": {
+      "name": "Charlie Reilly",
+      "cardName": "Reilly",
+      "originalVersionId": "0",
+      "clubId": 180,
+      "leagueId": 50,
+      "countryId": 42,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "ST"
+      ],
+      "playStyles": [
+        21,
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        38
+      ],
+      "attributes": [
+        80,
+        63,
+        55,
+        62,
+        32,
+        51
+      ],
+      "hasDynamicImage": false,
+      "price": 650,
+      "resourceId": 275965,
+      "assetId": 275965
+    },
+    "276806": {
+      "name": "Owen Goodman",
+      "cardName": "Goodman",
+      "originalVersionId": "0",
+      "clubId": 180,
+      "leagueId": 50,
+      "countryId": 70,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        65,
+        65,
+        67,
+        66,
+        38,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 276806,
+      "assetId": 276806
+    },
+    "50546330": {
+      "name": "Joe Wright",
+      "cardName": "Wright",
+      "originalVersionId": "0",
+      "clubId": 180,
+      "leagueId": 50,
+      "countryId": 50,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "RB"
+      ],
+      "playStyles": [
+        19,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3,
+        11,
+        48
+      ],
+      "attributes": [
+        32,
+        35,
+        48,
+        52,
+        66,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 50546330,
+      "assetId": 214682
+    },
+    "50603404": {
+      "name": "Matai Akinmboni",
+      "cardName": "Akinmboni",
+      "originalVersionId": "0",
+      "clubId": 180,
+      "leagueId": 50,
+      "countryId": 95,
+      "versionId": "2000",
+      "rating": 57,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        54,
+        25,
+        37,
+        43,
+        58,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 50603404,
+      "assetId": 271756
+    }
+  }
+}

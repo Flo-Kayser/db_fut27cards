@@ -1,0 +1,972 @@
+{
+  "clubName": "1. FSV Mainz 05",
+  "players": {
+    "86159": {
+      "name": "Mamiko Matsumoto",
+      "cardName": "Matsumoto",
+      "originalVersionId": "0",
+      "clubId": 132866,
+      "leagueId": 2215,
+      "countryId": 163,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 1,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        71,
+        70,
+        71,
+        74,
+        29,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 86159,
+      "assetId": 86159
+    },
+    "86161": {
+      "name": "Marisa Schön",
+      "cardName": "Schön",
+      "originalVersionId": "0",
+      "clubId": 132866,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 1,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        64,
+        63,
+        66,
+        66,
+        31,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 86161,
+      "assetId": 86161
+    },
+    "86163": {
+      "name": "Anna Donner",
+      "cardName": "Donner",
+      "originalVersionId": "0",
+      "clubId": 132866,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        62,
+        45,
+        54,
+        56,
+        73,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 550,
+      "resourceId": 86163,
+      "assetId": 86163
+    },
+    "86164": {
+      "name": "Marie Voth",
+      "cardName": "Voth",
+      "originalVersionId": "0",
+      "clubId": 132866,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "attributes": [
+        69,
+        36,
+        57,
+        60,
+        65,
+        50
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 86164,
+      "assetId": 86164
+    },
+    "86168": {
+      "name": "Suguri Hashitani",
+      "cardName": "Hashitani",
+      "originalVersionId": "0",
+      "clubId": 132866,
+      "leagueId": 2215,
+      "countryId": 163,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        69,
+        46,
+        50,
+        56,
+        71,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 86168,
+      "assetId": 86168
+    },
+    "86171": {
+      "name": "Akari Kurishima",
+      "cardName": "Kurishima",
+      "originalVersionId": "0",
+      "clubId": 132866,
+      "leagueId": 2215,
+      "countryId": 163,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19
+      ],
+      "attributes": [
+        66,
+        57,
+        65,
+        67,
+        71,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 86171,
+      "assetId": 86171
+    },
+    "86174": {
+      "name": "Yurina Imai",
+      "cardName": "Imai",
+      "originalVersionId": "0",
+      "clubId": 132866,
+      "leagueId": 2215,
+      "countryId": 163,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        68,
+        61,
+        67,
+        69,
+        65,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 86174,
+      "assetId": 86174
+    },
+    "86175": {
+      "name": "Emma Junold",
+      "cardName": "Junold",
+      "originalVersionId": "0",
+      "clubId": 132866,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        69,
+        61,
+        67,
+        68,
+        64,
+        52
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 86175,
+      "assetId": 86175
+    },
+    "86176": {
+      "name": "Nadine Anstatt",
+      "cardName": "Anstatt",
+      "originalVersionId": "0",
+      "clubId": 132866,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 73,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        71,
+        73,
+        61,
+        71,
+        44,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 86176,
+      "assetId": 86176
+    },
+    "86177": {
+      "name": "Maja Pageler",
+      "cardName": "Pageler",
+      "originalVersionId": "0",
+      "clubId": 132866,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        65,
+        63,
+        68,
+        69,
+        62,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 86177,
+      "assetId": 86177
+    },
+    "86180": {
+      "name": "Johanna Berg",
+      "cardName": "Berg",
+      "originalVersionId": "0",
+      "clubId": 132866,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        68,
+        67,
+        56,
+        68,
+        29,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 86180,
+      "assetId": 86180
+    },
+    "86183": {
+      "name": "Vital Kats",
+      "cardName": "Kats",
+      "originalVersionId": "0",
+      "clubId": 132866,
+      "leagueId": 2215,
+      "countryId": 26,
+      "versionId": "2001",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        30,
+        32,
+        39,
+        43
+      ],
+      "attributes": [
+        81,
+        74,
+        66,
+        73,
+        35,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 86183,
+      "assetId": 86183
+    },
+    "86943": {
+      "name": "Nicola Hauk",
+      "cardName": "Hauk",
+      "originalVersionId": "0",
+      "clubId": 132866,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        64,
+        45,
+        51,
+        55,
+        68,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 86943,
+      "assetId": 86943
+    },
+    "86944": {
+      "name": "Rio Takizawa",
+      "cardName": "Takizawa",
+      "originalVersionId": "0",
+      "clubId": 132866,
+      "leagueId": 2215,
+      "countryId": 163,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        31
+      ],
+      "attributes": [
+        69,
+        60,
+        68,
+        75,
+        53,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 86944,
+      "assetId": 86944
+    },
+    "86945": {
+      "name": "Ivana Slipčević",
+      "cardName": "Slipčević",
+      "originalVersionId": "0",
+      "clubId": 132866,
+      "leagueId": 2215,
+      "countryId": 10,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        31
+      ],
+      "attributes": [
+        73,
+        63,
+        68,
+        70,
+        53,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 86945,
+      "assetId": 86945
+    },
+    "86946": {
+      "name": "Lara Martin",
+      "cardName": "Martin",
+      "originalVersionId": "0",
+      "clubId": 132866,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        31
+      ],
+      "attributes": [
+        66,
+        67,
+        67,
+        65,
+        64,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 86946,
+      "assetId": 86946
+    },
+    "86947": {
+      "name": "Laura Pawlowski",
+      "cardName": "Pawlowski",
+      "originalVersionId": "0",
+      "clubId": 132866,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 1,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        61,
+        61,
+        64,
+        64,
+        32,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 86947,
+      "assetId": 86947
+    },
+    "86949": {
+      "name": "Leonie Stöhr",
+      "cardName": "Stöhr",
+      "originalVersionId": "0",
+      "clubId": 132866,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        6,
+        23,
+        35
+      ],
+      "attributes": [
+        73,
+        60,
+        62,
+        61,
+        61,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 550,
+      "resourceId": 86949,
+      "assetId": 86949
+    },
+    "86950": {
+      "name": "Sabina Jackson",
+      "cardName": "Jackson",
+      "originalVersionId": "0",
+      "clubId": 132866,
+      "leagueId": 2215,
+      "countryId": 47,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        14,
+        19
+      ],
+      "attributes": [
+        63,
+        48,
+        55,
+        60,
+        74,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 86950,
+      "assetId": 86950
+    },
+    "87408": {
+      "name": "Mattson Strickler",
+      "cardName": "Strickler",
+      "originalVersionId": "0",
+      "clubId": 132866,
+      "leagueId": 2215,
+      "countryId": 70,
+      "versionId": "2000",
+      "rating": 56,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        82,
+        56,
+        43,
+        54,
+        25,
+        50
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 87408,
+      "assetId": 87408
+    },
+    "88165": {
+      "name": "Christine Kilian",
+      "cardName": "Kilian",
+      "originalVersionId": "0",
+      "clubId": 132866,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19
+      ],
+      "attributes": [
+        63,
+        48,
+        56,
+        56,
+        58,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 88165,
+      "assetId": 88165
+    },
+    "264949": {
+      "name": "Saskia Matheis",
+      "cardName": "Matheis",
+      "originalVersionId": "0",
+      "clubId": 132866,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        14,
+        15
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        13,
+        15,
+        20,
+        22,
+        33
+      ],
+      "attributes": [
+        47,
+        64,
+        67,
+        73,
+        67,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 264949,
+      "assetId": 264949
+    },
+    "265136": {
+      "name": "Gentiana Fetaj",
+      "cardName": "Fetaj",
+      "originalVersionId": "0",
+      "clubId": 132866,
+      "leagueId": 2215,
+      "countryId": 219,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        31
+      ],
+      "attributes": [
+        72,
+        64,
+        67,
+        69,
+        62,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 265136,
+      "assetId": 265136
+    },
+    "265164": {
+      "name": "Marina Georgieva",
+      "cardName": "Georgieva",
+      "originalVersionId": "0",
+      "clubId": 132866,
+      "leagueId": 2215,
+      "countryId": 4,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        50,
+        44,
+        58,
+        61,
+        70,
+        79
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 265164,
+      "assetId": 265164
+    },
+    "271819": {
+      "name": "Paula Flach",
+      "cardName": "Flach",
+      "originalVersionId": "0",
+      "clubId": 132866,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 73,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7,
+        28
+      ],
+      "attributes": [
+        70,
+        52,
+        69,
+        67,
+        72,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 271819,
+      "assetId": 271819
+    },
+    "271838": {
+      "name": "Chiara Bouziane",
+      "cardName": "Bouziane",
+      "originalVersionId": "0",
+      "clubId": 132866,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        35
+      ],
+      "attributes": [
+        76,
+        72,
+        70,
+        75,
+        43,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 271838,
+      "assetId": 271838
+    },
+    "272276": {
+      "name": "Kara Bathmann",
+      "cardName": "Bathmann",
+      "originalVersionId": "0",
+      "clubId": 132866,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB"
+      ],
+      "playStyles": [
+        16
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "attributes": [
+        69,
+        64,
+        67,
+        65,
+        71,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 272276,
+      "assetId": 272276
+    }
+  }
+}

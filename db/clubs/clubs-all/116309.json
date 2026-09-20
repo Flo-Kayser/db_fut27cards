@@ -1,0 +1,951 @@
+{
+  "clubName": "KC Current",
+  "players": {
+    "70713": {
+      "name": "Ellie Bravo-Young",
+      "cardName": "Bravo-Young",
+      "originalVersionId": "0",
+      "clubId": 116309,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        24
+      ],
+      "attributes": [
+        72,
+        66,
+        68,
+        70,
+        72,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 550,
+      "resourceId": 70713,
+      "assetId": 70713
+    },
+    "76323": {
+      "name": "Clare Gagne",
+      "cardName": "Gagne",
+      "originalVersionId": "0",
+      "clubId": 116309,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        66,
+        67,
+        65,
+        67,
+        21,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 76323,
+      "assetId": 76323
+    },
+    "76324": {
+      "name": "Mary Long",
+      "cardName": "Long",
+      "originalVersionId": "0",
+      "clubId": 116309,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        69,
+        61,
+        60,
+        68,
+        35,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 76324,
+      "assetId": 76324
+    },
+    "76325": {
+      "name": "Katie Scott",
+      "cardName": "Scott",
+      "originalVersionId": "0",
+      "clubId": 116309,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19
+      ],
+      "attributes": [
+        68,
+        40,
+        61,
+        61,
+        66,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 76325,
+      "assetId": 76325
+    },
+    "83009": {
+      "name": "Amelia White",
+      "cardName": "White",
+      "originalVersionId": "0",
+      "clubId": 116309,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        35
+      ],
+      "attributes": [
+        68,
+        62,
+        57,
+        68,
+        28,
+        48
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 83009,
+      "assetId": 83009
+    },
+    "83022": {
+      "name": "Gianna Paul",
+      "cardName": "Paul",
+      "originalVersionId": "0",
+      "clubId": 116309,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        69,
+        60,
+        49,
+        65,
+        20,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 1900,
+      "resourceId": 83022,
+      "assetId": 83022
+    },
+    "83024": {
+      "name": "Kolo Suliafu",
+      "cardName": "Suliafu",
+      "originalVersionId": "0",
+      "clubId": 116309,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        61,
+        35,
+        48,
+        54,
+        63,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 83024,
+      "assetId": 83024
+    },
+    "83025": {
+      "name": "Laney Rouse",
+      "cardName": "Rouse",
+      "originalVersionId": "0",
+      "clubId": 116309,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "attributes": [
+        61,
+        30,
+        52,
+        54,
+        62,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 83025,
+      "assetId": 83025
+    },
+    "226893": {
+      "name": "Debinha",
+      "cardName": "Debinha",
+      "originalVersionId": "0",
+      "clubId": 116309,
+      "leagueId": 2221,
+      "countryId": 54,
+      "versionId": "2002",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [
+        13,
+        20,
+        22,
+        25,
+        5,
+        7
+      ],
+      "playStylesPlus": [
+        23
+      ],
+      "rolesPlus": [
+        31,
+        43,
+        132
+      ],
+      "attributes": [
+        85,
+        79,
+        85,
+        89,
+        46,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 18000,
+      "resourceId": 226893,
+      "assetId": 226893
+    },
+    "264011": {
+      "name": "Alana Cook",
+      "cardName": "Cook",
+      "originalVersionId": "0",
+      "clubId": 116309,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2002",
+      "rating": 77,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        28
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        36,
+        44,
+        62,
+        60,
+        80,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 850,
+      "resourceId": 264011,
+      "assetId": 264011
+    },
+    "267226": {
+      "name": "Rocky Rodríguez",
+      "cardName": "Rodríguez",
+      "originalVersionId": "0",
+      "clubId": 116309,
+      "leagueId": 2221,
+      "countryId": 72,
+      "versionId": "2001",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        2
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        13,
+        15,
+        19
+      ],
+      "attributes": [
+        38,
+        74,
+        72,
+        77,
+        70,
+        82
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 267226,
+      "assetId": 267226
+    },
+    "267254": {
+      "name": "Bayley Feist",
+      "cardName": "Feist",
+      "originalVersionId": "0",
+      "clubId": 116309,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        21,
+        31
+      ],
+      "attributes": [
+        80,
+        67,
+        70,
+        75,
+        71,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 267254,
+      "assetId": 267254
+    },
+    "267268": {
+      "name": "Vanessa DiBernardo",
+      "cardName": "DiBernardo",
+      "originalVersionId": "0",
+      "clubId": 116309,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2002",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        75,
+        76,
+        79,
+        83,
+        64,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 267268,
+      "assetId": 267268
+    },
+    "267276": {
+      "name": "Kayla Sharples",
+      "cardName": "Sharples",
+      "originalVersionId": "0",
+      "clubId": 116309,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2002",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        19,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        50,
+        45,
+        53,
+        64,
+        83,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 750,
+      "resourceId": 267276,
+      "assetId": 267276
+    },
+    "267329": {
+      "name": "Elizabeth Ball",
+      "cardName": "Ball",
+      "originalVersionId": "0",
+      "clubId": 116309,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2002",
+      "rating": 78,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        14
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        33,
+        44,
+        59,
+        63,
+        81,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 267329,
+      "assetId": 267329
+    },
+    "267336": {
+      "name": "Lo'eau LaBonta",
+      "cardName": "LaBonta",
+      "originalVersionId": "0",
+      "clubId": 116309,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2002",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        17,
+        24
+      ],
+      "playStylesPlus": [
+        26
+      ],
+      "rolesPlus": [
+        14,
+        19,
+        20
+      ],
+      "attributes": [
+        84,
+        77,
+        80,
+        82,
+        73,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 800,
+      "resourceId": 267336,
+      "assetId": 267336
+    },
+    "267343": {
+      "name": "Izzy Rodriguez",
+      "cardName": "Rodriguez",
+      "originalVersionId": "0",
+      "clubId": 116309,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2002",
+      "rating": 79,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        12
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        10,
+        27
+      ],
+      "attributes": [
+        70,
+        54,
+        75,
+        67,
+        79,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 267343,
+      "assetId": 267343
+    },
+    "267521": {
+      "name": "Marisa Jordan",
+      "cardName": "Jordan",
+      "originalVersionId": "0",
+      "clubId": 116309,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        45
+      ],
+      "attributes": [
+        67,
+        68,
+        69,
+        72,
+        40,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 267521,
+      "assetId": 267521
+    },
+    "273136": {
+      "name": "Lorena",
+      "cardName": "Lorena",
+      "originalVersionId": "0",
+      "clubId": 116309,
+      "leagueId": 2221,
+      "countryId": 54,
+      "versionId": "2002",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        30,
+        31,
+        32
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        101
+      ],
+      "attributes": [
+        80,
+        84,
+        78,
+        86,
+        29,
+        84
+      ],
+      "hasDynamicImage": false,
+      "price": 2500,
+      "resourceId": 273136,
+      "assetId": 273136
+    },
+    "273467": {
+      "name": "Michelle Cooper",
+      "cardName": "Cooper",
+      "originalVersionId": "0",
+      "clubId": 116309,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2002",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        29,
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        36
+      ],
+      "attributes": [
+        74,
+        71,
+        77,
+        79,
+        42,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 273467,
+      "assetId": 273467
+    },
+    "273472": {
+      "name": "Penelope Hocking",
+      "cardName": "Hocking",
+      "originalVersionId": "0",
+      "clubId": 116309,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        28,
+        38,
+        42
+      ],
+      "attributes": [
+        73,
+        67,
+        69,
+        71,
+        51,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 273472,
+      "assetId": 273472
+    },
+    "273476": {
+      "name": "Haley Hopkins",
+      "cardName": "Hopkins",
+      "originalVersionId": "0",
+      "clubId": 116309,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        39,
+        42
+      ],
+      "attributes": [
+        71,
+        69,
+        68,
+        67,
+        49,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 273476,
+      "assetId": 273476
+    },
+    "273480": {
+      "name": "Gabrielle Robinson",
+      "cardName": "Robinson",
+      "originalVersionId": "0",
+      "clubId": 116309,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        15
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        48,
+        42,
+        55,
+        55,
+        69,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 273480,
+      "assetId": 273480
+    },
+    "279799": {
+      "name": "Temwa Chawinga",
+      "cardName": "Chawinga",
+      "originalVersionId": "0",
+      "clubId": 116309,
+      "leagueId": 2221,
+      "countryId": 125,
+      "versionId": "2002",
+      "rating": 89,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        1,
+        22,
+        25,
+        6,
+        7
+      ],
+      "playStylesPlus": [
+        21
+      ],
+      "rolesPlus": [
+        27,
+        39,
+        130
+      ],
+      "attributes": [
+        91,
+        83,
+        81,
+        86,
+        46,
+        84
+      ],
+      "hasDynamicImage": false,
+      "price": 30750,
+      "resourceId": 279799,
+      "assetId": 279799
+    },
+    "279812": {
+      "name": "Croix Bethune",
+      "cardName": "Bethune",
+      "originalVersionId": "0",
+      "clubId": 116309,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2002",
+      "rating": 82,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [
+        1,
+        13,
+        20,
+        5,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        19,
+        31,
+        32,
+        43
+      ],
+      "attributes": [
+        72,
+        72,
+        79,
+        82,
+        55,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 279812,
+      "assetId": 279812
+    }
+  }
+}

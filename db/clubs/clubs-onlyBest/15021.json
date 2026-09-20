@@ -1,0 +1,481 @@
+{
+  "clubName": "CE Sabadell",
+  "players": {
+    "71239": {
+      "name": "Gastón Valles",
+      "cardName": "Valles",
+      "originalVersionId": "0",
+      "clubId": 15021,
+      "leagueId": 54,
+      "countryId": 60,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        42,
+        44
+      ],
+      "attributes": [
+        68,
+        64,
+        55,
+        62,
+        32,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 71239,
+      "assetId": 71239
+    },
+    "78729": {
+      "name": "Xavi Moreno",
+      "cardName": "Xavi Moreno",
+      "originalVersionId": "0",
+      "clubId": 15021,
+      "leagueId": 54,
+      "countryId": 45,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        35
+      ],
+      "attributes": [
+        75,
+        57,
+        60,
+        64,
+        25,
+        54
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 78729,
+      "assetId": 78729
+    },
+    "211706": {
+      "name": "Pere Pons",
+      "cardName": "Pere Pons",
+      "originalVersionId": "0",
+      "clubId": 15021,
+      "leagueId": 54,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 73,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18
+      ],
+      "attributes": [
+        58,
+        63,
+        71,
+        71,
+        69,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 650,
+      "resourceId": 211706,
+      "assetId": 211706
+    },
+    "228397": {
+      "name": "Nikolay Obolskii",
+      "cardName": "Obolskii",
+      "originalVersionId": "0",
+      "clubId": 15021,
+      "leagueId": 54,
+      "countryId": 40,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        42,
+        44
+      ],
+      "attributes": [
+        53,
+        63,
+        55,
+        61,
+        26,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 228397,
+      "assetId": 228397
+    },
+    "229428": {
+      "name": "Yanis Rahmani",
+      "cardName": "Rahmani",
+      "originalVersionId": "0",
+      "clubId": 15021,
+      "leagueId": 54,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        30,
+        35,
+        39
+      ],
+      "attributes": [
+        82,
+        63,
+        59,
+        67,
+        31,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 229428,
+      "assetId": 229428
+    },
+    "244625": {
+      "name": "Pipa",
+      "cardName": "Pipa",
+      "originalVersionId": "0",
+      "clubId": 15021,
+      "leagueId": 54,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "LB",
+        "RB"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3,
+        7
+      ],
+      "attributes": [
+        78,
+        57,
+        63,
+        68,
+        64,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 244625,
+      "assetId": 244625
+    },
+    "247500": {
+      "name": "Edgar González",
+      "cardName": "Edgar González",
+      "originalVersionId": "0",
+      "clubId": 15021,
+      "leagueId": 54,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        13
+      ],
+      "attributes": [
+        63,
+        52,
+        59,
+        58,
+        65,
+        79
+      ],
+      "hasDynamicImage": false,
+      "price": 550,
+      "resourceId": 247500,
+      "assetId": 247500
+    },
+    "254019": {
+      "name": "Nicholas Gioacchini",
+      "cardName": "Gioacchini",
+      "originalVersionId": "0",
+      "clubId": 15021,
+      "leagueId": 54,
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "RM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        81,
+        70,
+        57,
+        70,
+        29,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 254019,
+      "assetId": 254019
+    },
+    "258183": {
+      "name": "Diego Fuoli",
+      "cardName": "Diego Fuoli",
+      "originalVersionId": "0",
+      "clubId": 15021,
+      "leagueId": 54,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        66,
+        66,
+        65,
+        67,
+        39,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 258183,
+      "assetId": 258183
+    },
+    "271359": {
+      "name": "López-Pinto",
+      "cardName": "López-Pinto",
+      "originalVersionId": "0",
+      "clubId": 15021,
+      "leagueId": 54,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        38
+      ],
+      "attributes": [
+        75,
+        69,
+        64,
+        67,
+        29,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 271359,
+      "assetId": 271359
+    },
+    "279120": {
+      "name": "Català",
+      "cardName": "Català",
+      "originalVersionId": "0",
+      "clubId": 15021,
+      "leagueId": 54,
+      "countryId": 45,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        55,
+        43,
+        51,
+        54,
+        62,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 279120,
+      "assetId": 279120
+    },
+    "50588542": {
+      "name": "Ángel Baena",
+      "cardName": "Ángel Baena",
+      "originalVersionId": "0",
+      "clubId": 15021,
+      "leagueId": 54,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        35,
+        36
+      ],
+      "attributes": [
+        84,
+        55,
+        63,
+        69,
+        28,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 50588542,
+      "assetId": 256894
+    },
+    "50602661": {
+      "name": "Patrick Amoako Nuamah",
+      "cardName": "Nuamah",
+      "originalVersionId": "0",
+      "clubId": 15021,
+      "leagueId": 54,
+      "countryId": 27,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        27,
+        31,
+        33,
+        38
+      ],
+      "attributes": [
+        81,
+        58,
+        64,
+        66,
+        58,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 50602661,
+      "assetId": 271013
+    }
+  }
+}

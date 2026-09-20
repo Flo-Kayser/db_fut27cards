@@ -1,0 +1,766 @@
+{
+  "clubName": "Birmingham City",
+  "players": {
+    "72348": {
+      "name": "Chelsea Cornet",
+      "cardName": "Cornet",
+      "originalVersionId": "0",
+      "clubId": 116019,
+      "leagueId": 2216,
+      "countryId": 42,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18
+      ],
+      "attributes": [
+        63,
+        62,
+        64,
+        70,
+        56,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 3700,
+      "resourceId": 72348,
+      "assetId": 72348
+    },
+    "86130": {
+      "name": "Lucy Thomas",
+      "cardName": "Thomas",
+      "originalVersionId": "0",
+      "clubId": 116019,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        73,
+        74,
+        67,
+        70,
+        25,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 3700,
+      "resourceId": 86130,
+      "assetId": 86130
+    },
+    "87991": {
+      "name": "Rebecca McKenna",
+      "cardName": "McKenna",
+      "originalVersionId": "0",
+      "clubId": 116019,
+      "leagueId": 2216,
+      "countryId": 35,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "attributes": [
+        64,
+        35,
+        55,
+        59,
+        68,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 3700,
+      "resourceId": 87991,
+      "assetId": 87991
+    },
+    "87999": {
+      "name": "Neve Herron",
+      "cardName": "Herron",
+      "originalVersionId": "0",
+      "clubId": 116019,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        59,
+        26,
+        48,
+        61,
+        75,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 3900,
+      "resourceId": 87999,
+      "assetId": 87999
+    },
+    "88000": {
+      "name": "Wilma Leidhammar",
+      "cardName": "Leidhammar",
+      "originalVersionId": "0",
+      "clubId": 116019,
+      "leagueId": 2216,
+      "countryId": 46,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        31
+      ],
+      "attributes": [
+        70,
+        68,
+        63,
+        70,
+        38,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 3900,
+      "resourceId": 88000,
+      "assetId": 88000
+    },
+    "88004": {
+      "name": "Lily Crosthwaite",
+      "cardName": "Crosthwaite",
+      "originalVersionId": "0",
+      "clubId": 116019,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        72,
+        74,
+        59,
+        71,
+        46,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 3800,
+      "resourceId": 88004,
+      "assetId": 88004
+    },
+    "246029": {
+      "name": "Lee Geum Min",
+      "cardName": "Lee Geum Min",
+      "originalVersionId": "0",
+      "clubId": 116019,
+      "leagueId": 2216,
+      "countryId": 167,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [
+        22,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        77,
+        69,
+        69,
+        70,
+        41,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 3900,
+      "resourceId": 246029,
+      "assetId": 246029
+    },
+    "247800": {
+      "name": "Asato Miyagawa",
+      "cardName": "Miyagawa",
+      "originalVersionId": "0",
+      "clubId": 116019,
+      "leagueId": 2216,
+      "countryId": 163,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14
+      ],
+      "attributes": [
+        66,
+        48,
+        66,
+        64,
+        70,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 3800,
+      "resourceId": 247800,
+      "assetId": 247800
+    },
+    "263012": {
+      "name": "Millie Turner",
+      "cardName": "Turner",
+      "originalVersionId": "0",
+      "clubId": 116019,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "2002",
+      "rating": 81,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        15,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        52,
+        50,
+        63,
+        65,
+        84,
+        77
+      ],
+      "hasDynamicImage": false,
+      "price": 850,
+      "resourceId": 263012,
+      "assetId": 263012
+    },
+    "264807": {
+      "name": "Marie Levasseur",
+      "cardName": "Levasseur",
+      "originalVersionId": "0",
+      "clubId": 116019,
+      "leagueId": 2216,
+      "countryId": 70,
+      "versionId": "2002",
+      "rating": 76,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB"
+      ],
+      "playStyles": [
+        16,
+        17,
+        27,
+        28
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "attributes": [
+        77,
+        64,
+        65,
+        72,
+        73,
+        80
+      ],
+      "hasDynamicImage": false,
+      "price": 10000,
+      "resourceId": 264807,
+      "assetId": 264807
+    },
+    "265215": {
+      "name": "Rebecca Holloway",
+      "cardName": "Holloway",
+      "originalVersionId": "0",
+      "clubId": 116019,
+      "leagueId": 2216,
+      "countryId": 35,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CB",
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7,
+        13
+      ],
+      "attributes": [
+        58,
+        39,
+        62,
+        67,
+        72,
+        49
+      ],
+      "hasDynamicImage": false,
+      "price": 3600,
+      "resourceId": 265215,
+      "assetId": 265215
+    },
+    "265217": {
+      "name": "Veatriki Sarri",
+      "cardName": "Sarri",
+      "originalVersionId": "0",
+      "clubId": 116019,
+      "leagueId": 2216,
+      "countryId": 22,
+      "versionId": "2001",
+      "rating": 74,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        29,
+        38
+      ],
+      "attributes": [
+        77,
+        70,
+        72,
+        72,
+        67,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 3700,
+      "resourceId": 265217,
+      "assetId": 265217
+    },
+    "265276": {
+      "name": "Martha Harris",
+      "cardName": "Harris",
+      "originalVersionId": "0",
+      "clubId": 116019,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "LB",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "attributes": [
+        39,
+        45,
+        62,
+        61,
+        61,
+        54
+      ],
+      "hasDynamicImage": false,
+      "price": 1100,
+      "resourceId": 265276,
+      "assetId": 265276
+    },
+    "265279": {
+      "name": "Sophie Baggaley",
+      "cardName": "Baggaley",
+      "originalVersionId": "0",
+      "clubId": 116019,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        34
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        45
+      ],
+      "attributes": [
+        71,
+        67,
+        76,
+        68,
+        44,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 3700,
+      "resourceId": 265279,
+      "assetId": 265279
+    },
+    "265338": {
+      "name": "Simone Magill",
+      "cardName": "Magill",
+      "originalVersionId": "0",
+      "clubId": 116019,
+      "leagueId": 2216,
+      "countryId": 35,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        62,
+        60,
+        57,
+        66,
+        35,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 1100,
+      "resourceId": 265338,
+      "assetId": 265338
+    },
+    "265892": {
+      "name": "Jade Rastocle",
+      "cardName": "Rastocle",
+      "originalVersionId": "0",
+      "clubId": 116019,
+      "leagueId": 2216,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 73,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "RB"
+      ],
+      "playStyles": [
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3,
+        11
+      ],
+      "attributes": [
+        57,
+        39,
+        58,
+        63,
+        75,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 3800,
+      "resourceId": 265892,
+      "assetId": 265892
+    },
+    "266526": {
+      "name": "Katie Startup",
+      "cardName": "Startup",
+      "originalVersionId": "0",
+      "clubId": 116019,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        60,
+        63,
+        67,
+        69,
+        33,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 1100,
+      "resourceId": 266526,
+      "assetId": 266526
+    },
+    "268061": {
+      "name": "Océane Hurtré",
+      "cardName": "Hurtré",
+      "originalVersionId": "0",
+      "clubId": 116019,
+      "leagueId": 2216,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 73,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        10,
+        12,
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        29,
+        38
+      ],
+      "attributes": [
+        75,
+        69,
+        72,
+        76,
+        67,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 3800,
+      "resourceId": 268061,
+      "assetId": 268061
+    },
+    "268475": {
+      "name": "Lisa Fjeldstad Naalsund",
+      "cardName": "Naalsund",
+      "originalVersionId": "0",
+      "clubId": 116019,
+      "leagueId": 2216,
+      "countryId": 36,
+      "versionId": "2001",
+      "rating": 73,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        20,
+        49
+      ],
+      "attributes": [
+        50,
+        59,
+        67,
+        72,
+        69,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 3800,
+      "resourceId": 268475,
+      "assetId": 268475
+    },
+    "273919": {
+      "name": "Shannon Cooke",
+      "cardName": "Cooke",
+      "originalVersionId": "0",
+      "clubId": 116019,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        65,
+        52,
+        51,
+        55,
+        65,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 3600,
+      "resourceId": 273919,
+      "assetId": 273919
+    },
+    "276812": {
+      "name": "Chancelle Effa Effa",
+      "cardName": "Effa Effa",
+      "originalVersionId": "0",
+      "clubId": 116019,
+      "leagueId": 2216,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 73,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        42
+      ],
+      "attributes": [
+        82,
+        70,
+        57,
+        72,
+        32,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 3600,
+      "resourceId": 276812,
+      "assetId": 276812
+    }
+  }
+}

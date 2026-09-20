@@ -1,0 +1,914 @@
+{
+  "clubName": "Indep. Santa Fe",
+  "players": {
+    "76403": {
+      "name": "Luis Ángel Palacios",
+      "cardName": "Palacios",
+      "originalVersionId": "0",
+      "clubId": 101104,
+      "leagueId": 1003,
+      "countryId": 56,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "RB",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        6,
+        23,
+        24
+      ],
+      "attributes": [
+        75,
+        63,
+        61,
+        69,
+        24,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 76403,
+      "assetId": 76403
+    },
+    "84692": {
+      "name": "Martín Palacios",
+      "cardName": "Palacios",
+      "originalVersionId": "0",
+      "clubId": 101104,
+      "leagueId": 1003,
+      "countryId": 56,
+      "versionId": "2000",
+      "rating": 57,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        38
+      ],
+      "attributes": [
+        70,
+        49,
+        54,
+        58,
+        23,
+        53
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 84692,
+      "assetId": 84692
+    },
+    "168565": {
+      "name": "Hugo Rodallega",
+      "cardName": "Rodallega",
+      "originalVersionId": "0",
+      "clubId": 101104,
+      "leagueId": 1003,
+      "countryId": 56,
+      "versionId": "2001",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        61,
+        77,
+        68,
+        71,
+        43,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 168565,
+      "assetId": 168565
+    },
+    "214332": {
+      "name": "Daniel Torres",
+      "cardName": "Torres",
+      "originalVersionId": "0",
+      "clubId": 101104,
+      "leagueId": 1003,
+      "countryId": 56,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        11,
+        18,
+        22,
+        24
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        15
+      ],
+      "attributes": [
+        51,
+        61,
+        70,
+        64,
+        66,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 214332,
+      "assetId": 214332
+    },
+    "215139": {
+      "name": "Emmanuel Olivera",
+      "cardName": "Olivera",
+      "originalVersionId": "0",
+      "clubId": 101104,
+      "leagueId": 1003,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12
+      ],
+      "attributes": [
+        66,
+        43,
+        51,
+        55,
+        72,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 215139,
+      "assetId": 215139
+    },
+    "218743": {
+      "name": "Alexis Zapata",
+      "cardName": "Zapata",
+      "originalVersionId": "0",
+      "clubId": 101104,
+      "leagueId": 1003,
+      "countryId": 56,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        35
+      ],
+      "attributes": [
+        76,
+        67,
+        63,
+        71,
+        31,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 218743,
+      "assetId": 218743
+    },
+    "218981": {
+      "name": "Helibelton Palacios",
+      "cardName": "Palacios",
+      "originalVersionId": "0",
+      "clubId": 101104,
+      "leagueId": 1003,
+      "countryId": 56,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3,
+        11,
+        13
+      ],
+      "attributes": [
+        73,
+        39,
+        59,
+        61,
+        70,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 218981,
+      "assetId": 218981
+    },
+    "219527": {
+      "name": "Christian Mafla",
+      "cardName": "Mafla",
+      "originalVersionId": "0",
+      "clubId": 101104,
+      "leagueId": 1003,
+      "countryId": 56,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        28
+      ],
+      "attributes": [
+        63,
+        47,
+        67,
+        70,
+        69,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 550,
+      "resourceId": 219527,
+      "assetId": 219527
+    },
+    "221235": {
+      "name": "Andrés Mosquera",
+      "cardName": "Mosquera",
+      "originalVersionId": "0",
+      "clubId": 101104,
+      "leagueId": 1003,
+      "countryId": 56,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        34
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        71,
+        69,
+        66,
+        75,
+        44,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 221235,
+      "assetId": 221235
+    },
+    "221637": {
+      "name": "Víctor Moreno",
+      "cardName": "Moreno",
+      "originalVersionId": "0",
+      "clubId": 101104,
+      "leagueId": 1003,
+      "countryId": 56,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        68,
+        41,
+        52,
+        63,
+        71,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 221637,
+      "assetId": 221637
+    },
+    "222319": {
+      "name": "Jeison Angulo",
+      "cardName": "Angulo",
+      "originalVersionId": "0",
+      "clubId": 101104,
+      "leagueId": 1003,
+      "countryId": 56,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7
+      ],
+      "attributes": [
+        72,
+        35,
+        56,
+        65,
+        63,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 222319,
+      "assetId": 222319
+    },
+    "225502": {
+      "name": "Kevin Balanta",
+      "cardName": "Balanta",
+      "originalVersionId": "0",
+      "clubId": 101104,
+      "leagueId": 1003,
+      "countryId": 56,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        18
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        12,
+        15,
+        18
+      ],
+      "attributes": [
+        85,
+        57,
+        60,
+        65,
+        67,
+        83
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 225502,
+      "assetId": 225502
+    },
+    "227594": {
+      "name": "Jáder Obrian",
+      "cardName": "Obrian",
+      "originalVersionId": "0",
+      "clubId": 101104,
+      "leagueId": 1003,
+      "countryId": 56,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        21
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        24,
+        27,
+        36,
+        38
+      ],
+      "attributes": [
+        87,
+        63,
+        58,
+        69,
+        36,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 227594,
+      "assetId": 227594
+    },
+    "233924": {
+      "name": "Maximiliano Lovera",
+      "cardName": "Lovera",
+      "originalVersionId": "0",
+      "clubId": 101104,
+      "leagueId": 1003,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        25,
+        27,
+        29,
+        33,
+        40
+      ],
+      "attributes": [
+        85,
+        62,
+        64,
+        75,
+        31,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 233924,
+      "assetId": 233924
+    },
+    "234352": {
+      "name": "Mateo Puerta",
+      "cardName": "Puerta",
+      "originalVersionId": "0",
+      "clubId": 101104,
+      "leagueId": 1003,
+      "countryId": 56,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB"
+      ],
+      "playStyles": [
+        12
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "attributes": [
+        78,
+        24,
+        55,
+        66,
+        62,
+        52
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 234352,
+      "assetId": 234352
+    },
+    "238182": {
+      "name": "Andrés Amaya",
+      "cardName": "Amaya",
+      "originalVersionId": "0",
+      "clubId": 101104,
+      "leagueId": 1003,
+      "countryId": 56,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        35
+      ],
+      "attributes": [
+        80,
+        56,
+        53,
+        67,
+        34,
+        45
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 238182,
+      "assetId": 238182
+    },
+    "238194": {
+      "name": "Nahuel Bustos",
+      "cardName": "Bustos",
+      "originalVersionId": "0",
+      "clubId": 101104,
+      "leagueId": 1003,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        2
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        32,
+        38,
+        42
+      ],
+      "attributes": [
+        83,
+        70,
+        67,
+        74,
+        33,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 850,
+      "resourceId": 238194,
+      "assetId": 238194
+    },
+    "241990": {
+      "name": "Omar Fernández",
+      "cardName": "Fernández",
+      "originalVersionId": "0",
+      "clubId": 101104,
+      "leagueId": 1003,
+      "countryId": 56,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        21
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        29,
+        31,
+        40
+      ],
+      "attributes": [
+        74,
+        69,
+        69,
+        73,
+        37,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 241990,
+      "assetId": 241990
+    },
+    "247563": {
+      "name": "Yílmar Velásquez",
+      "cardName": "Velásquez",
+      "originalVersionId": "0",
+      "clubId": 101104,
+      "leagueId": 1003,
+      "countryId": 56,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        17
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14
+      ],
+      "attributes": [
+        69,
+        53,
+        63,
+        68,
+        65,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 2300,
+      "resourceId": 247563,
+      "assetId": 247563
+    },
+    "255920": {
+      "name": "Iván Scarpeta",
+      "cardName": "Scarpeta",
+      "originalVersionId": "0",
+      "clubId": 101104,
+      "leagueId": 1003,
+      "countryId": 56,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "LB"
+      ],
+      "playStyles": [
+        10
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        63,
+        32,
+        48,
+        62,
+        68,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 255920,
+      "assetId": 255920
+    },
+    "265563": {
+      "name": "Franco Fagúndez",
+      "cardName": "Fagúndez",
+      "originalVersionId": "0",
+      "clubId": 101104,
+      "leagueId": 1003,
+      "countryId": 60,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [
+        20,
+        23
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        31
+      ],
+      "attributes": [
+        73,
+        72,
+        65,
+        68,
+        26,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 265563,
+      "assetId": 265563
+    },
+    "267395": {
+      "name": "Weimar Asprilla",
+      "cardName": "Asprilla",
+      "originalVersionId": "0",
+      "clubId": 101104,
+      "leagueId": 1003,
+      "countryId": 56,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        61,
+        61,
+        76,
+        61,
+        22,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 267395,
+      "assetId": 267395
+    },
+    "271633": {
+      "name": "Kilian Toscano",
+      "cardName": "Toscano",
+      "originalVersionId": "0",
+      "clubId": 101104,
+      "leagueId": 1003,
+      "countryId": 56,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14
+      ],
+      "attributes": [
+        64,
+        50,
+        60,
+        62,
+        62,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 271633,
+      "assetId": 271633
+    },
+    "274128": {
+      "name": "Jhojan Torres",
+      "cardName": "Torres",
+      "originalVersionId": "0",
+      "clubId": 101104,
+      "leagueId": 1003,
+      "countryId": 56,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19
+      ],
+      "attributes": [
+        55,
+        40,
+        64,
+        65,
+        65,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 274128,
+      "assetId": 274128
+    }
+  }
+}

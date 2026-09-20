@@ -1,0 +1,843 @@
+{
+  "clubName": "Corvinul 1921",
+  "players": {
+    "74641": {
+      "name": "Flavius Iacob",
+      "cardName": "Iacob",
+      "originalVersionId": "0",
+      "clubId": 113449,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        6
+      ],
+      "attributes": [
+        76,
+        47,
+        60,
+        58,
+        59,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 74641,
+      "assetId": 74641
+    },
+    "79001": {
+      "name": "Codruț Sandu",
+      "cardName": "Sandu",
+      "originalVersionId": "0",
+      "clubId": 113449,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        64,
+        61,
+        60,
+        62,
+        33,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 79001,
+      "assetId": 79001
+    },
+    "82303": {
+      "name": "Mohammad Abualnadi",
+      "cardName": "Abualnadi",
+      "originalVersionId": "0",
+      "clubId": 113449,
+      "leagueId": 330,
+      "countryId": 164,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        54,
+        32,
+        56,
+        56,
+        64,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 82303,
+      "assetId": 82303
+    },
+    "86321": {
+      "name": "Fabio Blaga",
+      "cardName": "Blaga",
+      "originalVersionId": "0",
+      "clubId": 113449,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2000",
+      "rating": 55,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        56,
+        51,
+        54,
+        57,
+        35,
+        53
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 86321,
+      "assetId": 86321
+    },
+    "86322": {
+      "name": "Antoniu Manolache",
+      "cardName": "Manolache",
+      "originalVersionId": "0",
+      "clubId": 113449,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        8,
+        11,
+        17
+      ],
+      "attributes": [
+        68,
+        50,
+        55,
+        60,
+        65,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 86322,
+      "assetId": 86322
+    },
+    "86324": {
+      "name": "Ion Cărăruș",
+      "cardName": "Cărăruș",
+      "originalVersionId": "0",
+      "clubId": 113449,
+      "leagueId": 330,
+      "countryId": 33,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19
+      ],
+      "attributes": [
+        64,
+        54,
+        61,
+        61,
+        63,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 86324,
+      "assetId": 86324
+    },
+    "86326": {
+      "name": "Alexandru Neacșa",
+      "cardName": "Neacșa",
+      "originalVersionId": "0",
+      "clubId": 113449,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        64,
+        61,
+        68,
+        68,
+        57,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 86326,
+      "assetId": 86326
+    },
+    "86327": {
+      "name": "Gideon Goodlad",
+      "cardName": "Goodlad",
+      "originalVersionId": "0",
+      "clubId": 113449,
+      "leagueId": 330,
+      "countryId": 133,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        31
+      ],
+      "attributes": [
+        70,
+        57,
+        61,
+        65,
+        51,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 86327,
+      "assetId": 86327
+    },
+    "86328": {
+      "name": "Nicolae Pîrvulescu",
+      "cardName": "Pîrvulescu",
+      "originalVersionId": "0",
+      "clubId": 113449,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        38
+      ],
+      "attributes": [
+        72,
+        64,
+        61,
+        69,
+        51,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 86328,
+      "assetId": 86328
+    },
+    "86329": {
+      "name": "Muhammed Hayatu",
+      "cardName": "Hayatu",
+      "originalVersionId": "0",
+      "clubId": 113449,
+      "leagueId": 330,
+      "countryId": 133,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        38
+      ],
+      "attributes": [
+        71,
+        52,
+        53,
+        63,
+        25,
+        51
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 86329,
+      "assetId": 86329
+    },
+    "87075": {
+      "name": "Adrian Frănculescu",
+      "cardName": "Frănculescu",
+      "originalVersionId": "0",
+      "clubId": 113449,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        64,
+        61,
+        65,
+        65,
+        43,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 87075,
+      "assetId": 87075
+    },
+    "87141": {
+      "name": "Ángel Gillard",
+      "cardName": "Gillard",
+      "originalVersionId": "0",
+      "clubId": 113449,
+      "leagueId": 330,
+      "countryId": 52,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "RM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        75,
+        63,
+        57,
+        66,
+        28,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 550,
+      "resourceId": 87141,
+      "assetId": 87141
+    },
+    "87673": {
+      "name": "Denis Mihai Zanc",
+      "cardName": "Zanc",
+      "originalVersionId": "0",
+      "clubId": 113449,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2000",
+      "rating": 54,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        33
+      ],
+      "attributes": [
+        68,
+        47,
+        52,
+        57,
+        45,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 87673,
+      "assetId": 87673
+    },
+    "88138": {
+      "name": "Emmanuel Okoro",
+      "cardName": "Okoro",
+      "originalVersionId": "0",
+      "clubId": 113449,
+      "leagueId": 330,
+      "countryId": 133,
+      "versionId": "2000",
+      "rating": 53,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        74,
+        52,
+        39,
+        51,
+        24,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 88138,
+      "assetId": 88138
+    },
+    "252484": {
+      "name": "Ronaldo Deaconu",
+      "cardName": "Deaconu",
+      "originalVersionId": "0",
+      "clubId": 113449,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19,
+        31
+      ],
+      "attributes": [
+        62,
+        60,
+        62,
+        62,
+        51,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 252484,
+      "assetId": 252484
+    },
+    "257812": {
+      "name": "Denis Hrezdac",
+      "cardName": "Hrezdac",
+      "originalVersionId": "0",
+      "clubId": 113449,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        18
+      ],
+      "attributes": [
+        67,
+        49,
+        54,
+        60,
+        62,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 257812,
+      "assetId": 257812
+    },
+    "257819": {
+      "name": "Florin Ilie",
+      "cardName": "Ilie",
+      "originalVersionId": "0",
+      "clubId": 113449,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        60,
+        40,
+        49,
+        48,
+        63,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 800,
+      "resourceId": 257819,
+      "assetId": 257819
+    },
+    "259803": {
+      "name": "Renato Espinosa",
+      "cardName": "Espinosa",
+      "originalVersionId": "0",
+      "clubId": 113449,
+      "leagueId": 330,
+      "countryId": 59,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        64,
+        66,
+        47,
+        64,
+        21,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 259803,
+      "assetId": 259803
+    },
+    "266802": {
+      "name": "Mihajlo Ivančević",
+      "cardName": "Ivančević",
+      "originalVersionId": "0",
+      "clubId": 113449,
+      "leagueId": 330,
+      "countryId": 51,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        15
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        49,
+        34,
+        52,
+        40,
+        62,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 266802,
+      "assetId": 266802
+    },
+    "269409": {
+      "name": "Sérgio Ribeiro",
+      "cardName": "Sérgio Ribeiro",
+      "originalVersionId": "0",
+      "clubId": 113449,
+      "leagueId": 330,
+      "countryId": 38,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM",
+        "RM"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        67,
+        63,
+        67,
+        65,
+        53,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 1100,
+      "resourceId": 269409,
+      "assetId": 269409
+    },
+    "269415": {
+      "name": "Mario Bratu",
+      "cardName": "Bratu",
+      "originalVersionId": "0",
+      "clubId": 113449,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        21
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        25,
+        26,
+        29,
+        37,
+        40
+      ],
+      "attributes": [
+        78,
+        56,
+        58,
+        62,
+        28,
+        44
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 269415,
+      "assetId": 269415
+    },
+    "270368": {
+      "name": "Emmanuel Yeboah",
+      "cardName": "Yeboah",
+      "originalVersionId": "0",
+      "clubId": 113449,
+      "leagueId": 330,
+      "countryId": 117,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        35,
+        41,
+        44
+      ],
+      "attributes": [
+        84,
+        56,
+        53,
+        61,
+        37,
+        78
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 270368,
+      "assetId": 270368
+    },
+    "276259": {
+      "name": "Andrej Fábry",
+      "cardName": "Fábry",
+      "originalVersionId": "0",
+      "clubId": 113449,
+      "leagueId": 330,
+      "countryId": 43,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        20,
+        33,
+        43
+      ],
+      "attributes": [
+        73,
+        63,
+        65,
+        68,
+        39,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 276259,
+      "assetId": 276259
+    }
+  }
+}

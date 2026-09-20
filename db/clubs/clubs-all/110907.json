@@ -1,0 +1,908 @@
+{
+  "clubName": "SS Arezzo",
+  "players": {
+    "71372": {
+      "name": "Mattia Sala",
+      "cardName": "Sala",
+      "originalVersionId": "0",
+      "clubId": 110907,
+      "leagueId": 32,
+      "countryId": 27,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        23,
+        31,
+        35
+      ],
+      "attributes": [
+        64,
+        61,
+        60,
+        66,
+        49,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 71372,
+      "assetId": 71372
+    },
+    "80203": {
+      "name": "Alessandro Nunziante",
+      "cardName": "Nunziante",
+      "originalVersionId": "0",
+      "clubId": 110907,
+      "leagueId": 32,
+      "countryId": 27,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 1,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        61,
+        61,
+        56,
+        62,
+        28,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 80203,
+      "assetId": 80203
+    },
+    "84081": {
+      "name": "Marlon Mena Martínez",
+      "cardName": "Mena Martínez",
+      "originalVersionId": "0",
+      "clubId": 110907,
+      "leagueId": 32,
+      "countryId": 207,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "attributes": [
+        68,
+        40,
+        49,
+        54,
+        59,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 84081,
+      "assetId": 84081
+    },
+    "85933": {
+      "name": "Emiliano Pattarello",
+      "cardName": "Pattarello",
+      "originalVersionId": "0",
+      "clubId": 110907,
+      "leagueId": 32,
+      "countryId": 27,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        35
+      ],
+      "attributes": [
+        73,
+        69,
+        66,
+        70,
+        31,
+        52
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 85933,
+      "assetId": 85933
+    },
+    "85934": {
+      "name": "Matteo Gilli",
+      "cardName": "Gilli",
+      "originalVersionId": "0",
+      "clubId": 110907,
+      "leagueId": 32,
+      "countryId": 27,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        59,
+        31,
+        48,
+        54,
+        67,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 750,
+      "resourceId": 85934,
+      "assetId": 85934
+    },
+    "85935": {
+      "name": "Alessandro Renzi",
+      "cardName": "Renzi",
+      "originalVersionId": "0",
+      "clubId": 110907,
+      "leagueId": 32,
+      "countryId": 27,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        24
+      ],
+      "attributes": [
+        67,
+        43,
+        56,
+        62,
+        60,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 85935,
+      "assetId": 85935
+    },
+    "85987": {
+      "name": "Luca Trombini",
+      "cardName": "Trombini",
+      "originalVersionId": "0",
+      "clubId": 110907,
+      "leagueId": 32,
+      "countryId": 27,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        63,
+        60,
+        63,
+        59,
+        24,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 85987,
+      "assetId": 85987
+    },
+    "86098": {
+      "name": "Luca Chierico",
+      "cardName": "Chierico",
+      "originalVersionId": "0",
+      "clubId": 110907,
+      "leagueId": 32,
+      "countryId": 27,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        73,
+        68,
+        65,
+        69,
+        59,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 86098,
+      "assetId": 86098
+    },
+    "87296": {
+      "name": "Aleandro Manes",
+      "cardName": "Manes",
+      "originalVersionId": "0",
+      "clubId": 110907,
+      "leagueId": 32,
+      "countryId": 27,
+      "versionId": "2000",
+      "rating": 56,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        31
+      ],
+      "attributes": [
+        67,
+        49,
+        51,
+        57,
+        39,
+        51
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 87296,
+      "assetId": 87296
+    },
+    "192587": {
+      "name": "Artur Ioniță",
+      "cardName": "Ioniță",
+      "originalVersionId": "0",
+      "clubId": 110907,
+      "leagueId": 32,
+      "countryId": 33,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        0,
+        22,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        18
+      ],
+      "attributes": [
+        56,
+        68,
+        67,
+        67,
+        68,
+        78
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 192587,
+      "assetId": 192587
+    },
+    "197689": {
+      "name": "Andrea Seculin",
+      "cardName": "Seculin",
+      "originalVersionId": "0",
+      "clubId": 110907,
+      "leagueId": 32,
+      "countryId": 27,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        45
+      ],
+      "attributes": [
+        65,
+        62,
+        59,
+        66,
+        31,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 900,
+      "resourceId": 197689,
+      "assetId": 197689
+    },
+    "205911": {
+      "name": "Marco Chiosa",
+      "cardName": "Chiosa",
+      "originalVersionId": "0",
+      "clubId": 110907,
+      "leagueId": 32,
+      "countryId": 27,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        66,
+        34,
+        53,
+        61,
+        67,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 205911,
+      "assetId": 205911
+    },
+    "213829": {
+      "name": "Alberto Cerri",
+      "cardName": "Cerri",
+      "originalVersionId": "0",
+      "clubId": 110907,
+      "leagueId": 32,
+      "countryId": 27,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        24,
+        29,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        44
+      ],
+      "attributes": [
+        34,
+        71,
+        52,
+        60,
+        38,
+        78
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 213829,
+      "assetId": 213829
+    },
+    "219487": {
+      "name": "Filippo De Col",
+      "cardName": "De Col",
+      "originalVersionId": "0",
+      "clubId": 110907,
+      "leagueId": 32,
+      "countryId": 27,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        24
+      ],
+      "attributes": [
+        71,
+        55,
+        59,
+        64,
+        62,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 219487,
+      "assetId": 219487
+    },
+    "223007": {
+      "name": "Mauro Coppolaro",
+      "cardName": "Coppolaro",
+      "originalVersionId": "0",
+      "clubId": 110907,
+      "leagueId": 32,
+      "countryId": 27,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3,
+        11,
+        48
+      ],
+      "attributes": [
+        68,
+        42,
+        53,
+        57,
+        64,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 550,
+      "resourceId": 223007,
+      "assetId": 223007
+    },
+    "237118": {
+      "name": "Shaka Eklu Mawuli",
+      "cardName": "Eklu Mawuli",
+      "originalVersionId": "0",
+      "clubId": 110907,
+      "leagueId": 32,
+      "countryId": 117,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        74,
+        63,
+        62,
+        68,
+        63,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 237118,
+      "assetId": 237118
+    },
+    "243049": {
+      "name": "Mattia Viviani",
+      "cardName": "Viviani",
+      "originalVersionId": "0",
+      "clubId": 110907,
+      "leagueId": 32,
+      "countryId": 27,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14
+      ],
+      "attributes": [
+        66,
+        55,
+        62,
+        63,
+        61,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 243049,
+      "assetId": 243049
+    },
+    "244576": {
+      "name": "Julián Illanes",
+      "cardName": "Illanes",
+      "originalVersionId": "0",
+      "clubId": 110907,
+      "leagueId": 32,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        69,
+        31,
+        49,
+        54,
+        71,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 244576,
+      "assetId": 244576
+    },
+    "245136": {
+      "name": "Pietro Cianci",
+      "cardName": "Cianci",
+      "originalVersionId": "0",
+      "clubId": 110907,
+      "leagueId": 32,
+      "countryId": 27,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        62,
+        67,
+        62,
+        66,
+        44,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 245136,
+      "assetId": 245136
+    },
+    "258075": {
+      "name": "Camillo Tavernelli",
+      "cardName": "Tavernelli",
+      "originalVersionId": "0",
+      "clubId": 110907,
+      "leagueId": 32,
+      "countryId": 27,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        38
+      ],
+      "attributes": [
+        68,
+        69,
+        67,
+        70,
+        48,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 258075,
+      "assetId": 258075
+    },
+    "268672": {
+      "name": "Andrea Cagnano",
+      "cardName": "Cagnano",
+      "originalVersionId": "0",
+      "clubId": 110907,
+      "leagueId": 32,
+      "countryId": 27,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CB",
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7,
+        12
+      ],
+      "attributes": [
+        63,
+        43,
+        61,
+        61,
+        64,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 2400,
+      "resourceId": 268672,
+      "assetId": 268672
+    },
+    "268819": {
+      "name": "Samuele Righetti",
+      "cardName": "Righetti",
+      "originalVersionId": "0",
+      "clubId": 110907,
+      "leagueId": 32,
+      "countryId": 27,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        28
+      ],
+      "attributes": [
+        65,
+        37,
+        55,
+        59,
+        61,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 268819,
+      "assetId": 268819
+    },
+    "276917": {
+      "name": "Alessandro Arena",
+      "cardName": "Arena",
+      "originalVersionId": "0",
+      "clubId": 110907,
+      "leagueId": 32,
+      "countryId": 27,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        32,
+        36,
+        43
+      ],
+      "attributes": [
+        82,
+        64,
+        63,
+        72,
+        35,
+        50
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 276917,
+      "assetId": 276917
+    },
+    "50556156": {
+      "name": "Leonardo Mancuso",
+      "cardName": "Mancuso",
+      "originalVersionId": "0",
+      "clubId": 110907,
+      "leagueId": 32,
+      "countryId": 27,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        42
+      ],
+      "attributes": [
+        78,
+        68,
+        64,
+        70,
+        39,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 50556156,
+      "assetId": 224508
+    },
+    "50572436": {
+      "name": "Marco Olivieri",
+      "cardName": "Olivieri",
+      "originalVersionId": "0",
+      "clubId": 110907,
+      "leagueId": 32,
+      "countryId": 27,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        32,
+        41,
+        43
+      ],
+      "attributes": [
+        76,
+        65,
+        56,
+        67,
+        29,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 50572436,
+      "assetId": 240788
+    }
+  }
+}

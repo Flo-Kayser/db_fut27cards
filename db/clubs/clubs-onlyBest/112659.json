@@ -1,0 +1,579 @@
+{
+  "clubName": "Cusco FC",
+  "players": {
+    "213311": {
+      "name": "Alvaro Ampuero",
+      "cardName": "Ampuero",
+      "originalVersionId": "0",
+      "clubId": 112659,
+      "leagueId": 1003,
+      "countryId": 59,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "LB"
+      ],
+      "playStyles": [
+        10
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        8,
+        9,
+        11,
+        17
+      ],
+      "attributes": [
+        68,
+        45,
+        64,
+        64,
+        64,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 213311,
+      "assetId": 213311
+    },
+    "215356": {
+      "name": "Facundo Callejo",
+      "cardName": "Callejo",
+      "originalVersionId": "0",
+      "clubId": 112659,
+      "leagueId": 1003,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        32,
+        41,
+        43
+      ],
+      "attributes": [
+        77,
+        72,
+        61,
+        68,
+        33,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 215356,
+      "assetId": 215356
+    },
+    "223842": {
+      "name": "Lucas Colitto",
+      "cardName": "Colitto",
+      "originalVersionId": "0",
+      "clubId": 112659,
+      "leagueId": 1003,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        27,
+        28,
+        35,
+        38
+      ],
+      "attributes": [
+        73,
+        64,
+        69,
+        73,
+        52,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 223842,
+      "assetId": 223842
+    },
+    "224161": {
+      "name": "Juan Manuel Tévez",
+      "cardName": "Tévez",
+      "originalVersionId": "0",
+      "clubId": 112659,
+      "leagueId": 1003,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        74,
+        70,
+        54,
+        63,
+        26,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 224161,
+      "assetId": 224161
+    },
+    "225590": {
+      "name": "Iván Colman",
+      "cardName": "Colman",
+      "originalVersionId": "0",
+      "clubId": 112659,
+      "leagueId": 1003,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        13,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        31
+      ],
+      "attributes": [
+        68,
+        67,
+        71,
+        76,
+        51,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 225590,
+      "assetId": 225590
+    },
+    "232517": {
+      "name": "Nicolás Silva",
+      "cardName": "Silva",
+      "originalVersionId": "0",
+      "clubId": 112659,
+      "leagueId": 1003,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        27,
+        35,
+        38
+      ],
+      "attributes": [
+        75,
+        59,
+        63,
+        68,
+        23,
+        40
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 232517,
+      "assetId": 232517
+    },
+    "253602": {
+      "name": "Aldair Fuentes",
+      "cardName": "Fuentes",
+      "originalVersionId": "0",
+      "clubId": 112659,
+      "leagueId": 1003,
+      "countryId": 59,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM"
+      ],
+      "playStyles": [
+        15,
+        19,
+        28
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        62,
+        45,
+        56,
+        59,
+        66,
+        79
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 253602,
+      "assetId": 253602
+    },
+    "253874": {
+      "name": "José Zevallos",
+      "cardName": "Zevallos",
+      "originalVersionId": "0",
+      "clubId": 112659,
+      "leagueId": 1003,
+      "countryId": 59,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "LB",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "attributes": [
+        71,
+        34,
+        57,
+        65,
+        63,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 253874,
+      "assetId": 253874
+    },
+    "254184": {
+      "name": "Carlo Diez",
+      "cardName": "Diez",
+      "originalVersionId": "0",
+      "clubId": 112659,
+      "leagueId": 1003,
+      "countryId": 59,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        6,
+        14,
+        15,
+        18,
+        24
+      ],
+      "attributes": [
+        60,
+        61,
+        66,
+        61,
+        65,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 254184,
+      "assetId": 254184
+    },
+    "254374": {
+      "name": "Miguel Aucca",
+      "cardName": "Aucca",
+      "originalVersionId": "0",
+      "clubId": 112659,
+      "leagueId": 1003,
+      "countryId": 59,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19
+      ],
+      "attributes": [
+        67,
+        61,
+        62,
+        63,
+        63,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 254374,
+      "assetId": 254374
+    },
+    "259780": {
+      "name": "Pedro Díaz",
+      "cardName": "Díaz",
+      "originalVersionId": "0",
+      "clubId": 112659,
+      "leagueId": 1003,
+      "countryId": 59,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        45
+      ],
+      "attributes": [
+        69,
+        66,
+        66,
+        70,
+        37,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 259780,
+      "assetId": 259780
+    },
+    "261970": {
+      "name": "Diego Soto",
+      "cardName": "Soto",
+      "originalVersionId": "0",
+      "clubId": 112659,
+      "leagueId": 1003,
+      "countryId": 59,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        13,
+        15,
+        19,
+        31
+      ],
+      "attributes": [
+        65,
+        59,
+        66,
+        68,
+        63,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 261970,
+      "assetId": 261970
+    },
+    "265446": {
+      "name": "José Bolívar",
+      "cardName": "Bolívar",
+      "originalVersionId": "0",
+      "clubId": 112659,
+      "leagueId": 1003,
+      "countryId": 59,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "LB"
+      ],
+      "playStyles": [
+        16,
+        17
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7,
+        8,
+        12,
+        17
+      ],
+      "attributes": [
+        75,
+        58,
+        62,
+        62,
+        60,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 265446,
+      "assetId": 265446
+    },
+    "276044": {
+      "name": "Joel Herrera",
+      "cardName": "Herrera",
+      "originalVersionId": "0",
+      "clubId": 112659,
+      "leagueId": 1003,
+      "countryId": 59,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        35
+      ],
+      "attributes": [
+        69,
+        51,
+        58,
+        63,
+        48,
+        42
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 276044,
+      "assetId": 276044
+    },
+    "279075": {
+      "name": "Gu Rum Choi",
+      "cardName": "Choi",
+      "originalVersionId": "0",
+      "clubId": 112659,
+      "leagueId": 1003,
+      "countryId": 59,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        56,
+        22,
+        52,
+        53,
+        65,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 279075,
+      "assetId": 279075
+    }
+  }
+}

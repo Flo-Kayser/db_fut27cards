@@ -1,0 +1,887 @@
+{
+  "clubName": "SZ Peng City",
+  "players": {
+    "77812": {
+      "name": "Xuan Zhijian",
+      "cardName": "Xuan Zhijian",
+      "originalVersionId": "0",
+      "clubId": 131487,
+      "leagueId": 2012,
+      "countryId": 155,
+      "versionId": "2000",
+      "rating": 55,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        23,
+        35
+      ],
+      "attributes": [
+        62,
+        25,
+        38,
+        45,
+        50,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 77812,
+      "assetId": 77812
+    },
+    "77936": {
+      "name": "Shen Huanming",
+      "cardName": "Shen Huanming",
+      "originalVersionId": "0",
+      "clubId": 131487,
+      "leagueId": 2012,
+      "countryId": 155,
+      "versionId": "2000",
+      "rating": 53,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        58,
+        24,
+        34,
+        39,
+        54,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 77936,
+      "assetId": 77936
+    },
+    "77938": {
+      "name": "Zhang Haonan",
+      "cardName": "Zhang Haonan",
+      "originalVersionId": "0",
+      "clubId": 131487,
+      "leagueId": 2012,
+      "countryId": 155,
+      "versionId": "2000",
+      "rating": 48,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        49,
+        46,
+        51,
+        47,
+        28,
+        50
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 77938,
+      "assetId": 77938
+    },
+    "81941": {
+      "name": "Gabriel Xavier",
+      "cardName": "Gabriel Xavier",
+      "originalVersionId": "0",
+      "clubId": 131487,
+      "leagueId": 2012,
+      "countryId": 54,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        14,
+        28
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        58,
+        40,
+        45,
+        47,
+        71,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 81941,
+      "assetId": 81941
+    },
+    "208480": {
+      "name": "Chow Tim",
+      "cardName": "Chow Tim",
+      "originalVersionId": "0",
+      "clubId": 131487,
+      "leagueId": 2012,
+      "countryId": 213,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        26
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        18
+      ],
+      "attributes": [
+        69,
+        68,
+        69,
+        69,
+        67,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 208480,
+      "assetId": 208480
+    },
+    "222273": {
+      "name": "Jiang Zhipeng",
+      "cardName": "Jiang Zhipeng",
+      "originalVersionId": "0",
+      "clubId": 131487,
+      "leagueId": 2012,
+      "countryId": 155,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        29,
+        40
+      ],
+      "attributes": [
+        56,
+        59,
+        62,
+        62,
+        58,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 222273,
+      "assetId": 222273
+    },
+    "222278": {
+      "name": "Tang Miao",
+      "cardName": "Tang Miao",
+      "originalVersionId": "0",
+      "clubId": 131487,
+      "leagueId": 2012,
+      "countryId": 155,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        16,
+        17
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        6,
+        23,
+        35
+      ],
+      "attributes": [
+        69,
+        42,
+        55,
+        61,
+        53,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 222278,
+      "assetId": 222278
+    },
+    "224558": {
+      "name": "Yu Rui",
+      "cardName": "Yu Rui",
+      "originalVersionId": "0",
+      "clubId": 131487,
+      "leagueId": 2012,
+      "countryId": 155,
+      "versionId": "2000",
+      "rating": 57,
+      "preferredFoot": "Right",
+      "weakFoot": 1,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        35,
+        39,
+        51,
+        51,
+        55,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 224558,
+      "assetId": 224558
+    },
+    "232381": {
+      "name": "Wesley",
+      "cardName": "Wesley",
+      "originalVersionId": "0",
+      "clubId": 131487,
+      "leagueId": 2012,
+      "countryId": 54,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        66,
+        69,
+        66,
+        65,
+        40,
+        83
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 232381,
+      "assetId": 232381
+    },
+    "240805": {
+      "name": "Dai Weijun",
+      "cardName": "Dai Weijun",
+      "originalVersionId": "0",
+      "clubId": 131487,
+      "leagueId": 2012,
+      "countryId": 155,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "LW",
+        "RM"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        29,
+        33,
+        40
+      ],
+      "attributes": [
+        72,
+        59,
+        62,
+        65,
+        46,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 240805,
+      "assetId": 240805
+    },
+    "240917": {
+      "name": "Zhang Yufeng",
+      "cardName": "Zhang Yufeng",
+      "originalVersionId": "0",
+      "clubId": 131487,
+      "leagueId": 2012,
+      "countryId": 155,
+      "versionId": "2000",
+      "rating": 56,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        18
+      ],
+      "attributes": [
+        63,
+        45,
+        54,
+        57,
+        56,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 240917,
+      "assetId": 240917
+    },
+    "241353": {
+      "name": "Li Long",
+      "cardName": "Li Long",
+      "originalVersionId": "0",
+      "clubId": 131487,
+      "leagueId": 2012,
+      "countryId": 155,
+      "versionId": "2000",
+      "rating": 55,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        38
+      ],
+      "attributes": [
+        66,
+        43,
+        51,
+        56,
+        39,
+        53
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 241353,
+      "assetId": 241353
+    },
+    "242414": {
+      "name": "Yao Junsheng",
+      "cardName": "Yao Junsheng",
+      "originalVersionId": "0",
+      "clubId": 131487,
+      "leagueId": 2012,
+      "countryId": 155,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        10,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        24,
+        25,
+        37
+      ],
+      "attributes": [
+        70,
+        58,
+        57,
+        59,
+        55,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 242414,
+      "assetId": 242414
+    },
+    "244269": {
+      "name": "Filip Benković",
+      "cardName": "Benković",
+      "originalVersionId": "0",
+      "clubId": 131487,
+      "leagueId": 2012,
+      "countryId": 10,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        18,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        59,
+        44,
+        54,
+        55,
+        71,
+        81
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 244269,
+      "assetId": 244269
+    },
+    "245036": {
+      "name": "Zhao Jianfei",
+      "cardName": "Zhao Jianfei",
+      "originalVersionId": "0",
+      "clubId": 131487,
+      "leagueId": 2012,
+      "countryId": 155,
+      "versionId": "2000",
+      "rating": 55,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        4,
+        11,
+        17
+      ],
+      "attributes": [
+        52,
+        25,
+        37,
+        45,
+        55,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 245036,
+      "assetId": 245036
+    },
+    "255632": {
+      "name": "Yang Yiming",
+      "cardName": "Yang Yiming",
+      "originalVersionId": "0",
+      "clubId": 131487,
+      "leagueId": 2012,
+      "countryId": 155,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        28
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        48
+      ],
+      "attributes": [
+        48,
+        50,
+        38,
+        47,
+        58,
+        77
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 255632,
+      "assetId": 255632
+    },
+    "260645": {
+      "name": "Albion Ademi",
+      "cardName": "Ademi",
+      "originalVersionId": "0",
+      "clubId": 131487,
+      "leagueId": 2012,
+      "countryId": 1,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CDM",
+        "CM",
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        19,
+        26,
+        27,
+        30,
+        39
+      ],
+      "attributes": [
+        79,
+        61,
+        59,
+        70,
+        30,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 260645,
+      "assetId": 260645
+    },
+    "261931": {
+      "name": "Wei Minzhe",
+      "cardName": "Wei Minzhe",
+      "originalVersionId": "0",
+      "clubId": 131487,
+      "leagueId": 2012,
+      "countryId": 155,
+      "versionId": "2000",
+      "rating": 55,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        55,
+        54,
+        53,
+        55,
+        23,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 261931,
+      "assetId": 261931
+    },
+    "269127": {
+      "name": "Ji Jiabao",
+      "cardName": "Ji Jiabao",
+      "originalVersionId": "0",
+      "clubId": 131487,
+      "leagueId": 2012,
+      "countryId": 155,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        32
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        61,
+        60,
+        56,
+        65,
+        16,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 269127,
+      "assetId": 269127
+    },
+    "271525": {
+      "name": "Deabeas Owusu-Sekyere",
+      "cardName": "Owusu-Sekyere",
+      "originalVersionId": "0",
+      "clubId": 131487,
+      "leagueId": 2012,
+      "countryId": 34,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        25,
+        27,
+        36,
+        38
+      ],
+      "attributes": [
+        85,
+        64,
+        56,
+        70,
+        25,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 271525,
+      "assetId": 271525
+    },
+    "272314": {
+      "name": "Peng Peng",
+      "cardName": "Peng Peng",
+      "originalVersionId": "0",
+      "clubId": 131487,
+      "leagueId": 2012,
+      "countryId": 155,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        2
+      ],
+      "attributes": [
+        58,
+        56,
+        52,
+        65,
+        17,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 272314,
+      "assetId": 272314
+    },
+    "272759": {
+      "name": "Li Ning",
+      "cardName": "Li Ning",
+      "originalVersionId": "0",
+      "clubId": 131487,
+      "leagueId": 2012,
+      "countryId": 155,
+      "versionId": "2000",
+      "rating": 56,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CM",
+        "LB",
+        "LM",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        6,
+        10,
+        24,
+        27,
+        28
+      ],
+      "attributes": [
+        62,
+        48,
+        49,
+        61,
+        46,
+        53
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 272759,
+      "assetId": 272759
+    },
+    "274024": {
+      "name": "Eden Karzev",
+      "cardName": "Karzev",
+      "originalVersionId": "0",
+      "clubId": 131487,
+      "leagueId": 2012,
+      "countryId": 26,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        18
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        15,
+        17,
+        18
+      ],
+      "attributes": [
+        69,
+        65,
+        67,
+        68,
+        66,
+        81
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 274024,
+      "assetId": 274024
+    }
+  }
+}

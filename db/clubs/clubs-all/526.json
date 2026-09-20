@@ -1,0 +1,923 @@
+{
+  "clubName": "Rot-Weiss Essen",
+  "players": {
+    "73015": {
+      "name": "Ben Hüning",
+      "cardName": "Hüning",
+      "originalVersionId": "0",
+      "clubId": 526,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3,
+        11
+      ],
+      "attributes": [
+        58,
+        42,
+        44,
+        55,
+        64,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 73015,
+      "assetId": 73015
+    },
+    "73169": {
+      "name": "Janne Sietan",
+      "cardName": "Sietan",
+      "originalVersionId": "0",
+      "clubId": 526,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        17,
+        18
+      ],
+      "attributes": [
+        61,
+        51,
+        56,
+        61,
+        62,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 73169,
+      "assetId": 73169
+    },
+    "74003": {
+      "name": "Jaka Čuber Potočnik",
+      "cardName": "Čuber Potočnik",
+      "originalVersionId": "0",
+      "clubId": 526,
+      "leagueId": 2076,
+      "countryId": 44,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        60,
+        64,
+        50,
+        61,
+        39,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 74003,
+      "assetId": 74003
+    },
+    "76033": {
+      "name": "Noah Pesch",
+      "cardName": "Pesch",
+      "originalVersionId": "0",
+      "clubId": 526,
+      "leagueId": 2076,
+      "countryId": 10,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        35
+      ],
+      "attributes": [
+        67,
+        64,
+        60,
+        70,
+        36,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 76033,
+      "assetId": 76033
+    },
+    "78448": {
+      "name": "Ruben Reisig",
+      "cardName": "Reisig",
+      "originalVersionId": "0",
+      "clubId": 526,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        14,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        13,
+        14,
+        16,
+        19
+      ],
+      "attributes": [
+        59,
+        58,
+        59,
+        60,
+        63,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 78448,
+      "assetId": 78448
+    },
+    "80755": {
+      "name": "Aiman Dardari",
+      "cardName": "Dardari",
+      "originalVersionId": "0",
+      "clubId": 526,
+      "leagueId": 2076,
+      "countryId": 31,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        38
+      ],
+      "attributes": [
+        73,
+        59,
+        57,
+        67,
+        31,
+        42
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 80755,
+      "assetId": 80755
+    },
+    "82764": {
+      "name": "James Gnagnon",
+      "cardName": "Gnagnon",
+      "originalVersionId": "0",
+      "clubId": 526,
+      "leagueId": 2076,
+      "countryId": 205,
+      "versionId": "2000",
+      "rating": 55,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        62,
+        27,
+        34,
+        39,
+        56,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 82764,
+      "assetId": 82764
+    },
+    "87424": {
+      "name": "Romero Gerres",
+      "cardName": "Gerres",
+      "originalVersionId": "0",
+      "clubId": 526,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 56,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        61,
+        55,
+        55,
+        63,
+        25,
+        50
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 87424,
+      "assetId": 87424
+    },
+    "244707": {
+      "name": "Ekin Celebi",
+      "cardName": "Celebi",
+      "originalVersionId": "0",
+      "clubId": 526,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        10,
+        26,
+        36
+      ],
+      "attributes": [
+        66,
+        40,
+        52,
+        59,
+        61,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 244707,
+      "assetId": 244707
+    },
+    "257190": {
+      "name": "Dickson Abiama",
+      "cardName": "Abiama",
+      "originalVersionId": "0",
+      "clubId": 526,
+      "leagueId": 2076,
+      "countryId": 133,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        30,
+        32,
+        41,
+        43
+      ],
+      "attributes": [
+        83,
+        63,
+        49,
+        68,
+        30,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 257190,
+      "assetId": 257190
+    },
+    "260186": {
+      "name": "Lucas Brumme",
+      "cardName": "Brumme",
+      "originalVersionId": "0",
+      "clubId": 526,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        0,
+        12,
+        2,
+        27,
+        3
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        10,
+        29,
+        30,
+        40
+      ],
+      "attributes": [
+        70,
+        64,
+        61,
+        65,
+        61,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 260186,
+      "assetId": 260186
+    },
+    "260405": {
+      "name": "Max Geschwill",
+      "cardName": "Geschwill",
+      "originalVersionId": "0",
+      "clubId": 526,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        18
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        48
+      ],
+      "attributes": [
+        68,
+        31,
+        49,
+        62,
+        66,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 260405,
+      "assetId": 260405
+    },
+    "261528": {
+      "name": "Marvin Obuz",
+      "cardName": "Obuz",
+      "originalVersionId": "0",
+      "clubId": 526,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        21,
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        27,
+        35,
+        38
+      ],
+      "attributes": [
+        77,
+        61,
+        58,
+        68,
+        33,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 261528,
+      "assetId": 261528
+    },
+    "264214": {
+      "name": "Luca Bazzoli",
+      "cardName": "Bazzoli",
+      "originalVersionId": "0",
+      "clubId": 526,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        16,
+        19
+      ],
+      "attributes": [
+        55,
+        41,
+        52,
+        61,
+        67,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 264214,
+      "assetId": 264214
+    },
+    "265750": {
+      "name": "Felix Wienand",
+      "cardName": "Wienand",
+      "originalVersionId": "0",
+      "clubId": 526,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        45
+      ],
+      "attributes": [
+        61,
+        58,
+        54,
+        66,
+        32,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 265750,
+      "assetId": 265750
+    },
+    "269269": {
+      "name": "Jakob Golz",
+      "cardName": "Golz",
+      "originalVersionId": "0",
+      "clubId": 526,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        30
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        72,
+        64,
+        60,
+        73,
+        19,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 269269,
+      "assetId": 269269
+    },
+    "269315": {
+      "name": "José-Enrique Ríos Alonso",
+      "cardName": "Ríos Alonso",
+      "originalVersionId": "0",
+      "clubId": 526,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        15,
+        16,
+        19,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        48
+      ],
+      "attributes": [
+        71,
+        40,
+        51,
+        55,
+        67,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 550,
+      "resourceId": 269315,
+      "assetId": 269315
+    },
+    "269850": {
+      "name": "Michael Kostka",
+      "cardName": "Kostka",
+      "originalVersionId": "0",
+      "clubId": 526,
+      "leagueId": 2076,
+      "countryId": 37,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        25,
+        37
+      ],
+      "attributes": [
+        83,
+        41,
+        59,
+        64,
+        61,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 269850,
+      "assetId": 269850
+    },
+    "272909": {
+      "name": "Marek Janssen",
+      "cardName": "Janssen",
+      "originalVersionId": "0",
+      "clubId": 526,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        29,
+        5,
+        7
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        64,
+        65,
+        48,
+        57,
+        32,
+        81
+      ],
+      "hasDynamicImage": false,
+      "price": 3000,
+      "resourceId": 272909,
+      "assetId": 272909
+    },
+    "273533": {
+      "name": "Franci Bouebari",
+      "cardName": "Bouebari",
+      "originalVersionId": "0",
+      "clubId": 526,
+      "leagueId": 2076,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        16
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9
+      ],
+      "attributes": [
+        67,
+        37,
+        50,
+        63,
+        61,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 273533,
+      "assetId": 273533
+    },
+    "273771": {
+      "name": "Semir Telalović",
+      "cardName": "Telalović",
+      "originalVersionId": "0",
+      "clubId": 526,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        66,
+        66,
+        52,
+        67,
+        34,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 550,
+      "resourceId": 273771,
+      "assetId": 273771
+    },
+    "274565": {
+      "name": "Jannik Hofmann",
+      "cardName": "Hofmann",
+      "originalVersionId": "0",
+      "clubId": 526,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        26,
+        36
+      ],
+      "attributes": [
+        73,
+        39,
+        59,
+        67,
+        61,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 550,
+      "resourceId": 274565,
+      "assetId": 274565
+    },
+    "277509": {
+      "name": "Tony Menzel",
+      "cardName": "Menzel",
+      "originalVersionId": "0",
+      "clubId": 526,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19,
+        30,
+        31,
+        39
+      ],
+      "attributes": [
+        71,
+        60,
+        60,
+        66,
+        56,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 277509,
+      "assetId": 277509
+    },
+    "50588955": {
+      "name": "Nick Bätzner",
+      "cardName": "Bätzner",
+      "originalVersionId": "0",
+      "clubId": 526,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        13
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        25,
+        33,
+        37
+      ],
+      "attributes": [
+        68,
+        60,
+        70,
+        70,
+        53,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 50588955,
+      "assetId": 257307
+    }
+  }
+}

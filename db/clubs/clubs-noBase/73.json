@@ -1,0 +1,94 @@
+{
+  "clubName": "PSG",
+  "players": {
+    "50573109": {
+      "name": "Ferran Torres",
+      "cardName": "Ferran Torres",
+      "originalVersionId": "150",
+      "clubId": 73,
+      "leagueId": 16,
+      "countryId": 45,
+      "versionId": "150",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        20,
+        21
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        88,
+        84,
+        78,
+        82,
+        40,
+        74
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50573109,
+      "assetId": 241461
+    },
+    "67349089": {
+      "name": "Matvey Safonov",
+      "cardName": "Safonov",
+      "originalVersionId": "3",
+      "clubId": 73,
+      "leagueId": 16,
+      "countryId": 40,
+      "versionId": "3",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        30,
+        32,
+        35
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        83,
+        78,
+        81,
+        87,
+        52,
+        85
+      ],
+      "hasDynamicImage": true,
+      "price": 30000,
+      "resourceId": 67349089,
+      "assetId": 240225
+    }
+  }
+}

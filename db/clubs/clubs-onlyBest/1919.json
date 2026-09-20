@@ -1,0 +1,981 @@
+{
+  "clubName": "Bristol City",
+  "players": {
+    "73429": {
+      "name": "Yū Hirakawa",
+      "cardName": "Hirakawa",
+      "originalVersionId": "0",
+      "clubId": 1919,
+      "leagueId": 14,
+      "countryId": 163,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        23,
+        33,
+        35
+      ],
+      "attributes": [
+        82,
+        59,
+        64,
+        73,
+        37,
+        51
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 73429,
+      "assetId": 73429
+    },
+    "79397": {
+      "name": "Gibson Yah",
+      "cardName": "Yah",
+      "originalVersionId": "0",
+      "clubId": 1919,
+      "leagueId": 14,
+      "countryId": 34,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        16,
+        28
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        15,
+        16,
+        21,
+        31
+      ],
+      "attributes": [
+        72,
+        44,
+        65,
+        66,
+        64,
+        78
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 79397,
+      "assetId": 79397
+    },
+    "80711": {
+      "name": "Rio Cardines",
+      "cardName": "Cardines",
+      "originalVersionId": "0",
+      "clubId": 1919,
+      "leagueId": 14,
+      "countryId": 93,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        6,
+        10,
+        24,
+        27
+      ],
+      "attributes": [
+        69,
+        48,
+        60,
+        61,
+        56,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 80711,
+      "assetId": 80711
+    },
+    "83529": {
+      "name": "Seb Naylor",
+      "cardName": "Naylor",
+      "originalVersionId": "0",
+      "clubId": 1919,
+      "leagueId": 14,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        28
+      ],
+      "attributes": [
+        76,
+        49,
+        53,
+        61,
+        54,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 83529,
+      "assetId": 83529
+    },
+    "87052": {
+      "name": "Lisav Eissat",
+      "cardName": "Eissat",
+      "originalVersionId": "0",
+      "clubId": 1919,
+      "leagueId": 14,
+      "countryId": 39,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7,
+        11
+      ],
+      "attributes": [
+        65,
+        35,
+        53,
+        55,
+        65,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 87052,
+      "assetId": 87052
+    },
+    "205970": {
+      "name": "Jed Wallace",
+      "cardName": "Wallace",
+      "originalVersionId": "0",
+      "clubId": 1919,
+      "leagueId": 14,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        26,
+        32,
+        35,
+        43
+      ],
+      "attributes": [
+        72,
+        67,
+        69,
+        71,
+        45,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 205970,
+      "assetId": 205970
+    },
+    "223159": {
+      "name": "Rob Dickie",
+      "cardName": "Dickie",
+      "originalVersionId": "0",
+      "clubId": 1919,
+      "leagueId": 14,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 73,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        15,
+        17,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12
+      ],
+      "attributes": [
+        53,
+        45,
+        54,
+        57,
+        73,
+        79
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 223159,
+      "assetId": 223159
+    },
+    "224265": {
+      "name": "Joe Williams",
+      "cardName": "Williams",
+      "originalVersionId": "0",
+      "clubId": 1919,
+      "leagueId": 14,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        20
+      ],
+      "attributes": [
+        52,
+        57,
+        67,
+        68,
+        68,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 224265,
+      "assetId": 224265
+    },
+    "225543": {
+      "name": "Brad Collins",
+      "cardName": "Collins",
+      "originalVersionId": "0",
+      "clubId": 1919,
+      "leagueId": 14,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        31,
+        33
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        2
+      ],
+      "attributes": [
+        66,
+        63,
+        66,
+        66,
+        43,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 225543,
+      "assetId": 225543
+    },
+    "229274": {
+      "name": "Lewis Thomas",
+      "cardName": "Thomas",
+      "originalVersionId": "0",
+      "clubId": 1919,
+      "leagueId": 14,
+      "countryId": 50,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        59,
+        58,
+        57,
+        60,
+        57,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 229274,
+      "assetId": 229274
+    },
+    "234941": {
+      "name": "Cameron Pring",
+      "cardName": "Pring",
+      "originalVersionId": "0",
+      "clubId": 1919,
+      "leagueId": 14,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CB",
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        18
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        8,
+        9,
+        28,
+        48
+      ],
+      "attributes": [
+        79,
+        48,
+        61,
+        67,
+        66,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 234941,
+      "assetId": 234941
+    },
+    "237619": {
+      "name": "Scott Twine",
+      "cardName": "Twine",
+      "originalVersionId": "0",
+      "clubId": 1919,
+      "leagueId": 14,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        13,
+        3,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        25,
+        29,
+        31,
+        40
+      ],
+      "attributes": [
+        76,
+        71,
+        72,
+        73,
+        55,
+        53
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 237619,
+      "assetId": 237619
+    },
+    "241824": {
+      "name": "Rob Atkinson",
+      "cardName": "Atkinson",
+      "originalVersionId": "0",
+      "clubId": 1919,
+      "leagueId": 14,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12,
+        48
+      ],
+      "attributes": [
+        60,
+        25,
+        49,
+        58,
+        72,
+        79
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 241824,
+      "assetId": 241824
+    },
+    "242800": {
+      "name": "George Tanner",
+      "cardName": "Tanner",
+      "originalVersionId": "0",
+      "clubId": 1919,
+      "leagueId": 14,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3,
+        12,
+        13
+      ],
+      "attributes": [
+        70,
+        49,
+        61,
+        66,
+        70,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 600,
+      "resourceId": 242800,
+      "assetId": 242800
+    },
+    "247395": {
+      "name": "Luke McNally",
+      "cardName": "McNally",
+      "originalVersionId": "0",
+      "clubId": 1919,
+      "leagueId": 14,
+      "countryId": 25,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        16,
+        18,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12
+      ],
+      "attributes": [
+        52,
+        35,
+        53,
+        60,
+        71,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 247395,
+      "assetId": 247395
+    },
+    "251306": {
+      "name": "Adam Randell",
+      "cardName": "Randell",
+      "originalVersionId": "0",
+      "clubId": 1919,
+      "leagueId": 14,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        16,
+        2,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19,
+        20
+      ],
+      "attributes": [
+        72,
+        65,
+        68,
+        71,
+        67,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 251306,
+      "assetId": 251306
+    },
+    "252376": {
+      "name": "Jason Knight",
+      "cardName": "Knight",
+      "originalVersionId": "0",
+      "clubId": 1919,
+      "leagueId": 14,
+      "countryId": 25,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        17,
+        22,
+        26
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        18
+      ],
+      "attributes": [
+        71,
+        64,
+        70,
+        72,
+        67,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 252376,
+      "assetId": 252376
+    },
+    "253407": {
+      "name": "Sam Greenwood",
+      "cardName": "Greenwood",
+      "originalVersionId": "0",
+      "clubId": 1919,
+      "leagueId": 14,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [
+        13
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19,
+        33,
+        43
+      ],
+      "attributes": [
+        70,
+        68,
+        69,
+        69,
+        52,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 253407,
+      "assetId": 253407
+    },
+    "259926": {
+      "name": "Sam Bell",
+      "cardName": "Bell",
+      "originalVersionId": "0",
+      "clubId": 1919,
+      "leagueId": 14,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        30,
+        39,
+        42
+      ],
+      "attributes": [
+        78,
+        64,
+        57,
+        67,
+        23,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 259926,
+      "assetId": 259926
+    },
+    "260001": {
+      "name": "Noah Eile",
+      "cardName": "Eile",
+      "originalVersionId": "0",
+      "clubId": 1919,
+      "leagueId": 14,
+      "countryId": 46,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        16
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        13
+      ],
+      "attributes": [
+        73,
+        27,
+        47,
+        62,
+        66,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 260001,
+      "assetId": 260001
+    },
+    "263214": {
+      "name": "Sam Tickle",
+      "cardName": "Tickle",
+      "originalVersionId": "0",
+      "clubId": 1919,
+      "leagueId": 14,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        31,
+        32
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        66,
+        65,
+        64,
+        66,
+        34,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 550,
+      "resourceId": 263214,
+      "assetId": 263214
+    },
+    "266886": {
+      "name": "Lorent Tolaj",
+      "cardName": "Tolaj",
+      "originalVersionId": "0",
+      "clubId": 1919,
+      "leagueId": 14,
+      "countryId": 47,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        1,
+        2,
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        42
+      ],
+      "attributes": [
+        76,
+        68,
+        57,
+        65,
+        39,
+        78
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 266886,
+      "assetId": 266886
+    },
+    "270017": {
+      "name": "Tomi Horvat",
+      "cardName": "Horvat",
+      "originalVersionId": "0",
+      "clubId": 1919,
+      "leagueId": 14,
+      "countryId": 44,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        20,
+        3
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        26,
+        33,
+        36,
+        49
+      ],
+      "attributes": [
+        74,
+        70,
+        73,
+        75,
+        55,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 550,
+      "resourceId": 270017,
+      "assetId": 270017
+    },
+    "271530": {
+      "name": "Dom Ballard",
+      "cardName": "Ballard",
+      "originalVersionId": "0",
+      "clubId": 1919,
+      "leagueId": 14,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        42
+      ],
+      "attributes": [
+        78,
+        71,
+        54,
+        68,
+        28,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 550,
+      "resourceId": 271530,
+      "assetId": 271530
+    },
+    "50582561": {
+      "name": "Brian De Keersmaecker",
+      "cardName": "De Keersmaecker",
+      "originalVersionId": "0",
+      "clubId": 1919,
+      "leagueId": 14,
+      "countryId": 7,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        16,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        15,
+        17,
+        18
+      ],
+      "attributes": [
+        74,
+        61,
+        70,
+        68,
+        66,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 50582561,
+      "assetId": 250913
+    }
+  }
+}

@@ -1,0 +1,881 @@
+{
+  "clubName": "SC Austria",
+  "players": {
+    "74078": {
+      "name": "Phillip Böhm",
+      "cardName": "Böhm",
+      "originalVersionId": "0",
+      "clubId": 781,
+      "leagueId": 80,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        61,
+        58,
+        53,
+        61,
+        23,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 74078,
+      "assetId": 74078
+    },
+    "79371": {
+      "name": "Emmanuel Chukwu",
+      "cardName": "Chukwu",
+      "originalVersionId": "0",
+      "clubId": 781,
+      "leagueId": 80,
+      "countryId": 133,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        56,
+        24,
+        39,
+        39,
+        60,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 79371,
+      "assetId": 79371
+    },
+    "79372": {
+      "name": "Precious Benjamin",
+      "cardName": "Benjamin",
+      "originalVersionId": "0",
+      "clubId": 781,
+      "leagueId": 80,
+      "countryId": 133,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        57,
+        60,
+        47,
+        59,
+        26,
+        53
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 79372,
+      "assetId": 79372
+    },
+    "79920": {
+      "name": "Dominik Weixelbraun",
+      "cardName": "Weixelbraun",
+      "originalVersionId": "0",
+      "clubId": 781,
+      "leagueId": 80,
+      "countryId": 4,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        6,
+        10,
+        24,
+        28
+      ],
+      "attributes": [
+        80,
+        57,
+        61,
+        62,
+        50,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 79920,
+      "assetId": 79920
+    },
+    "83531": {
+      "name": "Antonio Verinac",
+      "cardName": "Verinac",
+      "originalVersionId": "0",
+      "clubId": 781,
+      "leagueId": 80,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        52,
+        58,
+        39,
+        52,
+        23,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 83531,
+      "assetId": 83531
+    },
+    "86186": {
+      "name": "Frederic Flatz",
+      "cardName": "Flatz",
+      "originalVersionId": "0",
+      "clubId": 781,
+      "leagueId": 80,
+      "countryId": 4,
+      "versionId": "2000",
+      "rating": 55,
+      "preferredFoot": "Right",
+      "weakFoot": 1,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        53,
+        56,
+        57,
+        57,
+        30,
+        53
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 86186,
+      "assetId": 86186
+    },
+    "86191": {
+      "name": "Haris Ismailcebioglu",
+      "cardName": "Ismailcebioglu",
+      "originalVersionId": "0",
+      "clubId": 781,
+      "leagueId": 80,
+      "countryId": 4,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        30,
+        33,
+        39
+      ],
+      "attributes": [
+        65,
+        57,
+        61,
+        63,
+        43,
+        51
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 86191,
+      "assetId": 86191
+    },
+    "86194": {
+      "name": "Seydou Diarra",
+      "cardName": "Diarra",
+      "originalVersionId": "0",
+      "clubId": 781,
+      "leagueId": 80,
+      "countryId": 126,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        35
+      ],
+      "attributes": [
+        74,
+        61,
+        59,
+        65,
+        31,
+        47
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 86194,
+      "assetId": 86194
+    },
+    "86382": {
+      "name": "Lord Afrifa",
+      "cardName": "Afrifa",
+      "originalVersionId": "0",
+      "clubId": 781,
+      "leagueId": 80,
+      "countryId": 117,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        18,
+        31
+      ],
+      "attributes": [
+        69,
+        53,
+        59,
+        60,
+        52,
+        54
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 86382,
+      "assetId": 86382
+    },
+    "86383": {
+      "name": "Novak Rajic",
+      "cardName": "Rajic",
+      "originalVersionId": "0",
+      "clubId": 781,
+      "leagueId": 80,
+      "countryId": 4,
+      "versionId": "2000",
+      "rating": 53,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        67,
+        31,
+        42,
+        43,
+        53,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 86383,
+      "assetId": 86383
+    },
+    "86384": {
+      "name": "Melih Akbulut",
+      "cardName": "Akbulut",
+      "originalVersionId": "0",
+      "clubId": 781,
+      "leagueId": 80,
+      "countryId": 4,
+      "versionId": "2000",
+      "rating": 56,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        36,
+        41
+      ],
+      "attributes": [
+        71,
+        55,
+        52,
+        58,
+        25,
+        49
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 86384,
+      "assetId": 86384
+    },
+    "199770": {
+      "name": "Matthias Maak",
+      "cardName": "Maak",
+      "originalVersionId": "0",
+      "clubId": 781,
+      "leagueId": 80,
+      "countryId": 4,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        15,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        36,
+        39,
+        49,
+        46,
+        63,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 199770,
+      "assetId": 199770
+    },
+    "216283": {
+      "name": "Danilo",
+      "cardName": "Danilo",
+      "originalVersionId": "0",
+      "clubId": 781,
+      "leagueId": 80,
+      "countryId": 54,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        18
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        27,
+        38
+      ],
+      "attributes": [
+        61,
+        59,
+        62,
+        70,
+        67,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 216283,
+      "assetId": 216283
+    },
+    "223890": {
+      "name": "Domenik Schierl",
+      "cardName": "Schierl",
+      "originalVersionId": "0",
+      "clubId": 781,
+      "leagueId": 80,
+      "countryId": 4,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        31
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        65,
+        66,
+        65,
+        66,
+        43,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 223890,
+      "assetId": 223890
+    },
+    "234094": {
+      "name": "Albin Gashi",
+      "cardName": "Gashi",
+      "originalVersionId": "0",
+      "clubId": 781,
+      "leagueId": 80,
+      "countryId": 4,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        30,
+        33,
+        39
+      ],
+      "attributes": [
+        69,
+        67,
+        64,
+        65,
+        52,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 234094,
+      "assetId": 234094
+    },
+    "236338": {
+      "name": "Fabian Gmeiner",
+      "cardName": "Gmeiner",
+      "originalVersionId": "0",
+      "clubId": 781,
+      "leagueId": 80,
+      "countryId": 4,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3,
+        24
+      ],
+      "attributes": [
+        71,
+        43,
+        57,
+        61,
+        62,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 236338,
+      "assetId": 236338
+    },
+    "257060": {
+      "name": "Lenn Jastremski",
+      "cardName": "Jastremski",
+      "originalVersionId": "0",
+      "clubId": 781,
+      "leagueId": 80,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        32,
+        43,
+        44
+      ],
+      "attributes": [
+        63,
+        65,
+        53,
+        63,
+        30,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 257060,
+      "assetId": 257060
+    },
+    "264027": {
+      "name": "Sacha Delaye",
+      "cardName": "Delaye",
+      "originalVersionId": "0",
+      "clubId": 781,
+      "leagueId": 80,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        20,
+        31
+      ],
+      "attributes": [
+        66,
+        58,
+        66,
+        69,
+        59,
+        52
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 264027,
+      "assetId": 264027
+    },
+    "267785": {
+      "name": "Robin Voisine",
+      "cardName": "Voisine",
+      "originalVersionId": "0",
+      "clubId": 781,
+      "leagueId": 80,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        56,
+        39,
+        46,
+        48,
+        65,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 800,
+      "resourceId": 267785,
+      "assetId": 267785
+    },
+    "268427": {
+      "name": "Niklas Pertlwieser",
+      "cardName": "Pertlwieser",
+      "originalVersionId": "0",
+      "clubId": 781,
+      "leagueId": 80,
+      "countryId": 4,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        66,
+        33,
+        50,
+        47,
+        65,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 268427,
+      "assetId": 268427
+    },
+    "269447": {
+      "name": "Pius Grabher",
+      "cardName": "Grabher",
+      "originalVersionId": "0",
+      "clubId": 781,
+      "leagueId": 80,
+      "countryId": 4,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        20
+      ],
+      "attributes": [
+        61,
+        54,
+        59,
+        63,
+        63,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 269447,
+      "assetId": 269447
+    },
+    "270847": {
+      "name": "Dion Kacuri",
+      "cardName": "Kacuri",
+      "originalVersionId": "0",
+      "clubId": 781,
+      "leagueId": 80,
+      "countryId": 47,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        20
+      ],
+      "attributes": [
+        69,
+        53,
+        59,
+        65,
+        47,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 270847,
+      "assetId": 270847
+    },
+    "276490": {
+      "name": "Lukas Ibertsberger",
+      "cardName": "Ibertsberger",
+      "originalVersionId": "0",
+      "clubId": 781,
+      "leagueId": 80,
+      "countryId": 4,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        27,
+        38
+      ],
+      "attributes": [
+        70,
+        46,
+        61,
+        59,
+        62,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 276490,
+      "assetId": 276490
+    },
+    "50419199": {
+      "name": "Alieu Conateh",
+      "cardName": "Conateh",
+      "originalVersionId": "0",
+      "clubId": 781,
+      "leagueId": 80,
+      "countryId": 116,
+      "versionId": "2000",
+      "rating": 54,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        38
+      ],
+      "attributes": [
+        59,
+        50,
+        45,
+        60,
+        24,
+        46
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 50419199,
+      "assetId": 87551
+    }
+  }
+}

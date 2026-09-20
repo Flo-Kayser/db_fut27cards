@@ -1,0 +1,886 @@
+{
+  "clubName": "FC Voluntari",
+  "players": {
+    "73404": {
+      "name": "Adi Chică-Roșă",
+      "cardName": "Chică-Roșă",
+      "originalVersionId": "0",
+      "clubId": 113182,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        60,
+        64,
+        52,
+        62,
+        24,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 73404,
+      "assetId": 73404
+    },
+    "86319": {
+      "name": "Eduard Chioveanu",
+      "cardName": "Chioveanu",
+      "originalVersionId": "0",
+      "clubId": 113182,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 1,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        63,
+        60,
+        61,
+        64,
+        34,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 86319,
+      "assetId": 86319
+    },
+    "86536": {
+      "name": "Metod Jurhar",
+      "cardName": "Jurhar",
+      "originalVersionId": "0",
+      "clubId": 113182,
+      "leagueId": 330,
+      "countryId": 44,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 1,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        65,
+        61,
+        66,
+        64,
+        33,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 86536,
+      "assetId": 86536
+    },
+    "87183": {
+      "name": "Alexandru Șuteu",
+      "cardName": "Șuteu",
+      "originalVersionId": "0",
+      "clubId": 113182,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7
+      ],
+      "attributes": [
+        71,
+        46,
+        59,
+        63,
+        58,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 87183,
+      "assetId": 87183
+    },
+    "87184": {
+      "name": "Matej Mamić",
+      "cardName": "Mamić",
+      "originalVersionId": "0",
+      "clubId": 113182,
+      "leagueId": 330,
+      "countryId": 10,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3,
+        5,
+        24
+      ],
+      "attributes": [
+        71,
+        49,
+        62,
+        64,
+        59,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 87184,
+      "assetId": 87184
+    },
+    "87271": {
+      "name": "Marvin Schieb",
+      "cardName": "Schieb",
+      "originalVersionId": "0",
+      "clubId": 113182,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        30,
+        35,
+        39
+      ],
+      "attributes": [
+        70,
+        54,
+        59,
+        63,
+        27,
+        51
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 87271,
+      "assetId": 87271
+    },
+    "87272": {
+      "name": "Remus Guțea",
+      "cardName": "Guțea",
+      "originalVersionId": "0",
+      "clubId": 113182,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 3,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        2,
+        21,
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        38
+      ],
+      "attributes": [
+        82,
+        65,
+        59,
+        67,
+        44,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 87272,
+      "assetId": 87272
+    },
+    "87274": {
+      "name": "Ianis Vencu",
+      "cardName": "Vencu",
+      "originalVersionId": "0",
+      "clubId": 113182,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        66,
+        59,
+        52,
+        59,
+        23,
+        53
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 87274,
+      "assetId": 87274
+    },
+    "87276": {
+      "name": "Robert Valentin Petculescu",
+      "cardName": "Petculescu",
+      "originalVersionId": "0",
+      "clubId": 113182,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        30,
+        39,
+        41
+      ],
+      "attributes": [
+        71,
+        60,
+        58,
+        63,
+        29,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 87276,
+      "assetId": 87276
+    },
+    "87277": {
+      "name": "Mario Ionut Stefan",
+      "cardName": "Stefan",
+      "originalVersionId": "0",
+      "clubId": 113182,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2000",
+      "rating": 52,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        67,
+        37,
+        48,
+        50,
+        48,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 87277,
+      "assetId": 87277
+    },
+    "87278": {
+      "name": "Mihael Onisa",
+      "cardName": "Onisa",
+      "originalVersionId": "0",
+      "clubId": 113182,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14
+      ],
+      "attributes": [
+        67,
+        50,
+        61,
+        61,
+        63,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 87278,
+      "assetId": 87278
+    },
+    "88070": {
+      "name": "Bogdan Ștefan",
+      "cardName": "Ștefan",
+      "originalVersionId": "0",
+      "clubId": 113182,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2000",
+      "rating": 53,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        51,
+        52,
+        53,
+        50,
+        26,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 88070,
+      "assetId": 88070
+    },
+    "229543": {
+      "name": "David Kiki",
+      "cardName": "Kiki",
+      "originalVersionId": "0",
+      "clubId": 113182,
+      "leagueId": 330,
+      "countryId": 99,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        27
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        9,
+        24,
+        28
+      ],
+      "attributes": [
+        70,
+        50,
+        55,
+        61,
+        57,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 229543,
+      "assetId": 229543
+    },
+    "230982": {
+      "name": "Mihai Roman",
+      "cardName": "Roman",
+      "originalVersionId": "0",
+      "clubId": 113182,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        42,
+        44
+      ],
+      "attributes": [
+        53,
+        60,
+        50,
+        55,
+        32,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 230982,
+      "assetId": 230982
+    },
+    "235316": {
+      "name": "Radu Crișan",
+      "cardName": "Crișan",
+      "originalVersionId": "0",
+      "clubId": 113182,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        18,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12
+      ],
+      "attributes": [
+        59,
+        38,
+        43,
+        43,
+        59,
+        79
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 235316,
+      "assetId": 235316
+    },
+    "247912": {
+      "name": "Ion Gheorghe",
+      "cardName": "Gheorghe",
+      "originalVersionId": "0",
+      "clubId": 113182,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        27,
+        29,
+        31,
+        40
+      ],
+      "attributes": [
+        83,
+        58,
+        60,
+        63,
+        46,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 247912,
+      "assetId": 247912
+    },
+    "248675": {
+      "name": "Florin Haită",
+      "cardName": "Haită",
+      "originalVersionId": "0",
+      "clubId": 113182,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        23,
+        33,
+        35
+      ],
+      "attributes": [
+        74,
+        61,
+        60,
+        65,
+        23,
+        42
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 248675,
+      "assetId": 248675
+    },
+    "251636": {
+      "name": "Denis Haruț",
+      "cardName": "Haruț",
+      "originalVersionId": "0",
+      "clubId": 113182,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        4,
+        5,
+        17
+      ],
+      "attributes": [
+        74,
+        41,
+        60,
+        57,
+        62,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 251636,
+      "assetId": 251636
+    },
+    "253438": {
+      "name": "George Merloi",
+      "cardName": "Merloi",
+      "originalVersionId": "0",
+      "clubId": 113182,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        35
+      ],
+      "attributes": [
+        77,
+        55,
+        59,
+        68,
+        37,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 253438,
+      "assetId": 253438
+    },
+    "256696": {
+      "name": "Darius Ghindovean",
+      "cardName": "Ghindovean",
+      "originalVersionId": "0",
+      "clubId": 113182,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        71,
+        60,
+        63,
+        68,
+        53,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 1300,
+      "resourceId": 256696,
+      "assetId": 256696
+    },
+    "263210": {
+      "name": "Daniel Toma",
+      "cardName": "Toma",
+      "originalVersionId": "0",
+      "clubId": 113182,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        64,
+        48,
+        60,
+        57,
+        54,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 2300,
+      "resourceId": 263210,
+      "assetId": 263210
+    },
+    "268134": {
+      "name": "Lovro Cvek",
+      "cardName": "Cvek",
+      "originalVersionId": "0",
+      "clubId": 113182,
+      "leagueId": 330,
+      "countryId": 10,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19
+      ],
+      "attributes": [
+        61,
+        56,
+        63,
+        59,
+        64,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 268134,
+      "assetId": 268134
+    },
+    "270505": {
+      "name": "Daniel Dumbrăvanu",
+      "cardName": "Dumbrăvanu",
+      "originalVersionId": "0",
+      "clubId": 113182,
+      "leagueId": 330,
+      "countryId": 33,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12
+      ],
+      "attributes": [
+        55,
+        37,
+        41,
+        52,
+        63,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 270505,
+      "assetId": 270505
+    },
+    "271877": {
+      "name": "Matko Babić",
+      "cardName": "Babić",
+      "originalVersionId": "0",
+      "clubId": 113182,
+      "leagueId": 330,
+      "countryId": 10,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        73,
+        63,
+        57,
+        62,
+        19,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 271877,
+      "assetId": 271877
+    }
+  }
+}

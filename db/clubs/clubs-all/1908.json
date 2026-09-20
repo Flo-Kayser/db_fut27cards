@@ -1,0 +1,962 @@
+{
+  "clubName": "FC Twente",
+  "players": {
+    "70539": {
+      "name": "Lucas Vennegoor of Hess.",
+      "cardName": "Vennegoor of Hess.",
+      "originalVersionId": "0",
+      "clubId": 1908,
+      "leagueId": 10,
+      "countryId": 34,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41,
+        44
+      ],
+      "attributes": [
+        58,
+        59,
+        42,
+        58,
+        24,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 70539,
+      "assetId": 70539
+    },
+    "70801": {
+      "name": "Sondre Ørjasæter",
+      "cardName": "Ørjasæter",
+      "originalVersionId": "0",
+      "clubId": 1908,
+      "leagueId": 10,
+      "countryId": 36,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        20,
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        30,
+        38,
+        39
+      ],
+      "attributes": [
+        79,
+        62,
+        66,
+        77,
+        31,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 550,
+      "resourceId": 70801,
+      "assetId": 70801
+    },
+    "77415": {
+      "name": "Ruud Nijstad",
+      "cardName": "Nijstad",
+      "originalVersionId": "0",
+      "clubId": 1908,
+      "leagueId": 10,
+      "countryId": 34,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        14
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        13
+      ],
+      "attributes": [
+        67,
+        49,
+        57,
+        67,
+        70,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 77415,
+      "assetId": 77415
+    },
+    "78164": {
+      "name": "Yannick Gerritsen",
+      "cardName": "Gerritsen",
+      "originalVersionId": "0",
+      "clubId": 1908,
+      "leagueId": 10,
+      "countryId": 34,
+      "versionId": "2000",
+      "rating": 57,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        55,
+        56,
+        59,
+        60,
+        22,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 78164,
+      "assetId": 78164
+    },
+    "162328": {
+      "name": "Remko Pasveer",
+      "cardName": "Pasveer",
+      "originalVersionId": "0",
+      "clubId": 1908,
+      "leagueId": 10,
+      "countryId": 34,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        31,
+        32
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        45
+      ],
+      "attributes": [
+        66,
+        76,
+        78,
+        62,
+        33,
+        78
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 162328,
+      "assetId": 162328
+    },
+    "199833": {
+      "name": "Lars Unnerstall",
+      "cardName": "Unnerstall",
+      "originalVersionId": "0",
+      "clubId": 1908,
+      "leagueId": 10,
+      "countryId": 21,
+      "versionId": "2002",
+      "rating": 76,
+      "preferredFoot": "Right",
+      "weakFoot": 1,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        31
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        76,
+        75,
+        65,
+        79,
+        32,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 199833,
+      "assetId": 199833
+    },
+    "208462": {
+      "name": "Robin Pröpper",
+      "cardName": "Pröpper",
+      "originalVersionId": "0",
+      "clubId": 1908,
+      "leagueId": 10,
+      "countryId": 34,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        15,
+        18,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12,
+        13
+      ],
+      "attributes": [
+        47,
+        51,
+        60,
+        55,
+        74,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 208462,
+      "assetId": 208462
+    },
+    "223689": {
+      "name": "Wout Weghorst",
+      "cardName": "Weghorst",
+      "originalVersionId": "0",
+      "clubId": 1908,
+      "leagueId": 10,
+      "countryId": 34,
+      "versionId": "2002",
+      "rating": 77,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        29
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        54,
+        78,
+        61,
+        62,
+        57,
+        85
+      ],
+      "hasDynamicImage": false,
+      "price": 2500,
+      "resourceId": 223689,
+      "assetId": 223689
+    },
+    "228279": {
+      "name": "Joël Drommel",
+      "cardName": "Drommel",
+      "originalVersionId": "0",
+      "clubId": 1908,
+      "leagueId": 10,
+      "countryId": 34,
+      "versionId": "2001",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        30,
+        31,
+        32
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        45
+      ],
+      "attributes": [
+        74,
+        72,
+        75,
+        76,
+        51,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 228279,
+      "assetId": 228279
+    },
+    "229593": {
+      "name": "Marko Pjaca",
+      "cardName": "Pjaca",
+      "originalVersionId": "0",
+      "clubId": 1908,
+      "leagueId": 10,
+      "countryId": 10,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        0
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        29,
+        32,
+        39,
+        40,
+        43
+      ],
+      "attributes": [
+        64,
+        69,
+        67,
+        74,
+        39,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 229593,
+      "assetId": 229593
+    },
+    "245338": {
+      "name": "Thomas van den Belt",
+      "cardName": "van den Belt",
+      "originalVersionId": "0",
+      "clubId": 1908,
+      "leagueId": 10,
+      "countryId": 34,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        20,
+        49
+      ],
+      "attributes": [
+        56,
+        67,
+        69,
+        68,
+        65,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 245338,
+      "assetId": 245338
+    },
+    "252383": {
+      "name": "Ramiz Zerrouki",
+      "cardName": "Zerrouki",
+      "originalVersionId": "0",
+      "clubId": 1908,
+      "leagueId": 10,
+      "countryId": 97,
+      "versionId": "2001",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        20
+      ],
+      "attributes": [
+        56,
+        66,
+        71,
+        73,
+        68,
+        79
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 252383,
+      "assetId": 252383
+    },
+    "255010": {
+      "name": "Naci Ünüvar",
+      "cardName": "Ünüvar",
+      "originalVersionId": "0",
+      "clubId": 1908,
+      "leagueId": 10,
+      "countryId": 48,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        13,
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        29,
+        30,
+        39
+      ],
+      "attributes": [
+        65,
+        61,
+        69,
+        73,
+        38,
+        41
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 255010,
+      "assetId": 255010
+    },
+    "259563": {
+      "name": "Daan Rots",
+      "cardName": "Rots",
+      "originalVersionId": "0",
+      "clubId": 1908,
+      "leagueId": 10,
+      "countryId": 34,
+      "versionId": "2001",
+      "rating": 73,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        13,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        36
+      ],
+      "attributes": [
+        78,
+        69,
+        69,
+        75,
+        40,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 259563,
+      "assetId": 259563
+    },
+    "259673": {
+      "name": "Max Bruns",
+      "cardName": "Bruns",
+      "originalVersionId": "0",
+      "clubId": 1908,
+      "leagueId": 10,
+      "countryId": 34,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        15
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        62,
+        43,
+        61,
+        62,
+        68,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 259673,
+      "assetId": 259673
+    },
+    "262311": {
+      "name": "Bart van Rooij",
+      "cardName": "van Rooij",
+      "originalVersionId": "0",
+      "clubId": 1908,
+      "leagueId": 10,
+      "countryId": 34,
+      "versionId": "2002",
+      "rating": 76,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CM",
+        "RB"
+      ],
+      "playStyles": [
+        10,
+        12,
+        15,
+        27
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        22,
+        46
+      ],
+      "attributes": [
+        87,
+        51,
+        68,
+        71,
+        69,
+        77
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 262311,
+      "assetId": 262311
+    },
+    "271080": {
+      "name": "Aske Adelgaard",
+      "cardName": "Adelgaard",
+      "originalVersionId": "0",
+      "clubId": 1908,
+      "leagueId": 10,
+      "countryId": 13,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB"
+      ],
+      "playStyles": [
+        26
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7
+      ],
+      "attributes": [
+        72,
+        35,
+        55,
+        65,
+        63,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 271080,
+      "assetId": 271080
+    },
+    "274927": {
+      "name": "Kristian Hlynsson",
+      "cardName": "Hlynsson",
+      "originalVersionId": "0",
+      "clubId": 1908,
+      "leagueId": 10,
+      "countryId": 24,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        26
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        20,
+        31
+      ],
+      "attributes": [
+        62,
+        63,
+        64,
+        72,
+        41,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 274927,
+      "assetId": 274927
+    },
+    "275201": {
+      "name": "Filip Erik Thorvaldsen",
+      "cardName": "Thorvaldsen",
+      "originalVersionId": "0",
+      "clubId": 1908,
+      "leagueId": 10,
+      "countryId": 36,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        26,
+        30,
+        36,
+        43
+      ],
+      "attributes": [
+        84,
+        57,
+        55,
+        67,
+        30,
+        49
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 275201,
+      "assetId": 275201
+    },
+    "275418": {
+      "name": "Younes Taha",
+      "cardName": "Taha",
+      "originalVersionId": "0",
+      "clubId": 1908,
+      "leagueId": 10,
+      "countryId": 129,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        12,
+        2,
+        3
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        30,
+        32,
+        36,
+        43
+      ],
+      "attributes": [
+        79,
+        70,
+        65,
+        71,
+        37,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 275418,
+      "assetId": 275418
+    },
+    "276991": {
+      "name": "Krzysztof Kurowski",
+      "cardName": "Kurowski",
+      "originalVersionId": "0",
+      "clubId": 1908,
+      "leagueId": 10,
+      "countryId": 37,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        28
+      ],
+      "attributes": [
+        74,
+        51,
+        59,
+        62,
+        55,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 276991,
+      "assetId": 276991
+    },
+    "277447": {
+      "name": "Stav Lemkin",
+      "cardName": "Lemkin",
+      "originalVersionId": "0",
+      "clubId": 1908,
+      "leagueId": 10,
+      "countryId": 26,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        69,
+        37,
+        53,
+        50,
+        69,
+        77
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 277447,
+      "assetId": 277447
+    },
+    "277542": {
+      "name": "Gijs Besselink",
+      "cardName": "Besselink",
+      "originalVersionId": "0",
+      "clubId": 1908,
+      "leagueId": 10,
+      "countryId": 34,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        16,
+        28
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14
+      ],
+      "attributes": [
+        52,
+        51,
+        58,
+        61,
+        62,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 277542,
+      "assetId": 277542
+    },
+    "277968": {
+      "name": "Daouda Weidmann",
+      "cardName": "Weidmann",
+      "originalVersionId": "0",
+      "clubId": 1908,
+      "leagueId": 10,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        18,
+        19
+      ],
+      "attributes": [
+        70,
+        57,
+        65,
+        67,
+        58,
+        53
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 277968,
+      "assetId": 277968
+    },
+    "50504652": {
+      "name": "Michał Rosiak",
+      "cardName": "Rosiak",
+      "originalVersionId": "0",
+      "clubId": 1908,
+      "leagueId": 10,
+      "countryId": 37,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CDM",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "attributes": [
+        65,
+        45,
+        53,
+        59,
+        61,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 50504652,
+      "assetId": 173004
+    }
+  }
+}

@@ -1,0 +1,982 @@
+{
+  "clubName": "Athletic Club",
+  "players": {
+    "72705": {
+      "name": "Eunate Astralaga",
+      "cardName": "Eunate Astralaga",
+      "originalVersionId": "0",
+      "clubId": 116328,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2002",
+      "rating": 78,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        10
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        78,
+        76,
+        78,
+        77,
+        45,
+        77
+      ],
+      "hasDynamicImage": false,
+      "price": 800,
+      "resourceId": 72705,
+      "assetId": 72705
+    },
+    "73231": {
+      "name": "Marina Artero",
+      "cardName": "Marina Artero",
+      "originalVersionId": "0",
+      "clubId": 116328,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CAM",
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        22,
+        33
+      ],
+      "attributes": [
+        63,
+        42,
+        48,
+        51,
+        65,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 73231,
+      "assetId": 73231
+    },
+    "73648": {
+      "name": "Amaia Iribarren",
+      "cardName": "Amaia Iribarren",
+      "originalVersionId": "0",
+      "clubId": 116328,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        31,
+        49
+      ],
+      "attributes": [
+        63,
+        54,
+        62,
+        59,
+        56,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 73648,
+      "assetId": 73648
+    },
+    "74786": {
+      "name": "Maite Valero",
+      "cardName": "Maite Valero",
+      "originalVersionId": "0",
+      "clubId": 116328,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        18,
+        19
+      ],
+      "attributes": [
+        66,
+        56,
+        64,
+        67,
+        61,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 74786,
+      "assetId": 74786
+    },
+    "75061": {
+      "name": "Daniela Agote",
+      "cardName": "Daniela Agote",
+      "originalVersionId": "0",
+      "clubId": 116328,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2002",
+      "rating": 76,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        30,
+        35,
+        38
+      ],
+      "attributes": [
+        85,
+        69,
+        68,
+        79,
+        37,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 75061,
+      "assetId": 75061
+    },
+    "75062": {
+      "name": "Maitane Vilariño",
+      "cardName": "Maitane Vilariño",
+      "originalVersionId": "0",
+      "clubId": 116328,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "RB",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        26,
+        35
+      ],
+      "attributes": [
+        70,
+        60,
+        65,
+        71,
+        62,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 75062,
+      "assetId": 75062
+    },
+    "77641": {
+      "name": "Elene Gurtubay",
+      "cardName": "Elene Gurtubay",
+      "originalVersionId": "0",
+      "clubId": 116328,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        34
+      ],
+      "attributes": [
+        68,
+        48,
+        58,
+        59,
+        42,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 77641,
+      "assetId": 77641
+    },
+    "83229": {
+      "name": "Ziara Vega",
+      "cardName": "Ziara Vega",
+      "originalVersionId": "0",
+      "clubId": 116328,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        69,
+        67,
+        70,
+        68,
+        26,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 83229,
+      "assetId": 83229
+    },
+    "83588": {
+      "name": "Ane Bordagaray",
+      "cardName": "Ane Bordagaray",
+      "originalVersionId": "0",
+      "clubId": 116328,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        58,
+        40,
+        56,
+        56,
+        64,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 83588,
+      "assetId": 83588
+    },
+    "271942": {
+      "name": "Ane Azkona",
+      "cardName": "Ane Azkona",
+      "originalVersionId": "0",
+      "clubId": 116328,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2002",
+      "rating": 77,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        1,
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        36,
+        41
+      ],
+      "attributes": [
+        80,
+        77,
+        70,
+        78,
+        49,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 850,
+      "resourceId": 271942,
+      "assetId": 271942
+    },
+    "272008": {
+      "name": "Leire Baños",
+      "cardName": "Leire Baños",
+      "originalVersionId": "0",
+      "clubId": 116328,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2002",
+      "rating": 77,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CAM",
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        14,
+        19,
+        24
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        15,
+        22,
+        33
+      ],
+      "attributes": [
+        62,
+        70,
+        72,
+        71,
+        75,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 750,
+      "resourceId": 272008,
+      "assetId": 272008
+    },
+    "272119": {
+      "name": "Landaluze",
+      "cardName": "Landaluze",
+      "originalVersionId": "0",
+      "clubId": 116328,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2002",
+      "rating": 76,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "RB"
+      ],
+      "playStyles": [
+        16
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3,
+        11
+      ],
+      "attributes": [
+        64,
+        33,
+        65,
+        61,
+        78,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 800,
+      "resourceId": 272119,
+      "assetId": 272119
+    },
+    "272124": {
+      "name": "Bibiane Schulze Solano",
+      "cardName": "Schulze Solano",
+      "originalVersionId": "0",
+      "clubId": 116328,
+      "leagueId": 2222,
+      "countryId": 21,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        18
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        58,
+        35,
+        69,
+        62,
+        76,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 1700,
+      "resourceId": 272124,
+      "assetId": 272124
+    },
+    "272125": {
+      "name": "Ane Elexpuru",
+      "cardName": "Ane Elexpuru",
+      "originalVersionId": "0",
+      "clubId": 116328,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2002",
+      "rating": 78,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CB",
+        "RB",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        21,
+        22
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        6,
+        23,
+        35,
+        48
+      ],
+      "attributes": [
+        85,
+        68,
+        75,
+        77,
+        74,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 272125,
+      "assetId": 272125
+    },
+    "272126": {
+      "name": "Amaia Martínez",
+      "cardName": "Amaia Martínez",
+      "originalVersionId": "0",
+      "clubId": 116328,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CAM",
+        "CB",
+        "CDM",
+        "CM",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        4,
+        11,
+        17,
+        21,
+        31
+      ],
+      "attributes": [
+        59,
+        36,
+        58,
+        51,
+        66,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 550,
+      "resourceId": 272126,
+      "assetId": 272126
+    },
+    "272129": {
+      "name": "Irene Oguiza",
+      "cardName": "Irene Oguiza",
+      "originalVersionId": "0",
+      "clubId": 116328,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        15,
+        17,
+        20
+      ],
+      "attributes": [
+        52,
+        59,
+        64,
+        69,
+        78,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 1400,
+      "resourceId": 272129,
+      "assetId": 272129
+    },
+    "272135": {
+      "name": "Clara Pinedo",
+      "cardName": "Clara Pinedo",
+      "originalVersionId": "0",
+      "clubId": 116328,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2002",
+      "rating": 77,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        0
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        20,
+        27,
+        31,
+        33
+      ],
+      "attributes": [
+        81,
+        76,
+        76,
+        76,
+        63,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 272135,
+      "assetId": 272135
+    },
+    "272137": {
+      "name": "Sara Ortega",
+      "cardName": "Sara Ortega",
+      "originalVersionId": "0",
+      "clubId": 116328,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 73,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CDM",
+        "CM",
+        "LB",
+        "LM",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        21
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        10,
+        16,
+        20,
+        24,
+        28
+      ],
+      "attributes": [
+        78,
+        68,
+        69,
+        74,
+        55,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 272137,
+      "assetId": 272137
+    },
+    "272138": {
+      "name": "Jone Amezaga",
+      "cardName": "Jone Amezaga",
+      "originalVersionId": "0",
+      "clubId": 116328,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        20,
+        29
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        30,
+        39,
+        42
+      ],
+      "attributes": [
+        86,
+        74,
+        65,
+        74,
+        42,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 550,
+      "resourceId": 272138,
+      "assetId": 272138
+    },
+    "272203": {
+      "name": "Maddi Torre",
+      "cardName": "Maddi Torre",
+      "originalVersionId": "0",
+      "clubId": 116328,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2002",
+      "rating": 79,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        13
+      ],
+      "attributes": [
+        59,
+        56,
+        76,
+        69,
+        82,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 272203,
+      "assetId": 272203
+    },
+    "272212": {
+      "name": "Adriana Nanclares",
+      "cardName": "Adriana Nanclares",
+      "originalVersionId": "0",
+      "clubId": 116328,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2002",
+      "rating": 80,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        31,
+        32
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        45
+      ],
+      "attributes": [
+        80,
+        77,
+        70,
+        81,
+        45,
+        79
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 272212,
+      "assetId": 272212
+    },
+    "272269": {
+      "name": "Garazi Fácila",
+      "cardName": "Garazi Fácila",
+      "originalVersionId": "0",
+      "clubId": 116328,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CB",
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        11,
+        28
+      ],
+      "attributes": [
+        74,
+        45,
+        68,
+        67,
+        67,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 272269,
+      "assetId": 272269
+    },
+    "275586": {
+      "name": "Ane Campos",
+      "cardName": "Ane Campos",
+      "originalVersionId": "0",
+      "clubId": 116328,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        38,
+        41
+      ],
+      "attributes": [
+        78,
+        69,
+        61,
+        70,
+        40,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 275586,
+      "assetId": 275586
+    },
+    "276445": {
+      "name": "Patri Zugasti",
+      "cardName": "Patri Zugasti",
+      "originalVersionId": "0",
+      "clubId": 116328,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        32,
+        38,
+        43,
+        44
+      ],
+      "attributes": [
+        53,
+        69,
+        64,
+        68,
+        32,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 276445,
+      "assetId": 276445
+    },
+    "278651": {
+      "name": "Eider Arana",
+      "cardName": "Eider Arana",
+      "originalVersionId": "0",
+      "clubId": 116328,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        15
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7,
+        11,
+        27,
+        38
+      ],
+      "attributes": [
+        60,
+        50,
+        66,
+        63,
+        68,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 550,
+      "resourceId": 278651,
+      "assetId": 278651
+    }
+  }
+}

@@ -1,0 +1,932 @@
+{
+  "clubName": "Nott'm Forest",
+  "players": {
+    "74310": {
+      "name": "Nicolò Savona",
+      "cardName": "Savona",
+      "originalVersionId": "0",
+      "clubId": 14,
+      "leagueId": 13,
+      "countryId": 27,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        24
+      ],
+      "attributes": [
+        68,
+        53,
+        69,
+        69,
+        74,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 9800,
+      "resourceId": 74310,
+      "assetId": 74310
+    },
+    "79402": {
+      "name": "Igor Jesus",
+      "cardName": "Igor Jesus",
+      "originalVersionId": "0",
+      "clubId": 14,
+      "leagueId": 13,
+      "countryId": 54,
+      "versionId": "2002",
+      "rating": 77,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        29
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        44
+      ],
+      "attributes": [
+        68,
+        77,
+        65,
+        72,
+        36,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 1200,
+      "resourceId": 79402,
+      "assetId": 79402
+    },
+    "79629": {
+      "name": "Jair Cunha",
+      "cardName": "Jair Cunha",
+      "originalVersionId": "0",
+      "clubId": 14,
+      "leagueId": 13,
+      "countryId": 54,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        67,
+        38,
+        59,
+        58,
+        74,
+        79
+      ],
+      "hasDynamicImage": false,
+      "price": 3900,
+      "resourceId": 79629,
+      "assetId": 79629
+    },
+    "192123": {
+      "name": "Chris Wood",
+      "cardName": "Wood",
+      "originalVersionId": "0",
+      "clubId": 14,
+      "leagueId": 13,
+      "countryId": 198,
+      "versionId": "2002",
+      "rating": 81,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        19,
+        22,
+        29,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        44
+      ],
+      "attributes": [
+        53,
+        82,
+        67,
+        71,
+        40,
+        80
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 192123,
+      "assetId": 192123
+    },
+    "199641": {
+      "name": "Matz Sels",
+      "cardName": "Sels",
+      "originalVersionId": "0",
+      "clubId": 14,
+      "leagueId": 13,
+      "countryId": 7,
+      "versionId": "2002",
+      "rating": 81,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        33,
+        34
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        82,
+        79,
+        78,
+        82,
+        44,
+        81
+      ],
+      "hasDynamicImage": false,
+      "price": 750,
+      "resourceId": 199641,
+      "assetId": 199641
+    },
+    "224656": {
+      "name": "Ola Aina",
+      "cardName": "Aina",
+      "originalVersionId": "0",
+      "clubId": 14,
+      "leagueId": 13,
+      "countryId": 133,
+      "versionId": "2002",
+      "rating": 79,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "LB",
+        "RB"
+      ],
+      "playStyles": [
+        27
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3,
+        7
+      ],
+      "attributes": [
+        87,
+        62,
+        71,
+        74,
+        77,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 800,
+      "resourceId": 224656,
+      "assetId": 224656
+    },
+    "233195": {
+      "name": "Xaver Schlager",
+      "cardName": "Schlager",
+      "originalVersionId": "0",
+      "clubId": 14,
+      "leagueId": 13,
+      "countryId": 4,
+      "versionId": "2002",
+      "rating": 78,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        28
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        18,
+        49
+      ],
+      "attributes": [
+        66,
+        69,
+        72,
+        76,
+        74,
+        78
+      ],
+      "hasDynamicImage": false,
+      "price": 900,
+      "resourceId": 233195,
+      "assetId": 233195
+    },
+    "234724": {
+      "name": "John Victor",
+      "cardName": "John Victor",
+      "originalVersionId": "0",
+      "clubId": 14,
+      "leagueId": 13,
+      "countryId": 54,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 1,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        74,
+        67,
+        66,
+        76,
+        38,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 850,
+      "resourceId": 234724,
+      "assetId": 234724
+    },
+    "235173": {
+      "name": "Ibrahim Sangaré",
+      "cardName": "Sangaré",
+      "originalVersionId": "0",
+      "clubId": 14,
+      "leagueId": 13,
+      "countryId": 108,
+      "versionId": "2002",
+      "rating": 78,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        28,
+        29
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        18
+      ],
+      "attributes": [
+        58,
+        66,
+        73,
+        72,
+        77,
+        82
+      ],
+      "hasDynamicImage": false,
+      "price": 800,
+      "resourceId": 235173,
+      "assetId": 235173
+    },
+    "235642": {
+      "name": "Ryan Yates",
+      "cardName": "Yates",
+      "originalVersionId": "0",
+      "clubId": 14,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        18
+      ],
+      "attributes": [
+        47,
+        61,
+        67,
+        67,
+        75,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 2900,
+      "resourceId": 235642,
+      "assetId": 235642
+    },
+    "236015": {
+      "name": "Morgan Gibbs-White",
+      "cardName": "Gibbs-White",
+      "originalVersionId": "0",
+      "clubId": 14,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "2002",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        13,
+        20,
+        26,
+        4,
+        7,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        31,
+        32
+      ],
+      "attributes": [
+        75,
+        78,
+        83,
+        85,
+        63,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 850,
+      "resourceId": 236015,
+      "assetId": 236015
+    },
+    "237819": {
+      "name": "Nicolás Domínguez",
+      "cardName": "Domínguez",
+      "originalVersionId": "0",
+      "clubId": 14,
+      "leagueId": 13,
+      "countryId": 52,
+      "versionId": "2002",
+      "rating": 78,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        17,
+        18,
+        27,
+        38
+      ],
+      "attributes": [
+        67,
+        65,
+        75,
+        76,
+        76,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 237819,
+      "assetId": 237819
+    },
+    "238095": {
+      "name": "Nikola Milenković",
+      "cardName": "Milenković",
+      "originalVersionId": "0",
+      "clubId": 14,
+      "leagueId": 13,
+      "countryId": 51,
+      "versionId": "2002",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        17,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        53,
+        46,
+        62,
+        60,
+        81,
+        84
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 238095,
+      "assetId": 238095
+    },
+    "240740": {
+      "name": "Callum Hudson-Odoi",
+      "cardName": "Hudson-Odoi",
+      "originalVersionId": "0",
+      "clubId": 14,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "2002",
+      "rating": 78,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        30,
+        38
+      ],
+      "attributes": [
+        77,
+        75,
+        75,
+        80,
+        50,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 750,
+      "resourceId": 240740,
+      "assetId": 240740
+    },
+    "241076": {
+      "name": "Steven Benda",
+      "cardName": "Benda",
+      "originalVersionId": "0",
+      "clubId": 14,
+      "leagueId": 13,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        2
+      ],
+      "attributes": [
+        68,
+        65,
+        63,
+        70,
+        37,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 900,
+      "resourceId": 241076,
+      "assetId": 241076
+    },
+    "243057": {
+      "name": "Neco Williams",
+      "cardName": "Williams",
+      "originalVersionId": "0",
+      "clubId": 14,
+      "leagueId": 13,
+      "countryId": 50,
+      "versionId": "2002",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "RB"
+      ],
+      "playStyles": [
+        16,
+        17
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3,
+        7
+      ],
+      "attributes": [
+        71,
+        50,
+        73,
+        75,
+        79,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 243057,
+      "assetId": 243057
+    },
+    "253444": {
+      "name": "Arnaud Kalimuendo",
+      "cardName": "Kalimuendo",
+      "originalVersionId": "0",
+      "clubId": 14,
+      "leagueId": 13,
+      "countryId": 18,
+      "versionId": "2002",
+      "rating": 78,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        30,
+        41,
+        42,
+        43
+      ],
+      "attributes": [
+        79,
+        79,
+        65,
+        79,
+        34,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 750,
+      "resourceId": 253444,
+      "assetId": 253444
+    },
+    "256781": {
+      "name": "Luca Netz",
+      "cardName": "Netz",
+      "originalVersionId": "0",
+      "clubId": 14,
+      "leagueId": 13,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 73,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        27
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7,
+        27,
+        38
+      ],
+      "attributes": [
+        71,
+        49,
+        70,
+        73,
+        70,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 900,
+      "resourceId": 256781,
+      "assetId": 256781
+    },
+    "257980": {
+      "name": "Dan Ndoye",
+      "cardName": "Ndoye",
+      "originalVersionId": "0",
+      "clubId": 14,
+      "leagueId": 13,
+      "countryId": 47,
+      "versionId": "2002",
+      "rating": 77,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        21,
+        7
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        27,
+        35,
+        39
+      ],
+      "attributes": [
+        88,
+        72,
+        70,
+        79,
+        62,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 800,
+      "resourceId": 257980,
+      "assetId": 257980
+    },
+    "264349": {
+      "name": "James McAtee",
+      "cardName": "McAtee",
+      "originalVersionId": "0",
+      "clubId": 14,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 73,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        23,
+        26,
+        31,
+        36
+      ],
+      "attributes": [
+        70,
+        69,
+        70,
+        75,
+        41,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 1400,
+      "resourceId": 264349,
+      "assetId": 264349
+    },
+    "278016": {
+      "name": "Murillo",
+      "cardName": "Murillo",
+      "originalVersionId": "0",
+      "clubId": 14,
+      "leagueId": 13,
+      "countryId": 54,
+      "versionId": "2002",
+      "rating": 82,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        15,
+        16,
+        28
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        13
+      ],
+      "attributes": [
+        79,
+        55,
+        67,
+        71,
+        82,
+        83
+      ],
+      "hasDynamicImage": false,
+      "price": 3700,
+      "resourceId": 278016,
+      "assetId": 278016
+    },
+    "50569294": {
+      "name": "Daniel Muñoz",
+      "cardName": "Muñoz",
+      "originalVersionId": "0",
+      "clubId": 14,
+      "leagueId": 13,
+      "countryId": 56,
+      "versionId": "2002",
+      "rating": 82,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        14,
+        17,
+        26
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        24
+      ],
+      "attributes": [
+        76,
+        70,
+        73,
+        77,
+        80,
+        77
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 50569294,
+      "assetId": 237646
+    },
+    "50590679": {
+      "name": "Liam Delap",
+      "cardName": "Delap",
+      "originalVersionId": "0",
+      "clubId": 14,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "2002",
+      "rating": 77,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        2,
+        29
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        76,
+        77,
+        60,
+        75,
+        30,
+        79
+      ],
+      "hasDynamicImage": false,
+      "price": 1500,
+      "resourceId": 50590679,
+      "assetId": 259031
+    },
+    "50602179": {
+      "name": "Ousmane Diomande",
+      "cardName": "Diomande",
+      "originalVersionId": "150",
+      "clubId": 14,
+      "leagueId": 13,
+      "countryId": 108,
+      "versionId": "150",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        14,
+        15,
+        19,
+        28
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        82,
+        29,
+        55,
+        72,
+        82,
+        89
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50602179,
+      "assetId": 270531
+    }
+  }
+}

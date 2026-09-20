@@ -1,0 +1,816 @@
+{
+  "clubName": "RB Leipzig",
+  "players": {
+    "71303": {
+      "name": "Diána Németh",
+      "cardName": "Németh",
+      "originalVersionId": "0",
+      "clubId": 116021,
+      "leagueId": 2215,
+      "countryId": 23,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7,
+        28
+      ],
+      "attributes": [
+        72,
+        49,
+        57,
+        67,
+        70,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 71303,
+      "assetId": 71303
+    },
+    "73575": {
+      "name": "Sophie Lindner",
+      "cardName": "Lindner",
+      "originalVersionId": "0",
+      "clubId": 116021,
+      "leagueId": 2215,
+      "countryId": 4,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        69,
+        67,
+        60,
+        66,
+        23,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 73575,
+      "assetId": 73575
+    },
+    "76199": {
+      "name": "Emilía Ásgeirsdóttir",
+      "cardName": "Ásgeirsdóttir",
+      "originalVersionId": "0",
+      "clubId": 116021,
+      "leagueId": 2215,
+      "countryId": 24,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        30,
+        33,
+        39
+      ],
+      "attributes": [
+        82,
+        71,
+        61,
+        71,
+        30,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 1000,
+      "resourceId": 76199,
+      "assetId": 76199
+    },
+    "79722": {
+      "name": "Mirja Kropp",
+      "cardName": "Kropp",
+      "originalVersionId": "0",
+      "clubId": 116021,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 57,
+      "preferredFoot": "Right",
+      "weakFoot": 1,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        56,
+        55,
+        58,
+        58,
+        28,
+        54
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 79722,
+      "assetId": 79722
+    },
+    "79725": {
+      "name": "Nikoline Dudek",
+      "cardName": "Dudek",
+      "originalVersionId": "0",
+      "clubId": 116021,
+      "leagueId": 2215,
+      "countryId": 13,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        4,
+        11,
+        17,
+        48
+      ],
+      "attributes": [
+        74,
+        48,
+        65,
+        61,
+        74,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 79725,
+      "assetId": 79725
+    },
+    "79726": {
+      "name": "Andrea Norheim",
+      "cardName": "Norheim",
+      "originalVersionId": "0",
+      "clubId": 116021,
+      "leagueId": 2215,
+      "countryId": 36,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        58,
+        44,
+        61,
+        60,
+        76,
+        77
+      ],
+      "hasDynamicImage": false,
+      "price": 1600,
+      "resourceId": 79726,
+      "assetId": 79726
+    },
+    "83650": {
+      "name": "Nikée van Dijk",
+      "cardName": "van Dijk",
+      "originalVersionId": "0",
+      "clubId": 116021,
+      "leagueId": 2215,
+      "countryId": 34,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        32,
+        41,
+        43
+      ],
+      "attributes": [
+        79,
+        71,
+        61,
+        70,
+        30,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 83650,
+      "assetId": 83650
+    },
+    "86928": {
+      "name": "Aude Waldbillig",
+      "cardName": "Waldbillig",
+      "originalVersionId": "0",
+      "clubId": 116021,
+      "leagueId": 2215,
+      "countryId": 7,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 1,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        65,
+        66,
+        71,
+        69,
+        35,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 86928,
+      "assetId": 86928
+    },
+    "86929": {
+      "name": "Alieke Tuin",
+      "cardName": "Tuin",
+      "originalVersionId": "0",
+      "clubId": 116021,
+      "leagueId": 2215,
+      "countryId": 34,
+      "versionId": "2001",
+      "rating": 73,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7
+      ],
+      "attributes": [
+        80,
+        55,
+        65,
+        66,
+        71,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 86929,
+      "assetId": 86929
+    },
+    "86932": {
+      "name": "Linde Veefkind",
+      "cardName": "Veefkind",
+      "originalVersionId": "0",
+      "clubId": 116021,
+      "leagueId": 2215,
+      "countryId": 34,
+      "versionId": "2001",
+      "rating": 73,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        13
+      ],
+      "attributes": [
+        66,
+        53,
+        57,
+        55,
+        74,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 86932,
+      "assetId": 86932
+    },
+    "86933": {
+      "name": "Emanuela Pfister",
+      "cardName": "Pfister",
+      "originalVersionId": "0",
+      "clubId": 116021,
+      "leagueId": 2215,
+      "countryId": 47,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        30,
+        36,
+        39,
+        41
+      ],
+      "attributes": [
+        77,
+        64,
+        55,
+        70,
+        29,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 86933,
+      "assetId": 86933
+    },
+    "86934": {
+      "name": "Jasmien Mathys",
+      "cardName": "Mathys",
+      "originalVersionId": "0",
+      "clubId": 116021,
+      "leagueId": 2215,
+      "countryId": 7,
+      "versionId": "2001",
+      "rating": 73,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        24
+      ],
+      "attributes": [
+        77,
+        46,
+        61,
+        64,
+        71,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 86934,
+      "assetId": 86934
+    },
+    "86935": {
+      "name": "Charlotte Hulst",
+      "cardName": "Hulst",
+      "originalVersionId": "0",
+      "clubId": 116021,
+      "leagueId": 2215,
+      "countryId": 34,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        35
+      ],
+      "attributes": [
+        84,
+        63,
+        64,
+        72,
+        39,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 86935,
+      "assetId": 86935
+    },
+    "262089": {
+      "name": "Sandra Starke",
+      "cardName": "Starke",
+      "originalVersionId": "0",
+      "clubId": 116021,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        13,
+        15,
+        19
+      ],
+      "attributes": [
+        82,
+        70,
+        70,
+        78,
+        60,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 262089,
+      "assetId": 262089
+    },
+    "264923": {
+      "name": "Lara Marti",
+      "cardName": "Marti",
+      "originalVersionId": "0",
+      "clubId": 116021,
+      "leagueId": 2215,
+      "countryId": 47,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        15
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        6,
+        10,
+        24,
+        28
+      ],
+      "attributes": [
+        72,
+        56,
+        70,
+        70,
+        68,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 264923,
+      "assetId": 264923
+    },
+    "265086": {
+      "name": "Elvira Herzog",
+      "cardName": "Herzog",
+      "originalVersionId": "0",
+      "clubId": 116021,
+      "leagueId": 2215,
+      "countryId": 47,
+      "versionId": "2002",
+      "rating": 77,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        30,
+        31,
+        33
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        76,
+        75,
+        73,
+        77,
+        47,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 850,
+      "resourceId": 265086,
+      "assetId": 265086
+    },
+    "265896": {
+      "name": "Lou-Ann Joly",
+      "cardName": "Joly",
+      "originalVersionId": "0",
+      "clubId": 116021,
+      "leagueId": 2215,
+      "countryId": 18,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        17
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19
+      ],
+      "attributes": [
+        34,
+        63,
+        74,
+        72,
+        74,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 2000,
+      "resourceId": 265896,
+      "assetId": 265896
+    },
+    "267389": {
+      "name": "Marleen Schimmer",
+      "cardName": "Schimmer",
+      "originalVersionId": "0",
+      "clubId": 116021,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        27,
+        33,
+        38
+      ],
+      "attributes": [
+        75,
+        74,
+        70,
+        75,
+        42,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 1700,
+      "resourceId": 267389,
+      "assetId": 267389
+    },
+    "268457": {
+      "name": "Zenia Mertens",
+      "cardName": "Mertens",
+      "originalVersionId": "0",
+      "clubId": 116021,
+      "leagueId": 2215,
+      "countryId": 7,
+      "versionId": "2001",
+      "rating": 73,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        13,
+        15
+      ],
+      "attributes": [
+        66,
+        43,
+        58,
+        68,
+        74,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 268457,
+      "assetId": 268457
+    },
+    "273515": {
+      "name": "Therese Simonsson",
+      "cardName": "Simonsson",
+      "originalVersionId": "0",
+      "clubId": 116021,
+      "leagueId": 2215,
+      "countryId": 46,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        69,
+        69,
+        64,
+        72,
+        47,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 273515,
+      "assetId": 273515
+    },
+    "273563": {
+      "name": "Annabel Schasching",
+      "cardName": "Schasching",
+      "originalVersionId": "0",
+      "clubId": 116021,
+      "leagueId": 2215,
+      "countryId": 4,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        17,
+        20,
+        31
+      ],
+      "attributes": [
+        76,
+        65,
+        74,
+        72,
+        70,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 1700,
+      "resourceId": 273563,
+      "assetId": 273563
+    },
+    "277263": {
+      "name": "Delice Boboy",
+      "cardName": "Boboy",
+      "originalVersionId": "0",
+      "clubId": 116021,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        32,
+        42,
+        43
+      ],
+      "attributes": [
+        71,
+        71,
+        56,
+        69,
+        43,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 277263,
+      "assetId": 277263
+    }
+  }
+}

@@ -1,0 +1,901 @@
+{
+  "clubName": "West Ham",
+  "players": {
+    "71368": {
+      "name": "Rebekah Dowsett",
+      "cardName": "Dowsett",
+      "originalVersionId": "0",
+      "clubId": 116014,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        59,
+        58,
+        57,
+        59,
+        22,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 71368,
+      "assetId": 71368
+    },
+    "72075": {
+      "name": "Leila Wandeler",
+      "cardName": "Wandeler",
+      "originalVersionId": "0",
+      "clubId": 116014,
+      "leagueId": 2216,
+      "countryId": 47,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        36
+      ],
+      "attributes": [
+        71,
+        63,
+        62,
+        66,
+        33,
+        45
+      ],
+      "hasDynamicImage": false,
+      "price": 550,
+      "resourceId": 72075,
+      "assetId": 72075
+    },
+    "72788": {
+      "name": "Eva Nyström",
+      "cardName": "Nyström",
+      "originalVersionId": "0",
+      "clubId": 116014,
+      "leagueId": 2216,
+      "countryId": 17,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        53,
+        42,
+        60,
+        66,
+        70,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 550,
+      "resourceId": 72788,
+      "assetId": 72788
+    },
+    "72791": {
+      "name": "Oona Siren",
+      "cardName": "Siren",
+      "originalVersionId": "0",
+      "clubId": 116014,
+      "leagueId": 2216,
+      "countryId": 17,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19,
+        23,
+        35
+      ],
+      "attributes": [
+        59,
+        68,
+        74,
+        74,
+        70,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 1600,
+      "resourceId": 72791,
+      "assetId": 72791
+    },
+    "76983": {
+      "name": "Niamh Peacock",
+      "cardName": "Peacock",
+      "originalVersionId": "0",
+      "clubId": 116014,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        57,
+        25,
+        45,
+        51,
+        59,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 76983,
+      "assetId": 76983
+    },
+    "80327": {
+      "name": "Yu Endo",
+      "cardName": "Endo",
+      "originalVersionId": "0",
+      "clubId": 116014,
+      "leagueId": 2216,
+      "countryId": 163,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        4,
+        5,
+        24
+      ],
+      "attributes": [
+        62,
+        33,
+        66,
+        62,
+        74,
+        51
+      ],
+      "hasDynamicImage": false,
+      "price": 5500,
+      "resourceId": 80327,
+      "assetId": 80327
+    },
+    "83180": {
+      "name": "Ria Bose",
+      "cardName": "Bose",
+      "originalVersionId": "0",
+      "clubId": 116014,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "attributes": [
+        60,
+        40,
+        52,
+        56,
+        61,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 5300,
+      "resourceId": 83180,
+      "assetId": 83180
+    },
+    "83623": {
+      "name": "Ylinn Tennebø",
+      "cardName": "Tennebø",
+      "originalVersionId": "0",
+      "clubId": 116014,
+      "leagueId": 2216,
+      "countryId": 36,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "attributes": [
+        57,
+        32,
+        53,
+        63,
+        66,
+        45
+      ],
+      "hasDynamicImage": false,
+      "price": 600,
+      "resourceId": 83623,
+      "assetId": 83623
+    },
+    "87674": {
+      "name": "Sienna Wareing",
+      "cardName": "Wareing",
+      "originalVersionId": "0",
+      "clubId": 116014,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        65,
+        63,
+        50,
+        62,
+        23,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 87674,
+      "assetId": 87674
+    },
+    "227348": {
+      "name": "Viviane Asseyi",
+      "cardName": "Asseyi",
+      "originalVersionId": "0",
+      "clubId": 116014,
+      "leagueId": 2216,
+      "countryId": 18,
+      "versionId": "2002",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        21,
+        3
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        39
+      ],
+      "attributes": [
+        86,
+        81,
+        76,
+        81,
+        50,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 227348,
+      "assetId": 227348
+    },
+    "239756": {
+      "name": "Tuva Hansen",
+      "cardName": "Hansen",
+      "originalVersionId": "0",
+      "clubId": 116014,
+      "leagueId": 2216,
+      "countryId": 36,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        12
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        11,
+        24,
+        48
+      ],
+      "attributes": [
+        54,
+        48,
+        68,
+        66,
+        79,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 1500,
+      "resourceId": 239756,
+      "assetId": 239756
+    },
+    "248728": {
+      "name": "Riko Ueki",
+      "cardName": "Ueki",
+      "originalVersionId": "0",
+      "clubId": 116014,
+      "leagueId": 2216,
+      "countryId": 163,
+      "versionId": "2002",
+      "rating": 77,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        69,
+        77,
+        67,
+        76,
+        46,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 1100,
+      "resourceId": 248728,
+      "assetId": 248728
+    },
+    "256094": {
+      "name": "Estelle Cascarino",
+      "cardName": "Cascarino",
+      "originalVersionId": "0",
+      "clubId": 116014,
+      "leagueId": 2216,
+      "countryId": 18,
+      "versionId": "2002",
+      "rating": 76,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        66,
+        45,
+        65,
+        65,
+        77,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 1300,
+      "resourceId": 256094,
+      "assetId": 256094
+    },
+    "264895": {
+      "name": "Constance Picaud-Inconnu",
+      "cardName": "Picaud-Inconnu",
+      "originalVersionId": "0",
+      "clubId": 116014,
+      "leagueId": 2216,
+      "countryId": 18,
+      "versionId": "2002",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        34
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        45
+      ],
+      "attributes": [
+        82,
+        80,
+        78,
+        85,
+        47,
+        83
+      ],
+      "hasDynamicImage": false,
+      "price": 750,
+      "resourceId": 264895,
+      "assetId": 264895
+    },
+    "265273": {
+      "name": "Katie Zelem",
+      "cardName": "Zelem",
+      "originalVersionId": "0",
+      "clubId": 116014,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "2002",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        28,
+        3,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        20
+      ],
+      "attributes": [
+        65,
+        78,
+        81,
+        79,
+        77,
+        81
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 265273,
+      "assetId": 265273
+    },
+    "265295": {
+      "name": "Megan Walsh",
+      "cardName": "Walsh",
+      "originalVersionId": "0",
+      "clubId": 116014,
+      "leagueId": 2216,
+      "countryId": 25,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        30
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        71,
+        69,
+        70,
+        75,
+        34,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 265295,
+      "assetId": 265295
+    },
+    "265845": {
+      "name": "Inès Belloumou",
+      "cardName": "Belloumou",
+      "originalVersionId": "0",
+      "clubId": 116014,
+      "leagueId": 2216,
+      "countryId": 97,
+      "versionId": "2002",
+      "rating": 76,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        17,
+        20,
+        27
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7,
+        28
+      ],
+      "attributes": [
+        81,
+        52,
+        67,
+        71,
+        73,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 1100,
+      "resourceId": 265845,
+      "assetId": 265845
+    },
+    "265975": {
+      "name": "Kelly Gago",
+      "cardName": "Gago",
+      "originalVersionId": "0",
+      "clubId": 116014,
+      "leagueId": 2216,
+      "countryId": 18,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        30,
+        39,
+        42
+      ],
+      "attributes": [
+        78,
+        73,
+        67,
+        75,
+        34,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 1400,
+      "resourceId": 265975,
+      "assetId": 265975
+    },
+    "266949": {
+      "name": "Laia Codina",
+      "cardName": "Laia Codina",
+      "originalVersionId": "0",
+      "clubId": 116014,
+      "leagueId": 2216,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        18
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        13
+      ],
+      "attributes": [
+        38,
+        42,
+        64,
+        66,
+        78,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 850,
+      "resourceId": 266949,
+      "assetId": 266949
+    },
+    "267328": {
+      "name": "Ebony Salmon",
+      "cardName": "Salmon",
+      "originalVersionId": "0",
+      "clubId": 116014,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "2002",
+      "rating": 78,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [
+        20,
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        32,
+        41,
+        42,
+        43
+      ],
+      "attributes": [
+        86,
+        78,
+        75,
+        76,
+        41,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 267328,
+      "assetId": 267328
+    },
+    "273404": {
+      "name": "Seraina Piubel",
+      "cardName": "Piubel",
+      "originalVersionId": "0",
+      "clubId": 116014,
+      "leagueId": 2216,
+      "countryId": 47,
+      "versionId": "2001",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        24,
+        35,
+        42
+      ],
+      "attributes": [
+        64,
+        69,
+        73,
+        74,
+        43,
+        50
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 273404,
+      "assetId": 273404
+    },
+    "273405": {
+      "name": "Nadine Riesen",
+      "cardName": "Riesen",
+      "originalVersionId": "0",
+      "clubId": 116014,
+      "leagueId": 2216,
+      "countryId": 47,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        21
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        9,
+        24,
+        28
+      ],
+      "attributes": [
+        70,
+        64,
+        69,
+        69,
+        74,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 1800,
+      "resourceId": 273405,
+      "assetId": 273405
+    },
+    "275454": {
+      "name": "Ffion Morgan",
+      "cardName": "Morgan",
+      "originalVersionId": "0",
+      "clubId": 116014,
+      "leagueId": 2216,
+      "countryId": 50,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        6,
+        23,
+        24
+      ],
+      "attributes": [
+        74,
+        70,
+        69,
+        74,
+        24,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 600,
+      "resourceId": 275454,
+      "assetId": 275454
+    },
+    "50558645": {
+      "name": "Saki Kumagai",
+      "cardName": "Kumagai",
+      "originalVersionId": "0",
+      "clubId": 116014,
+      "leagueId": 2216,
+      "countryId": 163,
+      "versionId": "2002",
+      "rating": 81,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        16,
+        17,
+        24
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        14,
+        18
+      ],
+      "attributes": [
+        43,
+        62,
+        72,
+        77,
+        82,
+        78
+      ],
+      "hasDynamicImage": false,
+      "price": 750,
+      "resourceId": 50558645,
+      "assetId": 226997
+    }
+  }
+}

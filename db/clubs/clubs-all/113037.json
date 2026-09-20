@@ -1,0 +1,952 @@
+{
+  "clubName": "Al Riyadh",
+  "players": {
+    "73425": {
+      "name": "Marzouq Tombakti",
+      "cardName": "Tombakti",
+      "originalVersionId": "0",
+      "clubId": 113037,
+      "leagueId": 350,
+      "countryId": 183,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        11,
+        24
+      ],
+      "attributes": [
+        61,
+        26,
+        36,
+        37,
+        56,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 73425,
+      "assetId": 73425
+    },
+    "78874": {
+      "name": "Luca Ramirez",
+      "cardName": "Ramirez",
+      "originalVersionId": "0",
+      "clubId": 113037,
+      "leagueId": 350,
+      "countryId": 52,
+      "versionId": "2000",
+      "rating": 56,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        61,
+        52,
+        39,
+        54,
+        25,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 78874,
+      "assetId": 78874
+    },
+    "78950": {
+      "name": "Osama Al Bawardi",
+      "cardName": "Al Bawardi",
+      "originalVersionId": "0",
+      "clubId": 113037,
+      "leagueId": 350,
+      "countryId": 183,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        9,
+        24,
+        28
+      ],
+      "attributes": [
+        61,
+        28,
+        44,
+        55,
+        54,
+        54
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 78950,
+      "assetId": 78950
+    },
+    "80287": {
+      "name": "Ahmed Khatir",
+      "cardName": "Khatir",
+      "originalVersionId": "0",
+      "clubId": 113037,
+      "leagueId": 350,
+      "countryId": 129,
+      "versionId": "2000",
+      "rating": 55,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        56,
+        30,
+        35,
+        36,
+        54,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 80287,
+      "assetId": 80287
+    },
+    "80535": {
+      "name": "Abdulaziz Al Asbahi",
+      "cardName": "Al Asbahi",
+      "originalVersionId": "0",
+      "clubId": 113037,
+      "leagueId": 350,
+      "countryId": 193,
+      "versionId": "2000",
+      "rating": 49,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        56,
+        43,
+        47,
+        50,
+        41,
+        50
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 80535,
+      "assetId": 80535
+    },
+    "80918": {
+      "name": "Khaled Al Asbahi",
+      "cardName": "Al Asbahi",
+      "originalVersionId": "0",
+      "clubId": 113037,
+      "leagueId": 350,
+      "countryId": 193,
+      "versionId": "2000",
+      "rating": 54,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27
+      ],
+      "attributes": [
+        62,
+        49,
+        46,
+        59,
+        25,
+        45
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 80918,
+      "assetId": 80918
+    },
+    "82368": {
+      "name": "Jan Petek",
+      "cardName": "Petek",
+      "originalVersionId": "0",
+      "clubId": 113037,
+      "leagueId": 350,
+      "countryId": 44,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        65,
+        58,
+        58,
+        56,
+        30,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 82368,
+      "assetId": 82368
+    },
+    "205211": {
+      "name": "Milan Borjan",
+      "cardName": "Borjan",
+      "originalVersionId": "0",
+      "clubId": 113037,
+      "leagueId": 350,
+      "countryId": 70,
+      "versionId": "2002",
+      "rating": 77,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        10,
+        30,
+        32
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        2
+      ],
+      "attributes": [
+        74,
+        77,
+        75,
+        75,
+        46,
+        81
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 205211,
+      "assetId": 205211
+    },
+    "209169": {
+      "name": "Hussain Al Shuwaysh",
+      "cardName": "Al Shuwaysh",
+      "originalVersionId": "0",
+      "clubId": 113037,
+      "leagueId": 350,
+      "countryId": 183,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        14,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        39,
+        24,
+        49,
+        50,
+        60,
+        78
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 209169,
+      "assetId": 209169
+    },
+    "209281": {
+      "name": "Yahia Al Shehri",
+      "cardName": "Al Shehri",
+      "originalVersionId": "0",
+      "clubId": 113037,
+      "leagueId": 350,
+      "countryId": 183,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        20,
+        25,
+        37
+      ],
+      "attributes": [
+        50,
+        60,
+        67,
+        66,
+        31,
+        44
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 209281,
+      "assetId": 209281
+    },
+    "213841": {
+      "name": "Victor Lekhal",
+      "cardName": "Lekhal",
+      "originalVersionId": "0",
+      "clubId": 113037,
+      "leagueId": 350,
+      "countryId": 97,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        16
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14
+      ],
+      "attributes": [
+        71,
+        52,
+        61,
+        64,
+        64,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 213841,
+      "assetId": 213841
+    },
+    "222457": {
+      "name": "Bernard Mensah",
+      "cardName": "Mensah",
+      "originalVersionId": "0",
+      "clubId": 113037,
+      "leagueId": 350,
+      "countryId": 117,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        19,
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        21,
+        33
+      ],
+      "attributes": [
+        74,
+        74,
+        72,
+        76,
+        59,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 222457,
+      "assetId": 222457
+    },
+    "224967": {
+      "name": "Mamadou Sylla",
+      "cardName": "Sylla",
+      "originalVersionId": "0",
+      "clubId": 113037,
+      "leagueId": 350,
+      "countryId": 136,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        29,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        79,
+        71,
+        60,
+        67,
+        37,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 224967,
+      "assetId": 224967
+    },
+    "226078": {
+      "name": "Trezeguet",
+      "cardName": "Trezeguet",
+      "originalVersionId": "0",
+      "clubId": 113037,
+      "leagueId": 350,
+      "countryId": 111,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        27,
+        31,
+        38
+      ],
+      "attributes": [
+        77,
+        72,
+        71,
+        78,
+        36,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 226078,
+      "assetId": 226078
+    },
+    "240503": {
+      "name": "Teddy Okou",
+      "cardName": "Okou",
+      "originalVersionId": "0",
+      "clubId": 113037,
+      "leagueId": 350,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        21,
+        23,
+        6,
+        7,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        32,
+        35,
+        36,
+        43
+      ],
+      "attributes": [
+        90,
+        66,
+        58,
+        72,
+        31,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 650,
+      "resourceId": 240503,
+      "assetId": 240503
+    },
+    "245269": {
+      "name": "Emad Al Feda",
+      "cardName": "Al Feda",
+      "originalVersionId": "0",
+      "clubId": 113037,
+      "leagueId": 350,
+      "countryId": 183,
+      "versionId": "2000",
+      "rating": 52,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        53,
+        51,
+        50,
+        54,
+        28,
+        50
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 245269,
+      "assetId": 245269
+    },
+    "245510": {
+      "name": "Abdullah Hassoun",
+      "cardName": "Hassoun",
+      "originalVersionId": "0",
+      "clubId": 113037,
+      "leagueId": 350,
+      "countryId": 183,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3,
+        5,
+        23,
+        35
+      ],
+      "attributes": [
+        72,
+        40,
+        50,
+        58,
+        52,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 245510,
+      "assetId": 245510
+    },
+    "253276": {
+      "name": "Rodrigo Abascal",
+      "cardName": "Abascal",
+      "originalVersionId": "0",
+      "clubId": 113037,
+      "leagueId": 350,
+      "countryId": 60,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        14,
+        16,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        13
+      ],
+      "attributes": [
+        59,
+        44,
+        55,
+        58,
+        71,
+        78
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 253276,
+      "assetId": 253276
+    },
+    "259266": {
+      "name": "Saud Zaidan",
+      "cardName": "Zaidan",
+      "originalVersionId": "0",
+      "clubId": 113037,
+      "leagueId": 350,
+      "countryId": 183,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        13,
+        15,
+        19,
+        20
+      ],
+      "attributes": [
+        64,
+        43,
+        57,
+        62,
+        56,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 259266,
+      "assetId": 259266
+    },
+    "260703": {
+      "name": "Hassan Al Ali",
+      "cardName": "Al Ali",
+      "originalVersionId": "0",
+      "clubId": 113037,
+      "leagueId": 350,
+      "countryId": 183,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        36,
+        42
+      ],
+      "attributes": [
+        76,
+        57,
+        45,
+        58,
+        17,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 260703,
+      "assetId": 260703
+    },
+    "261109": {
+      "name": "Sulaiman Hazazi",
+      "cardName": "Hazazi",
+      "originalVersionId": "0",
+      "clubId": 113037,
+      "leagueId": 350,
+      "countryId": 183,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        27,
+        38
+      ],
+      "attributes": [
+        83,
+        31,
+        46,
+        53,
+        50,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 261109,
+      "assetId": 261109
+    },
+    "264696": {
+      "name": "Kader Keïta",
+      "cardName": "Keïta",
+      "originalVersionId": "0",
+      "clubId": 113037,
+      "leagueId": 350,
+      "countryId": 108,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        13,
+        15,
+        16,
+        18
+      ],
+      "attributes": [
+        66,
+        45,
+        57,
+        63,
+        66,
+        78
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 264696,
+      "assetId": 264696
+    },
+    "269932": {
+      "name": "Mohammed Al Khaibari",
+      "cardName": "Al Khaibari",
+      "originalVersionId": "0",
+      "clubId": 113037,
+      "leagueId": 350,
+      "countryId": 183,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        61,
+        26,
+        37,
+        38,
+        57,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 269932,
+      "assetId": 269932
+    },
+    "276776": {
+      "name": "Abdulrahman Al Shammari",
+      "cardName": "Al Shammari",
+      "originalVersionId": "0",
+      "clubId": 113037,
+      "leagueId": 350,
+      "countryId": 183,
+      "versionId": "2000",
+      "rating": 56,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        57,
+        56,
+        52,
+        56,
+        41,
+        53
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 276776,
+      "assetId": 276776
+    },
+    "50577068": {
+      "name": "Hussain Qasim",
+      "cardName": "Qasim",
+      "originalVersionId": "0",
+      "clubId": 113037,
+      "leagueId": 350,
+      "countryId": 183,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CB",
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        28,
+        48
+      ],
+      "attributes": [
+        72,
+        25,
+        49,
+        55,
+        53,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 50577068,
+      "assetId": 245420
+    }
+  }
+}

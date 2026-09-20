@@ -1,0 +1,977 @@
+{
+  "clubName": "York City",
+  "players": {
+    "85686": {
+      "name": "Ben Brookes",
+      "cardName": "Brookes",
+      "originalVersionId": "0",
+      "clubId": 1948,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        27
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        10,
+        27
+      ],
+      "attributes": [
+        75,
+        42,
+        53,
+        56,
+        53,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 1100,
+      "resourceId": 85686,
+      "assetId": 85686
+    },
+    "85687": {
+      "name": "Craig Hewitt",
+      "cardName": "Hewitt",
+      "originalVersionId": "0",
+      "clubId": 1948,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 56,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        38
+      ],
+      "attributes": [
+        84,
+        50,
+        47,
+        59,
+        37,
+        47
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 85687,
+      "assetId": 85687
+    },
+    "85689": {
+      "name": "Ollie Pearce",
+      "cardName": "Pearce",
+      "originalVersionId": "0",
+      "clubId": 1948,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        0
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        30,
+        39,
+        41
+      ],
+      "attributes": [
+        70,
+        64,
+        51,
+        62,
+        31,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 85689,
+      "assetId": 85689
+    },
+    "88152": {
+      "name": "Ben Farrar",
+      "cardName": "Farrar",
+      "originalVersionId": "0",
+      "clubId": 1948,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 53,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        72,
+        52,
+        37,
+        52,
+        24,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 88152,
+      "assetId": 88152
+    },
+    "88161": {
+      "name": "Ethan Stiver",
+      "cardName": "Stiver",
+      "originalVersionId": "0",
+      "clubId": 1948,
+      "leagueId": 61,
+      "countryId": 70,
+      "versionId": "2000",
+      "rating": 53,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        66,
+        45,
+        53,
+        55,
+        47,
+        54
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 88161,
+      "assetId": 88161
+    },
+    "193900": {
+      "name": "Jack Hunt",
+      "cardName": "Hunt",
+      "originalVersionId": "0",
+      "clubId": 1948,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        6,
+        24
+      ],
+      "attributes": [
+        52,
+        41,
+        58,
+        61,
+        59,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 550,
+      "resourceId": 193900,
+      "assetId": 193900
+    },
+    "200928": {
+      "name": "Ollie Banks",
+      "cardName": "Banks",
+      "originalVersionId": "0",
+      "clubId": 1948,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        13,
+        7
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        20,
+        21,
+        25,
+        31,
+        37
+      ],
+      "attributes": [
+        53,
+        63,
+        63,
+        60,
+        55,
+        77
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 200928,
+      "assetId": 200928
+    },
+    "201851": {
+      "name": "Ash Palmer",
+      "cardName": "Palmer",
+      "originalVersionId": "0",
+      "clubId": 1948,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12
+      ],
+      "attributes": [
+        38,
+        29,
+        37,
+        40,
+        58,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 650,
+      "resourceId": 201851,
+      "assetId": 201851
+    },
+    "212782": {
+      "name": "Hiram Boateng",
+      "cardName": "Boateng",
+      "originalVersionId": "0",
+      "clubId": 1948,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        24
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        33
+      ],
+      "attributes": [
+        66,
+        59,
+        61,
+        62,
+        58,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 212782,
+      "assetId": 212782
+    },
+    "222532": {
+      "name": "Mark Kitching",
+      "cardName": "Kitching",
+      "originalVersionId": "0",
+      "clubId": 1948,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7,
+        13
+      ],
+      "attributes": [
+        60,
+        39,
+        49,
+        53,
+        62,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 550,
+      "resourceId": 222532,
+      "assetId": 222532
+    },
+    "223984": {
+      "name": "Ryan Fallowfield",
+      "cardName": "Fallowfield",
+      "originalVersionId": "0",
+      "clubId": 1948,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CB",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        24,
+        48
+      ],
+      "attributes": [
+        68,
+        45,
+        52,
+        56,
+        55,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 223984,
+      "assetId": 223984
+    },
+    "229921": {
+      "name": "Dipo Akinyemi",
+      "cardName": "Akinyemi",
+      "originalVersionId": "0",
+      "clubId": 1948,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        30,
+        39,
+        42,
+        44
+      ],
+      "attributes": [
+        85,
+        63,
+        42,
+        60,
+        22,
+        49
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 229921,
+      "assetId": 229921
+    },
+    "236818": {
+      "name": "Arthur Read",
+      "cardName": "Read",
+      "originalVersionId": "0",
+      "clubId": 1948,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        0,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        20,
+        49
+      ],
+      "attributes": [
+        66,
+        58,
+        64,
+        65,
+        58,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 236818,
+      "assetId": 236818
+    },
+    "240321": {
+      "name": "Jeff King",
+      "cardName": "King",
+      "originalVersionId": "0",
+      "clubId": 1948,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        6,
+        23
+      ],
+      "attributes": [
+        69,
+        37,
+        53,
+        59,
+        56,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 240321,
+      "assetId": 240321
+    },
+    "240334": {
+      "name": "Zech Medley",
+      "cardName": "Medley",
+      "originalVersionId": "0",
+      "clubId": 1948,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7,
+        48
+      ],
+      "attributes": [
+        63,
+        30,
+        44,
+        51,
+        62,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 240334,
+      "assetId": 240334
+    },
+    "242754": {
+      "name": "Alex Hunt",
+      "cardName": "Hunt",
+      "originalVersionId": "0",
+      "clubId": 1948,
+      "leagueId": 61,
+      "countryId": 25,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        20,
+        21,
+        31
+      ],
+      "attributes": [
+        70,
+        58,
+        61,
+        66,
+        54,
+        53
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 242754,
+      "assetId": 242754
+    },
+    "245408": {
+      "name": "George Sykes-Kenworthy",
+      "cardName": "Sykes-Kenworthy",
+      "originalVersionId": "0",
+      "clubId": 1948,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 56,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        56,
+        55,
+        54,
+        57,
+        42,
+        54
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 245408,
+      "assetId": 245408
+    },
+    "247660": {
+      "name": "Joe Felix",
+      "cardName": "Felix",
+      "originalVersionId": "0",
+      "clubId": 1948,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        6,
+        23
+      ],
+      "attributes": [
+        77,
+        38,
+        46,
+        58,
+        53,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 247660,
+      "assetId": 247660
+    },
+    "247818": {
+      "name": "Morgan Williams",
+      "cardName": "Williams",
+      "originalVersionId": "0",
+      "clubId": 1948,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        65,
+        30,
+        43,
+        48,
+        58,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 247818,
+      "assetId": 247818
+    },
+    "252450": {
+      "name": "Harry Boyes",
+      "cardName": "Boyes",
+      "originalVersionId": "0",
+      "clubId": 1948,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        10,
+        27,
+        38
+      ],
+      "attributes": [
+        77,
+        44,
+        55,
+        60,
+        56,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 252450,
+      "assetId": 252450
+    },
+    "257839": {
+      "name": "Alex Newby",
+      "cardName": "Newby",
+      "originalVersionId": "0",
+      "clubId": 1948,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        10,
+        30,
+        39
+      ],
+      "attributes": [
+        80,
+        59,
+        57,
+        64,
+        54,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 257839,
+      "assetId": 257839
+    },
+    "261186": {
+      "name": "Frankie Maguire",
+      "cardName": "Maguire",
+      "originalVersionId": "0",
+      "clubId": 1948,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        71,
+        56,
+        56,
+        62,
+        48,
+        51
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 261186,
+      "assetId": 261186
+    },
+    "262851": {
+      "name": "Joe Grey",
+      "cardName": "Grey",
+      "originalVersionId": "0",
+      "clubId": 1948,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RB",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        21
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        6,
+        23,
+        35
+      ],
+      "attributes": [
+        77,
+        54,
+        49,
+        60,
+        45,
+        54
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 262851,
+      "assetId": 262851
+    },
+    "266424": {
+      "name": "Zak Johnson",
+      "cardName": "Johnson",
+      "originalVersionId": "0",
+      "clubId": 1948,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        66,
+        30,
+        45,
+        51,
+        61,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 266424,
+      "assetId": 266424
+    },
+    "277368": {
+      "name": "Josh Stones",
+      "cardName": "Stones",
+      "originalVersionId": "0",
+      "clubId": 1948,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        24
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        70,
+        61,
+        48,
+        60,
+        36,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 277368,
+      "assetId": 277368
+    },
+    "50596093": {
+      "name": "Jovan Malcolm",
+      "cardName": "Malcolm",
+      "originalVersionId": "0",
+      "clubId": 1948,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        30,
+        36,
+        39,
+        41
+      ],
+      "attributes": [
+        83,
+        57,
+        46,
+        57,
+        28,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 50596093,
+      "assetId": 264445
+    }
+  }
+}

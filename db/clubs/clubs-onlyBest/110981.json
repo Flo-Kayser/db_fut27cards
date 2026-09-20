@@ -1,0 +1,793 @@
+{
+  "clubName": "Barcelona SC",
+  "players": {
+    "71243": {
+      "name": "Alex Rangel",
+      "cardName": "Rangel",
+      "originalVersionId": "0",
+      "clubId": 110981,
+      "leagueId": 1003,
+      "countryId": 57,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        4,
+        11,
+        17
+      ],
+      "attributes": [
+        65,
+        31,
+        48,
+        51,
+        70,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 71243,
+      "assetId": 71243
+    },
+    "75311": {
+      "name": "Jandry Gómez",
+      "cardName": "Gómez",
+      "originalVersionId": "0",
+      "clubId": 110981,
+      "leagueId": 1003,
+      "countryId": 57,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26
+      ],
+      "attributes": [
+        76,
+        48,
+        59,
+        61,
+        35,
+        46
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 75311,
+      "assetId": 75311
+    },
+    "84326": {
+      "name": "Matías Lugo",
+      "cardName": "Lugo",
+      "originalVersionId": "0",
+      "clubId": 110981,
+      "leagueId": 1003,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        69,
+        49,
+        66,
+        67,
+        64,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 84326,
+      "assetId": 84326
+    },
+    "212747": {
+      "name": "Tomás Martínez",
+      "cardName": "Martínez",
+      "originalVersionId": "0",
+      "clubId": 110981,
+      "leagueId": 1003,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [
+        13,
+        22,
+        23
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        32,
+        43,
+        49
+      ],
+      "attributes": [
+        73,
+        64,
+        68,
+        70,
+        51,
+        54
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 212747,
+      "assetId": 212747
+    },
+    "215061": {
+      "name": "Darío Benedetto",
+      "cardName": "Benedetto",
+      "originalVersionId": "0",
+      "clubId": 110981,
+      "leagueId": 1003,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        22
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        42
+      ],
+      "attributes": [
+        59,
+        73,
+        68,
+        71,
+        33,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 215061,
+      "assetId": 215061
+    },
+    "215107": {
+      "name": "Héctor Villalba",
+      "cardName": "Villalba",
+      "originalVersionId": "0",
+      "clubId": 110981,
+      "leagueId": 1003,
+      "countryId": 58,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LM",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        22,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        35
+      ],
+      "attributes": [
+        79,
+        69,
+        64,
+        68,
+        44,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 215107,
+      "assetId": 215107
+    },
+    "231596": {
+      "name": "José Contreras",
+      "cardName": "Contreras",
+      "originalVersionId": "0",
+      "clubId": 110981,
+      "leagueId": 1003,
+      "countryId": 61,
+      "versionId": "2001",
+      "rating": 73,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        32
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        71,
+        70,
+        70,
+        74,
+        34,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 231596,
+      "assetId": 231596
+    },
+    "233424": {
+      "name": "Joao Rojas",
+      "cardName": "Rojas",
+      "originalVersionId": "0",
+      "clubId": 110981,
+      "leagueId": 1003,
+      "countryId": 57,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27
+      ],
+      "attributes": [
+        75,
+        64,
+        63,
+        68,
+        48,
+        53
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 233424,
+      "assetId": 233424
+    },
+    "241406": {
+      "name": "Jefferson Intriago",
+      "cardName": "Intriago",
+      "originalVersionId": "0",
+      "clubId": 110981,
+      "leagueId": 1003,
+      "countryId": 57,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18
+      ],
+      "attributes": [
+        68,
+        52,
+        67,
+        68,
+        67,
+        78
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 241406,
+      "assetId": 241406
+    },
+    "253223": {
+      "name": "Jhonny Quiñónez",
+      "cardName": "Quiñónez",
+      "originalVersionId": "0",
+      "clubId": 110981,
+      "leagueId": 1003,
+      "countryId": 57,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        18
+      ],
+      "attributes": [
+        79,
+        62,
+        64,
+        68,
+        64,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 253223,
+      "assetId": 253223
+    },
+    "253245": {
+      "name": "Javier Báez",
+      "cardName": "Báez",
+      "originalVersionId": "0",
+      "clubId": 110981,
+      "leagueId": 1003,
+      "countryId": 58,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "RB"
+      ],
+      "playStyles": [
+        15
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        4,
+        11,
+        17
+      ],
+      "attributes": [
+        65,
+        55,
+        65,
+        66,
+        73,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 253245,
+      "assetId": 253245
+    },
+    "253537": {
+      "name": "Byron Castillo",
+      "cardName": "Castillo",
+      "originalVersionId": "0",
+      "clubId": 110981,
+      "leagueId": 1003,
+      "countryId": 57,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RB",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        21
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        6,
+        23,
+        35
+      ],
+      "attributes": [
+        85,
+        54,
+        61,
+        65,
+        60,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 253537,
+      "assetId": 253537
+    },
+    "254172": {
+      "name": "Gustavo Vallecilla",
+      "cardName": "Vallecilla",
+      "originalVersionId": "0",
+      "clubId": 110981,
+      "leagueId": 1003,
+      "countryId": 57,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        8,
+        11,
+        17,
+        48
+      ],
+      "attributes": [
+        67,
+        35,
+        56,
+        64,
+        68,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 254172,
+      "assetId": 254172
+    },
+    "254238": {
+      "name": "Bryan Carabalí",
+      "cardName": "Carabalí",
+      "originalVersionId": "0",
+      "clubId": 110981,
+      "leagueId": 1003,
+      "countryId": 57,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        9,
+        24,
+        28
+      ],
+      "attributes": [
+        79,
+        41,
+        64,
+        69,
+        64,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 254238,
+      "assetId": 254238
+    },
+    "255265": {
+      "name": "Jonathan Perlaza",
+      "cardName": "Perlaza",
+      "originalVersionId": "0",
+      "clubId": 110981,
+      "leagueId": 1003,
+      "countryId": 57,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        38
+      ],
+      "attributes": [
+        78,
+        58,
+        62,
+        69,
+        50,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 255265,
+      "assetId": 255265
+    },
+    "259905": {
+      "name": "Luis Cano",
+      "cardName": "Cano",
+      "originalVersionId": "0",
+      "clubId": 110981,
+      "leagueId": 1003,
+      "countryId": 57,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        21
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        27,
+        35,
+        38
+      ],
+      "attributes": [
+        82,
+        61,
+        63,
+        69,
+        50,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 259905,
+      "assetId": 259905
+    },
+    "259908": {
+      "name": "Willian Vargas",
+      "cardName": "Vargas",
+      "originalVersionId": "0",
+      "clubId": 110981,
+      "leagueId": 1003,
+      "countryId": 57,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "LB",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "attributes": [
+        78,
+        42,
+        58,
+        63,
+        58,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 259908,
+      "assetId": 259908
+    },
+    "261407": {
+      "name": "Kleber Pinargote",
+      "cardName": "Pinargote",
+      "originalVersionId": "0",
+      "clubId": 110981,
+      "leagueId": 1003,
+      "countryId": 57,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        63,
+        59,
+        59,
+        58,
+        27,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 261407,
+      "assetId": 261407
+    },
+    "266044": {
+      "name": "Marcos Mejía",
+      "cardName": "Mejía",
+      "originalVersionId": "0",
+      "clubId": 110981,
+      "leagueId": 1003,
+      "countryId": 57,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27
+      ],
+      "attributes": [
+        75,
+        62,
+        62,
+        66,
+        39,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 266044,
+      "assetId": 266044
+    },
+    "273922": {
+      "name": "Walter Jhonnier Chalá",
+      "cardName": "Chalá",
+      "originalVersionId": "0",
+      "clubId": 110981,
+      "leagueId": 1003,
+      "countryId": 57,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        72,
+        24,
+        45,
+        50,
+        64,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 273922,
+      "assetId": 273922
+    },
+    "275745": {
+      "name": "Ronald Perlaza",
+      "cardName": "Perlaza",
+      "originalVersionId": "0",
+      "clubId": 110981,
+      "leagueId": 1003,
+      "countryId": 57,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        38
+      ],
+      "attributes": [
+        77,
+        55,
+        54,
+        64,
+        48,
+        48
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 275745,
+      "assetId": 275745
+    }
+  }
+}

@@ -1,0 +1,919 @@
+{
+  "clubName": "Talleres",
+  "players": {
+    "75583": {
+      "name": "Santino Barbi",
+      "cardName": "Barbi",
+      "originalVersionId": "0",
+      "clubId": 112670,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        57,
+        60,
+        48,
+        61,
+        25,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 75583,
+      "assetId": 75583
+    },
+    "75729": {
+      "name": "Valentín Dávila",
+      "cardName": "Dávila",
+      "originalVersionId": "0",
+      "clubId": 112670,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        65,
+        61,
+        53,
+        63,
+        20,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 75729,
+      "assetId": 75729
+    },
+    "77029": {
+      "name": "Rick",
+      "cardName": "Rick",
+      "originalVersionId": "0",
+      "clubId": 112670,
+      "leagueId": 353,
+      "countryId": 54,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        27,
+        32,
+        38,
+        43
+      ],
+      "attributes": [
+        80,
+        70,
+        60,
+        70,
+        26,
+        39
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 77029,
+      "assetId": 77029
+    },
+    "77965": {
+      "name": "Timoteo Chamorro",
+      "cardName": "Chamorro",
+      "originalVersionId": "0",
+      "clubId": 112670,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "2000",
+      "rating": 51,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "attributes": [
+        61,
+        28,
+        32,
+        50,
+        48,
+        51
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 77965,
+      "assetId": 77965
+    },
+    "77972": {
+      "name": "Alexandro Maidana",
+      "cardName": "Maidana",
+      "originalVersionId": "0",
+      "clubId": 112670,
+      "leagueId": 353,
+      "countryId": 58,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7
+      ],
+      "attributes": [
+        73,
+        59,
+        61,
+        63,
+        59,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 77972,
+      "assetId": 77972
+    },
+    "78171": {
+      "name": "Emiliano Chiavassa",
+      "cardName": "Chiavassa",
+      "originalVersionId": "0",
+      "clubId": 112670,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "2000",
+      "rating": 50,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        35
+      ],
+      "attributes": [
+        62,
+        51,
+        42,
+        53,
+        23,
+        38
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 78171,
+      "assetId": 78171
+    },
+    "80119": {
+      "name": "Giovanni Baroni",
+      "cardName": "Baroni",
+      "originalVersionId": "0",
+      "clubId": 112670,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        33
+      ],
+      "attributes": [
+        67,
+        55,
+        65,
+        63,
+        37,
+        54
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 80119,
+      "assetId": 80119
+    },
+    "214990": {
+      "name": "Matías Catalán",
+      "cardName": "Catalán",
+      "originalVersionId": "0",
+      "clubId": 112670,
+      "leagueId": 353,
+      "countryId": 55,
+      "versionId": "2001",
+      "rating": 73,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "RB"
+      ],
+      "playStyles": [
+        27
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3,
+        11,
+        13
+      ],
+      "attributes": [
+        78,
+        57,
+        65,
+        65,
+        73,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 214990,
+      "assetId": 214990
+    },
+    "222511": {
+      "name": "Ezequiel Unsain",
+      "cardName": "Unsain",
+      "originalVersionId": "0",
+      "clubId": 112670,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        34
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        79,
+        69,
+        76,
+        79,
+        57,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 850,
+      "resourceId": 222511,
+      "assetId": 222511
+    },
+    "223097": {
+      "name": "Franco Cristaldo",
+      "cardName": "Cristaldo",
+      "originalVersionId": "0",
+      "clubId": 112670,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "2002",
+      "rating": 76,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        20,
+        3
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        20,
+        30,
+        31,
+        39
+      ],
+      "attributes": [
+        78,
+        72,
+        73,
+        76,
+        65,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 223097,
+      "assetId": 223097
+    },
+    "226604": {
+      "name": "Diego Valoyes",
+      "cardName": "Valoyes",
+      "originalVersionId": "0",
+      "clubId": 112670,
+      "leagueId": 353,
+      "countryId": 56,
+      "versionId": "2001",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LM",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        21,
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        35
+      ],
+      "attributes": [
+        88,
+        69,
+        70,
+        74,
+        49,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 226604,
+      "assetId": 226604
+    },
+    "226671": {
+      "name": "Federico Fattori",
+      "cardName": "Fattori",
+      "originalVersionId": "0",
+      "clubId": 112670,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "2002",
+      "rating": 77,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        16,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        15,
+        16,
+        18
+      ],
+      "attributes": [
+        64,
+        54,
+        69,
+        71,
+        73,
+        86
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 226671,
+      "assetId": 226671
+    },
+    "229015": {
+      "name": "Gabriel Báez",
+      "cardName": "Báez",
+      "originalVersionId": "0",
+      "clubId": 112670,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9
+      ],
+      "attributes": [
+        73,
+        54,
+        63,
+        63,
+        69,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 229015,
+      "assetId": 229015
+    },
+    "244757": {
+      "name": "Augusto Schott",
+      "cardName": "Schott",
+      "originalVersionId": "0",
+      "clubId": 112670,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        9,
+        28
+      ],
+      "attributes": [
+        81,
+        45,
+        56,
+        67,
+        63,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 244757,
+      "assetId": 244757
+    },
+    "255373": {
+      "name": "Bruno Barticciotto",
+      "cardName": "Barticciotto",
+      "originalVersionId": "0",
+      "clubId": 112670,
+      "leagueId": 353,
+      "countryId": 55,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        31,
+        40,
+        42,
+        43
+      ],
+      "attributes": [
+        81,
+        67,
+        64,
+        72,
+        26,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 10000,
+      "resourceId": 255373,
+      "assetId": 255373
+    },
+    "258289": {
+      "name": "Juan Sforza",
+      "cardName": "Sforza",
+      "originalVersionId": "0",
+      "clubId": 112670,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        14
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18
+      ],
+      "attributes": [
+        71,
+        60,
+        69,
+        69,
+        64,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 258289,
+      "assetId": 258289
+    },
+    "258846": {
+      "name": "Agustín Álvarez",
+      "cardName": "Álvarez",
+      "originalVersionId": "0",
+      "clubId": 112670,
+      "leagueId": 353,
+      "countryId": 60,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [
+        4,
+        7
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        32,
+        43,
+        44
+      ],
+      "attributes": [
+        71,
+        70,
+        64,
+        71,
+        36,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 258846,
+      "assetId": 258846
+    },
+    "267626": {
+      "name": "Matías Galarza",
+      "cardName": "Galarza",
+      "originalVersionId": "0",
+      "clubId": 112670,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        3
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        18
+      ],
+      "attributes": [
+        66,
+        57,
+        69,
+        74,
+        69,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 267626,
+      "assetId": 267626
+    },
+    "273964": {
+      "name": "Valentín Depietri",
+      "cardName": "Depietri",
+      "originalVersionId": "0",
+      "clubId": 112670,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        21
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        27,
+        30,
+        32,
+        39
+      ],
+      "attributes": [
+        74,
+        60,
+        65,
+        69,
+        49,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 273964,
+      "assetId": 273964
+    },
+    "276107": {
+      "name": "Santiago Fernández",
+      "cardName": "Fernández",
+      "originalVersionId": "0",
+      "clubId": 112670,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        68,
+        32,
+        39,
+        45,
+        66,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 550,
+      "resourceId": 276107,
+      "assetId": 276107
+    },
+    "276817": {
+      "name": "Román Riquelme",
+      "cardName": "Riquelme",
+      "originalVersionId": "0",
+      "clubId": 112670,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        13
+      ],
+      "attributes": [
+        60,
+        39,
+        58,
+        63,
+        68,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 276817,
+      "assetId": 276817
+    },
+    "277947": {
+      "name": "Matías Gómez",
+      "cardName": "Gómez",
+      "originalVersionId": "0",
+      "clubId": 112670,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18
+      ],
+      "attributes": [
+        67,
+        60,
+        62,
+        65,
+        62,
+        52
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 277947,
+      "assetId": 277947
+    },
+    "278452": {
+      "name": "Mateo Cáceres",
+      "cardName": "Cáceres",
+      "originalVersionId": "0",
+      "clubId": 112670,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        17,
+        26,
+        36
+      ],
+      "attributes": [
+        79,
+        51,
+        65,
+        66,
+        56,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 278452,
+      "assetId": 278452
+    },
+    "279845": {
+      "name": "Valentín Fascendini",
+      "cardName": "Fascendini",
+      "originalVersionId": "0",
+      "clubId": 112670,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        12
+      ],
+      "attributes": [
+        52,
+        32,
+        46,
+        51,
+        67,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 279845,
+      "assetId": 279845
+    }
+  }
+}

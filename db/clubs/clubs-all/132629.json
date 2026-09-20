@@ -1,0 +1,783 @@
+{
+  "clubName": "Logroño United",
+  "players": {
+    "72366": {
+      "name": "María Barquero",
+      "cardName": "María Barquero",
+      "originalVersionId": "0",
+      "clubId": 132629,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        29
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        67,
+        58,
+        58,
+        59,
+        34,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 72366,
+      "assetId": 72366
+    },
+    "72810": {
+      "name": "Milagros Martín",
+      "cardName": "Martín",
+      "originalVersionId": "0",
+      "clubId": 132629,
+      "leagueId": 2222,
+      "countryId": 52,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9
+      ],
+      "attributes": [
+        68,
+        33,
+        53,
+        64,
+        56,
+        51
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 72810,
+      "assetId": 72810
+    },
+    "72828": {
+      "name": "Francisca Altgelt",
+      "cardName": "Altgelt",
+      "originalVersionId": "0",
+      "clubId": 132629,
+      "leagueId": 2222,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        38
+      ],
+      "attributes": [
+        67,
+        67,
+        63,
+        70,
+        26,
+        45
+      ],
+      "hasDynamicImage": false,
+      "price": 1400,
+      "resourceId": 72828,
+      "assetId": 72828
+    },
+    "75042": {
+      "name": "Cristina Redondo",
+      "cardName": "Cristina Redondo",
+      "originalVersionId": "0",
+      "clubId": 132629,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        71,
+        69,
+        56,
+        70,
+        22,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 1100,
+      "resourceId": 75042,
+      "assetId": 75042
+    },
+    "77986": {
+      "name": "Rebeca",
+      "cardName": "Rebeca",
+      "originalVersionId": "0",
+      "clubId": 132629,
+      "leagueId": 2222,
+      "countryId": 54,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        57,
+        33,
+        47,
+        53,
+        63,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 77986,
+      "assetId": 77986
+    },
+    "78883": {
+      "name": "Mia Asenjo",
+      "cardName": "Asenjo",
+      "originalVersionId": "0",
+      "clubId": 132629,
+      "leagueId": 2222,
+      "countryId": 207,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        38,
+        41,
+        42
+      ],
+      "attributes": [
+        71,
+        63,
+        55,
+        67,
+        26,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 78883,
+      "assetId": 78883
+    },
+    "78884": {
+      "name": "Marta Masferrer",
+      "cardName": "Marta Masferrer",
+      "originalVersionId": "0",
+      "clubId": 132629,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        18
+      ],
+      "attributes": [
+        54,
+        38,
+        48,
+        51,
+        65,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 78884,
+      "assetId": 78884
+    },
+    "78897": {
+      "name": "Ximena Velazco",
+      "cardName": "Velazco",
+      "originalVersionId": "0",
+      "clubId": 132629,
+      "leagueId": 2222,
+      "countryId": 60,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18
+      ],
+      "attributes": [
+        49,
+        60,
+        67,
+        70,
+        55,
+        51
+      ],
+      "hasDynamicImage": false,
+      "price": 1000,
+      "resourceId": 78897,
+      "assetId": 78897
+    },
+    "78900": {
+      "name": "Justina Morcillo",
+      "cardName": "Morcillo",
+      "originalVersionId": "0",
+      "clubId": 132629,
+      "leagueId": 2222,
+      "countryId": 52,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CDM",
+        "RB",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        4,
+        5,
+        17,
+        23,
+        35
+      ],
+      "attributes": [
+        65,
+        25,
+        47,
+        48,
+        63,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 78900,
+      "assetId": 78900
+    },
+    "78901": {
+      "name": "Laura Martínez",
+      "cardName": "Laura Martínez",
+      "originalVersionId": "0",
+      "clubId": 132629,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        55,
+        52,
+        58,
+        60,
+        44,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 78901,
+      "assetId": 78901
+    },
+    "79617": {
+      "name": "Andrea Colomina",
+      "cardName": "Andrea Colomina",
+      "originalVersionId": "0",
+      "clubId": 132629,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3,
+        11
+      ],
+      "attributes": [
+        63,
+        26,
+        48,
+        46,
+        61,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 79617,
+      "assetId": 79617
+    },
+    "79975": {
+      "name": "Flavine Mawete",
+      "cardName": "Mawete",
+      "originalVersionId": "0",
+      "clubId": 132629,
+      "leagueId": 2222,
+      "countryId": 110,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        35,
+        36
+      ],
+      "attributes": [
+        78,
+        68,
+        63,
+        73,
+        27,
+        49
+      ],
+      "hasDynamicImage": false,
+      "price": 1200,
+      "resourceId": 79975,
+      "assetId": 79975
+    },
+    "80059": {
+      "name": "Margarita Giménez",
+      "cardName": "Giménez",
+      "originalVersionId": "0",
+      "clubId": 132629,
+      "leagueId": 2222,
+      "countryId": 52,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        33
+      ],
+      "attributes": [
+        67,
+        53,
+        55,
+        61,
+        36,
+        50
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 80059,
+      "assetId": 80059
+    },
+    "81679": {
+      "name": "Comfort Yeboah",
+      "cardName": "Yeboah",
+      "originalVersionId": "0",
+      "clubId": 132629,
+      "leagueId": 2222,
+      "countryId": 117,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        56,
+        36,
+        48,
+        48,
+        63,
+        53
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 81679,
+      "assetId": 81679
+    },
+    "87395": {
+      "name": "Valentina Donolato",
+      "cardName": "Donolato",
+      "originalVersionId": "0",
+      "clubId": 132629,
+      "leagueId": 2222,
+      "countryId": 27,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        57,
+        51,
+        59,
+        63,
+        71,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 1100,
+      "resourceId": 87395,
+      "assetId": 87395
+    },
+    "269678": {
+      "name": "Daiana Falfán",
+      "cardName": "Falfán",
+      "originalVersionId": "0",
+      "clubId": 132629,
+      "leagueId": 2222,
+      "countryId": 52,
+      "versionId": "2002",
+      "rating": 77,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        24
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19,
+        20
+      ],
+      "attributes": [
+        72,
+        71,
+        67,
+        78,
+        71,
+        80
+      ],
+      "hasDynamicImage": false,
+      "price": 1700,
+      "resourceId": 269678,
+      "assetId": 269678
+    },
+    "272047": {
+      "name": "Ana Franco",
+      "cardName": "Ana Franco",
+      "originalVersionId": "0",
+      "clubId": 132629,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        30,
+        36,
+        39,
+        41
+      ],
+      "attributes": [
+        84,
+        73,
+        68,
+        74,
+        46,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 4400,
+      "resourceId": 272047,
+      "assetId": 272047
+    },
+    "272211": {
+      "name": "Olatz Santana",
+      "cardName": "Olatz Santana",
+      "originalVersionId": "0",
+      "clubId": 132629,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        74,
+        71,
+        65,
+        69,
+        42,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 1300,
+      "resourceId": 272211,
+      "assetId": 272211
+    },
+    "275576": {
+      "name": "María Miralles",
+      "cardName": "María Miralles",
+      "originalVersionId": "0",
+      "clubId": 132629,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        2
+      ],
+      "attributes": [
+        73,
+        77,
+        71,
+        73,
+        36,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 1300,
+      "resourceId": 275576,
+      "assetId": 275576
+    },
+    "276468": {
+      "name": "Annelie Leitner",
+      "cardName": "Leitner",
+      "originalVersionId": "0",
+      "clubId": 132629,
+      "leagueId": 2222,
+      "countryId": 4,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "RB",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        9,
+        23,
+        28,
+        35
+      ],
+      "attributes": [
+        64,
+        45,
+        60,
+        64,
+        69,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 1300,
+      "resourceId": 276468,
+      "assetId": 276468
+    },
+    "276887": {
+      "name": "Isina Corte",
+      "cardName": "Isina Corte",
+      "originalVersionId": "0",
+      "clubId": 132629,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2002",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        29
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        27,
+        31,
+        38,
+        49
+      ],
+      "attributes": [
+        87,
+        78,
+        74,
+        78,
+        36,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 750,
+      "resourceId": 276887,
+      "assetId": 276887
+    }
+  }
+}

@@ -1,0 +1,963 @@
+{
+  "clubName": "Rac. Louisville",
+  "players": {
+    "71494": {
+      "name": "Emma Sears",
+      "cardName": "Sears",
+      "originalVersionId": "0",
+      "clubId": 116308,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2002",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        12,
+        19,
+        21
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        36
+      ],
+      "attributes": [
+        89,
+        72,
+        75,
+        78,
+        44,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 71494,
+      "assetId": 71494
+    },
+    "76213": {
+      "name": "Macey Hodge",
+      "cardName": "Hodge",
+      "originalVersionId": "0",
+      "clubId": 116308,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        18
+      ],
+      "attributes": [
+        67,
+        63,
+        66,
+        70,
+        65,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 76213,
+      "assetId": 76213
+    },
+    "76218": {
+      "name": "Quincy McMahon",
+      "cardName": "McMahon",
+      "originalVersionId": "0",
+      "clubId": 116308,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3,
+        7
+      ],
+      "attributes": [
+        47,
+        45,
+        61,
+        59,
+        69,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 650,
+      "resourceId": 76218,
+      "assetId": 76218
+    },
+    "76517": {
+      "name": "Ella Hase",
+      "cardName": "Hase",
+      "originalVersionId": "0",
+      "clubId": 116308,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        30,
+        38
+      ],
+      "attributes": [
+        67,
+        63,
+        66,
+        69,
+        64,
+        49
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 76517,
+      "assetId": 76517
+    },
+    "76889": {
+      "name": "Sarah Weber",
+      "cardName": "Weber",
+      "originalVersionId": "0",
+      "clubId": 116308,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        69,
+        68,
+        66,
+        72,
+        45,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 76889,
+      "assetId": 76889
+    },
+    "77548": {
+      "name": "Katie O'Kane",
+      "cardName": "O'Kane",
+      "originalVersionId": "0",
+      "clubId": 116308,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2002",
+      "rating": 77,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        18
+      ],
+      "attributes": [
+        72,
+        68,
+        76,
+        74,
+        62,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 750,
+      "resourceId": 77548,
+      "assetId": 77548
+    },
+    "77799": {
+      "name": "Maddie Prohaska",
+      "cardName": "Prohaska",
+      "originalVersionId": "0",
+      "clubId": 116308,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        66,
+        65,
+        66,
+        66,
+        28,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 77799,
+      "assetId": 77799
+    },
+    "77964": {
+      "name": "Avery Ciorbu",
+      "cardName": "Ciorbu",
+      "originalVersionId": "0",
+      "clubId": 116308,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        69,
+        61,
+        59,
+        67,
+        49,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 77964,
+      "assetId": 77964
+    },
+    "83031": {
+      "name": "Taylor White",
+      "cardName": "White",
+      "originalVersionId": "0",
+      "clubId": 116308,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RB",
+        "RM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        6,
+        24,
+        41
+      ],
+      "attributes": [
+        74,
+        63,
+        58,
+        66,
+        21,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 83031,
+      "assetId": 83031
+    },
+    "83157": {
+      "name": "Mirann Gacioch",
+      "cardName": "Gacioch",
+      "originalVersionId": "0",
+      "clubId": 116308,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        66,
+        34,
+        43,
+        54,
+        63,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 83157,
+      "assetId": 83157
+    },
+    "83280": {
+      "name": "Macy Philippus",
+      "cardName": "Philippus",
+      "originalVersionId": "0",
+      "clubId": 116308,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "attributes": [
+        64,
+        27,
+        53,
+        58,
+        67,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 83280,
+      "assetId": 83280
+    },
+    "83281": {
+      "name": "Maja Lardner",
+      "cardName": "Lardner",
+      "originalVersionId": "0",
+      "clubId": 116308,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        70,
+        62,
+        50,
+        66,
+        21,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 83281,
+      "assetId": 83281
+    },
+    "84648": {
+      "name": "Erynn Floyd",
+      "cardName": "Floyd",
+      "originalVersionId": "0",
+      "clubId": 116308,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        67,
+        65,
+        66,
+        72,
+        15,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 84648,
+      "assetId": 84648
+    },
+    "267269": {
+      "name": "Rachel Hill",
+      "cardName": "Hill",
+      "originalVersionId": "0",
+      "clubId": 116308,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2002",
+      "rating": 78,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        36
+      ],
+      "attributes": [
+        81,
+        71,
+        76,
+        79,
+        48,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 267269,
+      "assetId": 267269
+    },
+    "267281": {
+      "name": "Arin Wright",
+      "cardName": "Wright",
+      "originalVersionId": "0",
+      "clubId": 116308,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2002",
+      "rating": 77,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        15
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        58,
+        54,
+        67,
+        75,
+        78,
+        78
+      ],
+      "hasDynamicImage": false,
+      "price": 850,
+      "resourceId": 267281,
+      "assetId": 267281
+    },
+    "267305": {
+      "name": "Courtney Petersen",
+      "cardName": "Petersen",
+      "originalVersionId": "0",
+      "clubId": 116308,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 73,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        8,
+        9,
+        11,
+        17
+      ],
+      "attributes": [
+        75,
+        60,
+        69,
+        70,
+        69,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 267305,
+      "assetId": 267305
+    },
+    "267311": {
+      "name": "Marisa DiGrande",
+      "cardName": "DiGrande",
+      "originalVersionId": "0",
+      "clubId": 116308,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        22,
+        33
+      ],
+      "attributes": [
+        63,
+        58,
+        68,
+        73,
+        75,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 850,
+      "resourceId": 267311,
+      "assetId": 267311
+    },
+    "267314": {
+      "name": "Jordyn Bloomer",
+      "cardName": "Bloomer",
+      "originalVersionId": "0",
+      "clubId": 116308,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2002",
+      "rating": 78,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        77,
+        75,
+        68,
+        80,
+        45,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 750,
+      "resourceId": 267314,
+      "assetId": 267314
+    },
+    "267318": {
+      "name": "Savannah DeMelo",
+      "cardName": "DeMelo",
+      "originalVersionId": "0",
+      "clubId": 116308,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2002",
+      "rating": 79,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [
+        3
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        32,
+        43
+      ],
+      "attributes": [
+        64,
+        76,
+        80,
+        80,
+        62,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 267318,
+      "assetId": 267318
+    },
+    "267325": {
+      "name": "Lauren Milliet",
+      "cardName": "Milliet",
+      "originalVersionId": "0",
+      "clubId": 116308,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2002",
+      "rating": 77,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        12
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        24
+      ],
+      "attributes": [
+        77,
+        58,
+        73,
+        77,
+        72,
+        52
+      ],
+      "hasDynamicImage": false,
+      "price": 750,
+      "resourceId": 267325,
+      "assetId": 267325
+    },
+    "267384": {
+      "name": "Taylor Flint",
+      "cardName": "Flint",
+      "originalVersionId": "0",
+      "clubId": 116308,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2002",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CAM",
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        17,
+        19,
+        4
+      ],
+      "playStylesPlus": [
+        16
+      ],
+      "rolesPlus": [
+        13,
+        16,
+        21,
+        31,
+        114
+      ],
+      "attributes": [
+        71,
+        75,
+        75,
+        78,
+        84,
+        91
+      ],
+      "hasDynamicImage": false,
+      "price": 1100,
+      "resourceId": 267384,
+      "assetId": 267384
+    },
+    "267474": {
+      "name": "Ellie Jean",
+      "cardName": "Jean",
+      "originalVersionId": "0",
+      "clubId": 116308,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        71,
+        39,
+        60,
+        66,
+        72,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 267474,
+      "assetId": 267474
+    },
+    "273481": {
+      "name": "Kayla Fischer",
+      "cardName": "Fischer",
+      "originalVersionId": "0",
+      "clubId": 116308,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        32,
+        42,
+        43
+      ],
+      "attributes": [
+        76,
+        69,
+        69,
+        77,
+        39,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 273481,
+      "assetId": 273481
+    },
+    "277766": {
+      "name": "Maddie Pokorny",
+      "cardName": "Pokorny",
+      "originalVersionId": "0",
+      "clubId": 116308,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        38
+      ],
+      "attributes": [
+        64,
+        64,
+        64,
+        66,
+        38,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 277766,
+      "assetId": 277766
+    },
+    "279908": {
+      "name": "Makenna Morris",
+      "cardName": "Morris",
+      "originalVersionId": "0",
+      "clubId": 116308,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        26,
+        30,
+        36,
+        39
+      ],
+      "attributes": [
+        65,
+        67,
+        68,
+        70,
+        65,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 279908,
+      "assetId": 279908
+    },
+    "50409544": {
+      "name": "Jordan Fusco",
+      "cardName": "Fusco",
+      "originalVersionId": "0",
+      "clubId": 116308,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        67,
+        54,
+        55,
+        61,
+        49,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 50409544,
+      "assetId": 77896
+    }
+  }
+}

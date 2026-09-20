@@ -1,0 +1,909 @@
+{
+  "clubName": "US Boulogne CO",
+  "players": {
+    "69996": {
+      "name": "Aurélien Platret",
+      "cardName": "Platret",
+      "originalVersionId": "0",
+      "clubId": 132680,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CM",
+        "RB",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        25,
+        26,
+        36,
+        46
+      ],
+      "attributes": [
+        74,
+        55,
+        61,
+        65,
+        62,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 1000,
+      "resourceId": 69996,
+      "assetId": 69996
+    },
+    "76421": {
+      "name": "Oscar Lenne",
+      "cardName": "Lenne",
+      "originalVersionId": "0",
+      "clubId": 132680,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7
+      ],
+      "attributes": [
+        68,
+        46,
+        56,
+        55,
+        58,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 76421,
+      "assetId": 76421
+    },
+    "79472": {
+      "name": "Théo Epailly",
+      "cardName": "Epailly",
+      "originalVersionId": "0",
+      "clubId": 132680,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        38
+      ],
+      "attributes": [
+        78,
+        66,
+        58,
+        66,
+        36,
+        50
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 79472,
+      "assetId": 79472
+    },
+    "79499": {
+      "name": "Abdel Hbouch",
+      "cardName": "Hbouch",
+      "originalVersionId": "0",
+      "clubId": 132680,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "RM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        30,
+        32,
+        39,
+        43
+      ],
+      "attributes": [
+        74,
+        54,
+        64,
+        66,
+        48,
+        54
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 79499,
+      "assetId": 79499
+    },
+    "79788": {
+      "name": "Jonathan Kapenga",
+      "cardName": "Kapenga",
+      "originalVersionId": "0",
+      "clubId": 132680,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        59,
+        39,
+        45,
+        46,
+        58,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 79788,
+      "assetId": 79788
+    },
+    "79789": {
+      "name": "Sonny Duflos",
+      "cardName": "Duflos",
+      "originalVersionId": "0",
+      "clubId": 132680,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        6,
+        22,
+        23,
+        33
+      ],
+      "attributes": [
+        60,
+        55,
+        62,
+        65,
+        63,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 79789,
+      "assetId": 79789
+    },
+    "79791": {
+      "name": "Nolan Binet",
+      "cardName": "Binet",
+      "originalVersionId": "0",
+      "clubId": 132680,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        18,
+        19
+      ],
+      "attributes": [
+        71,
+        58,
+        60,
+        64,
+        63,
+        77
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 79791,
+      "assetId": 79791
+    },
+    "79792": {
+      "name": "Sohan Paillard",
+      "cardName": "Paillard",
+      "originalVersionId": "0",
+      "clubId": 132680,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        35
+      ],
+      "attributes": [
+        69,
+        53,
+        55,
+        58,
+        34,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 79792,
+      "assetId": 79792
+    },
+    "80064": {
+      "name": "Louis Siliadin",
+      "cardName": "Siliadin",
+      "originalVersionId": "0",
+      "clubId": 132680,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CB",
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7
+      ],
+      "attributes": [
+        76,
+        26,
+        50,
+        53,
+        57,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 80064,
+      "assetId": 80064
+    },
+    "80065": {
+      "name": "Joffrey Bultel",
+      "cardName": "Bultel",
+      "originalVersionId": "0",
+      "clubId": 132680,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        18
+      ],
+      "attributes": [
+        55,
+        50,
+        60,
+        57,
+        64,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 80065,
+      "assetId": 80065
+    },
+    "83812": {
+      "name": "Zoran Moco",
+      "cardName": "Moco",
+      "originalVersionId": "0",
+      "clubId": 132680,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CM",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "attributes": [
+        69,
+        48,
+        54,
+        62,
+        60,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 83812,
+      "assetId": 83812
+    },
+    "87059": {
+      "name": "Aymane Nassiri",
+      "cardName": "Nassiri",
+      "originalVersionId": "0",
+      "clubId": 132680,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        35
+      ],
+      "attributes": [
+        76,
+        59,
+        57,
+        63,
+        29,
+        43
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 87059,
+      "assetId": 87059
+    },
+    "87063": {
+      "name": "Benjamin Bešić",
+      "cardName": "Bešić",
+      "originalVersionId": "0",
+      "clubId": 132680,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        61,
+        65,
+        39,
+        61,
+        21,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 87063,
+      "assetId": 87063
+    },
+    "87064": {
+      "name": "Antoine Kerriou",
+      "cardName": "Kerriou",
+      "originalVersionId": "0",
+      "clubId": 132680,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        61,
+        32,
+        53,
+        49,
+        62,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 87064,
+      "assetId": 87064
+    },
+    "87065": {
+      "name": "Théo Brusco",
+      "cardName": "Brusco",
+      "originalVersionId": "0",
+      "clubId": 132680,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        53,
+        29,
+        48,
+        44,
+        64,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 87065,
+      "assetId": 87065
+    },
+    "190700": {
+      "name": "Ibrahim Koné",
+      "cardName": "Koné",
+      "originalVersionId": "0",
+      "clubId": 132680,
+      "leagueId": 17,
+      "countryId": 118,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        64,
+        63,
+        61,
+        63,
+        37,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 190700,
+      "assetId": 190700
+    },
+    "197813": {
+      "name": "Jonas Martin",
+      "cardName": "Martin",
+      "originalVersionId": "0",
+      "clubId": 132680,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        13,
+        15,
+        16,
+        18
+      ],
+      "attributes": [
+        34,
+        60,
+        70,
+        63,
+        61,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 197813,
+      "assetId": 197813
+    },
+    "225166": {
+      "name": "Xavier Lenogue",
+      "cardName": "Lenogue",
+      "originalVersionId": "0",
+      "clubId": 132680,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        63,
+        54,
+        55,
+        58,
+        46,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 225166,
+      "assetId": 225166
+    },
+    "247533": {
+      "name": "Julien Boyer",
+      "cardName": "Boyer",
+      "originalVersionId": "0",
+      "clubId": 132680,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7
+      ],
+      "attributes": [
+        68,
+        54,
+        58,
+        60,
+        63,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 850,
+      "resourceId": 247533,
+      "assetId": 247533
+    },
+    "256730": {
+      "name": "Demba Thiam",
+      "cardName": "Thiam",
+      "originalVersionId": "0",
+      "clubId": 132680,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CB",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        24,
+        48
+      ],
+      "attributes": [
+        79,
+        25,
+        51,
+        59,
+        63,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 750,
+      "resourceId": 256730,
+      "assetId": 256730
+    },
+    "257138": {
+      "name": "Blondy Nna Noukeu",
+      "cardName": "Nna Noukeu",
+      "originalVersionId": "0",
+      "clubId": 132680,
+      "leagueId": 17,
+      "countryId": 103,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        65,
+        62,
+        60,
+        63,
+        35,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 257138,
+      "assetId": 257138
+    },
+    "257171": {
+      "name": "Noah Fatar",
+      "cardName": "Fatar",
+      "originalVersionId": "0",
+      "clubId": 132680,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LM",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        24,
+        35
+      ],
+      "attributes": [
+        79,
+        68,
+        61,
+        65,
+        28,
+        47
+      ],
+      "hasDynamicImage": false,
+      "price": 750,
+      "resourceId": 257171,
+      "assetId": 257171
+    },
+    "260776": {
+      "name": "Adrien Pinot",
+      "cardName": "Pinot",
+      "originalVersionId": "0",
+      "clubId": 132680,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        43,
+        27,
+        49,
+        42,
+        64,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 260776,
+      "assetId": 260776
+    },
+    "275619": {
+      "name": "Martin Lécolier",
+      "cardName": "Lécolier",
+      "originalVersionId": "0",
+      "clubId": 132680,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "RM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        42
+      ],
+      "attributes": [
+        72,
+        59,
+        55,
+        62,
+        30,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 275619,
+      "assetId": 275619
+    },
+    "50411271": {
+      "name": "Mathieu Mion",
+      "cardName": "Mion",
+      "originalVersionId": "0",
+      "clubId": 132680,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7
+      ],
+      "attributes": [
+        68,
+        29,
+        47,
+        56,
+        62,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 50411271,
+      "assetId": 79623
+    }
+  }
+}

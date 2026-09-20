@@ -1,0 +1,850 @@
+{
+  "clubName": "Excelsior",
+  "players": {
+    "70909": {
+      "name": "Kasey Bos",
+      "cardName": "Bos",
+      "originalVersionId": "0",
+      "clubId": 1971,
+      "leagueId": 10,
+      "countryId": 195,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        10,
+        27
+      ],
+      "attributes": [
+        72,
+        46,
+        54,
+        60,
+        64,
+        54
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 70909,
+      "assetId": 70909
+    },
+    "74636": {
+      "name": "Jan Plug",
+      "cardName": "Plug",
+      "originalVersionId": "0",
+      "clubId": 1971,
+      "leagueId": 10,
+      "countryId": 34,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        13
+      ],
+      "attributes": [
+        72,
+        48,
+        59,
+        57,
+        65,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 74636,
+      "assetId": 74636
+    },
+    "75535": {
+      "name": "Aymen Sliti",
+      "cardName": "Sliti",
+      "originalVersionId": "0",
+      "clubId": 1971,
+      "leagueId": 10,
+      "countryId": 34,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        38
+      ],
+      "attributes": [
+        87,
+        58,
+        59,
+        71,
+        27,
+        48
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 75535,
+      "assetId": 75535
+    },
+    "78099": {
+      "name": "Valentin Sulzbacher",
+      "cardName": "Sulzbacher",
+      "originalVersionId": "0",
+      "clubId": 1971,
+      "leagueId": 10,
+      "countryId": 4,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        66,
+        56,
+        58,
+        56,
+        60,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 78099,
+      "assetId": 78099
+    },
+    "80149": {
+      "name": "Tijmen Holla",
+      "cardName": "Holla",
+      "originalVersionId": "0",
+      "clubId": 1971,
+      "leagueId": 10,
+      "countryId": 34,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        58,
+        59,
+        57,
+        59,
+        25,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 80149,
+      "assetId": 80149
+    },
+    "80151": {
+      "name": "Nesto Groen",
+      "cardName": "Groen",
+      "originalVersionId": "0",
+      "clubId": 1971,
+      "leagueId": 10,
+      "countryId": 34,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        64,
+        61,
+        45,
+        55,
+        33,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 80151,
+      "assetId": 80151
+    },
+    "80525": {
+      "name": "Guilliano Cairo",
+      "cardName": "Cairo",
+      "originalVersionId": "0",
+      "clubId": 1971,
+      "leagueId": 10,
+      "countryId": 34,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12
+      ],
+      "attributes": [
+        65,
+        31,
+        40,
+        48,
+        60,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 80525,
+      "assetId": 80525
+    },
+    "87625": {
+      "name": "Daniel van Vianen",
+      "cardName": "van Vianen",
+      "originalVersionId": "0",
+      "clubId": 1971,
+      "leagueId": 10,
+      "countryId": 34,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14
+      ],
+      "attributes": [
+        63,
+        50,
+        64,
+        59,
+        61,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 87625,
+      "assetId": 87625
+    },
+    "87630": {
+      "name": "Yacqub Finey",
+      "cardName": "Finey",
+      "originalVersionId": "0",
+      "clubId": 1971,
+      "leagueId": 10,
+      "countryId": 46,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        26,
+        31,
+        36,
+        43
+      ],
+      "attributes": [
+        66,
+        62,
+        60,
+        67,
+        39,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 4700,
+      "resourceId": 87630,
+      "assetId": 87630
+    },
+    "87632": {
+      "name": "Marlon van de Wetering",
+      "cardName": "van de Wetering",
+      "originalVersionId": "0",
+      "clubId": 1971,
+      "leagueId": 10,
+      "countryId": 82,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        24
+      ],
+      "attributes": [
+        66,
+        30,
+        48,
+        57,
+        59,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 87632,
+      "assetId": 87632
+    },
+    "87639": {
+      "name": "David Garden",
+      "cardName": "Garden",
+      "originalVersionId": "0",
+      "clubId": 1971,
+      "leagueId": 10,
+      "countryId": 34,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        56,
+        63,
+        43,
+        55,
+        20,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 87639,
+      "assetId": 87639
+    },
+    "87760": {
+      "name": "Osman Turay",
+      "cardName": "Turay",
+      "originalVersionId": "0",
+      "clubId": 1971,
+      "leagueId": 10,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        10,
+        28
+      ],
+      "attributes": [
+        85,
+        44,
+        53,
+        63,
+        51,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 87760,
+      "assetId": 87760
+    },
+    "215871": {
+      "name": "Alireza Jahanbakhsh",
+      "cardName": "Jahanbakhsh",
+      "originalVersionId": "0",
+      "clubId": 1971,
+      "leagueId": 10,
+      "countryId": 161,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        19,
+        2
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        25,
+        35,
+        36,
+        37
+      ],
+      "attributes": [
+        67,
+        70,
+        66,
+        70,
+        47,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 215871,
+      "assetId": 215871
+    },
+    "245014": {
+      "name": "Simon Janssen",
+      "cardName": "Janssen",
+      "originalVersionId": "0",
+      "clubId": 1971,
+      "leagueId": 10,
+      "countryId": 34,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CDM",
+        "CM",
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        8,
+        9,
+        14,
+        19
+      ],
+      "attributes": [
+        69,
+        53,
+        63,
+        64,
+        58,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 245014,
+      "assetId": 245014
+    },
+    "256892": {
+      "name": "Casper Widell",
+      "cardName": "Widell",
+      "originalVersionId": "0",
+      "clubId": 1971,
+      "leagueId": 10,
+      "countryId": 46,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        16,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        13
+      ],
+      "attributes": [
+        58,
+        29,
+        52,
+        46,
+        70,
+        80
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 256892,
+      "assetId": 256892
+    },
+    "258712": {
+      "name": "Celton Biai",
+      "cardName": "Celton Biai",
+      "originalVersionId": "0",
+      "clubId": 1971,
+      "leagueId": 10,
+      "countryId": 119,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        69,
+        64,
+        65,
+        68,
+        22,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 800,
+      "resourceId": 258712,
+      "assetId": 258712
+    },
+    "263637": {
+      "name": "Lennard Hartjes",
+      "cardName": "Hartjes",
+      "originalVersionId": "0",
+      "clubId": 1971,
+      "leagueId": 10,
+      "countryId": 34,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19
+      ],
+      "attributes": [
+        78,
+        47,
+        63,
+        71,
+        62,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 263637,
+      "assetId": 263637
+    },
+    "265535": {
+      "name": "Rick Meissen",
+      "cardName": "Meissen",
+      "originalVersionId": "0",
+      "clubId": 1971,
+      "leagueId": 10,
+      "countryId": 34,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3,
+        11,
+        13
+      ],
+      "attributes": [
+        59,
+        34,
+        44,
+        48,
+        67,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 265535,
+      "assetId": 265535
+    },
+    "269434": {
+      "name": "Stijn van Gassel",
+      "cardName": "van Gassel",
+      "originalVersionId": "0",
+      "clubId": 1971,
+      "leagueId": 10,
+      "countryId": 34,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        30,
+        31
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        45
+      ],
+      "attributes": [
+        72,
+        70,
+        66,
+        72,
+        44,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 269434,
+      "assetId": 269434
+    },
+    "271118": {
+      "name": "Noah Naujoks",
+      "cardName": "Naujoks",
+      "originalVersionId": "0",
+      "clubId": 1971,
+      "leagueId": 10,
+      "countryId": 34,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        26
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        22,
+        31
+      ],
+      "attributes": [
+        75,
+        62,
+        62,
+        64,
+        62,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 271118,
+      "assetId": 271118
+    },
+    "275982": {
+      "name": "Irakli Yegoian",
+      "cardName": "Yegoian",
+      "originalVersionId": "0",
+      "clubId": 1971,
+      "leagueId": 10,
+      "countryId": 20,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        13
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        20,
+        31,
+        34
+      ],
+      "attributes": [
+        65,
+        64,
+        64,
+        72,
+        49,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 275982,
+      "assetId": 275982
+    },
+    "278231": {
+      "name": "Domi",
+      "cardName": "Domi",
+      "originalVersionId": "0",
+      "clubId": 1971,
+      "leagueId": 10,
+      "countryId": 45,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41,
+        42
+      ],
+      "attributes": [
+        68,
+        62,
+        47,
+        64,
+        27,
+        54
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 278231,
+      "assetId": 278231
+    },
+    "50403282": {
+      "name": "Eric da Silva Moreira",
+      "cardName": "da Silva Moreira",
+      "originalVersionId": "0",
+      "clubId": 1971,
+      "leagueId": 10,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        6,
+        23
+      ],
+      "attributes": [
+        69,
+        47,
+        57,
+        63,
+        59,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 50403282,
+      "assetId": 71634
+    }
+  }
+}

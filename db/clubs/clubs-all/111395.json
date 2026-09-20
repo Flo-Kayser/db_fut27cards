@@ -1,0 +1,658 @@
+{
+  "clubName": "Brisbane Roar",
+  "players": {
+    "70805": {
+      "name": "Jordan Lauton",
+      "cardName": "Lauton",
+      "originalVersionId": "0",
+      "clubId": 111395,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 56,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        33
+      ],
+      "attributes": [
+        65,
+        44,
+        53,
+        58,
+        49,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 70805,
+      "assetId": 70805
+    },
+    "75040": {
+      "name": "Sabit Ngor",
+      "cardName": "Ngor",
+      "originalVersionId": "0",
+      "clubId": 111395,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        30,
+        36,
+        39,
+        42
+      ],
+      "attributes": [
+        79,
+        61,
+        52,
+        58,
+        31,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 75040,
+      "assetId": 75040
+    },
+    "77700": {
+      "name": "James Durrington",
+      "cardName": "Durrington",
+      "originalVersionId": "0",
+      "clubId": 111395,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        31,
+        32,
+        33
+      ],
+      "attributes": [
+        56,
+        53,
+        56,
+        62,
+        39,
+        52
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 77700,
+      "assetId": 77700
+    },
+    "79082": {
+      "name": "Marko Ilić",
+      "cardName": "Ilić",
+      "originalVersionId": "0",
+      "clubId": 111395,
+      "leagueId": 351,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        2
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        32,
+        36,
+        41,
+        43
+      ],
+      "attributes": [
+        72,
+        65,
+        51,
+        67,
+        20,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 79082,
+      "assetId": 79082
+    },
+    "79184": {
+      "name": "Milorad Stajić",
+      "cardName": "Stajić",
+      "originalVersionId": "0",
+      "clubId": 111395,
+      "leagueId": 351,
+      "countryId": 8,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        22,
+        33
+      ],
+      "attributes": [
+        57,
+        34,
+        52,
+        56,
+        55,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 79184,
+      "assetId": 79184
+    },
+    "80564": {
+      "name": "Dimitri Valkanis",
+      "cardName": "Valkanis",
+      "originalVersionId": "0",
+      "clubId": 111395,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        65,
+        25,
+        39,
+        45,
+        56,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 80564,
+      "assetId": 80564
+    },
+    "81886": {
+      "name": "Noah Maieroni",
+      "cardName": "Maieroni",
+      "originalVersionId": "0",
+      "clubId": 111395,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 56,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14
+      ],
+      "attributes": [
+        63,
+        40,
+        50,
+        53,
+        53,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 81886,
+      "assetId": 81886
+    },
+    "86685": {
+      "name": "George Plusnin",
+      "cardName": "Plusnin",
+      "originalVersionId": "0",
+      "clubId": 111395,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 51,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        59,
+        53,
+        51,
+        51,
+        25,
+        45
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 86685,
+      "assetId": 86685
+    },
+    "181468": {
+      "name": "Dean Bouzanis",
+      "cardName": "Bouzanis",
+      "originalVersionId": "0",
+      "clubId": 111395,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        10,
+        31
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        45
+      ],
+      "attributes": [
+        63,
+        60,
+        66,
+        63,
+        47,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 181468,
+      "assetId": 181468
+    },
+    "190962": {
+      "name": "Tom Aldred",
+      "cardName": "Aldred",
+      "originalVersionId": "0",
+      "clubId": 111395,
+      "leagueId": 351,
+      "countryId": 42,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        15,
+        19,
+        28,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        32,
+        38,
+        48,
+        51,
+        62,
+        84
+      ],
+      "hasDynamicImage": false,
+      "price": 750,
+      "resourceId": 190962,
+      "assetId": 190962
+    },
+    "193144": {
+      "name": "Nam Tae Hee",
+      "cardName": "Nam Tae Hee",
+      "originalVersionId": "0",
+      "clubId": 111395,
+      "leagueId": 351,
+      "countryId": 167,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        13,
+        20,
+        23
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        32,
+        36,
+        43,
+        49
+      ],
+      "attributes": [
+        74,
+        62,
+        63,
+        74,
+        49,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 193144,
+      "assetId": 193144
+    },
+    "243785": {
+      "name": "Tate Russell",
+      "cardName": "Russell",
+      "originalVersionId": "0",
+      "clubId": 111395,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3,
+        25,
+        37
+      ],
+      "attributes": [
+        81,
+        48,
+        57,
+        62,
+        56,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 243785,
+      "assetId": 243785
+    },
+    "246005": {
+      "name": "Joel King",
+      "cardName": "King",
+      "originalVersionId": "0",
+      "clubId": 111395,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "LB",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7,
+        8,
+        13,
+        17
+      ],
+      "attributes": [
+        69,
+        33,
+        55,
+        58,
+        56,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 246005,
+      "assetId": 246005
+    },
+    "262722": {
+      "name": "Hosine Bility",
+      "cardName": "Bility",
+      "originalVersionId": "0",
+      "clubId": 111395,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        72,
+        30,
+        44,
+        49,
+        57,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 262722,
+      "assetId": 262722
+    },
+    "274526": {
+      "name": "Emin Durakovic",
+      "cardName": "Durakovic",
+      "originalVersionId": "0",
+      "clubId": 111395,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 56,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        18,
+        20
+      ],
+      "attributes": [
+        65,
+        51,
+        55,
+        58,
+        47,
+        45
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 274526,
+      "assetId": 274526
+    },
+    "276840": {
+      "name": "Nathan Amanatidis",
+      "cardName": "Amanatidis",
+      "originalVersionId": "0",
+      "clubId": 111395,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 55,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        30,
+        32,
+        42,
+        43
+      ],
+      "attributes": [
+        76,
+        52,
+        44,
+        61,
+        28,
+        50
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 276840,
+      "assetId": 276840
+    },
+    "279501": {
+      "name": "Justin Vidić",
+      "cardName": "Vidić",
+      "originalVersionId": "0",
+      "clubId": 111395,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        64,
+        56,
+        43,
+        54,
+        30,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 279501,
+      "assetId": 279501
+    }
+  }
+}

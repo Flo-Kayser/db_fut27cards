@@ -1,0 +1,761 @@
+{
+  "clubName": "Melb. Victory",
+  "players": {
+    "70513": {
+      "name": "Harrison Shillington",
+      "cardName": "Shillington",
+      "originalVersionId": "0",
+      "clubId": 111397,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 53,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "attributes": [
+        53,
+        28,
+        43,
+        52,
+        51,
+        44
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 70513,
+      "assetId": 70513
+    },
+    "73152": {
+      "name": "Daniel Graskoski",
+      "cardName": "Graskoski",
+      "originalVersionId": "0",
+      "clubId": 111397,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 52,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        48,
+        58,
+        45,
+        49,
+        27,
+        49
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 73152,
+      "assetId": 73152
+    },
+    "75391": {
+      "name": "Santos",
+      "cardName": "Santos",
+      "originalVersionId": "0",
+      "clubId": 111397,
+      "leagueId": 351,
+      "countryId": 54,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        27,
+        35,
+        38
+      ],
+      "attributes": [
+        73,
+        61,
+        57,
+        62,
+        23,
+        52
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 75391,
+      "assetId": 75391
+    },
+    "81890": {
+      "name": "Xavier Stella",
+      "cardName": "Stella",
+      "originalVersionId": "0",
+      "clubId": 111397,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 53,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19
+      ],
+      "attributes": [
+        62,
+        39,
+        48,
+        50,
+        51,
+        54
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 81890,
+      "assetId": 81890
+    },
+    "81891": {
+      "name": "Oliver Dragicevic",
+      "cardName": "Dragicevic",
+      "originalVersionId": "0",
+      "clubId": 111397,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 52,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        69,
+        41,
+        51,
+        52,
+        42,
+        53
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 81891,
+      "assetId": 81891
+    },
+    "178088": {
+      "name": "Juan Mata",
+      "cardName": "Juan Mata",
+      "originalVersionId": "0",
+      "clubId": 111397,
+      "leagueId": 351,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        11,
+        13,
+        22,
+        3
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        26,
+        33,
+        36
+      ],
+      "attributes": [
+        38,
+        66,
+        77,
+        75,
+        34,
+        34
+      ],
+      "hasDynamicImage": false,
+      "price": 11000,
+      "resourceId": 178088,
+      "assetId": 178088
+    },
+    "197831": {
+      "name": "Jason Davidson",
+      "cardName": "Davidson",
+      "originalVersionId": "0",
+      "clubId": 111397,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CB",
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        15,
+        18
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        13,
+        28
+      ],
+      "attributes": [
+        59,
+        51,
+        62,
+        64,
+        64,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 197831,
+      "assetId": 197831
+    },
+    "199218": {
+      "name": "Brendan Hamill",
+      "cardName": "Hamill",
+      "originalVersionId": "0",
+      "clubId": 111397,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        35,
+        41,
+        51,
+        50,
+        65,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 199218,
+      "assetId": 199218
+    },
+    "209196": {
+      "name": "Philipp Ziereis",
+      "cardName": "Ziereis",
+      "originalVersionId": "0",
+      "clubId": 111397,
+      "leagueId": 351,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        14,
+        16,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12
+      ],
+      "attributes": [
+        56,
+        24,
+        54,
+        55,
+        68,
+        80
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 209196,
+      "assetId": 209196
+    },
+    "210368": {
+      "name": "Jack Duncan",
+      "cardName": "Duncan",
+      "originalVersionId": "0",
+      "clubId": 111397,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        32
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        62,
+        60,
+        58,
+        60,
+        51,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 210368,
+      "assetId": 210368
+    },
+    "211363": {
+      "name": "Tom Lockyer",
+      "cardName": "Lockyer",
+      "originalVersionId": "0",
+      "clubId": 111397,
+      "leagueId": 351,
+      "countryId": 50,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        12
+      ],
+      "attributes": [
+        43,
+        35,
+        52,
+        55,
+        62,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 211363,
+      "assetId": 211363
+    },
+    "236890": {
+      "name": "Denis Genreau",
+      "cardName": "Genreau",
+      "originalVersionId": "0",
+      "clubId": 111397,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        15,
+        16,
+        20,
+        31
+      ],
+      "attributes": [
+        60,
+        62,
+        66,
+        66,
+        63,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 236890,
+      "assetId": 236890
+    },
+    "237375": {
+      "name": "Harrison Sawyer",
+      "cardName": "Sawyer",
+      "originalVersionId": "0",
+      "clubId": 111397,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        29,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        44
+      ],
+      "attributes": [
+        61,
+        62,
+        45,
+        55,
+        34,
+        82
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 237375,
+      "assetId": 237375
+    },
+    "242240": {
+      "name": "Louis D'Arrigo",
+      "cardName": "D'Arrigo",
+      "originalVersionId": "0",
+      "clubId": 111397,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        17,
+        20
+      ],
+      "attributes": [
+        71,
+        49,
+        61,
+        62,
+        60,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 242240,
+      "assetId": 242240
+    },
+    "261244": {
+      "name": "Keegan Jelacic",
+      "cardName": "Jelacic",
+      "originalVersionId": "0",
+      "clubId": 111397,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        13
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        25,
+        29,
+        37,
+        40
+      ],
+      "attributes": [
+        78,
+        60,
+        61,
+        66,
+        55,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 261244,
+      "assetId": 261244
+    },
+    "270122": {
+      "name": "Jack Warshawsky",
+      "cardName": "Warshawsky",
+      "originalVersionId": "0",
+      "clubId": 111397,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        2
+      ],
+      "attributes": [
+        60,
+        53,
+        52,
+        60,
+        31,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 270122,
+      "assetId": 270122
+    },
+    "275134": {
+      "name": "Jordi Valadon",
+      "cardName": "Valadon",
+      "originalVersionId": "0",
+      "clubId": 111397,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        15,
+        17,
+        22
+      ],
+      "attributes": [
+        62,
+        50,
+        59,
+        63,
+        63,
+        51
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 275134,
+      "assetId": 275134
+    },
+    "276622": {
+      "name": "Joshua Inserra",
+      "cardName": "Inserra",
+      "originalVersionId": "0",
+      "clubId": 111397,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 56,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "attributes": [
+        56,
+        27,
+        45,
+        46,
+        55,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 276622,
+      "assetId": 276622
+    },
+    "276627": {
+      "name": "Franco Lino",
+      "cardName": "Lino",
+      "originalVersionId": "0",
+      "clubId": 111397,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        28,
+        47
+      ],
+      "attributes": [
+        89,
+        42,
+        41,
+        56,
+        51,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 276627,
+      "assetId": 276627
+    },
+    "278156": {
+      "name": "Matthew Grimaldi",
+      "cardName": "Grimaldi",
+      "originalVersionId": "0",
+      "clubId": 111397,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        24,
+        26,
+        30,
+        32,
+        36
+      ],
+      "attributes": [
+        70,
+        58,
+        62,
+        64,
+        45,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 278156,
+      "assetId": 278156
+    }
+  }
+}

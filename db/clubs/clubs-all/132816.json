@@ -1,0 +1,856 @@
+{
+  "clubName": "BK Häcken",
+  "players": {
+    "70811": {
+      "name": "Pernille Sanvig",
+      "cardName": "Sanvig",
+      "originalVersionId": "0",
+      "clubId": 132816,
+      "leagueId": 2232,
+      "countryId": 13,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        61,
+        61,
+        67,
+        66,
+        65,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 70811,
+      "assetId": 70811
+    },
+    "76998": {
+      "name": "Josefine Rybrink",
+      "cardName": "Rybrink",
+      "originalVersionId": "0",
+      "clubId": 132816,
+      "leagueId": 2232,
+      "countryId": 46,
+      "versionId": "2002",
+      "rating": 76,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "attributes": [
+        58,
+        48,
+        65,
+        67,
+        77,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 750,
+      "resourceId": 76998,
+      "assetId": 76998
+    },
+    "85330": {
+      "name": "Thelma Karen Pálmadóttir",
+      "cardName": "Pálmadóttir",
+      "originalVersionId": "0",
+      "clubId": 132816,
+      "leagueId": 2232,
+      "countryId": 24,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        35,
+        41
+      ],
+      "attributes": [
+        68,
+        58,
+        57,
+        64,
+        24,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 85330,
+      "assetId": 85330
+    },
+    "86589": {
+      "name": "Emma Östlund",
+      "cardName": "Östlund",
+      "originalVersionId": "0",
+      "clubId": 132816,
+      "leagueId": 2232,
+      "countryId": 46,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        63,
+        41,
+        55,
+        68,
+        76,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 750,
+      "resourceId": 86589,
+      "assetId": 86589
+    },
+    "86594": {
+      "name": "Alva Selerud",
+      "cardName": "Selerud",
+      "originalVersionId": "0",
+      "clubId": 132816,
+      "leagueId": 2232,
+      "countryId": 46,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7
+      ],
+      "attributes": [
+        72,
+        41,
+        59,
+        61,
+        70,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 86594,
+      "assetId": 86594
+    },
+    "86641": {
+      "name": "Lisa Löwing",
+      "cardName": "Löwing",
+      "originalVersionId": "0",
+      "clubId": 132816,
+      "leagueId": 2232,
+      "countryId": 46,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        56,
+        29,
+        44,
+        55,
+        66,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 550,
+      "resourceId": 86641,
+      "assetId": 86641
+    },
+    "86642": {
+      "name": "Nesrin Akgün",
+      "cardName": "Akgün",
+      "originalVersionId": "0",
+      "clubId": 132816,
+      "leagueId": 2232,
+      "countryId": 46,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "attributes": [
+        62,
+        37,
+        63,
+        68,
+        74,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 86642,
+      "assetId": 86642
+    },
+    "86645": {
+      "name": "Tabby Tindell",
+      "cardName": "Tindell",
+      "originalVersionId": "0",
+      "clubId": 132816,
+      "leagueId": 2232,
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 73,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        73,
+        76,
+        55,
+        73,
+        29,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 86645,
+      "assetId": 86645
+    },
+    "86646": {
+      "name": "Laney Matriano",
+      "cardName": "Matriano",
+      "originalVersionId": "0",
+      "clubId": 132816,
+      "leagueId": 2232,
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19
+      ],
+      "attributes": [
+        61,
+        41,
+        61,
+        60,
+        66,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 86646,
+      "assetId": 86646
+    },
+    "86649": {
+      "name": "Josefin Baudou",
+      "cardName": "Baudou",
+      "originalVersionId": "0",
+      "clubId": 132816,
+      "leagueId": 2232,
+      "countryId": 46,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        38
+      ],
+      "attributes": [
+        72,
+        62,
+        58,
+        69,
+        27,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 86649,
+      "assetId": 86649
+    },
+    "86653": {
+      "name": "Faith Chinzimu",
+      "cardName": "Chinzimu",
+      "originalVersionId": "0",
+      "clubId": 132816,
+      "leagueId": 2232,
+      "countryId": 125,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19
+      ],
+      "attributes": [
+        58,
+        38,
+        57,
+        56,
+        59,
+        54
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 86653,
+      "assetId": 86653
+    },
+    "86660": {
+      "name": "Jóhanna Fossdalsá",
+      "cardName": "Fossdalsá",
+      "originalVersionId": "0",
+      "clubId": 132816,
+      "leagueId": 2232,
+      "countryId": 13,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19
+      ],
+      "attributes": [
+        64,
+        45,
+        65,
+        68,
+        68,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 86660,
+      "assetId": 86660
+    },
+    "86661": {
+      "name": "Nathalie Staaf",
+      "cardName": "Staaf",
+      "originalVersionId": "0",
+      "clubId": 132816,
+      "leagueId": 2232,
+      "countryId": 46,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19
+      ],
+      "attributes": [
+        62,
+        43,
+        54,
+        60,
+        59,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 86661,
+      "assetId": 86661
+    },
+    "86662": {
+      "name": "Helena Sampaio",
+      "cardName": "Helena Sampaio",
+      "originalVersionId": "0",
+      "clubId": 132816,
+      "leagueId": 2232,
+      "countryId": 54,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        67,
+        56,
+        60,
+        65,
+        59,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 86662,
+      "assetId": 86662
+    },
+    "86664": {
+      "name": "Tilde Karlsson",
+      "cardName": "Karlsson",
+      "originalVersionId": "0",
+      "clubId": 132816,
+      "leagueId": 2232,
+      "countryId": 46,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        62,
+        60,
+        42,
+        65,
+        21,
+        49
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 86664,
+      "assetId": 86664
+    },
+    "86665": {
+      "name": "Tuva Ölvestad",
+      "cardName": "Ölvestad",
+      "originalVersionId": "0",
+      "clubId": 132816,
+      "leagueId": 2232,
+      "countryId": 46,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        67,
+        65,
+        53,
+        63,
+        21,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 1500,
+      "resourceId": 86665,
+      "assetId": 86665
+    },
+    "87777": {
+      "name": "Joy Omewa",
+      "cardName": "Omewa",
+      "originalVersionId": "0",
+      "clubId": 132816,
+      "leagueId": 2232,
+      "countryId": 133,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        75,
+        67,
+        54,
+        68,
+        21,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 950,
+      "resourceId": 87777,
+      "assetId": 87777
+    },
+    "226988": {
+      "name": "Elin Rubensson",
+      "cardName": "Rubensson",
+      "originalVersionId": "0",
+      "clubId": 132816,
+      "leagueId": 2232,
+      "countryId": 46,
+      "versionId": "2002",
+      "rating": 77,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14
+      ],
+      "attributes": [
+        83,
+        70,
+        74,
+        77,
+        75,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 226988,
+      "assetId": 226988
+    },
+    "227590": {
+      "name": "Aivi Luik",
+      "cardName": "Luik",
+      "originalVersionId": "0",
+      "clubId": 132816,
+      "leagueId": 2232,
+      "countryId": 195,
+      "versionId": "2001",
+      "rating": 73,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM"
+      ],
+      "playStyles": [
+        10
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        68,
+        56,
+        70,
+        68,
+        72,
+        77
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 227590,
+      "assetId": 227590
+    },
+    "246152": {
+      "name": "Jennifer Falk",
+      "cardName": "Falk",
+      "originalVersionId": "0",
+      "clubId": 132816,
+      "leagueId": 2232,
+      "countryId": 46,
+      "versionId": "2002",
+      "rating": 79,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        30,
+        32,
+        35
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        45
+      ],
+      "attributes": [
+        78,
+        77,
+        74,
+        78,
+        28,
+        78
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 246152,
+      "assetId": 246152
+    },
+    "246153": {
+      "name": "Anna Anvegård",
+      "cardName": "Anvegård",
+      "originalVersionId": "0",
+      "clubId": 132816,
+      "leagueId": 2232,
+      "countryId": 46,
+      "versionId": "2002",
+      "rating": 78,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        76,
+        78,
+        63,
+        78,
+        46,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 750,
+      "resourceId": 246153,
+      "assetId": 246153
+    },
+    "246633": {
+      "name": "Halimatu Ayinde",
+      "cardName": "Ayinde",
+      "originalVersionId": "0",
+      "clubId": 132816,
+      "leagueId": 2232,
+      "countryId": 133,
+      "versionId": "2001",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        16
+      ],
+      "attributes": [
+        69,
+        63,
+        62,
+        69,
+        73,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 246633,
+      "assetId": 246633
+    },
+    "273173": {
+      "name": "Stine Sandbech",
+      "cardName": "Sandbech",
+      "originalVersionId": "0",
+      "clubId": 132816,
+      "leagueId": 2232,
+      "countryId": 13,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        38
+      ],
+      "attributes": [
+        77,
+        69,
+        69,
+        75,
+        49,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 273173,
+      "assetId": 273173
+    },
+    "277185": {
+      "name": "Disa Hellwig",
+      "cardName": "Hellwig",
+      "originalVersionId": "0",
+      "clubId": 132816,
+      "leagueId": 2232,
+      "countryId": 46,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        66,
+        65,
+        66,
+        65,
+        19,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 277185,
+      "assetId": 277185
+    }
+  }
+}

@@ -1,0 +1,688 @@
+{
+  "clubName": "RC Lens",
+  "players": {
+    "71381": {
+      "name": "Noa Lambrecht",
+      "cardName": "Lambrecht",
+      "originalVersionId": "0",
+      "clubId": 132588,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CB",
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7
+      ],
+      "attributes": [
+        54,
+        24,
+        49,
+        53,
+        57,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 71381,
+      "assetId": 71381
+    },
+    "71698": {
+      "name": "Morgane Duporge",
+      "cardName": "Duporge",
+      "originalVersionId": "0",
+      "clubId": 132588,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        18,
+        19
+      ],
+      "attributes": [
+        60,
+        59,
+        61,
+        66,
+        59,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 900,
+      "resourceId": 71698,
+      "assetId": 71698
+    },
+    "74616": {
+      "name": "Célia Aggoune",
+      "cardName": "Aggoune",
+      "originalVersionId": "0",
+      "clubId": 132588,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        31
+      ],
+      "attributes": [
+        62,
+        52,
+        49,
+        57,
+        36,
+        39
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 74616,
+      "assetId": 74616
+    },
+    "78812": {
+      "name": "Ambre Bouchard",
+      "cardName": "Bouchard",
+      "originalVersionId": "0",
+      "clubId": 132588,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        58,
+        57,
+        59,
+        59,
+        24,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 78812,
+      "assetId": 78812
+    },
+    "78821": {
+      "name": "Emma Smaali",
+      "cardName": "Smaali",
+      "originalVersionId": "0",
+      "clubId": 132588,
+      "leagueId": 2218,
+      "countryId": 97,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CB",
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7
+      ],
+      "attributes": [
+        71,
+        38,
+        58,
+        67,
+        69,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 850,
+      "resourceId": 78821,
+      "assetId": 78821
+    },
+    "78823": {
+      "name": "Clara Bertrand",
+      "cardName": "Bertrand",
+      "originalVersionId": "0",
+      "clubId": 132588,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        69,
+        43,
+        62,
+        67,
+        43,
+        48
+      ],
+      "hasDynamicImage": false,
+      "price": 9100,
+      "resourceId": 78823,
+      "assetId": 78823
+    },
+    "83843": {
+      "name": "Lou Marchal",
+      "cardName": "Marchal",
+      "originalVersionId": "0",
+      "clubId": 132588,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        59,
+        59,
+        53,
+        58,
+        28,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 83843,
+      "assetId": 83843
+    },
+    "86860": {
+      "name": "Caroline Devant",
+      "cardName": "Devant",
+      "originalVersionId": "0",
+      "clubId": 132588,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        57,
+        30,
+        41,
+        45,
+        63,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 86860,
+      "assetId": 86860
+    },
+    "86861": {
+      "name": "Sofia Djoubri",
+      "cardName": "Djoubri",
+      "originalVersionId": "0",
+      "clubId": 132588,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        35
+      ],
+      "attributes": [
+        66,
+        53,
+        60,
+        64,
+        34,
+        48
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 86861,
+      "assetId": 86861
+    },
+    "86862": {
+      "name": "Noémie Gelders",
+      "cardName": "Gelders",
+      "originalVersionId": "0",
+      "clubId": 132588,
+      "leagueId": 2218,
+      "countryId": 7,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        31
+      ],
+      "attributes": [
+        59,
+        51,
+        64,
+        65,
+        40,
+        51
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 86862,
+      "assetId": 86862
+    },
+    "86863": {
+      "name": "Léna Mouzon",
+      "cardName": "Mouzon",
+      "originalVersionId": "0",
+      "clubId": 132588,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "attributes": [
+        63,
+        37,
+        54,
+        54,
+        59,
+        52
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 86863,
+      "assetId": 86863
+    },
+    "265895": {
+      "name": "Léa Notel",
+      "cardName": "Notel",
+      "originalVersionId": "0",
+      "clubId": 132588,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        60,
+        48,
+        65,
+        65,
+        69,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 900,
+      "resourceId": 265895,
+      "assetId": 265895
+    },
+    "269812": {
+      "name": "Roseline Éloissaint",
+      "cardName": "Éloissaint",
+      "originalVersionId": "0",
+      "clubId": 132588,
+      "leagueId": 2218,
+      "countryId": 80,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [
+        1
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        32,
+        42,
+        43
+      ],
+      "attributes": [
+        74,
+        68,
+        67,
+        75,
+        41,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 800,
+      "resourceId": 269812,
+      "assetId": 269812
+    },
+    "269816": {
+      "name": "Laureen Oillic",
+      "cardName": "Oillic",
+      "originalVersionId": "0",
+      "clubId": 132588,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        74,
+        41,
+        51,
+        61,
+        62,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 269816,
+      "assetId": 269816
+    },
+    "271402": {
+      "name": "Ananée Yeboah",
+      "cardName": "Yeboah",
+      "originalVersionId": "0",
+      "clubId": 132588,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        81,
+        59,
+        50,
+        66,
+        25,
+        53
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 271402,
+      "assetId": 271402
+    },
+    "273194": {
+      "name": "Jennyfer Limage",
+      "cardName": "Limage",
+      "originalVersionId": "0",
+      "clubId": 132588,
+      "leagueId": 2218,
+      "countryId": 80,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        14,
+        19,
+        48
+      ],
+      "attributes": [
+        59,
+        54,
+        58,
+        66,
+        67,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 800,
+      "resourceId": 273194,
+      "assetId": 273194
+    },
+    "275382": {
+      "name": "Elisa Launay",
+      "cardName": "Launay",
+      "originalVersionId": "0",
+      "clubId": 132588,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        2
+      ],
+      "attributes": [
+        68,
+        73,
+        76,
+        74,
+        53,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 850,
+      "resourceId": 275382,
+      "assetId": 275382
+    },
+    "275397": {
+      "name": "Carla Polito",
+      "cardName": "Polito",
+      "originalVersionId": "0",
+      "clubId": 132588,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12,
+        14,
+        15,
+        18
+      ],
+      "attributes": [
+        61,
+        53,
+        60,
+        65,
+        67,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 800,
+      "resourceId": 275397,
+      "assetId": 275397
+    },
+    "275403": {
+      "name": "Louann Archier",
+      "cardName": "Archier",
+      "originalVersionId": "0",
+      "clubId": 132588,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        35,
+        37
+      ],
+      "attributes": [
+        81,
+        69,
+        59,
+        70,
+        30,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 275403,
+      "assetId": 275403
+    }
+  }
+}

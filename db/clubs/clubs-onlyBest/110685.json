@@ -1,0 +1,969 @@
+{
+  "clubName": "TSG Hoffenheim II",
+  "players": {
+    "71285": {
+      "name": "Tim Müller",
+      "cardName": "Müller",
+      "originalVersionId": "0",
+      "clubId": 110685,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7
+      ],
+      "attributes": [
+        67,
+        37,
+        51,
+        63,
+        56,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 71285,
+      "assetId": 71285
+    },
+    "74355": {
+      "name": "Konstantin Aleksa",
+      "cardName": "Aleksa",
+      "originalVersionId": "0",
+      "clubId": 110685,
+      "leagueId": 2076,
+      "countryId": 4,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        86,
+        59,
+        44,
+        58,
+        19,
+        46
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 74355,
+      "assetId": 74355
+    },
+    "74464": {
+      "name": "Florian Micheler",
+      "cardName": "Micheler",
+      "originalVersionId": "0",
+      "clubId": 110685,
+      "leagueId": 2076,
+      "countryId": 4,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        53,
+        52,
+        64,
+        68,
+        48,
+        54
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 74464,
+      "assetId": 74464
+    },
+    "74465": {
+      "name": "Lars Strobl",
+      "cardName": "Strobl",
+      "originalVersionId": "0",
+      "clubId": 110685,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 57,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CB",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "attributes": [
+        55,
+        30,
+        38,
+        44,
+        60,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 74465,
+      "assetId": 74465
+    },
+    "76777": {
+      "name": "Tim Philipp",
+      "cardName": "Philipp",
+      "originalVersionId": "0",
+      "clubId": 110685,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        58,
+        57,
+        60,
+        60,
+        24,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 76777,
+      "assetId": 76777
+    },
+    "78445": {
+      "name": "Valentin Lässig",
+      "cardName": "Lässig",
+      "originalVersionId": "0",
+      "clubId": 110685,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12,
+        13,
+        15
+      ],
+      "attributes": [
+        62,
+        39,
+        57,
+        53,
+        65,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 78445,
+      "assetId": 78445
+    },
+    "78446": {
+      "name": "Diren Dağdeviren",
+      "cardName": "Dağdeviren",
+      "originalVersionId": "0",
+      "clubId": 110685,
+      "leagueId": 2076,
+      "countryId": 48,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        18,
+        49
+      ],
+      "attributes": [
+        68,
+        48,
+        55,
+        61,
+        59,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 78446,
+      "assetId": 78446
+    },
+    "79101": {
+      "name": "Tiago Poller",
+      "cardName": "Poller",
+      "originalVersionId": "0",
+      "clubId": 110685,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        13
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        20,
+        31
+      ],
+      "attributes": [
+        64,
+        53,
+        57,
+        64,
+        40,
+        42
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 79101,
+      "assetId": 79101
+    },
+    "79102": {
+      "name": "Ben Opoku Labes",
+      "cardName": "Opoku Labes",
+      "originalVersionId": "0",
+      "clubId": 110685,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        64,
+        64,
+        46,
+        59,
+        29,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 79102,
+      "assetId": 79102
+    },
+    "79365": {
+      "name": "Alex Honajzer",
+      "cardName": "Honajzer",
+      "originalVersionId": "0",
+      "clubId": 110685,
+      "leagueId": 2076,
+      "countryId": 12,
+      "versionId": "2000",
+      "rating": 57,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        38
+      ],
+      "attributes": [
+        55,
+        51,
+        53,
+        60,
+        34,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 79365,
+      "assetId": 79365
+    },
+    "79370": {
+      "name": "Blessing Makanda",
+      "cardName": "Makanda",
+      "originalVersionId": "0",
+      "clubId": 110685,
+      "leagueId": 2076,
+      "countryId": 98,
+      "versionId": "2000",
+      "rating": 56,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        35
+      ],
+      "attributes": [
+        61,
+        54,
+        47,
+        58,
+        26,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 79370,
+      "assetId": 79370
+    },
+    "82198": {
+      "name": "Maxime Ndong Penda",
+      "cardName": "Ndong Penda",
+      "originalVersionId": "0",
+      "clubId": 110685,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 55,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        59,
+        27,
+        40,
+        33,
+        57,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 82198,
+      "assetId": 82198
+    },
+    "82451": {
+      "name": "Jykese Fields",
+      "cardName": "Fields",
+      "originalVersionId": "0",
+      "clubId": 110685,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        71,
+        58,
+        36,
+        61,
+        25,
+        54
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 82451,
+      "assetId": 82451
+    },
+    "83256": {
+      "name": "Zain Biazid",
+      "cardName": "Biazid",
+      "originalVersionId": "0",
+      "clubId": 110685,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 56,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        38
+      ],
+      "attributes": [
+        63,
+        49,
+        49,
+        60,
+        26,
+        43
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 83256,
+      "assetId": 83256
+    },
+    "83619": {
+      "name": "Kryštof Čížek",
+      "cardName": "Čížek",
+      "originalVersionId": "0",
+      "clubId": 110685,
+      "leagueId": 2076,
+      "countryId": 12,
+      "versionId": "2000",
+      "rating": 56,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19
+      ],
+      "attributes": [
+        62,
+        41,
+        48,
+        52,
+        53,
+        53
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 83619,
+      "assetId": 83619
+    },
+    "83754": {
+      "name": "Oskar Hencke",
+      "cardName": "Hencke",
+      "originalVersionId": "0",
+      "clubId": 110685,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23
+      ],
+      "attributes": [
+        66,
+        49,
+        54,
+        60,
+        31,
+        51
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 83754,
+      "assetId": 83754
+    },
+    "87022": {
+      "name": "Santino Pistrol",
+      "cardName": "Pistrol",
+      "originalVersionId": "0",
+      "clubId": 110685,
+      "leagueId": 2076,
+      "countryId": 4,
+      "versionId": "2000",
+      "rating": 55,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        57,
+        28,
+        39,
+        34,
+        56,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 87022,
+      "assetId": 87022
+    },
+    "87023": {
+      "name": "Yasin Zor",
+      "cardName": "Zor",
+      "originalVersionId": "0",
+      "clubId": 110685,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        31,
+        32
+      ],
+      "attributes": [
+        59,
+        61,
+        62,
+        65,
+        34,
+        52
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 87023,
+      "assetId": 87023
+    },
+    "87024": {
+      "name": "Timo Hildmann",
+      "cardName": "Hildmann",
+      "originalVersionId": "0",
+      "clubId": 110685,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 56,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "attributes": [
+        64,
+        30,
+        42,
+        47,
+        54,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 87024,
+      "assetId": 87024
+    },
+    "87025": {
+      "name": "Lion Wagenbach",
+      "cardName": "Wagenbach",
+      "originalVersionId": "0",
+      "clubId": 110685,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 55,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        35
+      ],
+      "attributes": [
+        65,
+        52,
+        50,
+        57,
+        30,
+        46
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 87025,
+      "assetId": 87025
+    },
+    "87026": {
+      "name": "Matthew Moore",
+      "cardName": "Moore",
+      "originalVersionId": "0",
+      "clubId": 110685,
+      "leagueId": 2076,
+      "countryId": 25,
+      "versionId": "2000",
+      "rating": 55,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19
+      ],
+      "attributes": [
+        59,
+        41,
+        48,
+        54,
+        51,
+        53
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 87026,
+      "assetId": 87026
+    },
+    "87028": {
+      "name": "Nico Biedermann",
+      "cardName": "Biedermann",
+      "originalVersionId": "0",
+      "clubId": 110685,
+      "leagueId": 2076,
+      "countryId": 20,
+      "versionId": "2000",
+      "rating": 56,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        61,
+        60,
+        59,
+        53,
+        24,
+        53
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 87028,
+      "assetId": 87028
+    },
+    "87030": {
+      "name": "Nils Schlosser",
+      "cardName": "Schlosser",
+      "originalVersionId": "0",
+      "clubId": 110685,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 55,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        59,
+        55,
+        55,
+        52,
+        22,
+        50
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 87030,
+      "assetId": 87030
+    },
+    "88420": {
+      "name": "Maximilian Theuer",
+      "cardName": "Theuer",
+      "originalVersionId": "0",
+      "clubId": 110685,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7,
+        28
+      ],
+      "attributes": [
+        64,
+        43,
+        52,
+        57,
+        49,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 88420,
+      "assetId": 88420
+    },
+    "238692": {
+      "name": "Klaus Gjasula",
+      "cardName": "Gjasula",
+      "originalVersionId": "0",
+      "clubId": 110685,
+      "leagueId": 2076,
+      "countryId": 1,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        18,
+        19,
+        28
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        15,
+        18
+      ],
+      "attributes": [
+        34,
+        56,
+        55,
+        53,
+        67,
+        80
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 238692,
+      "assetId": 238692
+    },
+    "247217": {
+      "name": "Tobias Trautner",
+      "cardName": "Trautner",
+      "originalVersionId": "0",
+      "clubId": 110685,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        60,
+        55,
+        54,
+        63,
+        29,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 247217,
+      "assetId": 247217
+    },
+    "279489": {
+      "name": "Nader Jindaoui",
+      "cardName": "Jindaoui",
+      "originalVersionId": "0",
+      "clubId": 110685,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        35
+      ],
+      "attributes": [
+        73,
+        52,
+        58,
+        70,
+        23,
+        48
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 279489,
+      "assetId": 279489
+    }
+  }
+}

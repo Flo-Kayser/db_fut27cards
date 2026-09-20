@@ -1,0 +1,884 @@
+{
+  "clubName": "RCD Espanyol",
+  "players": {
+    "72147": {
+      "name": "Paula Gutiérrez",
+      "cardName": "Paula Gutiérrez",
+      "originalVersionId": "0",
+      "clubId": 131733,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        18
+      ],
+      "attributes": [
+        73,
+        55,
+        70,
+        69,
+        65,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 72147,
+      "assetId": 72147
+    },
+    "72223": {
+      "name": "Clara Rodríguez",
+      "cardName": "Clara Rodríguez",
+      "originalVersionId": "0",
+      "clubId": 131733,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        28
+      ],
+      "attributes": [
+        58,
+        34,
+        52,
+        52,
+        65,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 72223,
+      "assetId": 72223
+    },
+    "72286": {
+      "name": "Raquel García",
+      "cardName": "Raquel García",
+      "originalVersionId": "0",
+      "clubId": 131733,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        15
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        64,
+        31,
+        60,
+        57,
+        71,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 550,
+      "resourceId": 72286,
+      "assetId": 72286
+    },
+    "72344": {
+      "name": "Mar Torras",
+      "cardName": "Mar Torras",
+      "originalVersionId": "0",
+      "clubId": 131733,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        15,
+        19,
+        28
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        18,
+        31
+      ],
+      "attributes": [
+        66,
+        60,
+        67,
+        65,
+        64,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 72344,
+      "assetId": 72344
+    },
+    "72345": {
+      "name": "Lucía Vallejo",
+      "cardName": "Lucía Vallejo",
+      "originalVersionId": "0",
+      "clubId": 131733,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CB",
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        27,
+        38
+      ],
+      "attributes": [
+        66,
+        41,
+        63,
+        59,
+        59,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 72345,
+      "assetId": 72345
+    },
+    "72359": {
+      "name": "Júlia Guerra",
+      "cardName": "Júlia Guerra",
+      "originalVersionId": "0",
+      "clubId": 131733,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 74,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        74,
+        58,
+        65,
+        69,
+        74,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 550,
+      "resourceId": 72359,
+      "assetId": 72359
+    },
+    "73226": {
+      "name": "Iara Lacosta",
+      "cardName": "Iara Lacosta",
+      "originalVersionId": "0",
+      "clubId": 131733,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        27,
+        35,
+        38
+      ],
+      "attributes": [
+        79,
+        55,
+        61,
+        69,
+        32,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 73226,
+      "assetId": 73226
+    },
+    "73229": {
+      "name": "Paula Coba",
+      "cardName": "Paula Coba",
+      "originalVersionId": "0",
+      "clubId": 131733,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        61,
+        60,
+        55,
+        63,
+        41,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 73229,
+      "assetId": 73229
+    },
+    "77681": {
+      "name": "Ana Velázquez",
+      "cardName": "Ana Velázquez",
+      "originalVersionId": "0",
+      "clubId": 131733,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        16,
+        18
+      ],
+      "attributes": [
+        77,
+        38,
+        61,
+        58,
+        71,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 550,
+      "resourceId": 77681,
+      "assetId": 77681
+    },
+    "262459": {
+      "name": "Anna Torrodà",
+      "cardName": "Anna Torrodà",
+      "originalVersionId": "0",
+      "clubId": 131733,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        2
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19
+      ],
+      "attributes": [
+        68,
+        70,
+        72,
+        71,
+        70,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 262459,
+      "assetId": 262459
+    },
+    "265171": {
+      "name": "Phoenetia Browne",
+      "cardName": "Browne",
+      "originalVersionId": "0",
+      "clubId": 131733,
+      "leagueId": 2222,
+      "countryId": 89,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        24
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        30,
+        39,
+        42
+      ],
+      "attributes": [
+        74,
+        69,
+        65,
+        69,
+        38,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 265171,
+      "assetId": 265171
+    },
+    "268944": {
+      "name": "Ona Baradad",
+      "cardName": "Ona Baradad",
+      "originalVersionId": "0",
+      "clubId": 131733,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 73,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        27,
+        35,
+        38
+      ],
+      "attributes": [
+        75,
+        72,
+        70,
+        73,
+        36,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 268944,
+      "assetId": 268944
+    },
+    "268951": {
+      "name": "Meritxell Muñoz",
+      "cardName": "Meritxell Muñoz",
+      "originalVersionId": "0",
+      "clubId": 131733,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        57,
+        59,
+        61,
+        63,
+        33,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 268951,
+      "assetId": 268951
+    },
+    "269921": {
+      "name": "Romane Salvador",
+      "cardName": "Salvador",
+      "originalVersionId": "0",
+      "clubId": 131733,
+      "leagueId": 2222,
+      "countryId": 18,
+      "versionId": "2002",
+      "rating": 76,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        10,
+        34
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        77,
+        76,
+        74,
+        72,
+        47,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 800,
+      "resourceId": 269921,
+      "assetId": 269921
+    },
+    "272101": {
+      "name": "Anita Marcos",
+      "cardName": "Anita Marcos",
+      "originalVersionId": "0",
+      "clubId": 131733,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2002",
+      "rating": 76,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        2,
+        24,
+        29
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        42
+      ],
+      "attributes": [
+        76,
+        77,
+        73,
+        77,
+        51,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 750,
+      "resourceId": 272101,
+      "assetId": 272101
+    },
+    "272136": {
+      "name": "Paula Arana",
+      "cardName": "Paula Arana",
+      "originalVersionId": "0",
+      "clubId": 131733,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        30,
+        32,
+        39,
+        42,
+        43
+      ],
+      "attributes": [
+        68,
+        73,
+        72,
+        69,
+        54,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 272136,
+      "assetId": 272136
+    },
+    "272147": {
+      "name": "Bicho",
+      "cardName": "Bicho",
+      "originalVersionId": "0",
+      "clubId": 131733,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        24,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        64,
+        68,
+        69,
+        73,
+        62,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 272147,
+      "assetId": 272147
+    },
+    "272164": {
+      "name": "Laura Martínez",
+      "cardName": "Laura Martínez",
+      "originalVersionId": "0",
+      "clubId": 131733,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        23,
+        31,
+        35
+      ],
+      "attributes": [
+        72,
+        60,
+        67,
+        69,
+        63,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 272164,
+      "assetId": 272164
+    },
+    "272251": {
+      "name": "Patri Ojeda",
+      "cardName": "Patri Ojeda",
+      "originalVersionId": "0",
+      "clubId": 131733,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CB",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        18
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3,
+        11,
+        23,
+        24
+      ],
+      "attributes": [
+        64,
+        66,
+        69,
+        69,
+        67,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 272251,
+      "assetId": 272251
+    },
+    "272256": {
+      "name": "Carla Morera",
+      "cardName": "Carla Morera",
+      "originalVersionId": "0",
+      "clubId": 131733,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "attributes": [
+        72,
+        63,
+        67,
+        64,
+        68,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 272256,
+      "assetId": 272256
+    },
+    "272754": {
+      "name": "Natalia Escot",
+      "cardName": "Natalia Escot",
+      "originalVersionId": "0",
+      "clubId": 131733,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        75,
+        66,
+        58,
+        61,
+        46,
+        53
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 272754,
+      "assetId": 272754
+    },
+    "275779": {
+      "name": "Naima García",
+      "cardName": "Naima García",
+      "originalVersionId": "0",
+      "clubId": 131733,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 74,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        28,
+        31,
+        38,
+        41
+      ],
+      "attributes": [
+        75,
+        71,
+        69,
+        74,
+        47,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 550,
+      "resourceId": 275779,
+      "assetId": 275779
+    },
+    "276904": {
+      "name": "Cristina Baudet",
+      "cardName": "Cristina Baudet",
+      "originalVersionId": "0",
+      "clubId": 131733,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19,
+        27,
+        31,
+        38
+      ],
+      "attributes": [
+        69,
+        68,
+        67,
+        69,
+        50,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 276904,
+      "assetId": 276904
+    }
+  }
+}

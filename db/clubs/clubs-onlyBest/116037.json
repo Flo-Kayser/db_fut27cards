@@ -1,0 +1,820 @@
+{
+  "clubName": "Montpellier FC",
+  "players": {
+    "70235": {
+      "name": "Célia Chabod",
+      "cardName": "Chabod",
+      "originalVersionId": "0",
+      "clubId": 116037,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        58,
+        61,
+        50,
+        61,
+        21,
+        46
+      ],
+      "hasDynamicImage": false,
+      "price": 800,
+      "resourceId": 70235,
+      "assetId": 70235
+    },
+    "72448": {
+      "name": "Suya Haering",
+      "cardName": "Haering",
+      "originalVersionId": "0",
+      "clubId": 116037,
+      "leagueId": 2218,
+      "countryId": 198,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7
+      ],
+      "attributes": [
+        66,
+        32,
+        55,
+        55,
+        63,
+        54
+      ],
+      "hasDynamicImage": false,
+      "price": 900,
+      "resourceId": 72448,
+      "assetId": 72448
+    },
+    "75177": {
+      "name": "Élisa Rambaud",
+      "cardName": "Rambaud",
+      "originalVersionId": "0",
+      "clubId": 116037,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CDM",
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19,
+        23,
+        24,
+        35
+      ],
+      "attributes": [
+        50,
+        55,
+        61,
+        69,
+        47,
+        45
+      ],
+      "hasDynamicImage": false,
+      "price": 2900,
+      "resourceId": 75177,
+      "assetId": 75177
+    },
+    "75178": {
+      "name": "Justine Rouquet",
+      "cardName": "Rouquet",
+      "originalVersionId": "0",
+      "clubId": 116037,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2002",
+      "rating": 78,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        21
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        30,
+        39
+      ],
+      "attributes": [
+        85,
+        75,
+        72,
+        81,
+        54,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 750,
+      "resourceId": 75178,
+      "assetId": 75178
+    },
+    "75180": {
+      "name": "Kentissia Bacoul-Juillard",
+      "cardName": "Bacoul-Juillard",
+      "originalVersionId": "0",
+      "clubId": 116037,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        38
+      ],
+      "attributes": [
+        66,
+        46,
+        58,
+        57,
+        51,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 75180,
+      "assetId": 75180
+    },
+    "75181": {
+      "name": "Rosalie Chaine",
+      "cardName": "Chaine",
+      "originalVersionId": "0",
+      "clubId": 116037,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19
+      ],
+      "attributes": [
+        65,
+        35,
+        58,
+        58,
+        60,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 750,
+      "resourceId": 75181,
+      "assetId": 75181
+    },
+    "75368": {
+      "name": "Rose Kadzere",
+      "cardName": "Kadzere",
+      "originalVersionId": "0",
+      "clubId": 116037,
+      "leagueId": 2218,
+      "countryId": 125,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        35,
+        42
+      ],
+      "attributes": [
+        76,
+        67,
+        62,
+        71,
+        49,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 2600,
+      "resourceId": 75368,
+      "assetId": 75368
+    },
+    "81431": {
+      "name": "Ceylin Yilmaz",
+      "cardName": "Yilmaz",
+      "originalVersionId": "0",
+      "clubId": 116037,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        63,
+        62,
+        58,
+        68,
+        22,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 5800,
+      "resourceId": 81431,
+      "assetId": 81431
+    },
+    "81600": {
+      "name": "Chiara Baylet",
+      "cardName": "Baylet",
+      "originalVersionId": "0",
+      "clubId": 116037,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7
+      ],
+      "attributes": [
+        69,
+        55,
+        59,
+        59,
+        62,
+        52
+      ],
+      "hasDynamicImage": false,
+      "price": 2600,
+      "resourceId": 81600,
+      "assetId": 81600
+    },
+    "84111": {
+      "name": "Grace Gillard",
+      "cardName": "Gillard",
+      "originalVersionId": "0",
+      "clubId": 116037,
+      "leagueId": 2218,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        62,
+        39,
+        53,
+        55,
+        63,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 750,
+      "resourceId": 84111,
+      "assetId": 84111
+    },
+    "87068": {
+      "name": "Natalia Oleszkiewicz",
+      "cardName": "Oleszkiewicz",
+      "originalVersionId": "0",
+      "clubId": 116037,
+      "leagueId": 2218,
+      "countryId": 37,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        35
+      ],
+      "attributes": [
+        71,
+        66,
+        59,
+        64,
+        28,
+        49
+      ],
+      "hasDynamicImage": false,
+      "price": 2600,
+      "resourceId": 87068,
+      "assetId": 87068
+    },
+    "87406": {
+      "name": "Bouchra Kharafi",
+      "cardName": "Kharafi",
+      "originalVersionId": "0",
+      "clubId": 116037,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19
+      ],
+      "attributes": [
+        54,
+        38,
+        52,
+        56,
+        61,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 87406,
+      "assetId": 87406
+    },
+    "231347": {
+      "name": "Marion Torrent",
+      "cardName": "Torrent",
+      "originalVersionId": "0",
+      "clubId": 116037,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2002",
+      "rating": 76,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        16,
+        18,
+        28
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        17,
+        20
+      ],
+      "attributes": [
+        71,
+        62,
+        71,
+        77,
+        76,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 1600,
+      "resourceId": 231347,
+      "assetId": 231347
+    },
+    "241547": {
+      "name": "Solène Durand",
+      "cardName": "Durand",
+      "originalVersionId": "0",
+      "clubId": 116037,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        73,
+        75,
+        73,
+        78,
+        29,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 950,
+      "resourceId": 241547,
+      "assetId": 241547
+    },
+    "264885": {
+      "name": "Manon Revelli",
+      "cardName": "Revelli",
+      "originalVersionId": "0",
+      "clubId": 116037,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 73,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "RB"
+      ],
+      "playStyles": [
+        14,
+        15,
+        26,
+        27
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9
+      ],
+      "attributes": [
+        78,
+        54,
+        67,
+        68,
+        71,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 2700,
+      "resourceId": 264885,
+      "assetId": 264885
+    },
+    "264993": {
+      "name": "Adja Binate",
+      "cardName": "Binate",
+      "originalVersionId": "0",
+      "clubId": 116037,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19
+      ],
+      "attributes": [
+        74,
+        62,
+        60,
+        68,
+        58,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 264993,
+      "assetId": 264993
+    },
+    "265005": {
+      "name": "Annaëlle Tchakounté",
+      "cardName": "Tchakounté",
+      "originalVersionId": "0",
+      "clubId": 116037,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        64,
+        48,
+        59,
+        64,
+        66,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 2700,
+      "resourceId": 265005,
+      "assetId": 265005
+    },
+    "265715": {
+      "name": "Wurigumula",
+      "cardName": "Wurigumula",
+      "originalVersionId": "0",
+      "clubId": 116037,
+      "leagueId": 2218,
+      "countryId": 155,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        69,
+        71,
+        52,
+        70,
+        24,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 2700,
+      "resourceId": 265715,
+      "assetId": 265715
+    },
+    "265859": {
+      "name": "Ella Palis",
+      "cardName": "Palis",
+      "originalVersionId": "0",
+      "clubId": 116037,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CAM",
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        15,
+        17,
+        2,
+        24
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        14,
+        22,
+        33
+      ],
+      "attributes": [
+        66,
+        68,
+        65,
+        70,
+        77,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 2700,
+      "resourceId": 265859,
+      "assetId": 265859
+    },
+    "265915": {
+      "name": "Laura Bourgouin",
+      "cardName": "Bourgouin",
+      "originalVersionId": "0",
+      "clubId": 116037,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        18,
+        20
+      ],
+      "attributes": [
+        78,
+        72,
+        72,
+        76,
+        55,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 2700,
+      "resourceId": 265915,
+      "assetId": 265915
+    },
+    "268261": {
+      "name": "Aïrine Fontaine",
+      "cardName": "Fontaine",
+      "originalVersionId": "0",
+      "clubId": 116037,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 74,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        27,
+        35,
+        39
+      ],
+      "attributes": [
+        73,
+        70,
+        68,
+        76,
+        41,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 2500,
+      "resourceId": 268261,
+      "assetId": 268261
+    },
+    "277314": {
+      "name": "Lola Gstalter",
+      "cardName": "Gstalter",
+      "originalVersionId": "0",
+      "clubId": 116037,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        27,
+        28
+      ],
+      "attributes": [
+        69,
+        52,
+        62,
+        66,
+        36,
+        35
+      ],
+      "hasDynamicImage": false,
+      "price": 800,
+      "resourceId": 277314,
+      "assetId": 277314
+    }
+  }
+}

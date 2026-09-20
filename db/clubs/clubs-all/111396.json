@@ -1,0 +1,608 @@
+{
+  "clubName": "Central Coast",
+  "players": {
+    "70063": {
+      "name": "Bailey Brandtman",
+      "cardName": "Brandtman",
+      "originalVersionId": "0",
+      "clubId": 111396,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        25,
+        28,
+        29,
+        37,
+        40
+      ],
+      "attributes": [
+        71,
+        57,
+        53,
+        60,
+        39,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 70063,
+      "assetId": 70063
+    },
+    "73096": {
+      "name": "Haine Eames",
+      "cardName": "Eames",
+      "originalVersionId": "0",
+      "clubId": 111396,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19
+      ],
+      "attributes": [
+        63,
+        53,
+        60,
+        59,
+        52,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 73096,
+      "assetId": 73096
+    },
+    "74266": {
+      "name": "Jai Ajanovic",
+      "cardName": "Ajanovic",
+      "originalVersionId": "0",
+      "clubId": 111396,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 52,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        56,
+        49,
+        51,
+        51,
+        18,
+        48
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 74266,
+      "assetId": 74266
+    },
+    "74615": {
+      "name": "Arthur De Lima",
+      "cardName": "De Lima",
+      "originalVersionId": "0",
+      "clubId": 111396,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 55,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        30,
+        36,
+        39,
+        42
+      ],
+      "attributes": [
+        62,
+        54,
+        49,
+        57,
+        37,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 74615,
+      "assetId": 74615
+    },
+    "81887": {
+      "name": "Shumba Mutokoyi",
+      "cardName": "Mutokoyi",
+      "originalVersionId": "0",
+      "clubId": 111396,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 52,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        62,
+        31,
+        38,
+        41,
+        51,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 81887,
+      "assetId": 81887
+    },
+    "183244": {
+      "name": "Andrew Redmayne",
+      "cardName": "Redmayne",
+      "originalVersionId": "0",
+      "clubId": 111396,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        30,
+        31,
+        32
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        62,
+        63,
+        63,
+        65,
+        41,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 183244,
+      "assetId": 183244
+    },
+    "199000": {
+      "name": "Trent Sainsbury",
+      "cardName": "Sainsbury",
+      "originalVersionId": "0",
+      "clubId": 111396,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12
+      ],
+      "attributes": [
+        60,
+        46,
+        55,
+        56,
+        66,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 199000,
+      "assetId": 199000
+    },
+    "213094": {
+      "name": "Storm Roux",
+      "cardName": "Roux",
+      "originalVersionId": "0",
+      "clubId": 111396,
+      "leagueId": 351,
+      "countryId": 198,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CDM",
+        "RB",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        4,
+        5,
+        17,
+        23,
+        35
+      ],
+      "attributes": [
+        70,
+        45,
+        56,
+        59,
+        57,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 213094,
+      "assetId": 213094
+    },
+    "253752": {
+      "name": "Kristian Popović",
+      "cardName": "Popović",
+      "originalVersionId": "0",
+      "clubId": 111396,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 57,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        13,
+        14,
+        19
+      ],
+      "attributes": [
+        60,
+        47,
+        54,
+        56,
+        55,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 253752,
+      "assetId": 253752
+    },
+    "257490": {
+      "name": "Lucas Mauragis",
+      "cardName": "Mauragis",
+      "originalVersionId": "0",
+      "clubId": 111396,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        12,
+        18
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        30,
+        39
+      ],
+      "attributes": [
+        77,
+        50,
+        58,
+        63,
+        57,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 257490,
+      "assetId": 257490
+    },
+    "265581": {
+      "name": "Harry Steele",
+      "cardName": "Steele",
+      "originalVersionId": "0",
+      "clubId": 111396,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        18
+      ],
+      "attributes": [
+        65,
+        53,
+        56,
+        61,
+        56,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 265581,
+      "assetId": 265581
+    },
+    "268605": {
+      "name": "Chris Donnell",
+      "cardName": "Donnell",
+      "originalVersionId": "0",
+      "clubId": 111396,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        17,
+        18,
+        20
+      ],
+      "attributes": [
+        64,
+        54,
+        55,
+        62,
+        55,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 268605,
+      "assetId": 268605
+    },
+    "272355": {
+      "name": "Diesel Herrington",
+      "cardName": "Herrington",
+      "originalVersionId": "0",
+      "clubId": 111396,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 57,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3,
+        11
+      ],
+      "attributes": [
+        69,
+        34,
+        44,
+        46,
+        55,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 272355,
+      "assetId": 272355
+    },
+    "273841": {
+      "name": "Ali Auglah",
+      "cardName": "Auglah",
+      "originalVersionId": "0",
+      "clubId": 111396,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        24,
+        27,
+        33,
+        35
+      ],
+      "attributes": [
+        75,
+        61,
+        54,
+        66,
+        35,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 273841,
+      "assetId": 273841
+    },
+    "277571": {
+      "name": "Dylan Peraić-Cullen",
+      "cardName": "Peraić-Cullen",
+      "originalVersionId": "0",
+      "clubId": 111396,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        61,
+        58,
+        54,
+        61,
+        32,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 277571,
+      "assetId": 277571
+    },
+    "278882": {
+      "name": "Oliver Lavale",
+      "cardName": "Lavale",
+      "originalVersionId": "0",
+      "clubId": 111396,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        75,
+        57,
+        46,
+        56,
+        35,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 278882,
+      "assetId": 278882
+    }
+  }
+}

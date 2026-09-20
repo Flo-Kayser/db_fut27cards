@@ -1,0 +1,963 @@
+{
+  "clubName": "Legia Warszawa",
+  "players": {
+    "71485": {
+      "name": "Wojciech Urbański",
+      "cardName": "Urbański",
+      "originalVersionId": "0",
+      "clubId": 1871,
+      "leagueId": 66,
+      "countryId": 37,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        32,
+        43
+      ],
+      "attributes": [
+        64,
+        59,
+        65,
+        69,
+        44,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 71485,
+      "assetId": 71485
+    },
+    "72255": {
+      "name": "Mateusz Szczepaniak",
+      "cardName": "Szczepaniak",
+      "originalVersionId": "0",
+      "clubId": 1871,
+      "leagueId": 66,
+      "countryId": 37,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        25,
+        31,
+        33,
+        37
+      ],
+      "attributes": [
+        76,
+        57,
+        58,
+        65,
+        37,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 72255,
+      "assetId": 72255
+    },
+    "73285": {
+      "name": "Ivan Brkić",
+      "cardName": "Brkić",
+      "originalVersionId": "0",
+      "clubId": 1871,
+      "leagueId": 66,
+      "countryId": 10,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        30
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        45
+      ],
+      "attributes": [
+        70,
+        74,
+        71,
+        64,
+        27,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 73285,
+      "assetId": 73285
+    },
+    "74399": {
+      "name": "Jakub Żewłakow",
+      "cardName": "Żewłakow",
+      "originalVersionId": "0",
+      "clubId": 1871,
+      "leagueId": 66,
+      "countryId": 37,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        25,
+        29,
+        37,
+        40
+      ],
+      "attributes": [
+        74,
+        52,
+        57,
+        62,
+        41,
+        46
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 74399,
+      "assetId": 74399
+    },
+    "76086": {
+      "name": "Henrique Arreiol",
+      "cardName": "Henrique Arreiol",
+      "originalVersionId": "0",
+      "clubId": 1871,
+      "leagueId": 66,
+      "countryId": 38,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19
+      ],
+      "attributes": [
+        55,
+        47,
+        58,
+        62,
+        63,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 76086,
+      "assetId": 76086
+    },
+    "83575": {
+      "name": "Samuel Kováčik",
+      "cardName": "Kováčik",
+      "originalVersionId": "0",
+      "clubId": 1871,
+      "leagueId": 66,
+      "countryId": 43,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        27,
+        33,
+        38
+      ],
+      "attributes": [
+        76,
+        51,
+        51,
+        60,
+        25,
+        41
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 83575,
+      "assetId": 83575
+    },
+    "86414": {
+      "name": "Robert Deziel Jr.",
+      "cardName": "Deziel Jr.",
+      "originalVersionId": "0",
+      "clubId": 1871,
+      "leagueId": 66,
+      "countryId": 95,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        13,
+        15,
+        48
+      ],
+      "attributes": [
+        62,
+        41,
+        46,
+        55,
+        62,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 86414,
+      "assetId": 86414
+    },
+    "87197": {
+      "name": "Jan Bienduga",
+      "cardName": "Bienduga",
+      "originalVersionId": "0",
+      "clubId": 1871,
+      "leagueId": 66,
+      "countryId": 37,
+      "versionId": "2000",
+      "rating": 53,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        51,
+        53,
+        54,
+        55,
+        37,
+        52
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 87197,
+      "assetId": 87197
+    },
+    "87217": {
+      "name": "Erykh Mikanovich",
+      "cardName": "Mikanovich",
+      "originalVersionId": "0",
+      "clubId": 1871,
+      "leagueId": 66,
+      "countryId": 6,
+      "versionId": "2000",
+      "rating": 54,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        29,
+        38,
+        40
+      ],
+      "attributes": [
+        67,
+        50,
+        52,
+        56,
+        26,
+        44
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 87217,
+      "assetId": 87217
+    },
+    "203568": {
+      "name": "Paweł Wszołek",
+      "cardName": "Wszołek",
+      "originalVersionId": "0",
+      "clubId": 1871,
+      "leagueId": 66,
+      "countryId": 37,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        24
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        6,
+        26,
+        36
+      ],
+      "attributes": [
+        72,
+        62,
+        67,
+        70,
+        62,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 203568,
+      "assetId": 203568
+    },
+    "216003": {
+      "name": "Bartosz Kapustka",
+      "cardName": "Kapustka",
+      "originalVersionId": "0",
+      "clubId": 1871,
+      "leagueId": 66,
+      "countryId": 37,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        0,
+        22,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        21,
+        31
+      ],
+      "attributes": [
+        75,
+        68,
+        70,
+        70,
+        54,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 216003,
+      "assetId": 216003
+    },
+    "218985": {
+      "name": "Rafał Augustyniak",
+      "cardName": "Augustyniak",
+      "originalVersionId": "0",
+      "clubId": 1871,
+      "leagueId": 66,
+      "countryId": 37,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        28
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        13,
+        18,
+        49
+      ],
+      "attributes": [
+        50,
+        54,
+        60,
+        60,
+        67,
+        80
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 218985,
+      "assetId": 218985
+    },
+    "220785": {
+      "name": "Antonio Čolak",
+      "cardName": "Čolak",
+      "originalVersionId": "0",
+      "clubId": 1871,
+      "leagueId": 66,
+      "countryId": 10,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        56,
+        67,
+        57,
+        67,
+        33,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 220785,
+      "assetId": 220785
+    },
+    "223779": {
+      "name": "Damian Szymański",
+      "cardName": "Szymański",
+      "originalVersionId": "0",
+      "clubId": 1871,
+      "leagueId": 66,
+      "countryId": 37,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        17,
+        20
+      ],
+      "attributes": [
+        69,
+        62,
+        64,
+        67,
+        69,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 223779,
+      "assetId": 223779
+    },
+    "234760": {
+      "name": "Arkadiusz Reca",
+      "cardName": "Reca",
+      "originalVersionId": "0",
+      "clubId": 1871,
+      "leagueId": 66,
+      "countryId": 37,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        10,
+        30,
+        39
+      ],
+      "attributes": [
+        78,
+        56,
+        63,
+        66,
+        61,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 550,
+      "resourceId": 234760,
+      "assetId": 234760
+    },
+    "235172": {
+      "name": "Rúben Vinagre",
+      "cardName": "Rúben Vinagre",
+      "originalVersionId": "0",
+      "clubId": 1871,
+      "leagueId": 66,
+      "countryId": 38,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 4,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        12,
+        13
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        10,
+        30,
+        39
+      ],
+      "attributes": [
+        81,
+        55,
+        69,
+        73,
+        60,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 950,
+      "resourceId": 235172,
+      "assetId": 235172
+    },
+    "239179": {
+      "name": "Zoran Arsenić",
+      "cardName": "Arsenić",
+      "originalVersionId": "0",
+      "clubId": 1871,
+      "leagueId": 66,
+      "countryId": 10,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        15
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        12
+      ],
+      "attributes": [
+        64,
+        40,
+        56,
+        59,
+        66,
+        79
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 239179,
+      "assetId": 239179
+    },
+    "247331": {
+      "name": "Rafał Adamski",
+      "cardName": "Adamski",
+      "originalVersionId": "0",
+      "clubId": 1871,
+      "leagueId": 66,
+      "countryId": 37,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        32,
+        43,
+        44
+      ],
+      "attributes": [
+        66,
+        63,
+        56,
+        65,
+        25,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 247331,
+      "assetId": 247331
+    },
+    "248586": {
+      "name": "Ottó Hindrich",
+      "cardName": "Hindrich",
+      "originalVersionId": "0",
+      "clubId": 1871,
+      "leagueId": 66,
+      "countryId": 39,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        2
+      ],
+      "attributes": [
+        71,
+        69,
+        67,
+        71,
+        28,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 850,
+      "resourceId": 248586,
+      "assetId": 248586
+    },
+    "252018": {
+      "name": "Kamil Piątkowski",
+      "cardName": "Piątkowski",
+      "originalVersionId": "0",
+      "clubId": 1871,
+      "leagueId": 66,
+      "countryId": 37,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        16,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        13,
+        48
+      ],
+      "attributes": [
+        78,
+        47,
+        62,
+        64,
+        68,
+        81
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 252018,
+      "assetId": 252018
+    },
+    "255779": {
+      "name": "Kacper Chodyna",
+      "cardName": "Chodyna",
+      "originalVersionId": "0",
+      "clubId": 1871,
+      "leagueId": 66,
+      "countryId": 37,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        26,
+        37
+      ],
+      "attributes": [
+        82,
+        61,
+        62,
+        65,
+        59,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 255779,
+      "assetId": 255779
+    },
+    "257536": {
+      "name": "Jan Kuchta",
+      "cardName": "Kuchta",
+      "originalVersionId": "0",
+      "clubId": 1871,
+      "leagueId": 66,
+      "countryId": 12,
+      "versionId": "2001",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LW",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        28
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        77,
+        72,
+        65,
+        72,
+        34,
+        80
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 257536,
+      "assetId": 257536
+    },
+    "257944": {
+      "name": "Łukasz Zjawiński",
+      "cardName": "Zjawiński",
+      "originalVersionId": "0",
+      "clubId": 1871,
+      "leagueId": 66,
+      "countryId": 37,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        42,
+        44
+      ],
+      "attributes": [
+        62,
+        64,
+        46,
+        59,
+        24,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 900,
+      "resourceId": 257944,
+      "assetId": 257944
+    },
+    "266277": {
+      "name": "Vahan Bichakhchyan",
+      "cardName": "Bichakhchyan",
+      "originalVersionId": "0",
+      "clubId": 1871,
+      "leagueId": 66,
+      "countryId": 3,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        2
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        25,
+        26,
+        32,
+        36,
+        43
+      ],
+      "attributes": [
+        78,
+        67,
+        65,
+        68,
+        55,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 266277,
+      "assetId": 266277
+    },
+    "276053": {
+      "name": "Michal Ševčík",
+      "cardName": "Ševčík",
+      "originalVersionId": "0",
+      "clubId": 1871,
+      "leagueId": 66,
+      "countryId": 12,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        32,
+        36,
+        43
+      ],
+      "attributes": [
+        72,
+        69,
+        67,
+        73,
+        44,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 276053,
+      "assetId": 276053
+    }
+  }
+}

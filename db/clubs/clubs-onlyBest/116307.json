@@ -1,0 +1,981 @@
+{
+  "clubName": "Orlando Pride",
+  "players": {
+    "70308": {
+      "name": "Hannah Anderson",
+      "cardName": "Anderson",
+      "originalVersionId": "0",
+      "clubId": 116307,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        52,
+        41,
+        53,
+        55,
+        68,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 70308,
+      "assetId": 70308
+    },
+    "70502": {
+      "name": "Ally Lemos",
+      "cardName": "Lemos",
+      "originalVersionId": "0",
+      "clubId": 116307,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        18
+      ],
+      "attributes": [
+        66,
+        66,
+        74,
+        75,
+        70,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 70502,
+      "assetId": 70502
+    },
+    "71531": {
+      "name": "Cori Dyke",
+      "cardName": "Dyke",
+      "originalVersionId": "0",
+      "clubId": 116307,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CDM",
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        8,
+        9,
+        17
+      ],
+      "attributes": [
+        63,
+        40,
+        61,
+        64,
+        71,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 71531,
+      "assetId": 71531
+    },
+    "75435": {
+      "name": "Zoe Matthews",
+      "cardName": "Matthews",
+      "originalVersionId": "0",
+      "clubId": 116307,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        29,
+        40,
+        49
+      ],
+      "attributes": [
+        65,
+        53,
+        55,
+        60,
+        47,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 75435,
+      "assetId": 75435
+    },
+    "76485": {
+      "name": "Zara Chavoshi",
+      "cardName": "Chavoshi",
+      "originalVersionId": "0",
+      "clubId": 116307,
+      "leagueId": 2221,
+      "countryId": 70,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        13
+      ],
+      "attributes": [
+        51,
+        40,
+        50,
+        60,
+        67,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 76485,
+      "assetId": 76485
+    },
+    "83420": {
+      "name": "Cara Martin",
+      "cardName": "Martin",
+      "originalVersionId": "0",
+      "clubId": 116307,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        66,
+        67,
+        63,
+        66,
+        27,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 83420,
+      "assetId": 83420
+    },
+    "226890": {
+      "name": "Marta",
+      "cardName": "Marta",
+      "originalVersionId": "0",
+      "clubId": 116307,
+      "leagueId": 2221,
+      "countryId": 54,
+      "versionId": "2002",
+      "rating": 84,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [
+        13,
+        16,
+        20,
+        23,
+        3,
+        5
+      ],
+      "playStylesPlus": [
+        22
+      ],
+      "rolesPlus": [
+        22,
+        43,
+        133
+      ],
+      "attributes": [
+        69,
+        84,
+        83,
+        87,
+        44,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 900,
+      "resourceId": 226890,
+      "assetId": 226890
+    },
+    "227421": {
+      "name": "Rafaelle",
+      "cardName": "Rafaelle",
+      "originalVersionId": "0",
+      "clubId": 116307,
+      "leagueId": 2221,
+      "countryId": 54,
+      "versionId": "2002",
+      "rating": 79,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        14,
+        16,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        51,
+        39,
+        68,
+        65,
+        81,
+        80
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 227421,
+      "assetId": 227421
+    },
+    "238422": {
+      "name": "Gabi Nunes",
+      "cardName": "Gabi Nunes",
+      "originalVersionId": "0",
+      "clubId": 116307,
+      "leagueId": 2221,
+      "countryId": 54,
+      "versionId": "2002",
+      "rating": 77,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        21,
+        22,
+        25,
+        5,
+        7
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        42,
+        44
+      ],
+      "attributes": [
+        85,
+        75,
+        72,
+        79,
+        39,
+        79
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 238422,
+      "assetId": 238422
+    },
+    "243262": {
+      "name": "Haley McCutcheon",
+      "cardName": "McCutcheon",
+      "originalVersionId": "0",
+      "clubId": 116307,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2002",
+      "rating": 77,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        14,
+        15,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        18,
+        19,
+        31
+      ],
+      "attributes": [
+        66,
+        65,
+        74,
+        75,
+        74,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 243262,
+      "assetId": 243262
+    },
+    "246059": {
+      "name": "Lizbeth Ovalle",
+      "cardName": "Ovalle",
+      "originalVersionId": "0",
+      "clubId": 116307,
+      "leagueId": 2221,
+      "countryId": 83,
+      "versionId": "2002",
+      "rating": 81,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        20,
+        22
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        26,
+        27,
+        36,
+        38
+      ],
+      "attributes": [
+        72,
+        82,
+        78,
+        81,
+        53,
+        54
+      ],
+      "hasDynamicImage": false,
+      "price": 750,
+      "resourceId": 246059,
+      "assetId": 246059
+    },
+    "253175": {
+      "name": "Luana",
+      "cardName": "Luana",
+      "originalVersionId": "0",
+      "clubId": 116307,
+      "leagueId": 2221,
+      "countryId": 54,
+      "versionId": "2002",
+      "rating": 77,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        48,
+        72,
+        77,
+        81,
+        66,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 253175,
+      "assetId": 253175
+    },
+    "265950": {
+      "name": "Cosette Morché",
+      "cardName": "Morché",
+      "originalVersionId": "0",
+      "clubId": 116307,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        72,
+        68,
+        68,
+        70,
+        47,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 265950,
+      "assetId": 265950
+    },
+    "267199": {
+      "name": "Angelina",
+      "cardName": "Angelina",
+      "originalVersionId": "0",
+      "clubId": 116307,
+      "leagueId": 2221,
+      "countryId": 54,
+      "versionId": "2002",
+      "rating": 79,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        10,
+        11,
+        13,
+        22
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        20,
+        27,
+        38
+      ],
+      "attributes": [
+        72,
+        70,
+        78,
+        79,
+        65,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 267199,
+      "assetId": 267199
+    },
+    "267299": {
+      "name": "Julie Doyle",
+      "cardName": "Doyle",
+      "originalVersionId": "0",
+      "clubId": 116307,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 73,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        30,
+        32,
+        39,
+        43
+      ],
+      "attributes": [
+        78,
+        69,
+        70,
+        72,
+        44,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 267299,
+      "assetId": 267299
+    },
+    "267309": {
+      "name": "Kylie Nadaner",
+      "cardName": "Nadaner",
+      "originalVersionId": "0",
+      "clubId": 116307,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        16,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        70,
+        49,
+        69,
+        66,
+        77,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 950,
+      "resourceId": 267309,
+      "assetId": 267309
+    },
+    "267312": {
+      "name": "Viviana Villacorta",
+      "cardName": "Villacorta",
+      "originalVersionId": "0",
+      "clubId": 116307,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        57,
+        58,
+        64,
+        69,
+        68,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 267312,
+      "assetId": 267312
+    },
+    "267339": {
+      "name": "Hailie Mace",
+      "cardName": "Mace",
+      "originalVersionId": "0",
+      "clubId": 116307,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2002",
+      "rating": 81,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CB",
+        "CM",
+        "RB"
+      ],
+      "playStyles": [
+        10,
+        16,
+        8,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        4,
+        13,
+        22,
+        146
+      ],
+      "attributes": [
+        77,
+        60,
+        76,
+        75,
+        81,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 267339,
+      "assetId": 267339
+    },
+    "267519": {
+      "name": "Kerry Abello",
+      "cardName": "Abello",
+      "originalVersionId": "0",
+      "clubId": 116307,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2002",
+      "rating": 76,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        17,
+        18,
+        22
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        28
+      ],
+      "attributes": [
+        68,
+        64,
+        74,
+        76,
+        73,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 1400,
+      "resourceId": 267519,
+      "assetId": 267519
+    },
+    "271945": {
+      "name": "Oihane Hernández",
+      "cardName": "Oihane Hernández",
+      "originalVersionId": "0",
+      "clubId": 116307,
+      "leagueId": 2221,
+      "countryId": 45,
+      "versionId": "2002",
+      "rating": 79,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        11,
+        21
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        24
+      ],
+      "attributes": [
+        79,
+        62,
+        75,
+        73,
+        76,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 271945,
+      "assetId": 271945
+    },
+    "273270": {
+      "name": "Nicole Payne",
+      "cardName": "Payne",
+      "originalVersionId": "0",
+      "clubId": 116307,
+      "leagueId": 2221,
+      "countryId": 133,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        24
+      ],
+      "attributes": [
+        78,
+        60,
+        60,
+        69,
+        66,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 273270,
+      "assetId": 273270
+    },
+    "273504": {
+      "name": "Summer Yates",
+      "cardName": "Yates",
+      "originalVersionId": "0",
+      "clubId": 116307,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CDM",
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19,
+        27,
+        28,
+        38
+      ],
+      "attributes": [
+        61,
+        65,
+        68,
+        71,
+        41,
+        52
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 273504,
+      "assetId": 273504
+    },
+    "274774": {
+      "name": "McKinley Crone",
+      "cardName": "Crone",
+      "originalVersionId": "0",
+      "clubId": 116307,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        66,
+        67,
+        66,
+        69,
+        35,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 274774,
+      "assetId": 274774
+    },
+    "275679": {
+      "name": "Solai Washington",
+      "cardName": "Washington",
+      "originalVersionId": "0",
+      "clubId": 116307,
+      "leagueId": 2221,
+      "countryId": 82,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        38
+      ],
+      "attributes": [
+        71,
+        59,
+        61,
+        67,
+        27,
+        49
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 275679,
+      "assetId": 275679
+    },
+    "276359": {
+      "name": "Barbra Banda",
+      "cardName": "Banda",
+      "originalVersionId": "0",
+      "clubId": 116307,
+      "leagueId": 2221,
+      "countryId": 147,
+      "versionId": "2002",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [
+        1,
+        19,
+        21,
+        29,
+        6
+      ],
+      "playStylesPlus": [
+        25
+      ],
+      "rolesPlus": [
+        32,
+        43,
+        142
+      ],
+      "attributes": [
+        92,
+        84,
+        64,
+        80,
+        33,
+        82
+      ],
+      "hasDynamicImage": false,
+      "price": 11500,
+      "resourceId": 276359,
+      "assetId": 276359
+    }
+  }
+}

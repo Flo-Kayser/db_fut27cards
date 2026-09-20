@@ -1,0 +1,898 @@
+{
+  "clubName": "Orlando City",
+  "players": {
+    "71618": {
+      "name": "Tyrese Spicer",
+      "cardName": "Spicer",
+      "originalVersionId": "0",
+      "clubId": 112606,
+      "leagueId": 39,
+      "countryId": 93,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        28,
+        39
+      ],
+      "attributes": [
+        82,
+        60,
+        55,
+        69,
+        40,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 71618,
+      "assetId": 71618
+    },
+    "77663": {
+      "name": "Joran Gerbet",
+      "cardName": "Gerbet",
+      "originalVersionId": "0",
+      "clubId": 112606,
+      "leagueId": 39,
+      "countryId": 18,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        15,
+        18
+      ],
+      "attributes": [
+        50,
+        43,
+        53,
+        55,
+        57,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 77663,
+      "assetId": 77663
+    },
+    "78207": {
+      "name": "Gustavo Caraballo",
+      "cardName": "Caraballo",
+      "originalVersionId": "0",
+      "clubId": 112606,
+      "leagueId": 39,
+      "countryId": 61,
+      "versionId": "2000",
+      "rating": 53,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        35
+      ],
+      "attributes": [
+        61,
+        47,
+        46,
+        56,
+        21,
+        39
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 78207,
+      "assetId": 78207
+    },
+    "79890": {
+      "name": "Zakaria Taifi",
+      "cardName": "Taifi",
+      "originalVersionId": "0",
+      "clubId": 112606,
+      "leagueId": 39,
+      "countryId": 95,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "attributes": [
+        61,
+        34,
+        49,
+        53,
+        55,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 79890,
+      "assetId": 79890
+    },
+    "79892": {
+      "name": "Justin Ellis",
+      "cardName": "Ellis",
+      "originalVersionId": "0",
+      "clubId": 112606,
+      "leagueId": 39,
+      "countryId": 95,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        32,
+        41,
+        43
+      ],
+      "attributes": [
+        55,
+        59,
+        45,
+        60,
+        19,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 79892,
+      "assetId": 79892
+    },
+    "81948": {
+      "name": "Tiago Souza",
+      "cardName": "Tiago Souza",
+      "originalVersionId": "0",
+      "clubId": 112606,
+      "leagueId": 39,
+      "countryId": 54,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        38
+      ],
+      "attributes": [
+        76,
+        67,
+        56,
+        71,
+        31,
+        51
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 81948,
+      "assetId": 81948
+    },
+    "83365": {
+      "name": "Harvey Sarajian",
+      "cardName": "Sarajian",
+      "originalVersionId": "0",
+      "clubId": 112606,
+      "leagueId": 39,
+      "countryId": 95,
+      "versionId": "2000",
+      "rating": 53,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        31
+      ],
+      "attributes": [
+        71,
+        47,
+        41,
+        57,
+        21,
+        52
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 83365,
+      "assetId": 83365
+    },
+    "83744": {
+      "name": "Nolan Miller",
+      "cardName": "Miller",
+      "originalVersionId": "0",
+      "clubId": 112606,
+      "leagueId": 39,
+      "countryId": 95,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        59,
+        24,
+        34,
+        43,
+        56,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 83744,
+      "assetId": 83744
+    },
+    "83955": {
+      "name": "Luis Otávio",
+      "cardName": "Luis Otávio",
+      "originalVersionId": "0",
+      "clubId": 112606,
+      "leagueId": 39,
+      "countryId": 54,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19
+      ],
+      "attributes": [
+        61,
+        34,
+        53,
+        59,
+        63,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 83955,
+      "assetId": 83955
+    },
+    "194765": {
+      "name": "Antoine Griezmann",
+      "cardName": "Griezmann",
+      "originalVersionId": "0",
+      "clubId": 112606,
+      "leagueId": 39,
+      "countryId": 18,
+      "versionId": "2002",
+      "rating": 84,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        10,
+        13,
+        20,
+        6,
+        8
+      ],
+      "playStylesPlus": [
+        7
+      ],
+      "rolesPlus": [
+        21,
+        31,
+        42,
+        143
+      ],
+      "attributes": [
+        72,
+        85,
+        85,
+        87,
+        59,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 2100,
+      "resourceId": 194765,
+      "assetId": 194765
+    },
+    "203137": {
+      "name": "Robin Jansson",
+      "cardName": "Jansson",
+      "originalVersionId": "0",
+      "clubId": 112606,
+      "leagueId": 39,
+      "countryId": 46,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        8,
+        11,
+        17
+      ],
+      "attributes": [
+        48,
+        28,
+        53,
+        60,
+        69,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 203137,
+      "assetId": 203137
+    },
+    "213536": {
+      "name": "Maxime Crépeau",
+      "cardName": "Crépeau",
+      "originalVersionId": "0",
+      "clubId": 112606,
+      "leagueId": 39,
+      "countryId": 70,
+      "versionId": "2001",
+      "rating": 73,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        30,
+        31
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        72,
+        71,
+        68,
+        74,
+        45,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 213536,
+      "assetId": 213536
+    },
+    "221664": {
+      "name": "Wilder Cartagena",
+      "cardName": "Cartagena",
+      "originalVersionId": "0",
+      "clubId": 112606,
+      "leagueId": 39,
+      "countryId": 59,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        13,
+        15,
+        17,
+        18
+      ],
+      "attributes": [
+        73,
+        54,
+        57,
+        64,
+        64,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 221664,
+      "assetId": 221664
+    },
+    "224921": {
+      "name": "Adrián Marín",
+      "cardName": "Adrián Marín",
+      "originalVersionId": "0",
+      "clubId": 112606,
+      "leagueId": 39,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "LB"
+      ],
+      "playStyles": [
+        15,
+        27
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        8,
+        9,
+        13,
+        17
+      ],
+      "attributes": [
+        72,
+        48,
+        62,
+        65,
+        67,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 224921,
+      "assetId": 224921
+    },
+    "236298": {
+      "name": "Eduard Atuesta",
+      "cardName": "Atuesta",
+      "originalVersionId": "0",
+      "clubId": 112606,
+      "leagueId": 39,
+      "countryId": 56,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        13,
+        15,
+        18
+      ],
+      "attributes": [
+        65,
+        57,
+        73,
+        75,
+        64,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 236298,
+      "assetId": 236298
+    },
+    "236800": {
+      "name": "Iván Angulo",
+      "cardName": "Angulo",
+      "originalVersionId": "0",
+      "clubId": 112606,
+      "leagueId": 39,
+      "countryId": 56,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        11,
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        10,
+        25,
+        27,
+        29,
+        40
+      ],
+      "attributes": [
+        86,
+        60,
+        61,
+        71,
+        40,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 236800,
+      "assetId": 236800
+    },
+    "240744": {
+      "name": "Martín Ojeda",
+      "cardName": "Ojeda",
+      "originalVersionId": "0",
+      "clubId": 112606,
+      "leagueId": 39,
+      "countryId": 52,
+      "versionId": "2002",
+      "rating": 77,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        13,
+        2,
+        3,
+        6,
+        7,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        30,
+        33,
+        39,
+        43
+      ],
+      "attributes": [
+        83,
+        75,
+        76,
+        76,
+        34,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 240744,
+      "assetId": 240744
+    },
+    "246849": {
+      "name": "Griffin Dorsey",
+      "cardName": "Dorsey",
+      "originalVersionId": "0",
+      "clubId": 112606,
+      "leagueId": 39,
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        6,
+        23
+      ],
+      "attributes": [
+        80,
+        57,
+        66,
+        68,
+        62,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 246849,
+      "assetId": 246849
+    },
+    "248870": {
+      "name": "Braian Ojeda",
+      "cardName": "Ojeda",
+      "originalVersionId": "0",
+      "clubId": 112606,
+      "leagueId": 39,
+      "countryId": 58,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        15,
+        20
+      ],
+      "attributes": [
+        67,
+        54,
+        63,
+        71,
+        65,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 248870,
+      "assetId": 248870
+    },
+    "255043": {
+      "name": "Daryl Dike",
+      "cardName": "Dike",
+      "originalVersionId": "0",
+      "clubId": 112606,
+      "leagueId": 39,
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        29,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        42,
+        44
+      ],
+      "attributes": [
+        63,
+        70,
+        47,
+        62,
+        20,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 255043,
+      "assetId": 255043
+    },
+    "262740": {
+      "name": "Marco Pašalić",
+      "cardName": "Pašalić",
+      "originalVersionId": "0",
+      "clubId": 112606,
+      "leagueId": 39,
+      "countryId": 10,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        25,
+        26,
+        32,
+        36,
+        43
+      ],
+      "attributes": [
+        76,
+        75,
+        66,
+        75,
+        35,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 262740,
+      "assetId": 262740
+    },
+    "264085": {
+      "name": "David Brekalo",
+      "cardName": "Brekalo",
+      "originalVersionId": "0",
+      "clubId": 112606,
+      "leagueId": 39,
+      "countryId": 44,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        8,
+        11,
+        13,
+        17
+      ],
+      "attributes": [
+        73,
+        27,
+        53,
+        63,
+        67,
+        81
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 264085,
+      "assetId": 264085
+    },
+    "277189": {
+      "name": "Javier Otero",
+      "cardName": "Otero",
+      "originalVersionId": "0",
+      "clubId": 112606,
+      "leagueId": 39,
+      "countryId": 61,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        58,
+        56,
+        55,
+        56,
+        25,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 277189,
+      "assetId": 277189
+    }
+  }
+}

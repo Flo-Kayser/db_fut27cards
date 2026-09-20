@@ -1,0 +1,978 @@
+{
+  "clubName": "Rochdale",
+  "players": {
+    "75307": {
+      "name": "Nils Ramming",
+      "cardName": "Ramming",
+      "originalVersionId": "0",
+      "clubId": 1955,
+      "leagueId": 61,
+      "countryId": 46,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        62,
+        52,
+        63,
+        63,
+        17,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 75307,
+      "assetId": 75307
+    },
+    "76569": {
+      "name": "Zain Silcott-Duberry",
+      "cardName": "Silcott-Duberry",
+      "originalVersionId": "0",
+      "clubId": 1955,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        27,
+        35,
+        38
+      ],
+      "attributes": [
+        72,
+        56,
+        57,
+        61,
+        33,
+        54
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 76569,
+      "assetId": 76569
+    },
+    "78114": {
+      "name": "Kaiden Wilson",
+      "cardName": "Wilson",
+      "originalVersionId": "0",
+      "clubId": 1955,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        13
+      ],
+      "attributes": [
+        72,
+        29,
+        42,
+        48,
+        58,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 78114,
+      "assetId": 78114
+    },
+    "83240": {
+      "name": "Kane Taylor",
+      "cardName": "Taylor",
+      "originalVersionId": "0",
+      "clubId": 1955,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        21,
+        31
+      ],
+      "attributes": [
+        71,
+        54,
+        62,
+        63,
+        56,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 83240,
+      "assetId": 83240
+    },
+    "85695": {
+      "name": "Casey Pettit",
+      "cardName": "Pettit",
+      "originalVersionId": "0",
+      "clubId": 1955,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19
+      ],
+      "attributes": [
+        66,
+        51,
+        60,
+        59,
+        56,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 85695,
+      "assetId": 85695
+    },
+    "87679": {
+      "name": "Jake Spaven",
+      "cardName": "Spaven",
+      "originalVersionId": "0",
+      "clubId": 1955,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 54,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        55,
+        53,
+        52,
+        54,
+        27,
+        53
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 87679,
+      "assetId": 87679
+    },
+    "118646": {
+      "name": "Ian Henderson",
+      "cardName": "Henderson",
+      "originalVersionId": "0",
+      "clubId": 1955,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        1
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        42
+      ],
+      "attributes": [
+        42,
+        62,
+        55,
+        59,
+        36,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 118646,
+      "assetId": 118646
+    },
+    "201958": {
+      "name": "Ethan Ebanks-Landell",
+      "cardName": "Ebanks-Landell",
+      "originalVersionId": "0",
+      "clubId": 1955,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        15,
+        18,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        48,
+        39,
+        47,
+        47,
+        60,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 201958,
+      "assetId": 201958
+    },
+    "215088": {
+      "name": "Emmanuel Dieseruvwe",
+      "cardName": "Dieseruvwe",
+      "originalVersionId": "0",
+      "clubId": 1955,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        24,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        44
+      ],
+      "attributes": [
+        67,
+        62,
+        48,
+        57,
+        27,
+        78
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 215088,
+      "assetId": 215088
+    },
+    "223373": {
+      "name": "Laurence Maguire",
+      "cardName": "Maguire",
+      "originalVersionId": "0",
+      "clubId": 1955,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        48
+      ],
+      "attributes": [
+        60,
+        36,
+        49,
+        54,
+        62,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 223373,
+      "assetId": 223373
+    },
+    "228178": {
+      "name": "Tobi Adebayo-Rowling",
+      "cardName": "Adebayo-Rowling",
+      "originalVersionId": "0",
+      "clubId": 1955,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        6,
+        23
+      ],
+      "attributes": [
+        74,
+        49,
+        56,
+        58,
+        54,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 228178,
+      "assetId": 228178
+    },
+    "234978": {
+      "name": "Ryan East",
+      "cardName": "East",
+      "originalVersionId": "0",
+      "clubId": 1955,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        18,
+        21,
+        31
+      ],
+      "attributes": [
+        65,
+        54,
+        61,
+        63,
+        56,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 234978,
+      "assetId": 234978
+    },
+    "235014": {
+      "name": "Jonny Smith",
+      "cardName": "Smith",
+      "originalVersionId": "0",
+      "clubId": 1955,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        21
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        26,
+        35
+      ],
+      "attributes": [
+        84,
+        58,
+        58,
+        66,
+        37,
+        41
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 235014,
+      "assetId": 235014
+    },
+    "236222": {
+      "name": "Devante Rodney",
+      "cardName": "Rodney",
+      "originalVersionId": "0",
+      "clubId": 1955,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        30,
+        36,
+        39,
+        41
+      ],
+      "attributes": [
+        84,
+        59,
+        52,
+        60,
+        29,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 236222,
+      "assetId": 236222
+    },
+    "240768": {
+      "name": "Harvey Gilmour",
+      "cardName": "Gilmour",
+      "originalVersionId": "0",
+      "clubId": 1955,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18
+      ],
+      "attributes": [
+        67,
+        55,
+        60,
+        64,
+        58,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 240768,
+      "assetId": 240768
+    },
+    "241711": {
+      "name": "Edward Francis",
+      "cardName": "Francis",
+      "originalVersionId": "0",
+      "clubId": 1955,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        15,
+        19
+      ],
+      "attributes": [
+        64,
+        55,
+        59,
+        59,
+        58,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 241711,
+      "assetId": 241711
+    },
+    "242212": {
+      "name": "Luke Hannant",
+      "cardName": "Hannant",
+      "originalVersionId": "0",
+      "clubId": 1955,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        6,
+        24,
+        27,
+        28
+      ],
+      "attributes": [
+        71,
+        54,
+        55,
+        61,
+        50,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 242212,
+      "assetId": 242212
+    },
+    "243765": {
+      "name": "Sam Sherring",
+      "cardName": "Sherring",
+      "originalVersionId": "0",
+      "clubId": 1955,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        17
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        48
+      ],
+      "attributes": [
+        72,
+        31,
+        45,
+        50,
+        61,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 243765,
+      "assetId": 243765
+    },
+    "253999": {
+      "name": "Dan Moss",
+      "cardName": "Moss",
+      "originalVersionId": "0",
+      "clubId": 1955,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        6,
+        9,
+        10,
+        23,
+        27
+      ],
+      "attributes": [
+        67,
+        42,
+        51,
+        55,
+        56,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 253999,
+      "assetId": 253999
+    },
+    "256472": {
+      "name": "Sam Beckwith",
+      "cardName": "Beckwith",
+      "originalVersionId": "0",
+      "clubId": 1955,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        13,
+        48
+      ],
+      "attributes": [
+        65,
+        40,
+        51,
+        50,
+        61,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 256472,
+      "assetId": 256472
+    },
+    "260669": {
+      "name": "Cian Hayes",
+      "cardName": "Hayes",
+      "originalVersionId": "0",
+      "clubId": 1955,
+      "leagueId": 61,
+      "countryId": 25,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        25,
+        27,
+        35,
+        38
+      ],
+      "attributes": [
+        80,
+        53,
+        56,
+        66,
+        28,
+        45
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 260669,
+      "assetId": 260669
+    },
+    "263211": {
+      "name": "Baba Adeeko",
+      "cardName": "Adeeko",
+      "originalVersionId": "0",
+      "clubId": 1955,
+      "leagueId": 61,
+      "countryId": 25,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        17,
+        18
+      ],
+      "attributes": [
+        65,
+        47,
+        58,
+        63,
+        57,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 263211,
+      "assetId": 263211
+    },
+    "268629": {
+      "name": "Sam Waller",
+      "cardName": "Waller",
+      "originalVersionId": "0",
+      "clubId": 1955,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 56,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        2
+      ],
+      "attributes": [
+        57,
+        55,
+        55,
+        56,
+        28,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 268629,
+      "assetId": 268629
+    },
+    "273535": {
+      "name": "Bryant Bilongo",
+      "cardName": "Bilongo",
+      "originalVersionId": "0",
+      "clubId": 1955,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        28
+      ],
+      "attributes": [
+        73,
+        46,
+        51,
+        59,
+        55,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 273535,
+      "assetId": 273535
+    },
+    "277463": {
+      "name": "Dajaune Brown",
+      "cardName": "Brown",
+      "originalVersionId": "0",
+      "clubId": 1955,
+      "leagueId": 61,
+      "countryId": 82,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        71,
+        59,
+        49,
+        61,
+        19,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 277463,
+      "assetId": 277463
+    },
+    "50564167": {
+      "name": "Glenn Middleton",
+      "cardName": "Middleton",
+      "originalVersionId": "0",
+      "clubId": 1955,
+      "leagueId": 61,
+      "countryId": 42,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        21
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        27,
+        35,
+        38
+      ],
+      "attributes": [
+        83,
+        57,
+        59,
+        64,
+        27,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 650,
+      "resourceId": 50564167,
+      "assetId": 232519
+    }
+  }
+}

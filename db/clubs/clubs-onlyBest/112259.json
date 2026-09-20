@@ -1,0 +1,801 @@
+{
+  "clubName": "AFC Wimbledon",
+  "players": {
+    "71126": {
+      "name": "Ollie Harrison",
+      "cardName": "Harrison",
+      "originalVersionId": "0",
+      "clubId": 112259,
+      "leagueId": 60,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14
+      ],
+      "attributes": [
+        60,
+        46,
+        62,
+        60,
+        55,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 71126,
+      "assetId": 71126
+    },
+    "75867": {
+      "name": "Riley Horan",
+      "cardName": "Horan",
+      "originalVersionId": "0",
+      "clubId": 112259,
+      "leagueId": 60,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 54,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        63,
+        39,
+        44,
+        49,
+        53,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 75867,
+      "assetId": 75867
+    },
+    "79444": {
+      "name": "Delano McCoy-Splatt",
+      "cardName": "McCoy-Splatt",
+      "originalVersionId": "0",
+      "clubId": 112259,
+      "leagueId": 60,
+      "countryId": 82,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        31
+      ],
+      "attributes": [
+        77,
+        56,
+        58,
+        63,
+        50,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 79444,
+      "assetId": 79444
+    },
+    "195427": {
+      "name": "Jayden Stockley",
+      "cardName": "Stockley",
+      "originalVersionId": "0",
+      "clubId": 112259,
+      "leagueId": 60,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41,
+        44
+      ],
+      "attributes": [
+        51,
+        62,
+        49,
+        58,
+        33,
+        81
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 195427,
+      "assetId": 195427
+    },
+    "208052": {
+      "name": "Andy Yiadom",
+      "cardName": "Yiadom",
+      "originalVersionId": "0",
+      "clubId": 112259,
+      "leagueId": 60,
+      "countryId": 117,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CB",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3,
+        12
+      ],
+      "attributes": [
+        75,
+        52,
+        56,
+        59,
+        59,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 208052,
+      "assetId": 208052
+    },
+    "211217": {
+      "name": "Dan Sweeney",
+      "cardName": "Sweeney",
+      "originalVersionId": "0",
+      "clubId": 112259,
+      "leagueId": 60,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        48
+      ],
+      "attributes": [
+        47,
+        42,
+        51,
+        54,
+        64,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 211217,
+      "assetId": 211217
+    },
+    "220956": {
+      "name": "Ryan Johnson",
+      "cardName": "Johnson",
+      "originalVersionId": "0",
+      "clubId": 112259,
+      "leagueId": 60,
+      "countryId": 35,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        16,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        48
+      ],
+      "attributes": [
+        69,
+        24,
+        44,
+        54,
+        65,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 220956,
+      "assetId": 220956
+    },
+    "223827": {
+      "name": "Joe McDonnell",
+      "cardName": "McDonnell",
+      "originalVersionId": "0",
+      "clubId": 112259,
+      "leagueId": 60,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        32
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        2
+      ],
+      "attributes": [
+        59,
+        58,
+        59,
+        63,
+        28,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 223827,
+      "assetId": 223827
+    },
+    "228642": {
+      "name": "James Tilley",
+      "cardName": "Tilley",
+      "originalVersionId": "0",
+      "clubId": 112259,
+      "leagueId": 60,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        6,
+        9,
+        10,
+        23,
+        27
+      ],
+      "attributes": [
+        76,
+        61,
+        60,
+        65,
+        57,
+        52
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 228642,
+      "assetId": 228642
+    },
+    "229731": {
+      "name": "Mathew Stevens",
+      "cardName": "Stevens",
+      "originalVersionId": "0",
+      "clubId": 112259,
+      "leagueId": 60,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        36,
+        41
+      ],
+      "attributes": [
+        74,
+        64,
+        50,
+        65,
+        23,
+        80
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 229731,
+      "assetId": 229731
+    },
+    "231442": {
+      "name": "Marcus Browne",
+      "cardName": "Browne",
+      "originalVersionId": "0",
+      "clubId": 112259,
+      "leagueId": 60,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        21
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        32,
+        35,
+        42,
+        43
+      ],
+      "attributes": [
+        82,
+        65,
+        61,
+        68,
+        30,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 231442,
+      "assetId": 231442
+    },
+    "233377": {
+      "name": "Callum Maycock",
+      "cardName": "Maycock",
+      "originalVersionId": "0",
+      "clubId": 112259,
+      "leagueId": 60,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        22,
+        33
+      ],
+      "attributes": [
+        67,
+        54,
+        59,
+        61,
+        59,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 233377,
+      "assetId": 233377
+    },
+    "234258": {
+      "name": "Steve Seddon",
+      "cardName": "Seddon",
+      "originalVersionId": "0",
+      "clubId": 112259,
+      "leagueId": 60,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CB",
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        12,
+        28
+      ],
+      "attributes": [
+        72,
+        55,
+        62,
+        62,
+        61,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 550,
+      "resourceId": 234258,
+      "assetId": 234258
+    },
+    "237188": {
+      "name": "Nathan Bishop",
+      "cardName": "Bishop",
+      "originalVersionId": "0",
+      "clubId": 112259,
+      "leagueId": 60,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        31
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        65,
+        62,
+        60,
+        65,
+        39,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 237188,
+      "assetId": 237188
+    },
+    "239800": {
+      "name": "Steven Sessegnon",
+      "cardName": "Sessegnon",
+      "originalVersionId": "0",
+      "clubId": 112259,
+      "leagueId": 60,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CB",
+        "LB",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3,
+        7,
+        48
+      ],
+      "attributes": [
+        76,
+        46,
+        57,
+        62,
+        60,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 239800,
+      "assetId": 239800
+    },
+    "244322": {
+      "name": "Myles Hippolyte",
+      "cardName": "Hippolyte",
+      "originalVersionId": "0",
+      "clubId": 112259,
+      "leagueId": 60,
+      "countryId": 77,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        27,
+        33,
+        38
+      ],
+      "attributes": [
+        82,
+        60,
+        61,
+        63,
+        55,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 300,
+      "resourceId": 244322,
+      "assetId": 244322
+    },
+    "246789": {
+      "name": "Alistair Smith",
+      "cardName": "Smith",
+      "originalVersionId": "0",
+      "clubId": 112259,
+      "leagueId": 60,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        24,
+        26
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        18,
+        49
+      ],
+      "attributes": [
+        77,
+        59,
+        60,
+        64,
+        61,
+        84
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 246789,
+      "assetId": 246789
+    },
+    "263938": {
+      "name": "Isaac Ogundere",
+      "cardName": "Ogundere",
+      "originalVersionId": "0",
+      "clubId": 112259,
+      "leagueId": 60,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3,
+        11,
+        48
+      ],
+      "attributes": [
+        80,
+        34,
+        50,
+        61,
+        62,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 263938,
+      "assetId": 263938
+    },
+    "274228": {
+      "name": "Aron Sasu",
+      "cardName": "Sasu",
+      "originalVersionId": "0",
+      "clubId": 112259,
+      "leagueId": 60,
+      "countryId": 36,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        10,
+        28,
+        44
+      ],
+      "attributes": [
+        80,
+        56,
+        51,
+        58,
+        47,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 274228,
+      "assetId": 274228
+    },
+    "279042": {
+      "name": "Zack Nelson",
+      "cardName": "Nelson",
+      "originalVersionId": "0",
+      "clubId": 112259,
+      "leagueId": 60,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        27,
+        31,
+        38,
+        49
+      ],
+      "attributes": [
+        75,
+        61,
+        60,
+        64,
+        42,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 279042,
+      "assetId": 279042
+    },
+    "50572432": {
+      "name": "Josef Bursik",
+      "cardName": "Bursik",
+      "originalVersionId": "0",
+      "clubId": 112259,
+      "leagueId": 60,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        32
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        65,
+        64,
+        65,
+        68,
+        40,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 50572432,
+      "assetId": 240784
+    }
+  }
+}

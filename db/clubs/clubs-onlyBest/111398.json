@@ -1,0 +1,806 @@
+{
+  "clubName": "Newcastle Jets",
+  "players": {
+    "72913": {
+      "name": "Oscar Fryer",
+      "cardName": "Fryer",
+      "originalVersionId": "0",
+      "clubId": 111398,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 54,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        27,
+        35,
+        38
+      ],
+      "attributes": [
+        68,
+        48,
+        48,
+        56,
+        29,
+        52
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 72913,
+      "assetId": 72913
+    },
+    "73099": {
+      "name": "Alex Nunes",
+      "cardName": "Nunes",
+      "originalVersionId": "0",
+      "clubId": 111398,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 51,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        31
+      ],
+      "attributes": [
+        56,
+        48,
+        47,
+        55,
+        34,
+        37
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 73099,
+      "assetId": 73099
+    },
+    "74614": {
+      "name": "Will Dobson",
+      "cardName": "Dobson",
+      "originalVersionId": "0",
+      "clubId": 111398,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        26,
+        30,
+        33,
+        39
+      ],
+      "attributes": [
+        69,
+        51,
+        56,
+        63,
+        52,
+        40
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 74614,
+      "assetId": 74614
+    },
+    "75513": {
+      "name": "Will Kennedy",
+      "cardName": "Kennedy",
+      "originalVersionId": "0",
+      "clubId": 111398,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 54,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3,
+        7,
+        9,
+        28
+      ],
+      "attributes": [
+        51,
+        37,
+        46,
+        49,
+        52,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 75513,
+      "assetId": 75513
+    },
+    "76682": {
+      "name": "Alex Nassiep",
+      "cardName": "Nassiep",
+      "originalVersionId": "0",
+      "clubId": 111398,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 50,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        52,
+        48,
+        46,
+        52,
+        37,
+        47
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 76682,
+      "assetId": 76682
+    },
+    "78073": {
+      "name": "Jordan Baylis",
+      "cardName": "Baylis",
+      "originalVersionId": "0",
+      "clubId": 111398,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 50,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        49,
+        48,
+        60,
+        52,
+        32,
+        49
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 78073,
+      "assetId": 78073
+    },
+    "81415": {
+      "name": "Xavier Bertoncello",
+      "cardName": "Bertoncello",
+      "originalVersionId": "0",
+      "clubId": 111398,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        27,
+        28,
+        35,
+        38
+      ],
+      "attributes": [
+        73,
+        50,
+        53,
+        60,
+        24,
+        45
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 81415,
+      "assetId": 81415
+    },
+    "81418": {
+      "name": "Max Cooper",
+      "cardName": "Cooper",
+      "originalVersionId": "0",
+      "clubId": 111398,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 55,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12
+      ],
+      "attributes": [
+        64,
+        24,
+        33,
+        34,
+        56,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 81418,
+      "assetId": 81418
+    },
+    "198624": {
+      "name": "Joe Shaughnessy",
+      "cardName": "Shaughnessy",
+      "originalVersionId": "0",
+      "clubId": 111398,
+      "leagueId": 351,
+      "countryId": 25,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        19,
+        27
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        59,
+        23,
+        47,
+        52,
+        67,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 198624,
+      "assetId": 198624
+    },
+    "209210": {
+      "name": "Alex Grant",
+      "cardName": "Grant",
+      "originalVersionId": "0",
+      "clubId": 111398,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        15,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12,
+        13
+      ],
+      "attributes": [
+        51,
+        46,
+        52,
+        56,
+        68,
+        83
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 209210,
+      "assetId": 209210
+    },
+    "212803": {
+      "name": "Zach Clough",
+      "cardName": "Clough",
+      "originalVersionId": "0",
+      "clubId": 111398,
+      "leagueId": 351,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        25,
+        26,
+        30,
+        31,
+        36
+      ],
+      "attributes": [
+        68,
+        63,
+        65,
+        68,
+        45,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 212803,
+      "assetId": 212803
+    },
+    "221587": {
+      "name": "Joe Lolley",
+      "cardName": "Lolley",
+      "originalVersionId": "0",
+      "clubId": 111398,
+      "leagueId": 351,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        12,
+        19,
+        21,
+        22,
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        36
+      ],
+      "attributes": [
+        73,
+        72,
+        70,
+        72,
+        50,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 221587,
+      "assetId": 221587
+    },
+    "222540": {
+      "name": "Nikolaos Vergos",
+      "cardName": "Vergos",
+      "originalVersionId": "0",
+      "clubId": 111398,
+      "leagueId": 351,
+      "countryId": 22,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        70,
+        63,
+        47,
+        61,
+        32,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 222540,
+      "assetId": 222540
+    },
+    "225757": {
+      "name": "Max Burgess",
+      "cardName": "Burgess",
+      "originalVersionId": "0",
+      "clubId": 111398,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        14,
+        17,
+        24,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        17,
+        18
+      ],
+      "attributes": [
+        81,
+        61,
+        64,
+        64,
+        59,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 225757,
+      "assetId": 225757
+    },
+    "239019": {
+      "name": "James Delianov",
+      "cardName": "Delianov",
+      "originalVersionId": "0",
+      "clubId": 111398,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        45
+      ],
+      "attributes": [
+        62,
+        60,
+        61,
+        60,
+        30,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 239019,
+      "assetId": 239019
+    },
+    "247836": {
+      "name": "Daniel Wilmering",
+      "cardName": "Wilmering",
+      "originalVersionId": "0",
+      "clubId": 111398,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        10,
+        28
+      ],
+      "attributes": [
+        72,
+        48,
+        59,
+        62,
+        56,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 247836,
+      "assetId": 247836
+    },
+    "259629": {
+      "name": "Patrick Wood",
+      "cardName": "Wood",
+      "originalVersionId": "0",
+      "clubId": 111398,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 1,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        42
+      ],
+      "attributes": [
+        77,
+        58,
+        51,
+        56,
+        29,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 259629,
+      "assetId": 259629
+    },
+    "259767": {
+      "name": "Thomas Aquilina",
+      "cardName": "Aquilina",
+      "originalVersionId": "0",
+      "clubId": 111398,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CB",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        16
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        24
+      ],
+      "attributes": [
+        83,
+        46,
+        58,
+        64,
+        56,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 259767,
+      "assetId": 259767
+    },
+    "264063": {
+      "name": "Alex Badolato",
+      "cardName": "Badolato",
+      "originalVersionId": "0",
+      "clubId": 111398,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        32,
+        43
+      ],
+      "attributes": [
+        69,
+        63,
+        59,
+        66,
+        58,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 264063,
+      "assetId": 264063
+    },
+    "274005": {
+      "name": "Joel Bertolissio",
+      "cardName": "Bertolissio",
+      "originalVersionId": "0",
+      "clubId": 111398,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        24
+      ],
+      "attributes": [
+        57,
+        39,
+        53,
+        53,
+        57,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 274005,
+      "assetId": 274005
+    },
+    "276057": {
+      "name": "Zane Schreiber",
+      "cardName": "Schreiber",
+      "originalVersionId": "0",
+      "clubId": 111398,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        15,
+        18
+      ],
+      "attributes": [
+        66,
+        42,
+        51,
+        54,
+        56,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 276057,
+      "assetId": 276057
+    }
+  }
+}

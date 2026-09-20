@@ -1,0 +1,962 @@
+{
+  "clubName": "Dundalk",
+  "players": {
+    "71143": {
+      "name": "Leonardo Gaxha",
+      "cardName": "Gaxha",
+      "originalVersionId": "0",
+      "clubId": 837,
+      "leagueId": 65,
+      "countryId": 1,
+      "versionId": "2000",
+      "rating": 55,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "RM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        71,
+        55,
+        46,
+        59,
+        26,
+        46
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 71143,
+      "assetId": 71143
+    },
+    "71146": {
+      "name": "Cian Dillon",
+      "cardName": "Dillon",
+      "originalVersionId": "0",
+      "clubId": 837,
+      "leagueId": 65,
+      "countryId": 25,
+      "versionId": "2000",
+      "rating": 51,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        62,
+        50,
+        41,
+        47,
+        24,
+        45
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 71146,
+      "assetId": 71146
+    },
+    "71799": {
+      "name": "Luke Mulligan",
+      "cardName": "Mulligan",
+      "originalVersionId": "0",
+      "clubId": 837,
+      "leagueId": 65,
+      "countryId": 25,
+      "versionId": "2000",
+      "rating": 52,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        50,
+        27,
+        36,
+        45,
+        54,
+        49
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 71799,
+      "assetId": 71799
+    },
+    "72985": {
+      "name": "Norman Garbett",
+      "cardName": "Garbett",
+      "originalVersionId": "0",
+      "clubId": 837,
+      "leagueId": 65,
+      "countryId": 198,
+      "versionId": "2000",
+      "rating": 55,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        35
+      ],
+      "attributes": [
+        74,
+        48,
+        46,
+        57,
+        24,
+        42
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 72985,
+      "assetId": 72985
+    },
+    "75589": {
+      "name": "Sean Spaight",
+      "cardName": "Spaight",
+      "originalVersionId": "0",
+      "clubId": 837,
+      "leagueId": 65,
+      "countryId": 25,
+      "versionId": "2000",
+      "rating": 55,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CB",
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7
+      ],
+      "attributes": [
+        54,
+        26,
+        42,
+        45,
+        56,
+        51
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 75589,
+      "assetId": 75589
+    },
+    "80227": {
+      "name": "Egor Vassenin",
+      "cardName": "Vassenin",
+      "originalVersionId": "0",
+      "clubId": 837,
+      "leagueId": 65,
+      "countryId": 25,
+      "versionId": "2000",
+      "rating": 54,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        57,
+        26,
+        43,
+        47,
+        55,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 80227,
+      "assetId": 80227
+    },
+    "83126": {
+      "name": "Harvey Warren",
+      "cardName": "Warren",
+      "originalVersionId": "0",
+      "clubId": 837,
+      "leagueId": 65,
+      "countryId": 25,
+      "versionId": "2000",
+      "rating": 56,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        58,
+        27,
+        39,
+        46,
+        55,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 83126,
+      "assetId": 83126
+    },
+    "83127": {
+      "name": "Ronan Teahan",
+      "cardName": "Teahan",
+      "originalVersionId": "0",
+      "clubId": 837,
+      "leagueId": 65,
+      "countryId": 25,
+      "versionId": "2000",
+      "rating": 57,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        31,
+        32
+      ],
+      "attributes": [
+        60,
+        48,
+        54,
+        58,
+        46,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 83127,
+      "assetId": 83127
+    },
+    "83128": {
+      "name": "Harry Groome",
+      "cardName": "Groome",
+      "originalVersionId": "0",
+      "clubId": 837,
+      "leagueId": 65,
+      "countryId": 25,
+      "versionId": "2000",
+      "rating": 55,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19
+      ],
+      "attributes": [
+        60,
+        45,
+        56,
+        56,
+        50,
+        47
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 83128,
+      "assetId": 83128
+    },
+    "83723": {
+      "name": "Shane Tracey",
+      "cardName": "Tracey",
+      "originalVersionId": "0",
+      "clubId": 837,
+      "leagueId": 65,
+      "countryId": 25,
+      "versionId": "2000",
+      "rating": 55,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        31
+      ],
+      "attributes": [
+        64,
+        49,
+        52,
+        56,
+        50,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 83723,
+      "assetId": 83723
+    },
+    "140300": {
+      "name": "Peter Cherrie",
+      "cardName": "Cherrie",
+      "originalVersionId": "0",
+      "clubId": 837,
+      "leagueId": 65,
+      "countryId": 42,
+      "versionId": "2000",
+      "rating": 51,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        50,
+        51,
+        52,
+        49,
+        22,
+        52
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 140300,
+      "assetId": 140300
+    },
+    "202663": {
+      "name": "Daryl Horgan",
+      "cardName": "Horgan",
+      "originalVersionId": "0",
+      "clubId": 837,
+      "leagueId": 65,
+      "countryId": 25,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        0
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        27,
+        30,
+        35,
+        38
+      ],
+      "attributes": [
+        74,
+        56,
+        59,
+        66,
+        30,
+        51
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 202663,
+      "assetId": 202663
+    },
+    "202881": {
+      "name": "Keith Buckley",
+      "cardName": "Buckley",
+      "originalVersionId": "0",
+      "clubId": 837,
+      "leagueId": 65,
+      "countryId": 25,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19
+      ],
+      "attributes": [
+        34,
+        54,
+        56,
+        56,
+        58,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 202881,
+      "assetId": 202881
+    },
+    "206473": {
+      "name": "Conor O'Keeffe",
+      "cardName": "O'Keeffe",
+      "originalVersionId": "0",
+      "clubId": 837,
+      "leagueId": 65,
+      "countryId": 25,
+      "versionId": "2000",
+      "rating": 54,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3,
+        4,
+        17
+      ],
+      "attributes": [
+        55,
+        26,
+        43,
+        43,
+        56,
+        54
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 206473,
+      "assetId": 206473
+    },
+    "213502": {
+      "name": "Rob Cornwall",
+      "cardName": "Cornwall",
+      "originalVersionId": "0",
+      "clubId": 837,
+      "leagueId": 65,
+      "countryId": 25,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        12
+      ],
+      "attributes": [
+        33,
+        28,
+        46,
+        47,
+        58,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 213502,
+      "assetId": 213502
+    },
+    "219925": {
+      "name": "Declan McDaid",
+      "cardName": "McDaid",
+      "originalVersionId": "0",
+      "clubId": 837,
+      "leagueId": 65,
+      "countryId": 42,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        26,
+        27,
+        35,
+        38
+      ],
+      "attributes": [
+        71,
+        53,
+        52,
+        64,
+        41,
+        52
+      ],
+      "hasDynamicImage": false,
+      "price": 650,
+      "resourceId": 219925,
+      "assetId": 219925
+    },
+    "231926": {
+      "name": "Trevor Clarke",
+      "cardName": "Clarke",
+      "originalVersionId": "0",
+      "clubId": 837,
+      "leagueId": 65,
+      "countryId": 25,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        12,
+        21
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        10,
+        27,
+        28
+      ],
+      "attributes": [
+        73,
+        54,
+        55,
+        59,
+        54,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 231926,
+      "assetId": 231926
+    },
+    "240473": {
+      "name": "Tyreke Wilson",
+      "cardName": "Wilson",
+      "originalVersionId": "0",
+      "clubId": 837,
+      "leagueId": 65,
+      "countryId": 25,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CM",
+        "LB"
+      ],
+      "playStyles": [
+        0
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        22,
+        47
+      ],
+      "attributes": [
+        64,
+        51,
+        60,
+        61,
+        56,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 240473,
+      "assetId": 240473
+    },
+    "241583": {
+      "name": "John Ross Wilson",
+      "cardName": "Wilson",
+      "originalVersionId": "0",
+      "clubId": 837,
+      "leagueId": 65,
+      "countryId": 25,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        24
+      ],
+      "attributes": [
+        58,
+        42,
+        53,
+        54,
+        56,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 241583,
+      "assetId": 241583
+    },
+    "243688": {
+      "name": "Bobby Burns",
+      "cardName": "Burns",
+      "originalVersionId": "0",
+      "clubId": 837,
+      "leagueId": 65,
+      "countryId": 35,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM",
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        27
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        14,
+        19,
+        28,
+        48
+      ],
+      "attributes": [
+        65,
+        51,
+        55,
+        57,
+        56,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 243688,
+      "assetId": 243688
+    },
+    "244321": {
+      "name": "Danny Mullen",
+      "cardName": "Mullen",
+      "originalVersionId": "0",
+      "clubId": 837,
+      "leagueId": 65,
+      "countryId": 42,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        66,
+        59,
+        49,
+        62,
+        44,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 650,
+      "resourceId": 244321,
+      "assetId": 244321
+    },
+    "244964": {
+      "name": "Enda Minogue",
+      "cardName": "Minogue",
+      "originalVersionId": "0",
+      "clubId": 837,
+      "leagueId": 65,
+      "countryId": 25,
+      "versionId": "2000",
+      "rating": 56,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        56,
+        55,
+        56,
+        57,
+        29,
+        53
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 244964,
+      "assetId": 244964
+    },
+    "246987": {
+      "name": "Conor Kearns",
+      "cardName": "Kearns",
+      "originalVersionId": "0",
+      "clubId": 837,
+      "leagueId": 65,
+      "countryId": 25,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        30
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        62,
+        62,
+        60,
+        63,
+        32,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 246987,
+      "assetId": 246987
+    },
+    "251178": {
+      "name": "Tom Grivosti",
+      "cardName": "Grivosti",
+      "originalVersionId": "0",
+      "clubId": 837,
+      "leagueId": 65,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12
+      ],
+      "attributes": [
+        44,
+        37,
+        42,
+        45,
+        61,
+        54
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 251178,
+      "assetId": 251178
+    },
+    "261288": {
+      "name": "Aodh Dervin",
+      "cardName": "Dervin",
+      "originalVersionId": "0",
+      "clubId": 837,
+      "leagueId": 65,
+      "countryId": 25,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM",
+        "RM"
+      ],
+      "playStyles": [
+        18
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        18
+      ],
+      "attributes": [
+        60,
+        48,
+        53,
+        57,
+        54,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 261288,
+      "assetId": 261288
+    },
+    "264151": {
+      "name": "Mayowa Animasahun",
+      "cardName": "Animasahun",
+      "originalVersionId": "0",
+      "clubId": 837,
+      "leagueId": 65,
+      "countryId": 25,
+      "versionId": "2000",
+      "rating": 57,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12
+      ],
+      "attributes": [
+        50,
+        21,
+        40,
+        35,
+        56,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 264151,
+      "assetId": 264151
+    }
+  }
+}

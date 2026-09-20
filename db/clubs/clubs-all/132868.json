@@ -1,0 +1,958 @@
+{
+  "clubName": "Çorum FK",
+  "players": {
+    "86966": {
+      "name": "Arif Şimşir",
+      "cardName": "Şimşir",
+      "originalVersionId": "0",
+      "clubId": 132868,
+      "leagueId": 68,
+      "countryId": 48,
+      "versionId": "2000",
+      "rating": 51,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        49,
+        47,
+        59,
+        58,
+        21,
+        50
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 86966,
+      "assetId": 86966
+    },
+    "193461": {
+      "name": "Fredy",
+      "cardName": "Fredy",
+      "originalVersionId": "0",
+      "clubId": 132868,
+      "leagueId": 68,
+      "countryId": 98,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        31,
+        49
+      ],
+      "attributes": [
+        81,
+        67,
+        65,
+        72,
+        69,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 193461,
+      "assetId": 193461
+    },
+    "196318": {
+      "name": "Serdar Gürler",
+      "cardName": "Gürler",
+      "originalVersionId": "0",
+      "clubId": 132868,
+      "leagueId": 68,
+      "countryId": 48,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        29,
+        35,
+        38
+      ],
+      "attributes": [
+        80,
+        63,
+        63,
+        66,
+        46,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 950,
+      "resourceId": 196318,
+      "assetId": 196318
+    },
+    "217007": {
+      "name": "Mame Thiam",
+      "cardName": "Mame Thiam",
+      "originalVersionId": "0",
+      "clubId": 132868,
+      "leagueId": 68,
+      "countryId": 136,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        71,
+        69,
+        66,
+        70,
+        29,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 217007,
+      "assetId": 217007
+    },
+    "219339": {
+      "name": "Marcos Felipe",
+      "cardName": "Marcos Felipe",
+      "originalVersionId": "0",
+      "clubId": 132868,
+      "leagueId": 68,
+      "countryId": 54,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        45
+      ],
+      "attributes": [
+        71,
+        64,
+        63,
+        75,
+        44,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 219339,
+      "assetId": 219339
+    },
+    "236996": {
+      "name": "Atakan Akkaynak",
+      "cardName": "Akkaynak",
+      "originalVersionId": "0",
+      "clubId": 132868,
+      "leagueId": 68,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM",
+        "RM"
+      ],
+      "playStyles": [
+        10
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        57,
+        51,
+        61,
+        65,
+        56,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 236996,
+      "assetId": 236996
+    },
+    "238587": {
+      "name": "Ahmed Ildız",
+      "cardName": "Ildız",
+      "originalVersionId": "0",
+      "clubId": 132868,
+      "leagueId": 68,
+      "countryId": 48,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        18,
+        33
+      ],
+      "attributes": [
+        68,
+        64,
+        66,
+        68,
+        59,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 238587,
+      "assetId": 238587
+    },
+    "243787": {
+      "name": "Ylber Ramadani",
+      "cardName": "Ramadani",
+      "originalVersionId": "0",
+      "clubId": 132868,
+      "leagueId": 68,
+      "countryId": 1,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        14,
+        15,
+        17
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        18
+      ],
+      "attributes": [
+        45,
+        58,
+        60,
+        65,
+        68,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 243787,
+      "assetId": 243787
+    },
+    "247159": {
+      "name": "Cemali Sertel",
+      "cardName": "Sertel",
+      "originalVersionId": "0",
+      "clubId": 132868,
+      "leagueId": 68,
+      "countryId": 48,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CB",
+        "LB"
+      ],
+      "playStyles": [
+        28
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7
+      ],
+      "attributes": [
+        70,
+        38,
+        59,
+        63,
+        63,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 247159,
+      "assetId": 247159
+    },
+    "248854": {
+      "name": "Berat Özdemir",
+      "cardName": "Özdemir",
+      "originalVersionId": "0",
+      "clubId": 132868,
+      "leagueId": 68,
+      "countryId": 48,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        14
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        15,
+        16,
+        18
+      ],
+      "attributes": [
+        67,
+        60,
+        69,
+        67,
+        65,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 248854,
+      "assetId": 248854
+    },
+    "252164": {
+      "name": "Jesús Ramírez",
+      "cardName": "Ramírez",
+      "originalVersionId": "0",
+      "clubId": 132868,
+      "leagueId": 68,
+      "countryId": 61,
+      "versionId": "2001",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        78,
+        73,
+        61,
+        70,
+        36,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 252164,
+      "assetId": 252164
+    },
+    "255045": {
+      "name": "Hüseyin Bulut",
+      "cardName": "Bulut",
+      "originalVersionId": "0",
+      "clubId": 132868,
+      "leagueId": 68,
+      "countryId": 48,
+      "versionId": "2000",
+      "rating": 56,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        24
+      ],
+      "attributes": [
+        65,
+        52,
+        60,
+        61,
+        48,
+        47
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 255045,
+      "assetId": 255045
+    },
+    "255466": {
+      "name": "Markus Seehusen Karlsbakk",
+      "cardName": "Karlsbakk",
+      "originalVersionId": "0",
+      "clubId": 132868,
+      "leagueId": 68,
+      "countryId": 36,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        0
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        27,
+        31,
+        38
+      ],
+      "attributes": [
+        72,
+        63,
+        63,
+        71,
+        57,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 1800,
+      "resourceId": 255466,
+      "assetId": 255466
+    },
+    "255928": {
+      "name": "Mohammed Diomande",
+      "cardName": "Diomande",
+      "originalVersionId": "0",
+      "clubId": 132868,
+      "leagueId": 68,
+      "countryId": 108,
+      "versionId": "2001",
+      "rating": 73,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        2,
+        24
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        17,
+        20,
+        31,
+        49
+      ],
+      "attributes": [
+        76,
+        68,
+        71,
+        78,
+        68,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 255928,
+      "assetId": 255928
+    },
+    "263808": {
+      "name": "Gökhan Sazdağı",
+      "cardName": "Sazdağı",
+      "originalVersionId": "0",
+      "clubId": 132868,
+      "leagueId": 68,
+      "countryId": 48,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB"
+      ],
+      "playStyles": [
+        12,
+        16,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "attributes": [
+        69,
+        64,
+        68,
+        67,
+        65,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 263808,
+      "assetId": 263808
+    },
+    "264066": {
+      "name": "Serdar Saatçı",
+      "cardName": "Saatçı",
+      "originalVersionId": "0",
+      "clubId": 132868,
+      "leagueId": 68,
+      "countryId": 48,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12,
+        48
+      ],
+      "attributes": [
+        67,
+        30,
+        48,
+        61,
+        68,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 264066,
+      "assetId": 264066
+    },
+    "264288": {
+      "name": "Alexandre Penetra",
+      "cardName": "Alexandre Penetra",
+      "originalVersionId": "0",
+      "clubId": 132868,
+      "leagueId": 68,
+      "countryId": 38,
+      "versionId": "2001",
+      "rating": 73,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        15,
+        17,
+        18
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        13
+      ],
+      "attributes": [
+        66,
+        36,
+        59,
+        59,
+        74,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 1000,
+      "resourceId": 264288,
+      "assetId": 264288
+    },
+    "269402": {
+      "name": "Hrvoje Smolčić",
+      "cardName": "Smolčić",
+      "originalVersionId": "0",
+      "clubId": 132868,
+      "leagueId": 68,
+      "countryId": 10,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        13,
+        48
+      ],
+      "attributes": [
+        68,
+        28,
+        49,
+        58,
+        73,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 269402,
+      "assetId": 269402
+    },
+    "269827": {
+      "name": "Erhan Erentürk",
+      "cardName": "Erentürk",
+      "originalVersionId": "0",
+      "clubId": 132868,
+      "leagueId": 68,
+      "countryId": 48,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        66,
+        62,
+        61,
+        66,
+        25,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 269827,
+      "assetId": 269827
+    },
+    "270863": {
+      "name": "Andrei Borza",
+      "cardName": "Borza",
+      "originalVersionId": "0",
+      "clubId": 132868,
+      "leagueId": 68,
+      "countryId": 39,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        21,
+        8,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        28
+      ],
+      "attributes": [
+        88,
+        61,
+        64,
+        66,
+        63,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 270863,
+      "assetId": 270863
+    },
+    "276211": {
+      "name": "Alexandros Kyziridis",
+      "cardName": "Kyziridis",
+      "originalVersionId": "0",
+      "clubId": 132868,
+      "leagueId": 68,
+      "countryId": 22,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        10
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        30,
+        38,
+        39,
+        40
+      ],
+      "attributes": [
+        83,
+        73,
+        73,
+        76,
+        25,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 276211,
+      "assetId": 276211
+    },
+    "50563767": {
+      "name": "Çağlar Söyüncü",
+      "cardName": "Söyüncü",
+      "originalVersionId": "0",
+      "clubId": 132868,
+      "leagueId": 68,
+      "countryId": 48,
+      "versionId": "2001",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12
+      ],
+      "attributes": [
+        69,
+        47,
+        57,
+        64,
+        73,
+        79
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 50563767,
+      "assetId": 232119
+    },
+    "50567537": {
+      "name": "Cengiz Ünder",
+      "cardName": "Ünder",
+      "originalVersionId": "0",
+      "clubId": 132868,
+      "leagueId": 68,
+      "countryId": 48,
+      "versionId": "2001",
+      "rating": 73,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        12
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        25,
+        26,
+        36
+      ],
+      "attributes": [
+        74,
+        72,
+        74,
+        73,
+        36,
+        54
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 50567537,
+      "assetId": 235889
+    },
+    "50572481": {
+      "name": "Youssoufa Moukoko",
+      "cardName": "Moukoko",
+      "originalVersionId": "0",
+      "clubId": 132868,
+      "leagueId": 68,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        20,
+        22,
+        5,
+        7
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        42
+      ],
+      "attributes": [
+        75,
+        70,
+        61,
+        76,
+        33,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 50572481,
+      "assetId": 240833
+    },
+    "50594636": {
+      "name": "Göktan Gürpüz",
+      "cardName": "Gürpüz",
+      "originalVersionId": "0",
+      "clubId": 132868,
+      "leagueId": 68,
+      "countryId": 48,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        19,
+        25,
+        26,
+        31,
+        36
+      ],
+      "attributes": [
+        70,
+        54,
+        66,
+        69,
+        44,
+        51
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 50594636,
+      "assetId": 262988
+    }
+  }
+}

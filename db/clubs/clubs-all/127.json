@@ -1,0 +1,809 @@
+{
+  "clubName": "Shrewsbury",
+  "players": {
+    "72809": {
+      "name": "Arkell Jude-Boyd",
+      "cardName": "Jude-Boyd",
+      "originalVersionId": "0",
+      "clubId": 127,
+      "leagueId": 61,
+      "countryId": 90,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        24
+      ],
+      "attributes": [
+        80,
+        52,
+        52,
+        57,
+        56,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 72809,
+      "assetId": 72809
+    },
+    "78124": {
+      "name": "Byron Pendleton",
+      "cardName": "Pendleton",
+      "originalVersionId": "0",
+      "clubId": 127,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        24
+      ],
+      "attributes": [
+        75,
+        37,
+        45,
+        54,
+        54,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 78124,
+      "assetId": 78124
+    },
+    "78235": {
+      "name": "Isaac England",
+      "cardName": "England",
+      "originalVersionId": "0",
+      "clubId": 127,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 57,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        66,
+        46,
+        56,
+        60,
+        48,
+        53
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 78235,
+      "assetId": 78235
+    },
+    "80819": {
+      "name": "Will Gray",
+      "cardName": "Gray",
+      "originalVersionId": "0",
+      "clubId": 127,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 55,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        69,
+        48,
+        53,
+        59,
+        48,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 80819,
+      "assetId": 80819
+    },
+    "81322": {
+      "name": "Will Brook",
+      "cardName": "Brook",
+      "originalVersionId": "0",
+      "clubId": 127,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        2
+      ],
+      "attributes": [
+        62,
+        59,
+        58,
+        62,
+        44,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 81322,
+      "assetId": 81322
+    },
+    "83372": {
+      "name": "Lee Isaac",
+      "cardName": "Lee Isaac",
+      "originalVersionId": "0",
+      "clubId": 127,
+      "leagueId": 61,
+      "countryId": 167,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        57,
+        30,
+        37,
+        47,
+        57,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 83372,
+      "assetId": 83372
+    },
+    "88005": {
+      "name": "Jeval Thompson-McKenzie",
+      "cardName": "Thompson-McKenzie",
+      "originalVersionId": "0",
+      "clubId": 127,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 53,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        35
+      ],
+      "attributes": [
+        79,
+        46,
+        45,
+        56,
+        28,
+        50
+      ],
+      "hasDynamicImage": false,
+      "price": 850,
+      "resourceId": 88005,
+      "assetId": 88005
+    },
+    "202528": {
+      "name": "Josh Ruffels",
+      "cardName": "Ruffels",
+      "originalVersionId": "0",
+      "clubId": 127,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM",
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7,
+        18,
+        48,
+        49
+      ],
+      "attributes": [
+        66,
+        58,
+        60,
+        62,
+        61,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 202528,
+      "assetId": 202528
+    },
+    "205585": {
+      "name": "Jack Price",
+      "cardName": "Price",
+      "originalVersionId": "0",
+      "clubId": 127,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14
+      ],
+      "attributes": [
+        43,
+        48,
+        60,
+        58,
+        59,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 205585,
+      "assetId": 205585
+    },
+    "209256": {
+      "name": "Tom Anderson",
+      "cardName": "Anderson",
+      "originalVersionId": "0",
+      "clubId": 127,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        12
+      ],
+      "attributes": [
+        34,
+        33,
+        41,
+        38,
+        61,
+        77
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 209256,
+      "assetId": 209256
+    },
+    "224238": {
+      "name": "William Boyle",
+      "cardName": "Boyle",
+      "originalVersionId": "0",
+      "clubId": 127,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        19,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        48
+      ],
+      "attributes": [
+        43,
+        29,
+        44,
+        44,
+        61,
+        77
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 224238,
+      "assetId": 224238
+    },
+    "237341": {
+      "name": "Sam Stubbs",
+      "cardName": "Stubbs",
+      "originalVersionId": "0",
+      "clubId": 127,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        16,
+        19,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12
+      ],
+      "attributes": [
+        60,
+        29,
+        42,
+        51,
+        61,
+        78
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 237341,
+      "assetId": 237341
+    },
+    "240715": {
+      "name": "George Lloyd",
+      "cardName": "Lloyd",
+      "originalVersionId": "0",
+      "clubId": 127,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        80,
+        57,
+        51,
+        62,
+        35,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 240715,
+      "assetId": 240715
+    },
+    "242366": {
+      "name": "Tom Sang",
+      "cardName": "Sang",
+      "originalVersionId": "0",
+      "clubId": 127,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM",
+        "RB"
+      ],
+      "playStyles": [
+        16
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        4,
+        18,
+        49
+      ],
+      "attributes": [
+        61,
+        52,
+        59,
+        61,
+        60,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 242366,
+      "assetId": 242366
+    },
+    "248815": {
+      "name": "Kevin Berkoe",
+      "cardName": "Berkoe",
+      "originalVersionId": "0",
+      "clubId": 127,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7
+      ],
+      "attributes": [
+        80,
+        34,
+        52,
+        55,
+        53,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 248815,
+      "assetId": 248815
+    },
+    "254838": {
+      "name": "Josh Davison",
+      "cardName": "Davison",
+      "originalVersionId": "0",
+      "clubId": 127,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        64,
+        57,
+        44,
+        55,
+        19,
+        78
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 254838,
+      "assetId": 254838
+    },
+    "258606": {
+      "name": "Luca Hoole",
+      "cardName": "Hoole",
+      "originalVersionId": "0",
+      "clubId": 127,
+      "leagueId": 61,
+      "countryId": 50,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "RB"
+      ],
+      "playStyles": [
+        16
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3,
+        48
+      ],
+      "attributes": [
+        72,
+        32,
+        55,
+        58,
+        62,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 258606,
+      "assetId": 258606
+    },
+    "265597": {
+      "name": "Joseph Gbodé",
+      "cardName": "Gbodé",
+      "originalVersionId": "0",
+      "clubId": 127,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 56,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        30,
+        39,
+        41,
+        44
+      ],
+      "attributes": [
+        84,
+        52,
+        41,
+        54,
+        20,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 265597,
+      "assetId": 265597
+    },
+    "266827": {
+      "name": "Isaac Fletcher",
+      "cardName": "Fletcher",
+      "originalVersionId": "0",
+      "clubId": 127,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        30,
+        33,
+        39
+      ],
+      "attributes": [
+        60,
+        58,
+        59,
+        59,
+        52,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 266827,
+      "assetId": 266827
+    },
+    "268910": {
+      "name": "Jay Turner-Cooke",
+      "cardName": "Turner-Cooke",
+      "originalVersionId": "0",
+      "clubId": 127,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        69,
+        55,
+        60,
+        63,
+        50,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 268910,
+      "assetId": 268910
+    },
+    "279634": {
+      "name": "Sam Proctor",
+      "cardName": "Proctor",
+      "originalVersionId": "0",
+      "clubId": 127,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        58,
+        57,
+        58,
+        59,
+        26,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 279634,
+      "assetId": 279634
+    },
+    "50401810": {
+      "name": "Michael Golding",
+      "cardName": "Golding",
+      "originalVersionId": "0",
+      "clubId": 127,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        31
+      ],
+      "attributes": [
+        66,
+        57,
+        63,
+        64,
+        57,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 50401810,
+      "assetId": 70162
+    }
+  }
+}

@@ -1,0 +1,962 @@
+{
+  "clubName": "Stade Rennais FC",
+  "players": {
+    "70415": {
+      "name": "Estéban Lepaul",
+      "cardName": "Lepaul",
+      "originalVersionId": "0",
+      "clubId": 74,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "2002",
+      "rating": 81,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        4,
+        7
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        141
+      ],
+      "attributes": [
+        76,
+        83,
+        61,
+        78,
+        39,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 70415,
+      "assetId": 70415
+    },
+    "71114": {
+      "name": "Djaoui Cissé",
+      "cardName": "Cissé",
+      "originalVersionId": "0",
+      "clubId": 74,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 73,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        18
+      ],
+      "attributes": [
+        62,
+        69,
+        69,
+        75,
+        68,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 71114,
+      "assetId": 71114
+    },
+    "73192": {
+      "name": "Abdelhamid Aït Boudlal",
+      "cardName": "Aït Boudlal",
+      "originalVersionId": "0",
+      "clubId": 74,
+      "leagueId": 16,
+      "countryId": 129,
+      "versionId": "2001",
+      "rating": 73,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        12
+      ],
+      "attributes": [
+        73,
+        34,
+        55,
+        58,
+        73,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 650,
+      "resourceId": 73192,
+      "assetId": 73192
+    },
+    "79690": {
+      "name": "Gonçalo Oliveira",
+      "cardName": "Gonçalo Oliveira",
+      "originalVersionId": "0",
+      "clubId": 74,
+      "leagueId": 16,
+      "countryId": 38,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        59,
+        37,
+        50,
+        58,
+        64,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 1000,
+      "resourceId": 79690,
+      "assetId": 79690
+    },
+    "204883": {
+      "name": "Brice Samba",
+      "cardName": "Samba",
+      "originalVersionId": "0",
+      "clubId": 74,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "2002",
+      "rating": 81,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        10,
+        31
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        45
+      ],
+      "attributes": [
+        78,
+        81,
+        81,
+        83,
+        53,
+        80
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 204883,
+      "assetId": 204883
+    },
+    "208787": {
+      "name": "Adrien Thomasson",
+      "cardName": "Thomasson",
+      "originalVersionId": "0",
+      "clubId": 74,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "2002",
+      "rating": 81,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        12,
+        26,
+        3,
+        8,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        57,
+        74,
+        82,
+        80,
+        71,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 208787,
+      "assetId": 208787
+    },
+    "212138": {
+      "name": "Przemysław Frankowski",
+      "cardName": "Frankowski",
+      "originalVersionId": "0",
+      "clubId": 74,
+      "leagueId": 16,
+      "countryId": 37,
+      "versionId": "2002",
+      "rating": 76,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        12,
+        21,
+        25,
+        27
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        6,
+        23
+      ],
+      "attributes": [
+        87,
+        70,
+        74,
+        75,
+        69,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 1300,
+      "resourceId": 212138,
+      "assetId": 212138
+    },
+    "223874": {
+      "name": "Valentin Rongier",
+      "cardName": "Rongier",
+      "originalVersionId": "0",
+      "clubId": 74,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "2002",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        16,
+        24,
+        26,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        17,
+        20
+      ],
+      "attributes": [
+        60,
+        66,
+        75,
+        78,
+        74,
+        78
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 223874,
+      "assetId": 223874
+    },
+    "228255": {
+      "name": "Nicolas Lemaître",
+      "cardName": "Lemaître",
+      "originalVersionId": "0",
+      "clubId": 74,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        71,
+        69,
+        67,
+        70,
+        33,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 228255,
+      "assetId": 228255
+    },
+    "231102": {
+      "name": "Ludovic Blas",
+      "cardName": "Blas",
+      "originalVersionId": "0",
+      "clubId": 74,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "2002",
+      "rating": 76,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        2,
+        20,
+        22,
+        3,
+        7,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        25,
+        26,
+        31,
+        37
+      ],
+      "attributes": [
+        70,
+        77,
+        76,
+        79,
+        58,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 2300,
+      "resourceId": 231102,
+      "assetId": 231102
+    },
+    "235973": {
+      "name": "Sebastian Szymański",
+      "cardName": "Szymański",
+      "originalVersionId": "0",
+      "clubId": 74,
+      "leagueId": 16,
+      "countryId": 37,
+      "versionId": "2002",
+      "rating": 77,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        20,
+        3,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        19,
+        20,
+        25,
+        31
+      ],
+      "attributes": [
+        77,
+        74,
+        79,
+        76,
+        61,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 850,
+      "resourceId": 235973,
+      "assetId": 235973
+    },
+    "236518": {
+      "name": "Arnaud Nordin",
+      "cardName": "Nordin",
+      "originalVersionId": "0",
+      "clubId": 74,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 73,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        27,
+        35,
+        38
+      ],
+      "attributes": [
+        76,
+        70,
+        70,
+        74,
+        38,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 236518,
+      "assetId": 236518
+    },
+    "242907": {
+      "name": "Bryan Reynolds",
+      "cardName": "Reynolds",
+      "originalVersionId": "0",
+      "clubId": 74,
+      "leagueId": 16,
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        12,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        6,
+        26,
+        36
+      ],
+      "attributes": [
+        69,
+        47,
+        67,
+        72,
+        69,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 650,
+      "resourceId": 242907,
+      "assetId": 242907
+    },
+    "243631": {
+      "name": "Mahdi Camara",
+      "cardName": "Camara",
+      "originalVersionId": "0",
+      "clubId": 74,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "2002",
+      "rating": 77,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        22,
+        33
+      ],
+      "attributes": [
+        74,
+        67,
+        73,
+        77,
+        76,
+        78
+      ],
+      "hasDynamicImage": false,
+      "price": 1000,
+      "resourceId": 243631,
+      "assetId": 243631
+    },
+    "252512": {
+      "name": "Anthony Rouault",
+      "cardName": "Rouault",
+      "originalVersionId": "0",
+      "clubId": 74,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "2002",
+      "rating": 76,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        15,
+        17,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        12
+      ],
+      "attributes": [
+        58,
+        30,
+        61,
+        61,
+        77,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 2500,
+      "resourceId": 252512,
+      "assetId": 252512
+    },
+    "253121": {
+      "name": "Issa Soumaré",
+      "cardName": "Soumaré",
+      "originalVersionId": "0",
+      "clubId": 74,
+      "leagueId": 16,
+      "countryId": 136,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        19,
+        21,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        38,
+        42
+      ],
+      "attributes": [
+        83,
+        68,
+        68,
+        75,
+        37,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 750,
+      "resourceId": 253121,
+      "assetId": 253121
+    },
+    "254121": {
+      "name": "Charlie Cresswell",
+      "cardName": "Cresswell",
+      "originalVersionId": "0",
+      "clubId": 74,
+      "leagueId": 16,
+      "countryId": 14,
+      "versionId": "2002",
+      "rating": 78,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        15,
+        18,
+        19,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        12
+      ],
+      "attributes": [
+        56,
+        31,
+        52,
+        59,
+        79,
+        77
+      ],
+      "hasDynamicImage": false,
+      "price": 800,
+      "resourceId": 254121,
+      "assetId": 254121
+    },
+    "257946": {
+      "name": "Alidu Seidu",
+      "cardName": "Seidu",
+      "originalVersionId": "0",
+      "clubId": 74,
+      "leagueId": 16,
+      "countryId": 117,
+      "versionId": "2001",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        15,
+        17,
+        27
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        13,
+        24,
+        48
+      ],
+      "attributes": [
+        62,
+        43,
+        61,
+        70,
+        75,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 750,
+      "resourceId": 257946,
+      "assetId": 257946
+    },
+    "259191": {
+      "name": "Mousa Al Tamari",
+      "cardName": "Al Tamari",
+      "originalVersionId": "0",
+      "clubId": 74,
+      "leagueId": 16,
+      "countryId": 164,
+      "versionId": "2002",
+      "rating": 77,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        20,
+        7
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        27,
+        30,
+        36,
+        39
+      ],
+      "attributes": [
+        89,
+        71,
+        68,
+        81,
+        56,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 750,
+      "resourceId": 259191,
+      "assetId": 259191
+    },
+    "261616": {
+      "name": "Quentin Merlin",
+      "cardName": "Merlin",
+      "originalVersionId": "0",
+      "clubId": 74,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "2002",
+      "rating": 77,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        12
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        10,
+        27
+      ],
+      "attributes": [
+        74,
+        59,
+        75,
+        76,
+        72,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 950,
+      "resourceId": 261616,
+      "assetId": 261616
+    },
+    "271248": {
+      "name": "Eliezer Mayenda",
+      "cardName": "Mayenda",
+      "originalVersionId": "0",
+      "clubId": 74,
+      "leagueId": 16,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        36,
+        42
+      ],
+      "attributes": [
+        81,
+        71,
+        63,
+        70,
+        33,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 650,
+      "resourceId": 271248,
+      "assetId": 271248
+    },
+    "276787": {
+      "name": "Ayanda Sishuba",
+      "cardName": "Sishuba",
+      "originalVersionId": "0",
+      "clubId": 74,
+      "leagueId": 16,
+      "countryId": 7,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        31
+      ],
+      "attributes": [
+        68,
+        59,
+        58,
+        71,
+        32,
+        38
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 276787,
+      "assetId": 276787
+    },
+    "279557": {
+      "name": "Mahamadou Nagida",
+      "cardName": "Nagida",
+      "originalVersionId": "0",
+      "clubId": 74,
+      "leagueId": 16,
+      "countryId": 103,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        8,
+        9,
+        24,
+        28
+      ],
+      "attributes": [
+        77,
+        46,
+        59,
+        72,
+        66,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 650,
+      "resourceId": 279557,
+      "assetId": 279557
+    },
+    "50577890": {
+      "name": "Boulaye Dia",
+      "cardName": "Dia",
+      "originalVersionId": "0",
+      "clubId": 74,
+      "leagueId": 16,
+      "countryId": 136,
+      "versionId": "2002",
+      "rating": 78,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        32,
+        41,
+        42,
+        43
+      ],
+      "attributes": [
+        83,
+        79,
+        66,
+        78,
+        43,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 50577890,
+      "assetId": 246242
+    }
+  }
+}

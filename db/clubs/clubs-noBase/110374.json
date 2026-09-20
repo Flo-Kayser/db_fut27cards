@@ -1,0 +1,109 @@
+{
+  "clubName": "ACF Fiorentina",
+  "players": {
+    "50572598": {
+      "name": "Pedro Gonçalves",
+      "cardName": "Pedro Gonçalves",
+      "originalVersionId": "150",
+      "clubId": 110374,
+      "leagueId": 31,
+      "countryId": 38,
+      "versionId": "150",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        0,
+        11,
+        12,
+        13,
+        20,
+        3,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        74,
+        83,
+        83,
+        84,
+        64,
+        70
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 19800,
+      "resourceId": 50572598,
+      "assetId": 240950
+    },
+    "67388037": {
+      "name": "Franco Mastantuono",
+      "cardName": "Mastantuono",
+      "originalVersionId": "3",
+      "clubId": 110374,
+      "leagueId": 31,
+      "countryId": 52,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        20,
+        25,
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137
+      ],
+      "attributes": [
+        80,
+        78,
+        79,
+        83,
+        53,
+        70
+      ],
+      "hasDynamicImage": true,
+      "price": 10500,
+      "resourceId": 67388037,
+      "assetId": 279173
+    }
+  }
+}

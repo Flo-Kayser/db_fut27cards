@@ -1,0 +1,568 @@
+{
+  "clubName": "Moreirense FC",
+  "players": {
+    "71965": {
+      "name": "Michael Dacosta",
+      "cardName": "Michael Dacosta",
+      "originalVersionId": "0",
+      "clubId": 1900,
+      "leagueId": 308,
+      "countryId": 45,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        35
+      ],
+      "attributes": [
+        77,
+        58,
+        50,
+        63,
+        35,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 71965,
+      "assetId": 71965
+    },
+    "73195": {
+      "name": "Guilherme Liberato",
+      "cardName": "Guilherme Liberato",
+      "originalVersionId": "0",
+      "clubId": 1900,
+      "leagueId": 308,
+      "countryId": 54,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19
+      ],
+      "attributes": [
+        58,
+        42,
+        56,
+        59,
+        64,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 1000,
+      "resourceId": 73195,
+      "assetId": 73195
+    },
+    "76298": {
+      "name": "Leandro Santos",
+      "cardName": "Leandro Santos",
+      "originalVersionId": "0",
+      "clubId": 1900,
+      "leagueId": 308,
+      "countryId": 38,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        4,
+        5,
+        24
+      ],
+      "attributes": [
+        82,
+        48,
+        59,
+        69,
+        59,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 1600,
+      "resourceId": 76298,
+      "assetId": 76298
+    },
+    "78060": {
+      "name": "Jimi Gower",
+      "cardName": "Gower",
+      "originalVersionId": "0",
+      "clubId": 1900,
+      "leagueId": 308,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18
+      ],
+      "attributes": [
+        64,
+        52,
+        66,
+        67,
+        55,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 1000,
+      "resourceId": 78060,
+      "assetId": 78060
+    },
+    "78453": {
+      "name": "Afonso Assis",
+      "cardName": "Afonso Assis",
+      "originalVersionId": "0",
+      "clubId": 1900,
+      "leagueId": 308,
+      "countryId": 38,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        15
+      ],
+      "attributes": [
+        52,
+        43,
+        60,
+        62,
+        61,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 1900,
+      "resourceId": 78453,
+      "assetId": 78453
+    },
+    "79207": {
+      "name": "Alexandre Parsemain",
+      "cardName": "Parsemain",
+      "originalVersionId": "0",
+      "clubId": 1900,
+      "leagueId": 308,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        5
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        70,
+        67,
+        48,
+        60,
+        22,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 1000,
+      "resourceId": 79207,
+      "assetId": 79207
+    },
+    "79448": {
+      "name": "Mateja Stjepanović",
+      "cardName": "Stjepanović",
+      "originalVersionId": "0",
+      "clubId": 1900,
+      "leagueId": 308,
+      "countryId": 51,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CAM",
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        13,
+        15,
+        22,
+        33
+      ],
+      "attributes": [
+        65,
+        54,
+        56,
+        64,
+        67,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 950,
+      "resourceId": 79448,
+      "assetId": 79448
+    },
+    "79608": {
+      "name": "João Veloso",
+      "cardName": "João Veloso",
+      "originalVersionId": "0",
+      "clubId": 1900,
+      "leagueId": 308,
+      "countryId": 38,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        61,
+        62,
+        64,
+        68,
+        57,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 1800,
+      "resourceId": 79608,
+      "assetId": 79608
+    },
+    "244020": {
+      "name": "André Ferreira",
+      "cardName": "André Ferreira",
+      "originalVersionId": "0",
+      "clubId": 1900,
+      "leagueId": 308,
+      "countryId": 38,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        31
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        45
+      ],
+      "attributes": [
+        71,
+        70,
+        66,
+        73,
+        38,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 1800,
+      "resourceId": 244020,
+      "assetId": 244020
+    },
+    "251681": {
+      "name": "Maracás",
+      "cardName": "Maracás",
+      "originalVersionId": "0",
+      "clubId": 1900,
+      "leagueId": 308,
+      "countryId": 54,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        19,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        12
+      ],
+      "attributes": [
+        75,
+        30,
+        50,
+        58,
+        72,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 950,
+      "resourceId": 251681,
+      "assetId": 251681
+    },
+    "261133": {
+      "name": "Nile John",
+      "cardName": "John",
+      "originalVersionId": "0",
+      "clubId": 1900,
+      "leagueId": 308,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        31
+      ],
+      "attributes": [
+        59,
+        56,
+        58,
+        65,
+        40,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 261133,
+      "assetId": 261133
+    },
+    "262430": {
+      "name": "Kiko Bondoso",
+      "cardName": "Kiko Bondoso",
+      "originalVersionId": "0",
+      "clubId": 1900,
+      "leagueId": 308,
+      "countryId": 38,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        27,
+        28,
+        35,
+        40
+      ],
+      "attributes": [
+        77,
+        69,
+        67,
+        73,
+        33,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 1800,
+      "resourceId": 262430,
+      "assetId": 262430
+    },
+    "270729": {
+      "name": "Rodri Alonso",
+      "cardName": "Rodri Alonso",
+      "originalVersionId": "0",
+      "clubId": 1900,
+      "leagueId": 308,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CDM",
+        "CM",
+        "LB",
+        "LM",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        6,
+        16,
+        20,
+        24,
+        28
+      ],
+      "attributes": [
+        62,
+        67,
+        67,
+        69,
+        52,
+        52
+      ],
+      "hasDynamicImage": false,
+      "price": 1000,
+      "resourceId": 270729,
+      "assetId": 270729
+    },
+    "271451": {
+      "name": "Dinis Pinto",
+      "cardName": "Dinis Pinto",
+      "originalVersionId": "0",
+      "clubId": 1900,
+      "leagueId": 308,
+      "countryId": 38,
+      "versionId": "2001",
+      "rating": 73,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "attributes": [
+        75,
+        44,
+        67,
+        70,
+        70,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 1900,
+      "resourceId": 271451,
+      "assetId": 271451
+    },
+    "276442": {
+      "name": "Gilberto",
+      "cardName": "Gilberto",
+      "originalVersionId": "0",
+      "clubId": 1900,
+      "leagueId": 308,
+      "countryId": 119,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        4,
+        11,
+        17
+      ],
+      "attributes": [
+        62,
+        30,
+        55,
+        61,
+        70,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 1000,
+      "resourceId": 276442,
+      "assetId": 276442
+    }
+  }
+}

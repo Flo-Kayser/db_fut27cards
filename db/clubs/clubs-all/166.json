@@ -1,0 +1,951 @@
+{
+  "clubName": "Hertha BSC",
+  "players": {
+    "73133": {
+      "name": "Niklas Kolbe",
+      "cardName": "Kolbe",
+      "originalVersionId": "0",
+      "clubId": 166,
+      "leagueId": 20,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        8,
+        13,
+        17,
+        48
+      ],
+      "attributes": [
+        74,
+        25,
+        42,
+        45,
+        67,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 1000,
+      "resourceId": 73133,
+      "assetId": 73133
+    },
+    "73871": {
+      "name": "Selim Telib",
+      "cardName": "Telib",
+      "originalVersionId": "0",
+      "clubId": 166,
+      "leagueId": 20,
+      "countryId": 111,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18
+      ],
+      "attributes": [
+        61,
+        48,
+        57,
+        61,
+        56,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 73871,
+      "assetId": 73871
+    },
+    "75212": {
+      "name": "Boris Mamuzah Lum",
+      "cardName": "Mamuzah Lum",
+      "originalVersionId": "0",
+      "clubId": 166,
+      "leagueId": 20,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        16
+      ],
+      "attributes": [
+        71,
+        40,
+        56,
+        65,
+        61,
+        52
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 75212,
+      "assetId": 75212
+    },
+    "78775": {
+      "name": "Niklas Hildebrandt",
+      "cardName": "Hildebrandt",
+      "originalVersionId": "0",
+      "clubId": 166,
+      "leagueId": 20,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 57,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41,
+        44
+      ],
+      "attributes": [
+        57,
+        57,
+        42,
+        55,
+        24,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 78775,
+      "assetId": 78775
+    },
+    "80163": {
+      "name": "Farid Alfa-Ruprecht",
+      "cardName": "Alfa-Ruprecht",
+      "originalVersionId": "0",
+      "clubId": 166,
+      "leagueId": 20,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        26,
+        27,
+        36,
+        38
+      ],
+      "attributes": [
+        90,
+        61,
+        59,
+        69,
+        35,
+        53
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 80163,
+      "assetId": 80163
+    },
+    "85948": {
+      "name": "Soufian Gouram",
+      "cardName": "Gouram",
+      "originalVersionId": "0",
+      "clubId": 166,
+      "leagueId": 20,
+      "countryId": 208,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        55,
+        48,
+        57,
+        62,
+        49,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 85948,
+      "assetId": 85948
+    },
+    "88423": {
+      "name": "Jerome Diallo",
+      "cardName": "Diallo",
+      "originalVersionId": "0",
+      "clubId": 166,
+      "leagueId": 20,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 56,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        62,
+        40,
+        46,
+        45,
+        57,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 88423,
+      "assetId": 88423
+    },
+    "88473": {
+      "name": "Mayson Grothe",
+      "cardName": "Grothe",
+      "originalVersionId": "0",
+      "clubId": 166,
+      "leagueId": 20,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 56,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7
+      ],
+      "attributes": [
+        69,
+        44,
+        51,
+        51,
+        53,
+        54
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 88473,
+      "assetId": 88473
+    },
+    "88474": {
+      "name": "Kian Todorovic",
+      "cardName": "Todorovic",
+      "originalVersionId": "0",
+      "clubId": 166,
+      "leagueId": 20,
+      "countryId": 48,
+      "versionId": "2000",
+      "rating": 57,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        67,
+        53,
+        59,
+        58,
+        51,
+        54
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 88474,
+      "assetId": 88474
+    },
+    "213573": {
+      "name": "Marius Gersbeck",
+      "cardName": "Gersbeck",
+      "originalVersionId": "0",
+      "clubId": 166,
+      "leagueId": 20,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        30,
+        32
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        45
+      ],
+      "attributes": [
+        67,
+        70,
+        54,
+        67,
+        42,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 550,
+      "resourceId": 213573,
+      "assetId": 213573
+    },
+    "221885": {
+      "name": "Paul Seguin",
+      "cardName": "Seguin",
+      "originalVersionId": "0",
+      "clubId": 166,
+      "leagueId": 20,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        15,
+        16,
+        20
+      ],
+      "attributes": [
+        52,
+        61,
+        72,
+        69,
+        67,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 221885,
+      "assetId": 221885
+    },
+    "229640": {
+      "name": "Mads Pedersen",
+      "cardName": "Pedersen",
+      "originalVersionId": "0",
+      "clubId": 166,
+      "leagueId": 20,
+      "countryId": 13,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        9,
+        24,
+        28
+      ],
+      "attributes": [
+        72,
+        52,
+        65,
+        71,
+        66,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 229640,
+      "assetId": 229640
+    },
+    "234631": {
+      "name": "Sebastian Grønning",
+      "cardName": "Grønning",
+      "originalVersionId": "0",
+      "clubId": 166,
+      "leagueId": 20,
+      "countryId": 13,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        4,
+        7
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        42,
+        44
+      ],
+      "attributes": [
+        66,
+        65,
+        54,
+        65,
+        32,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 800,
+      "resourceId": 234631,
+      "assetId": 234631
+    },
+    "234711": {
+      "name": "Josip Brekalo",
+      "cardName": "Brekalo",
+      "originalVersionId": "0",
+      "clubId": 166,
+      "leagueId": 20,
+      "countryId": 10,
+      "versionId": "2001",
+      "rating": 73,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        0,
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        27,
+        30,
+        33,
+        39
+      ],
+      "attributes": [
+        73,
+        71,
+        72,
+        77,
+        38,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 550,
+      "resourceId": 234711,
+      "assetId": 234711
+    },
+    "235899": {
+      "name": "Deyovaisio Zeefuik",
+      "cardName": "Zeefuik",
+      "originalVersionId": "0",
+      "clubId": 166,
+      "leagueId": 20,
+      "countryId": 34,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "LB",
+        "RB"
+      ],
+      "playStyles": [
+        28
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        4,
+        7,
+        8,
+        17
+      ],
+      "attributes": [
+        83,
+        41,
+        59,
+        64,
+        63,
+        78
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 235899,
+      "assetId": 235899
+    },
+    "241474": {
+      "name": "Jón Dagur Þorsteinsson",
+      "cardName": "Þorsteinsson",
+      "originalVersionId": "0",
+      "clubId": 166,
+      "leagueId": 20,
+      "countryId": 24,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        21
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        38,
+        39
+      ],
+      "attributes": [
+        80,
+        64,
+        65,
+        73,
+        39,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 1500,
+      "resourceId": 241474,
+      "assetId": 241474
+    },
+    "242974": {
+      "name": "Kevin Sessa",
+      "cardName": "Sessa",
+      "originalVersionId": "0",
+      "clubId": 166,
+      "leagueId": 20,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19,
+        23,
+        35
+      ],
+      "attributes": [
+        78,
+        63,
+        65,
+        73,
+        61,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 1000,
+      "resourceId": 242974,
+      "assetId": 242974
+    },
+    "256780": {
+      "name": "Márton Dárdai",
+      "cardName": "Dárdai",
+      "originalVersionId": "0",
+      "clubId": 166,
+      "leagueId": 20,
+      "countryId": 23,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        15,
+        16,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        13
+      ],
+      "attributes": [
+        68,
+        36,
+        68,
+        62,
+        70,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 256780,
+      "assetId": 256780
+    },
+    "259752": {
+      "name": "Luca Schuler",
+      "cardName": "Schuler",
+      "originalVersionId": "0",
+      "clubId": 166,
+      "leagueId": 20,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        1,
+        29,
+        5
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        42,
+        44
+      ],
+      "attributes": [
+        83,
+        66,
+        45,
+        63,
+        32,
+        77
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 259752,
+      "assetId": 259752
+    },
+    "264589": {
+      "name": "Linus Gechter",
+      "cardName": "Gechter",
+      "originalVersionId": "0",
+      "clubId": 166,
+      "leagueId": 20,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3,
+        11,
+        48
+      ],
+      "attributes": [
+        64,
+        34,
+        56,
+        52,
+        69,
+        78
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 264589,
+      "assetId": 264589
+    },
+    "268536": {
+      "name": "Julian Eitschberger",
+      "cardName": "Eitschberger",
+      "originalVersionId": "0",
+      "clubId": 166,
+      "leagueId": 20,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        27
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        6,
+        24
+      ],
+      "attributes": [
+        77,
+        50,
+        63,
+        67,
+        62,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 1800,
+      "resourceId": 268536,
+      "assetId": 268536
+    },
+    "273778": {
+      "name": "Tim Goller",
+      "cardName": "Goller",
+      "originalVersionId": "0",
+      "clubId": 166,
+      "leagueId": 20,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        60,
+        62,
+        55,
+        58,
+        21,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 273778,
+      "assetId": 273778
+    },
+    "274735": {
+      "name": "Pascal Klemens",
+      "cardName": "Klemens",
+      "originalVersionId": "0",
+      "clubId": 166,
+      "leagueId": 20,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CB",
+        "CDM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        13,
+        14,
+        15
+      ],
+      "attributes": [
+        68,
+        37,
+        57,
+        61,
+        68,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 274735,
+      "assetId": 274735
+    },
+    "277588": {
+      "name": "Konstantin Heide",
+      "cardName": "Heide",
+      "originalVersionId": "0",
+      "clubId": 166,
+      "leagueId": 20,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        67,
+        60,
+        58,
+        67,
+        45,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 277588,
+      "assetId": 277588
+    },
+    "50555581": {
+      "name": "Gustaf Nilsson",
+      "cardName": "Nilsson",
+      "originalVersionId": "0",
+      "clubId": 166,
+      "leagueId": 20,
+      "countryId": 46,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        29
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        42,
+        44
+      ],
+      "attributes": [
+        69,
+        73,
+        58,
+        62,
+        32,
+        80
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 50555581,
+      "assetId": 223933
+    }
+  }
+}

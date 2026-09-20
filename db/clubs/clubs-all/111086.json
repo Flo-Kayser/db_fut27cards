@@ -1,0 +1,910 @@
+{
+  "clubName": "Piast Gliwice",
+  "players": {
+    "73046": {
+      "name": "Marcel Mendes-Dudziński",
+      "cardName": "Mendes-Dudziński",
+      "originalVersionId": "0",
+      "clubId": 111086,
+      "leagueId": 66,
+      "countryId": 37,
+      "versionId": "2000",
+      "rating": 56,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        55,
+        55,
+        54,
+        58,
+        19,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 73046,
+      "assetId": 73046
+    },
+    "74243": {
+      "name": "Levis Pitan",
+      "cardName": "Pitan",
+      "originalVersionId": "0",
+      "clubId": 111086,
+      "leagueId": 66,
+      "countryId": 37,
+      "versionId": "2000",
+      "rating": 56,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        58,
+        38,
+        42,
+        47,
+        56,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 74243,
+      "assetId": 74243
+    },
+    "77338": {
+      "name": "Elton Fikaj",
+      "cardName": "Fikaj",
+      "originalVersionId": "0",
+      "clubId": 111086,
+      "leagueId": 66,
+      "countryId": 1,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7
+      ],
+      "attributes": [
+        63,
+        34,
+        49,
+        48,
+        63,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 77338,
+      "assetId": 77338
+    },
+    "81734": {
+      "name": "Ivan Lima",
+      "cardName": "Ivan Lima",
+      "originalVersionId": "0",
+      "clubId": 111086,
+      "leagueId": 66,
+      "countryId": 38,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        27,
+        35,
+        38
+      ],
+      "attributes": [
+        70,
+        56,
+        58,
+        67,
+        29,
+        42
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 81734,
+      "assetId": 81734
+    },
+    "83711": {
+      "name": "Jakub Grelich",
+      "cardName": "Grelich",
+      "originalVersionId": "0",
+      "clubId": 111086,
+      "leagueId": 66,
+      "countryId": 37,
+      "versionId": "2000",
+      "rating": 53,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        54,
+        52,
+        53,
+        54,
+        26,
+        54
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 83711,
+      "assetId": 83711
+    },
+    "83712": {
+      "name": "Oliwier Maziarz",
+      "cardName": "Maziarz",
+      "originalVersionId": "0",
+      "clubId": 111086,
+      "leagueId": 66,
+      "countryId": 37,
+      "versionId": "2000",
+      "rating": 55,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        25,
+        31,
+        37
+      ],
+      "attributes": [
+        63,
+        45,
+        60,
+        56,
+        38,
+        50
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 83712,
+      "assetId": 83712
+    },
+    "214882": {
+      "name": "Jakub Czerwiński",
+      "cardName": "Czerwiński",
+      "originalVersionId": "0",
+      "clubId": 111086,
+      "leagueId": 66,
+      "countryId": 37,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        17
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        41,
+        32,
+        45,
+        47,
+        68,
+        80
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 214882,
+      "assetId": 214882
+    },
+    "231267": {
+      "name": "Jason Lokilo",
+      "cardName": "Lokilo",
+      "originalVersionId": "0",
+      "clubId": 111086,
+      "leagueId": 66,
+      "countryId": 110,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        25,
+        35
+      ],
+      "attributes": [
+        80,
+        57,
+        63,
+        67,
+        31,
+        54
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 231267,
+      "assetId": 231267
+    },
+    "231848": {
+      "name": "Quentin Boisgard",
+      "cardName": "Boisgard",
+      "originalVersionId": "0",
+      "clubId": 111086,
+      "leagueId": 66,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        29,
+        32,
+        40,
+        43
+      ],
+      "attributes": [
+        57,
+        60,
+        67,
+        67,
+        56,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 231848,
+      "assetId": 231848
+    },
+    "242514": {
+      "name": "František Plach",
+      "cardName": "Plach",
+      "originalVersionId": "0",
+      "clubId": 111086,
+      "leagueId": 66,
+      "countryId": 43,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        10,
+        31
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        45
+      ],
+      "attributes": [
+        67,
+        67,
+        69,
+        69,
+        33,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 3000,
+      "resourceId": 242514,
+      "assetId": 242514
+    },
+    "242906": {
+      "name": "Ema Twumasi",
+      "cardName": "Twumasi",
+      "originalVersionId": "0",
+      "clubId": 111086,
+      "leagueId": 66,
+      "countryId": 117,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CM",
+        "LB",
+        "RB",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        22,
+        23,
+        35,
+        46
+      ],
+      "attributes": [
+        75,
+        53,
+        55,
+        65,
+        60,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 242906,
+      "assetId": 242906
+    },
+    "243921": {
+      "name": "Jakub Łabojko",
+      "cardName": "Łabojko",
+      "originalVersionId": "0",
+      "clubId": 111086,
+      "leagueId": 66,
+      "countryId": 37,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        15,
+        16,
+        18
+      ],
+      "attributes": [
+        71,
+        48,
+        59,
+        63,
+        66,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 243921,
+      "assetId": 243921
+    },
+    "244213": {
+      "name": "Jorge Félix",
+      "cardName": "Jorge Félix",
+      "originalVersionId": "0",
+      "clubId": 111086,
+      "leagueId": 66,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        1,
+        22
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        30,
+        32,
+        39,
+        42,
+        43
+      ],
+      "attributes": [
+        68,
+        68,
+        66,
+        73,
+        29,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 244213,
+      "assetId": 244213
+    },
+    "246787": {
+      "name": "Hugo Vallejo",
+      "cardName": "Hugo Vallejo",
+      "originalVersionId": "0",
+      "clubId": 111086,
+      "leagueId": 66,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        27,
+        29,
+        33,
+        39
+      ],
+      "attributes": [
+        61,
+        61,
+        64,
+        70,
+        36,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 246787,
+      "assetId": 246787
+    },
+    "254937": {
+      "name": "Domen Gril",
+      "cardName": "Gril",
+      "originalVersionId": "0",
+      "clubId": 111086,
+      "leagueId": 66,
+      "countryId": 44,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        64,
+        64,
+        58,
+        64,
+        33,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 254937,
+      "assetId": 254937
+    },
+    "255158": {
+      "name": "Juande Rivas",
+      "cardName": "Juande Rivas",
+      "originalVersionId": "0",
+      "clubId": 111086,
+      "leagueId": 66,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        64,
+        35,
+        51,
+        54,
+        66,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 255158,
+      "assetId": 255158
+    },
+    "257161": {
+      "name": "Leandro Sanca",
+      "cardName": "Leandro Sanca",
+      "originalVersionId": "0",
+      "clubId": 111086,
+      "leagueId": 66,
+      "countryId": 119,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        30,
+        36,
+        38,
+        39
+      ],
+      "attributes": [
+        77,
+        57,
+        62,
+        69,
+        30,
+        54
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 257161,
+      "assetId": 257161
+    },
+    "261110": {
+      "name": "Filip Borowski",
+      "cardName": "Borowski",
+      "originalVersionId": "0",
+      "clubId": 111086,
+      "leagueId": 66,
+      "countryId": 37,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3,
+        5,
+        24
+      ],
+      "attributes": [
+        74,
+        45,
+        59,
+        59,
+        59,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 261110,
+      "assetId": 261110
+    },
+    "262575": {
+      "name": "Andreas Katsantonis",
+      "cardName": "Katsantonis",
+      "originalVersionId": "0",
+      "clubId": 111086,
+      "leagueId": 66,
+      "countryId": 11,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        42,
+        44
+      ],
+      "attributes": [
+        64,
+        63,
+        54,
+        64,
+        19,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 262575,
+      "assetId": 262575
+    },
+    "270381": {
+      "name": "Oskar Leśniak",
+      "cardName": "Leśniak",
+      "originalVersionId": "0",
+      "clubId": 111086,
+      "leagueId": 66,
+      "countryId": 37,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        25,
+        31,
+        37
+      ],
+      "attributes": [
+        71,
+        55,
+        64,
+        65,
+        58,
+        45
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 270381,
+      "assetId": 270381
+    },
+    "270715": {
+      "name": "Jakub Lewicki",
+      "cardName": "Lewicki",
+      "originalVersionId": "0",
+      "clubId": 111086,
+      "leagueId": 66,
+      "countryId": 37,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        28
+      ],
+      "attributes": [
+        68,
+        42,
+        56,
+        58,
+        60,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 300,
+      "resourceId": 270715,
+      "assetId": 270715
+    },
+    "272735": {
+      "name": "Szczepan Mucha",
+      "cardName": "Mucha",
+      "originalVersionId": "0",
+      "clubId": 111086,
+      "leagueId": 66,
+      "countryId": 37,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        30,
+        35,
+        39
+      ],
+      "attributes": [
+        76,
+        51,
+        54,
+        59,
+        19,
+        39
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 272735,
+      "assetId": 272735
+    },
+    "273522": {
+      "name": "Samuel Ntamack",
+      "cardName": "Ntamack",
+      "originalVersionId": "0",
+      "clubId": 111086,
+      "leagueId": 66,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        75,
+        64,
+        52,
+        67,
+        24,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 800,
+      "resourceId": 273522,
+      "assetId": 273522
+    },
+    "50560329": {
+      "name": "Francisco Sierralta",
+      "cardName": "Sierralta",
+      "originalVersionId": "0",
+      "clubId": 111086,
+      "leagueId": 66,
+      "countryId": 55,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        19,
+        28
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        12
+      ],
+      "attributes": [
+        43,
+        33,
+        52,
+        52,
+        69,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 50560329,
+      "assetId": 228681
+    }
+  }
+}

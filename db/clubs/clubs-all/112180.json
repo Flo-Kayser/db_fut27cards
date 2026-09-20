@@ -1,0 +1,853 @@
+{
+  "clubName": "Västerås SK",
+  "players": {
+    "70082": {
+      "name": "Frédéric Nsabiyumva",
+      "cardName": "Nsabiyumva",
+      "originalVersionId": "0",
+      "clubId": 112180,
+      "leagueId": 56,
+      "countryId": 102,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12
+      ],
+      "attributes": [
+        55,
+        26,
+        46,
+        52,
+        63,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 70082,
+      "assetId": 70082
+    },
+    "70085": {
+      "name": "Herman Magnusson",
+      "cardName": "Magnusson",
+      "originalVersionId": "0",
+      "clubId": 112180,
+      "leagueId": 56,
+      "countryId": 46,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        13,
+        48
+      ],
+      "attributes": [
+        69,
+        34,
+        51,
+        58,
+        64,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 70085,
+      "assetId": 70085
+    },
+    "71993": {
+      "name": "Jens Magnusson",
+      "cardName": "Magnusson",
+      "originalVersionId": "0",
+      "clubId": 112180,
+      "leagueId": 56,
+      "countryId": 46,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        23,
+        31,
+        35
+      ],
+      "attributes": [
+        67,
+        59,
+        56,
+        60,
+        40,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 71993,
+      "assetId": 71993
+    },
+    "73304": {
+      "name": "Karl Gunnarsson",
+      "cardName": "Gunnarsson",
+      "originalVersionId": "0",
+      "clubId": 112180,
+      "leagueId": 56,
+      "countryId": 46,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        23,
+        31,
+        35,
+        38
+      ],
+      "attributes": [
+        75,
+        63,
+        60,
+        64,
+        56,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 73304,
+      "assetId": 73304
+    },
+    "76867": {
+      "name": "Jonathan Karlsson",
+      "cardName": "Karlsson",
+      "originalVersionId": "0",
+      "clubId": 112180,
+      "leagueId": 56,
+      "countryId": 46,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        6,
+        24,
+        29,
+        40
+      ],
+      "attributes": [
+        70,
+        51,
+        56,
+        59,
+        56,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 76867,
+      "assetId": 76867
+    },
+    "82281": {
+      "name": "André Bernardini",
+      "cardName": "André Bernardini",
+      "originalVersionId": "0",
+      "clubId": 112180,
+      "leagueId": 56,
+      "countryId": 54,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        62,
+        60,
+        59,
+        60,
+        18,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 82281,
+      "assetId": 82281
+    },
+    "82282": {
+      "name": "Elis Jäger",
+      "cardName": "Jäger",
+      "originalVersionId": "0",
+      "clubId": 112180,
+      "leagueId": 56,
+      "countryId": 46,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        64,
+        60,
+        58,
+        62,
+        24,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 82282,
+      "assetId": 82282
+    },
+    "82283": {
+      "name": "Philip Bonde",
+      "cardName": "Bonde",
+      "originalVersionId": "0",
+      "clubId": 112180,
+      "leagueId": 56,
+      "countryId": 46,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        66,
+        25,
+        41,
+        48,
+        60,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 82283,
+      "assetId": 82283
+    },
+    "82286": {
+      "name": "Mamadou Diagne",
+      "cardName": "Diagne",
+      "originalVersionId": "0",
+      "clubId": 112180,
+      "leagueId": 56,
+      "countryId": 136,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        20
+      ],
+      "attributes": [
+        75,
+        63,
+        60,
+        67,
+        64,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 82286,
+      "assetId": 82286
+    },
+    "82288": {
+      "name": "Mattias Hellisdal",
+      "cardName": "Hellisdal",
+      "originalVersionId": "0",
+      "clubId": 112180,
+      "leagueId": 56,
+      "countryId": 16,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        69,
+        53,
+        56,
+        60,
+        56,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 82288,
+      "assetId": 82288
+    },
+    "82289": {
+      "name": "Melvin Ljungqvist",
+      "cardName": "Ljungqvist",
+      "originalVersionId": "0",
+      "clubId": 112180,
+      "leagueId": 56,
+      "countryId": 46,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "attributes": [
+        74,
+        44,
+        52,
+        53,
+        52,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 82289,
+      "assetId": 82289
+    },
+    "82290": {
+      "name": "Axel Taonsa",
+      "cardName": "Taonsa",
+      "originalVersionId": "0",
+      "clubId": 112180,
+      "leagueId": 56,
+      "countryId": 108,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        27,
+        35,
+        38
+      ],
+      "attributes": [
+        81,
+        64,
+        58,
+        64,
+        42,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 82290,
+      "assetId": 82290
+    },
+    "82291": {
+      "name": "Moussa Diallo",
+      "cardName": "Diallo",
+      "originalVersionId": "0",
+      "clubId": 112180,
+      "leagueId": 56,
+      "countryId": 136,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        72,
+        59,
+        50,
+        60,
+        20,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 82291,
+      "assetId": 82291
+    },
+    "82293": {
+      "name": "Musab Abdi Mohamud",
+      "cardName": "Abdi Mohamud",
+      "originalVersionId": "0",
+      "clubId": 112180,
+      "leagueId": 56,
+      "countryId": 46,
+      "versionId": "2000",
+      "rating": 54,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        67,
+        52,
+        52,
+        58,
+        39,
+        52
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 82293,
+      "assetId": 82293
+    },
+    "85096": {
+      "name": "Jack Tagesson",
+      "cardName": "Tagesson",
+      "originalVersionId": "0",
+      "clubId": 112180,
+      "leagueId": 56,
+      "countryId": 46,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        65,
+        24,
+        42,
+        49,
+        58,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 85096,
+      "assetId": 85096
+    },
+    "213338": {
+      "name": "Jonathan Ring",
+      "cardName": "Ring",
+      "originalVersionId": "0",
+      "clubId": 112180,
+      "leagueId": 56,
+      "countryId": 46,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        26,
+        33,
+        36
+      ],
+      "attributes": [
+        69,
+        63,
+        65,
+        65,
+        56,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 213338,
+      "assetId": 213338
+    },
+    "223908": {
+      "name": "Victor Wernersson",
+      "cardName": "Wernersson",
+      "originalVersionId": "0",
+      "clubId": 112180,
+      "leagueId": 56,
+      "countryId": 46,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7,
+        48
+      ],
+      "attributes": [
+        69,
+        46,
+        56,
+        61,
+        62,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 223908,
+      "assetId": 223908
+    },
+    "235240": {
+      "name": "Anton Fagerström",
+      "cardName": "Fagerström",
+      "originalVersionId": "0",
+      "clubId": 112180,
+      "leagueId": 56,
+      "countryId": 46,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        61,
+        63,
+        59,
+        62,
+        37,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 235240,
+      "assetId": 235240
+    },
+    "251024": {
+      "name": "Ismet Lushaku",
+      "cardName": "Lushaku",
+      "originalVersionId": "0",
+      "clubId": 112180,
+      "leagueId": 56,
+      "countryId": 219,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        13,
+        15,
+        18
+      ],
+      "attributes": [
+        68,
+        49,
+        64,
+        65,
+        55,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 251024,
+      "assetId": 251024
+    },
+    "256369": {
+      "name": "Simon Gefvert",
+      "cardName": "Gefvert",
+      "originalVersionId": "0",
+      "clubId": 112180,
+      "leagueId": 56,
+      "countryId": 46,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        6,
+        23,
+        24
+      ],
+      "attributes": [
+        81,
+        52,
+        60,
+        64,
+        55,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 256369,
+      "assetId": 256369
+    },
+    "260991": {
+      "name": "Abdelrahman Boudah",
+      "cardName": "Boudah",
+      "originalVersionId": "0",
+      "clubId": 112180,
+      "leagueId": 56,
+      "countryId": 46,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        30,
+        32,
+        38,
+        39,
+        43
+      ],
+      "attributes": [
+        74,
+        61,
+        59,
+        68,
+        41,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 260991,
+      "assetId": 260991
+    },
+    "273950": {
+      "name": "Marcus Baggesen",
+      "cardName": "Baggesen",
+      "originalVersionId": "0",
+      "clubId": 112180,
+      "leagueId": 56,
+      "countryId": 13,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7,
+        27,
+        38
+      ],
+      "attributes": [
+        77,
+        36,
+        59,
+        64,
+        59,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 273950,
+      "assetId": 273950
+    },
+    "50610624": {
+      "name": "Peter Amoran",
+      "cardName": "Amoran",
+      "originalVersionId": "0",
+      "clubId": 112180,
+      "leagueId": 56,
+      "countryId": 46,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        59,
+        28,
+        45,
+        50,
+        62,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 50610624,
+      "assetId": 278976
+    }
+  }
+}

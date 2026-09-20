@@ -1,0 +1,933 @@
+{
+  "clubName": "Oldham Athletic",
+  "players": {
+    "72582": {
+      "name": "Kane Drummond",
+      "cardName": "Drummond",
+      "originalVersionId": "0",
+      "clubId": 1920,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        35,
+        42
+      ],
+      "attributes": [
+        82,
+        57,
+        53,
+        62,
+        27,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 72582,
+      "assetId": 72582
+    },
+    "74303": {
+      "name": "Kai Payne",
+      "cardName": "Payne",
+      "originalVersionId": "0",
+      "clubId": 1920,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        31,
+        49
+      ],
+      "attributes": [
+        67,
+        52,
+        57,
+        61,
+        53,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 74303,
+      "assetId": 74303
+    },
+    "76799": {
+      "name": "Tom Hill",
+      "cardName": "Hill",
+      "originalVersionId": "0",
+      "clubId": 1920,
+      "leagueId": 61,
+      "countryId": 50,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        35
+      ],
+      "attributes": [
+        64,
+        49,
+        55,
+        58,
+        51,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 76799,
+      "assetId": 76799
+    },
+    "77599": {
+      "name": "Favour Fawunmi",
+      "cardName": "Fawunmi",
+      "originalVersionId": "0",
+      "clubId": 1920,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        23,
+        33,
+        35
+      ],
+      "attributes": [
+        82,
+        53,
+        53,
+        63,
+        25,
+        40
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 77599,
+      "assetId": 77599
+    },
+    "86131": {
+      "name": "Gus Scott-Morriss",
+      "cardName": "Scott-Morriss",
+      "originalVersionId": "0",
+      "clubId": 1920,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        24
+      ],
+      "attributes": [
+        75,
+        49,
+        54,
+        58,
+        57,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 86131,
+      "assetId": 86131
+    },
+    "86380": {
+      "name": "Aston Wilson",
+      "cardName": "Wilson",
+      "originalVersionId": "0",
+      "clubId": 1920,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 55,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        55,
+        54,
+        53,
+        55,
+        25,
+        54
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 86380,
+      "assetId": 86380
+    },
+    "87662": {
+      "name": "Zain Tahir",
+      "cardName": "Tahir",
+      "originalVersionId": "0",
+      "clubId": 1920,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7,
+        11
+      ],
+      "attributes": [
+        67,
+        29,
+        47,
+        46,
+        58,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 87662,
+      "assetId": 87662
+    },
+    "205818": {
+      "name": "Ryan Woods",
+      "cardName": "Woods",
+      "originalVersionId": "0",
+      "clubId": 1920,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        20
+      ],
+      "attributes": [
+        50,
+        52,
+        63,
+        63,
+        60,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 1800,
+      "resourceId": 205818,
+      "assetId": 205818
+    },
+    "206202": {
+      "name": "Ollie Norburn",
+      "cardName": "Norburn",
+      "originalVersionId": "0",
+      "clubId": 1920,
+      "leagueId": 61,
+      "countryId": 77,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        14,
+        18
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19
+      ],
+      "attributes": [
+        51,
+        59,
+        62,
+        63,
+        60,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 206202,
+      "assetId": 206202
+    },
+    "209493": {
+      "name": "Donervon Daniels",
+      "cardName": "Daniels",
+      "originalVersionId": "0",
+      "clubId": 1920,
+      "leagueId": 61,
+      "countryId": 84,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        14,
+        15,
+        17,
+        27
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12
+      ],
+      "attributes": [
+        51,
+        35,
+        45,
+        46,
+        62,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 209493,
+      "assetId": 209493
+    },
+    "217332": {
+      "name": "Manny Monthé",
+      "cardName": "Monthé",
+      "originalVersionId": "0",
+      "clubId": 1920,
+      "leagueId": 61,
+      "countryId": 103,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        19,
+        28
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        12
+      ],
+      "attributes": [
+        75,
+        43,
+        44,
+        48,
+        62,
+        83
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 217332,
+      "assetId": 217332
+    },
+    "223902": {
+      "name": "Tom Pett",
+      "cardName": "Pett",
+      "originalVersionId": "0",
+      "clubId": 1920,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        18,
+        25,
+        37
+      ],
+      "attributes": [
+        51,
+        55,
+        61,
+        62,
+        54,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 223902,
+      "assetId": 223902
+    },
+    "227529": {
+      "name": "Mathew Hudson",
+      "cardName": "Hudson",
+      "originalVersionId": "0",
+      "clubId": 1920,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        31
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        65,
+        63,
+        65,
+        64,
+        46,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 900,
+      "resourceId": 227529,
+      "assetId": 227529
+    },
+    "227961": {
+      "name": "Jamie Robson",
+      "cardName": "Robson",
+      "originalVersionId": "0",
+      "clubId": 1920,
+      "leagueId": 61,
+      "countryId": 42,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        28
+      ],
+      "attributes": [
+        79,
+        36,
+        56,
+        60,
+        56,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 650,
+      "resourceId": 227961,
+      "assetId": 227961
+    },
+    "231284": {
+      "name": "Ryan Delaney",
+      "cardName": "Delaney",
+      "originalVersionId": "0",
+      "clubId": 1920,
+      "leagueId": 61,
+      "countryId": 25,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        15
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12
+      ],
+      "attributes": [
+        39,
+        28,
+        40,
+        41,
+        59,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 231284,
+      "assetId": 231284
+    },
+    "237731": {
+      "name": "Josh Hawkes",
+      "cardName": "Hawkes",
+      "originalVersionId": "0",
+      "clubId": 1920,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        12
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        29,
+        40
+      ],
+      "attributes": [
+        70,
+        61,
+        58,
+        62,
+        35,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 237731,
+      "assetId": 237731
+    },
+    "246326": {
+      "name": "Noah Chilvers",
+      "cardName": "Chilvers",
+      "originalVersionId": "0",
+      "clubId": 1920,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49
+      ],
+      "attributes": [
+        79,
+        60,
+        62,
+        65,
+        55,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 246326,
+      "assetId": 246326
+    },
+    "259276": {
+      "name": "Will Sutton",
+      "cardName": "Sutton",
+      "originalVersionId": "0",
+      "clubId": 1920,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        4,
+        17,
+        48
+      ],
+      "attributes": [
+        71,
+        40,
+        50,
+        55,
+        58,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 259276,
+      "assetId": 259276
+    },
+    "260439": {
+      "name": "Jack Stevens",
+      "cardName": "Stevens",
+      "originalVersionId": "0",
+      "clubId": 1920,
+      "leagueId": 61,
+      "countryId": 50,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        30,
+        39
+      ],
+      "attributes": [
+        74,
+        59,
+        55,
+        63,
+        24,
+        53
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 260439,
+      "assetId": 260439
+    },
+    "261211": {
+      "name": "Mike Fondop",
+      "cardName": "Fondop",
+      "originalVersionId": "0",
+      "clubId": 1920,
+      "leagueId": 61,
+      "countryId": 103,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41,
+        44
+      ],
+      "attributes": [
+        65,
+        61,
+        44,
+        58,
+        20,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 261211,
+      "assetId": 261211
+    },
+    "261641": {
+      "name": "Keenan Appiah-Forson",
+      "cardName": "Appiah-Forson",
+      "originalVersionId": "0",
+      "clubId": 1920,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        22,
+        49
+      ],
+      "attributes": [
+        70,
+        52,
+        58,
+        64,
+        55,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 261641,
+      "assetId": 261641
+    },
+    "263192": {
+      "name": "Elliott Nevitt",
+      "cardName": "Nevitt",
+      "originalVersionId": "0",
+      "clubId": 1920,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        66,
+        58,
+        48,
+        58,
+        27,
+        78
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 263192,
+      "assetId": 263192
+    },
+    "263950": {
+      "name": "Oliver Hammond",
+      "cardName": "Hammond",
+      "originalVersionId": "0",
+      "clubId": 1920,
+      "leagueId": 61,
+      "countryId": 50,
+      "versionId": "2000",
+      "rating": 57,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        33
+      ],
+      "attributes": [
+        67,
+        51,
+        53,
+        61,
+        53,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 263950,
+      "assetId": 263950
+    },
+    "266828": {
+      "name": "Calum Kavanagh",
+      "cardName": "Kavanagh",
+      "originalVersionId": "0",
+      "clubId": 1920,
+      "leagueId": 61,
+      "countryId": 25,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        21
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        42
+      ],
+      "attributes": [
+        80,
+        58,
+        50,
+        62,
+        19,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 266828,
+      "assetId": 266828
+    },
+    "270118": {
+      "name": "Lewis Temple",
+      "cardName": "Temple",
+      "originalVersionId": "0",
+      "clubId": 1920,
+      "leagueId": 61,
+      "countryId": 25,
+      "versionId": "2000",
+      "rating": 57,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        36,
+        26,
+        34,
+        36,
+        58,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 270118,
+      "assetId": 270118
+    }
+  }
+}
