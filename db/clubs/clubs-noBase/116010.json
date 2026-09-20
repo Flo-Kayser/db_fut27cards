@@ -1,0 +1,1754 @@
+{
+  "clubName": "Chelsea",
+  "players": {
+    "50406756": {
+      "name": "Veerle Buurman",
+      "cardName": "Buurman",
+      "originalVersionId": "120",
+      "clubId": 116010,
+      "leagueId": 2216,
+      "countryId": 34,
+      "versionId": "120",
+      "rating": 92,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        15,
+        16,
+        22,
+        28,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        14,
+        17,
+        18
+      ],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        90,
+        60,
+        80,
+        83,
+        92,
+        91
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50406756,
+      "assetId": 75108
+    },
+    "50558773": {
+      "name": "Sam Kerr",
+      "cardName": "Kerr",
+      "originalVersionId": "33",
+      "clubId": 116010,
+      "leagueId": 2216,
+      "countryId": 195,
+      "versionId": "33",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        21,
+        22,
+        24,
+        25,
+        29,
+        5,
+        6
+      ],
+      "playStylesPlus": [
+        0
+      ],
+      "rolesPlus": [
+        42,
+        43,
+        141,
+        144
+      ],
+      "attributes": [
+        85,
+        88,
+        75,
+        90,
+        43,
+        85
+      ],
+      "hasDynamicImage": true,
+      "price": 70000,
+      "resourceId": 50558773,
+      "assetId": 227125
+    },
+    "50558894": {
+      "name": "Lucy Bronze",
+      "cardName": "Bronze",
+      "originalVersionId": "22",
+      "clubId": 116010,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "22",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        12,
+        15,
+        26,
+        27
+      ],
+      "playStylesPlus": [
+        14
+      ],
+      "rolesPlus": [
+        3,
+        5,
+        24,
+        106
+      ],
+      "attributes": [
+        83,
+        70,
+        83,
+        81,
+        88,
+        88
+      ],
+      "hasDynamicImage": true,
+      "price": 130000,
+      "resourceId": 50558894,
+      "assetId": 227246
+    },
+    "50558971": {
+      "name": "Guro Reiten",
+      "cardName": "Reiten",
+      "originalVersionId": "51",
+      "clubId": 116010,
+      "leagueId": 2216,
+      "countryId": 36,
+      "versionId": "51",
+      "rating": 89,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        12,
+        21,
+        25,
+        26,
+        3,
+        8
+      ],
+      "playStylesPlus": [
+        0
+      ],
+      "rolesPlus": [
+        32,
+        33,
+        39,
+        127,
+        130,
+        131,
+        138
+      ],
+      "attributes": [
+        89,
+        84,
+        87,
+        88,
+        61,
+        70
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 99650,
+      "resourceId": 50558971,
+      "assetId": 227323
+    },
+    "50569905": {
+      "name": "Millie Bright",
+      "cardName": "Bright",
+      "originalVersionId": "150",
+      "clubId": 116010,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "150",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM"
+      ],
+      "playStyles": [
+        17,
+        19,
+        28,
+        9
+      ],
+      "playStylesPlus": [
+        16
+      ],
+      "rolesPlus": [
+        12,
+        15,
+        48,
+        113,
+        114
+      ],
+      "attributes": [
+        75,
+        52,
+        71,
+        67,
+        88,
+        89
+      ],
+      "hasDynamicImage": true,
+      "price": 80000,
+      "resourceId": 50569905,
+      "assetId": 238257
+    },
+    "50571678": {
+      "name": "Ellie Carpenter",
+      "cardName": "Carpenter",
+      "originalVersionId": "3",
+      "clubId": 116010,
+      "leagueId": 2216,
+      "countryId": 195,
+      "versionId": "3",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        15,
+        21,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        6,
+        124
+      ],
+      "attributes": [
+        85,
+        55,
+        82,
+        80,
+        84,
+        82
+      ],
+      "hasDynamicImage": true,
+      "price": 59500,
+      "resourceId": 50571678,
+      "assetId": 240030
+    },
+    "50573139": {
+      "name": "Johanna Kaneryd",
+      "cardName": "Kaneryd",
+      "originalVersionId": "32",
+      "clubId": 116010,
+      "leagueId": 2216,
+      "countryId": 46,
+      "versionId": "32",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        11,
+        21,
+        24,
+        26,
+        6,
+        7,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        20,
+        25
+      ],
+      "rolesPlus": [
+        24,
+        25,
+        37,
+        123,
+        126,
+        135,
+        136
+      ],
+      "attributes": [
+        90,
+        85,
+        88,
+        89,
+        60,
+        75
+      ],
+      "hasDynamicImage": true,
+      "price": 30000,
+      "resourceId": 50573139,
+      "assetId": 241491
+    },
+    "50574478": {
+      "name": "Keira Walsh",
+      "cardName": "Walsh",
+      "originalVersionId": "3",
+      "clubId": 116010,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "3",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        11,
+        14,
+        2
+      ],
+      "playStylesPlus": [
+        9
+      ],
+      "rolesPlus": [
+        16,
+        21,
+        120
+      ],
+      "attributes": [
+        74,
+        53,
+        83,
+        82,
+        82,
+        79
+      ],
+      "hasDynamicImage": true,
+      "price": 60000,
+      "resourceId": 50574478,
+      "assetId": 242830
+    },
+    "50593381": {
+      "name": "Sandy Baltimore",
+      "cardName": "Baltimore",
+      "originalVersionId": "3",
+      "clubId": 116010,
+      "leagueId": 2216,
+      "countryId": 18,
+      "versionId": "3",
+      "rating": 87,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        12,
+        20,
+        24,
+        25,
+        8
+      ],
+      "playStylesPlus": [
+        6
+      ],
+      "rolesPlus": [
+        30,
+        39,
+        110,
+        127
+      ],
+      "attributes": [
+        89,
+        78,
+        86,
+        88,
+        75,
+        72
+      ],
+      "hasDynamicImage": true,
+      "price": 40750,
+      "resourceId": 50593381,
+      "assetId": 261733
+    },
+    "50593741": {
+      "name": "Sjoeke Nüsken",
+      "cardName": "Nüsken",
+      "originalVersionId": "91",
+      "clubId": 116010,
+      "leagueId": 2216,
+      "countryId": 21,
+      "versionId": "91",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CB",
+        "CDM"
+      ],
+      "playStyles": [
+        10,
+        14,
+        19,
+        2,
+        28,
+        4,
+        9
+      ],
+      "playStylesPlus": [
+        17
+      ],
+      "rolesPlus": [
+        11,
+        14,
+        16,
+        113,
+        117,
+        149
+      ],
+      "attributes": [
+        82,
+        80,
+        84,
+        86,
+        87,
+        84
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50593741,
+      "assetId": 262093
+    },
+    "50593978": {
+      "name": "Catarina Macario",
+      "cardName": "Catarina Macario",
+      "originalVersionId": "82",
+      "clubId": 116010,
+      "leagueId": 2216,
+      "countryId": 95,
+      "versionId": "82",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [
+        10,
+        11,
+        3,
+        7,
+        9
+      ],
+      "playStylesPlus": [
+        20
+      ],
+      "rolesPlus": [
+        21,
+        22,
+        31,
+        33,
+        132,
+        134,
+        143
+      ],
+      "attributes": [
+        87,
+        86,
+        84,
+        90,
+        64,
+        78
+      ],
+      "hasDynamicImage": true,
+      "price": 40000,
+      "resourceId": 50593978,
+      "assetId": 262330
+    },
+    "50594655": {
+      "name": "Niamh Charles",
+      "cardName": "Charles",
+      "originalVersionId": "87",
+      "clubId": 116010,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "87",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        14,
+        17,
+        19,
+        21,
+        27
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        6,
+        9,
+        10,
+        25,
+        107
+      ],
+      "attributes": [
+        84,
+        70,
+        84,
+        80,
+        82,
+        75
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50594655,
+      "assetId": 263007
+    },
+    "50594657": {
+      "name": "Hannah Hampton",
+      "cardName": "Hampton",
+      "originalVersionId": "11",
+      "clubId": 116010,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "11",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        30,
+        31,
+        32,
+        34
+      ],
+      "playStylesPlus": [
+        10,
+        33,
+        35
+      ],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        90,
+        91,
+        90,
+        92,
+        70,
+        92
+      ],
+      "hasDynamicImage": true,
+      "price": 90000,
+      "resourceId": 50594657,
+      "assetId": 263009
+    },
+    "50596897": {
+      "name": "Lauren James",
+      "cardName": "James",
+      "originalVersionId": "22",
+      "clubId": 116010,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "22",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        12,
+        22,
+        23,
+        25,
+        29,
+        6
+      ],
+      "playStylesPlus": [
+        21
+      ],
+      "rolesPlus": [
+        25,
+        37,
+        126,
+        133,
+        136
+      ],
+      "attributes": [
+        90,
+        83,
+        81,
+        89,
+        42,
+        85
+      ],
+      "hasDynamicImage": true,
+      "price": 550000,
+      "resourceId": 50596897,
+      "assetId": 265249
+    },
+    "50599030": {
+      "name": "Naomi Girma",
+      "cardName": "Girma",
+      "originalVersionId": "28",
+      "clubId": 116010,
+      "leagueId": 2216,
+      "countryId": 95,
+      "versionId": "28",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        15,
+        19,
+        28
+      ],
+      "playStylesPlus": [
+        14
+      ],
+      "rolesPlus": [
+        48,
+        111,
+        113
+      ],
+      "attributes": [
+        82,
+        53,
+        76,
+        78,
+        87,
+        81
+      ],
+      "hasDynamicImage": true,
+      "price": 11000,
+      "resourceId": 50599030,
+      "assetId": 267382
+    },
+    "50602055": {
+      "name": "Agnes Beever-Jones",
+      "cardName": "Beever-Jones",
+      "originalVersionId": "71",
+      "clubId": 116010,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "71",
+      "rating": 90,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        11,
+        20,
+        24,
+        4,
+        7
+      ],
+      "playStylesPlus": [
+        22,
+        6
+      ],
+      "rolesPlus": [
+        29,
+        40,
+        42,
+        43,
+        127,
+        138,
+        141,
+        144
+      ],
+      "attributes": [
+        88,
+        92,
+        80,
+        90,
+        50,
+        85
+      ],
+      "hasDynamicImage": true,
+      "price": 11250,
+      "resourceId": 50602055,
+      "assetId": 270407
+    },
+    "50603649": {
+      "name": "Mayra Ramírez",
+      "cardName": "Ramírez",
+      "originalVersionId": "16",
+      "clubId": 116010,
+      "leagueId": 2216,
+      "countryId": 56,
+      "versionId": "16",
+      "rating": 96,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        94,
+        96,
+        99,
+        93,
+        47,
+        91
+      ],
+      "hasDynamicImage": true,
+      "price": 13750,
+      "resourceId": 50603649,
+      "assetId": 272001
+    },
+    "50605168": {
+      "name": "Maika Hamano",
+      "cardName": "Hamano",
+      "originalVersionId": "31",
+      "clubId": 116010,
+      "leagueId": 2216,
+      "countryId": 163,
+      "versionId": "31",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        0,
+        11,
+        22,
+        6,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        20
+      ],
+      "rolesPlus": [
+        22,
+        32,
+        121,
+        131,
+        133
+      ],
+      "attributes": [
+        86,
+        85,
+        85,
+        90,
+        57,
+        62
+      ],
+      "hasDynamicImage": true,
+      "price": 27000,
+      "resourceId": 50605168,
+      "assetId": 273520
+    },
+    "67336110": {
+      "name": "Lucy Bronze",
+      "cardName": "Bronze",
+      "originalVersionId": "8",
+      "clubId": 116010,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "8",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        1,
+        12,
+        14,
+        15,
+        26,
+        27
+      ],
+      "playStylesPlus": [
+        20
+      ],
+      "rolesPlus": [
+        3,
+        4,
+        26,
+        105,
+        106,
+        123
+      ],
+      "attributes": [
+        86,
+        83,
+        83,
+        83,
+        88,
+        88
+      ],
+      "hasDynamicImage": true,
+      "price": 180000,
+      "resourceId": 67336110,
+      "assetId": 227246
+    },
+    "67347121": {
+      "name": "Millie Bright",
+      "cardName": "Bright",
+      "originalVersionId": "5",
+      "clubId": 116010,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "5",
+      "rating": 94,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        14,
+        16,
+        17,
+        19,
+        26
+      ],
+      "playStylesPlus": [
+        15,
+        28,
+        9
+      ],
+      "rolesPlus": [
+        48,
+        111,
+        112,
+        113
+      ],
+      "attributes": [
+        85,
+        60,
+        80,
+        80,
+        92,
+        94
+      ],
+      "hasDynamicImage": true,
+      "price": 76000,
+      "resourceId": 67347121,
+      "assetId": 238257
+    },
+    "67351694": {
+      "name": "Keira Walsh",
+      "cardName": "Walsh",
+      "originalVersionId": "55",
+      "clubId": 116010,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "55",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        14,
+        20,
+        24,
+        25,
+        26,
+        9
+      ],
+      "playStylesPlus": [
+        11,
+        16
+      ],
+      "rolesPlus": [
+        14,
+        18,
+        19,
+        116,
+        120,
+        121,
+        149
+      ],
+      "attributes": [
+        85,
+        59,
+        90,
+        88,
+        88,
+        84
+      ],
+      "hasDynamicImage": true,
+      "price": 11250,
+      "resourceId": 67351694,
+      "assetId": 242830
+    },
+    "67370597": {
+      "name": "Sandy Baltimore",
+      "cardName": "Baltimore",
+      "originalVersionId": "68",
+      "clubId": 116010,
+      "leagueId": 2216,
+      "countryId": 18,
+      "versionId": "68",
+      "rating": 90,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        0,
+        12,
+        13,
+        20,
+        25,
+        6,
+        8
+      ],
+      "playStylesPlus": [
+        21
+      ],
+      "rolesPlus": [
+        7,
+        30,
+        39,
+        109,
+        110,
+        127,
+        138
+      ],
+      "attributes": [
+        93,
+        87,
+        89,
+        91,
+        84,
+        80
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 67370597,
+      "assetId": 261733
+    },
+    "67370957": {
+      "name": "Sjoeke Nüsken",
+      "cardName": "Nüsken",
+      "originalVersionId": "32",
+      "clubId": 116010,
+      "leagueId": 2216,
+      "countryId": 21,
+      "versionId": "32",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CB",
+        "CDM"
+      ],
+      "playStyles": [
+        10,
+        11,
+        14,
+        15,
+        16,
+        19,
+        2,
+        28,
+        4
+      ],
+      "playStylesPlus": [
+        17,
+        9
+      ],
+      "rolesPlus": [
+        11,
+        15,
+        16,
+        113,
+        114,
+        117,
+        149
+      ],
+      "attributes": [
+        85,
+        81,
+        86,
+        88,
+        89,
+        86
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 67370957,
+      "assetId": 262093
+    },
+    "67374113": {
+      "name": "Lauren James",
+      "cardName": "James",
+      "originalVersionId": "117",
+      "clubId": 116010,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "117",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        11,
+        12,
+        21,
+        22,
+        23,
+        29,
+        6
+      ],
+      "playStylesPlus": [
+        25
+      ],
+      "rolesPlus": [
+        25,
+        31,
+        37,
+        126,
+        132,
+        136
+      ],
+      "attributes": [
+        93,
+        84,
+        85,
+        90,
+        45,
+        88
+      ],
+      "hasDynamicImage": true,
+      "price": 11250,
+      "resourceId": 67374113,
+      "assetId": 265249
+    },
+    "67382330": {
+      "name": "Alyssa Thompson",
+      "cardName": "Thompson",
+      "originalVersionId": "150",
+      "clubId": 116010,
+      "leagueId": 2216,
+      "countryId": 95,
+      "versionId": "150",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM"
+      ],
+      "playStyles": [
+        20,
+        22,
+        25,
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        30,
+        127,
+        138
+      ],
+      "attributes": [
+        88,
+        80,
+        78,
+        86,
+        46,
+        67
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 6000,
+      "resourceId": 67382330,
+      "assetId": 273466
+    },
+    "84113326": {
+      "name": "Lucy Bronze",
+      "cardName": "Bronze",
+      "originalVersionId": "5",
+      "clubId": 116010,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "5",
+      "rating": 95,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CB",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        12,
+        18,
+        20,
+        27,
+        28
+      ],
+      "playStylesPlus": [
+        14,
+        15,
+        9
+      ],
+      "rolesPlus": [
+        5,
+        6,
+        11,
+        24,
+        25,
+        103,
+        104,
+        123,
+        148
+      ],
+      "attributes": [
+        90,
+        80,
+        90,
+        88,
+        95,
+        93
+      ],
+      "hasDynamicImage": true,
+      "price": 76500,
+      "resourceId": 84113326,
+      "assetId": 227246
+    },
+    "84124337": {
+      "name": "Millie Bright",
+      "cardName": "Bright",
+      "originalVersionId": "25",
+      "clubId": 116010,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "25",
+      "rating": 93,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        14,
+        15,
+        18,
+        19,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        16,
+        17,
+        28
+      ],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        86,
+        60,
+        82,
+        77,
+        93,
+        94
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 33500,
+      "price": 0,
+      "resourceId": 84124337,
+      "assetId": 238257
+    },
+    "84151329": {
+      "name": "Lauren James",
+      "cardName": "James",
+      "originalVersionId": "117",
+      "clubId": 116010,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "117",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [
+        12,
+        21,
+        22,
+        23,
+        25,
+        29,
+        6
+      ],
+      "playStylesPlus": [
+        0
+      ],
+      "rolesPlus": [
+        32,
+        42,
+        44,
+        133,
+        141,
+        143
+      ],
+      "attributes": [
+        91,
+        86,
+        82,
+        91,
+        44,
+        86
+      ],
+      "hasDynamicImage": true,
+      "price": 11250,
+      "resourceId": 84151329,
+      "assetId": 265249
+    },
+    "84159546": {
+      "name": "Alyssa Thompson",
+      "cardName": "Thompson",
+      "originalVersionId": "71",
+      "clubId": 116010,
+      "leagueId": 2216,
+      "countryId": 95,
+      "versionId": "71",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM"
+      ],
+      "playStyles": [
+        0,
+        13,
+        20,
+        22,
+        25,
+        8
+      ],
+      "playStylesPlus": [
+        21,
+        6
+      ],
+      "rolesPlus": [
+        23,
+        27,
+        38,
+        124,
+        126,
+        128,
+        130,
+        139
+      ],
+      "attributes": [
+        94,
+        88,
+        87,
+        92,
+        52,
+        76
+      ],
+      "hasDynamicImage": true,
+      "price": 11500,
+      "resourceId": 84159546,
+      "assetId": 273466
+    },
+    "100928545": {
+      "name": "Lauren James",
+      "cardName": "James",
+      "originalVersionId": "111",
+      "clubId": 116010,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "111",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        11,
+        12,
+        20,
+        22,
+        23,
+        29,
+        6,
+        8
+      ],
+      "playStylesPlus": [
+        21,
+        25
+      ],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137
+      ],
+      "attributes": [
+        96,
+        88,
+        89,
+        99,
+        51,
+        91
+      ],
+      "hasDynamicImage": true,
+      "price": 11500,
+      "resourceId": 100928545,
+      "assetId": 265249
+    },
+    "100936762": {
+      "name": "Alyssa Thompson",
+      "cardName": "Thompson",
+      "originalVersionId": "3",
+      "clubId": 116010,
+      "leagueId": 2216,
+      "countryId": 95,
+      "versionId": "3",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CM",
+        "LM",
+        "LW",
+        "RM"
+      ],
+      "playStyles": [
+        20,
+        22,
+        23,
+        25,
+        6
+      ],
+      "playStylesPlus": [
+        2
+      ],
+      "rolesPlus": [
+        20,
+        21,
+        23,
+        24,
+        27,
+        29,
+        39,
+        40,
+        118,
+        122,
+        126,
+        130,
+        138
+      ],
+      "attributes": [
+        91,
+        81,
+        80,
+        88,
+        46,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 47500,
+      "resourceId": 100936762,
+      "assetId": 273466
+    },
+    "117705751": {
+      "name": "Katie McCabe",
+      "cardName": "McCabe",
+      "originalVersionId": "16",
+      "clubId": 116010,
+      "leagueId": 2216,
+      "countryId": 25,
+      "versionId": "16",
+      "rating": 98,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        138,
+        139,
+        140,
+        146,
+        147
+      ],
+      "attributes": [
+        94,
+        90,
+        94,
+        93,
+        95,
+        99
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 117705751,
+      "assetId": 265239
+    },
+    "117705761": {
+      "name": "Lauren James",
+      "cardName": "James",
+      "originalVersionId": "103",
+      "clubId": 116010,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "103",
+      "rating": 96,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137
+      ],
+      "attributes": [
+        97,
+        91,
+        93,
+        96,
+        61,
+        93
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 117705761,
+      "assetId": 265249
+    },
+    "117713978": {
+      "name": "Alyssa Thompson",
+      "cardName": "Thompson",
+      "originalVersionId": "11",
+      "clubId": 116010,
+      "leagueId": 2216,
+      "countryId": 95,
+      "versionId": "11",
+      "rating": 95,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM"
+      ],
+      "playStyles": [
+        13,
+        2,
+        21,
+        22,
+        23,
+        6,
+        8
+      ],
+      "playStylesPlus": [
+        0,
+        20,
+        25
+      ],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        95,
+        91,
+        91,
+        95,
+        58,
+        81
+      ],
+      "hasDynamicImage": true,
+      "price": 76000,
+      "resourceId": 117713978,
+      "assetId": 273466
+    },
+    "151272870": {
+      "name": "Manaka Matsukubo",
+      "cardName": "Matsukubo",
+      "originalVersionId": "30",
+      "clubId": 116010,
+      "leagueId": 2216,
+      "countryId": 163,
+      "versionId": "30",
+      "rating": 97,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LW",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        94,
+        97,
+        96,
+        97,
+        82,
+        88
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 151272870,
+      "assetId": 277926
+    }
+  }
+}

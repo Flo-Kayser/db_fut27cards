@@ -1,0 +1,101 @@
+{
+  "clubName": "RB Salzburg",
+  "players": {
+    "50407181": {
+      "name": "Kerim Alajbegović",
+      "cardName": "Alajbegović",
+      "originalVersionId": "120",
+      "clubId": 191,
+      "leagueId": 80,
+      "countryId": 8,
+      "versionId": "120",
+      "rating": 94,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        0,
+        21,
+        23,
+        26,
+        6,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        20,
+        25,
+        7
+      ],
+      "rolesPlus": [
+        31,
+        34,
+        127,
+        128,
+        129,
+        130,
+        132,
+        133,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        94,
+        91,
+        90,
+        93,
+        75,
+        86
+      ],
+      "hasDynamicImage": true,
+      "price": 65000,
+      "resourceId": 50407181,
+      "assetId": 75533
+    },
+    "50547170": {
+      "name": "Alexander Schlager",
+      "cardName": "Schlager",
+      "originalVersionId": "3",
+      "clubId": 191,
+      "leagueId": 80,
+      "countryId": 4,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        31,
+        33,
+        34
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        102
+      ],
+      "attributes": [
+        80,
+        80,
+        76,
+        83,
+        55,
+        81
+      ],
+      "hasDynamicImage": true,
+      "price": 48000,
+      "resourceId": 50547170,
+      "assetId": 215522
+    }
+  }
+}

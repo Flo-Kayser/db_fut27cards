@@ -1,0 +1,149 @@
+{
+  "clubName": "Racing Club",
+  "players": {
+    "50577681": {
+      "name": "Santiago Sosa",
+      "cardName": "Sosa",
+      "originalVersionId": "11",
+      "clubId": 101085,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "11",
+      "rating": 93,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM"
+      ],
+      "playStyles": [
+        14,
+        15,
+        16,
+        18,
+        19,
+        26,
+        9
+      ],
+      "playStylesPlus": [
+        10,
+        17,
+        28
+      ],
+      "rolesPlus": [
+        14,
+        16,
+        17,
+        111,
+        112,
+        113,
+        115,
+        148,
+        149
+      ],
+      "attributes": [
+        88,
+        67,
+        85,
+        86,
+        93,
+        93
+      ],
+      "hasDynamicImage": true,
+      "price": 30000,
+      "resourceId": 50577681,
+      "assetId": 246033
+    },
+    "50583684": {
+      "name": "Nazareno Colombo",
+      "cardName": "Colombo",
+      "originalVersionId": "3",
+      "clubId": 101085,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "RB"
+      ],
+      "playStyles": [
+        10,
+        15,
+        17
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        4,
+        13,
+        112
+      ],
+      "attributes": [
+        72,
+        46,
+        64,
+        63,
+        82,
+        88
+      ],
+      "hasDynamicImage": true,
+      "price": 30000,
+      "resourceId": 50583684,
+      "assetId": 252036
+    },
+    "50584890": {
+      "name": "Adrián Martínez",
+      "cardName": "Martínez",
+      "originalVersionId": "58",
+      "clubId": 101085,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "58",
+      "rating": 88,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        1,
+        2,
+        21,
+        24,
+        25,
+        4
+      ],
+      "playStylesPlus": [
+        29,
+        6
+      ],
+      "rolesPlus": [
+        43,
+        141,
+        142,
+        144
+      ],
+      "attributes": [
+        88,
+        89,
+        82,
+        87,
+        53,
+        91
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 13000,
+      "resourceId": 50584890,
+      "assetId": 253242
+    }
+  }
+}

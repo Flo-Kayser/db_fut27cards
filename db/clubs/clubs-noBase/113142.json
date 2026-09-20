@@ -1,0 +1,100 @@
+{
+  "clubName": "Alanyaspor",
+  "players": {
+    "50552268": {
+      "name": "Florent Hadergjonaj",
+      "cardName": "Hadergjonaj",
+      "originalVersionId": "65",
+      "clubId": 113142,
+      "leagueId": 68,
+      "countryId": 219,
+      "versionId": "65",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        11,
+        12,
+        13,
+        14,
+        16,
+        25,
+        9
+      ],
+      "playStylesPlus": [
+        15,
+        21,
+        8
+      ],
+      "rolesPlus": [
+        23,
+        26,
+        103,
+        104,
+        105,
+        106,
+        124,
+        125,
+        146
+      ],
+      "attributes": [
+        95,
+        72,
+        87,
+        89,
+        88,
+        90
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50552268,
+      "assetId": 220620
+    },
+    "67360396": {
+      "name": "Meschack Elia",
+      "cardName": "Elia",
+      "originalVersionId": "3",
+      "clubId": 113142,
+      "leagueId": 68,
+      "countryId": 110,
+      "versionId": "3",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        21,
+        24
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41,
+        126
+      ],
+      "attributes": [
+        92,
+        82,
+        81,
+        87,
+        39,
+        83
+      ],
+      "hasDynamicImage": false,
+      "price": 27000,
+      "resourceId": 67360396,
+      "assetId": 251532
+    }
+  }
+}

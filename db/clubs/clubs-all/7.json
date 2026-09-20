@@ -1,0 +1,1833 @@
+{
+  "clubName": "Everton",
+  "players": {
+    "70448": {
+      "name": "Adam Aznou",
+      "cardName": "Aznou",
+      "originalVersionId": "0",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 129,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7,
+        47
+      ],
+      "attributes": [
+        80,
+        52,
+        61,
+        72,
+        59,
+        51
+      ],
+      "hasDynamicImage": false,
+      "price": 5100,
+      "resourceId": 70448,
+      "assetId": 70448
+    },
+    "74413": {
+      "name": "Harrison Armstrong",
+      "cardName": "Armstrong",
+      "originalVersionId": "0",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        17,
+        18
+      ],
+      "attributes": [
+        65,
+        57,
+        62,
+        68,
+        62,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 10000,
+      "resourceId": 74413,
+      "assetId": 74413
+    },
+    "180216": {
+      "name": "Séamus Coleman",
+      "cardName": "Coleman",
+      "originalVersionId": "1",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 25,
+      "versionId": "3001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5
+      ],
+      "attributes": [
+        51,
+        65,
+        70,
+        70,
+        74,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 10000,
+      "resourceId": 180216,
+      "assetId": 180216
+    },
+    "193474": {
+      "name": "Idrissa Gueye",
+      "cardName": "Gueye",
+      "originalVersionId": "0",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 136,
+      "versionId": "2002",
+      "rating": 79,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        16,
+        18,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14
+      ],
+      "attributes": [
+        60,
+        59,
+        70,
+        73,
+        80,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 1000,
+      "resourceId": 193474,
+      "assetId": 193474
+    },
+    "202695": {
+      "name": "James Tarkowski",
+      "cardName": "Tarkowski",
+      "originalVersionId": "0",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "2002",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        15,
+        16,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12,
+        13
+      ],
+      "attributes": [
+        45,
+        47,
+        64,
+        59,
+        81,
+        82
+      ],
+      "hasDynamicImage": false,
+      "price": 1800,
+      "resourceId": 202695,
+      "assetId": 202695
+    },
+    "204935": {
+      "name": "Jordan Pickford",
+      "cardName": "Pickford",
+      "originalVersionId": "1",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "3002",
+      "rating": 84,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        10,
+        30,
+        31
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        45
+      ],
+      "attributes": [
+        84,
+        78,
+        88,
+        87,
+        53,
+        81
+      ],
+      "hasDynamicImage": false,
+      "price": 1500,
+      "resourceId": 204935,
+      "assetId": 204935
+    },
+    "206517": {
+      "name": "Jack Grealish",
+      "cardName": "Grealish",
+      "originalVersionId": "0",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "2002",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        0,
+        13,
+        22
+      ],
+      "playStylesPlus": [
+        24
+      ],
+      "rolesPlus": [
+        29,
+        38,
+        40
+      ],
+      "attributes": [
+        72,
+        76,
+        80,
+        85,
+        53,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 10000,
+      "resourceId": 206517,
+      "assetId": 206517
+    },
+    "207599": {
+      "name": "Michael Keane",
+      "cardName": "Keane",
+      "originalVersionId": "1",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "3001",
+      "rating": 73,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        40,
+        49,
+        62,
+        58,
+        73,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 1000,
+      "resourceId": 207599,
+      "assetId": 207599
+    },
+    "225650": {
+      "name": "Tom King",
+      "cardName": "King",
+      "originalVersionId": "0",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 50,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        64,
+        63,
+        61,
+        64,
+        42,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 5100,
+      "resourceId": 225650,
+      "assetId": 225650
+    },
+    "232284": {
+      "name": "Mark Travers",
+      "cardName": "Travers",
+      "originalVersionId": "0",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 25,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        31
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        2
+      ],
+      "attributes": [
+        73,
+        69,
+        69,
+        74,
+        40,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 1500,
+      "resourceId": 232284,
+      "assetId": 232284
+    },
+    "237386": {
+      "name": "Kiernan Dewsbury-Hall",
+      "cardName": "Dewsbury-Hall",
+      "originalVersionId": "0",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "2002",
+      "rating": 77,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        18,
+        22,
+        34
+      ],
+      "attributes": [
+        66,
+        72,
+        77,
+        78,
+        70,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 10000,
+      "resourceId": 237386,
+      "assetId": 237386
+    },
+    "243282": {
+      "name": "Dwight McNeil",
+      "cardName": "McNeil",
+      "originalVersionId": "0",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "2002",
+      "rating": 78,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "RM"
+      ],
+      "playStyles": [
+        12,
+        20,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        25,
+        27,
+        29,
+        33
+      ],
+      "attributes": [
+        67,
+        76,
+        79,
+        79,
+        55,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 2000,
+      "resourceId": 243282,
+      "assetId": 243282
+    },
+    "243657": {
+      "name": "James Garner",
+      "cardName": "Garner",
+      "originalVersionId": "0",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "2002",
+      "rating": 76,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        16,
+        18
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        17,
+        18,
+        49
+      ],
+      "attributes": [
+        58,
+        65,
+        78,
+        72,
+        71,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 1000,
+      "resourceId": 243657,
+      "assetId": 243657
+    },
+    "244380": {
+      "name": "Vitaliy Mykolenko",
+      "cardName": "Mykolenko",
+      "originalVersionId": "0",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 49,
+      "versionId": "2002",
+      "rating": 78,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        16
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9
+      ],
+      "attributes": [
+        74,
+        55,
+        71,
+        71,
+        77,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 1000,
+      "resourceId": 244380,
+      "assetId": 244380
+    },
+    "247649": {
+      "name": "Jarrad Branthwaite",
+      "cardName": "Branthwaite",
+      "originalVersionId": "0",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "2002",
+      "rating": 79,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        16,
+        18,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        13
+      ],
+      "attributes": [
+        71,
+        39,
+        58,
+        60,
+        80,
+        78
+      ],
+      "hasDynamicImage": false,
+      "price": 1400,
+      "resourceId": 247649,
+      "assetId": 247649
+    },
+    "251892": {
+      "name": "Beto",
+      "cardName": "Beto",
+      "originalVersionId": "0",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 119,
+      "versionId": "2002",
+      "rating": 76,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        44
+      ],
+      "attributes": [
+        74,
+        77,
+        58,
+        68,
+        25,
+        82
+      ],
+      "hasDynamicImage": false,
+      "price": 1500,
+      "resourceId": 251892,
+      "assetId": 251892
+    },
+    "253510": {
+      "name": "Jake O'Brien",
+      "cardName": "O'Brien",
+      "originalVersionId": "0",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 25,
+      "versionId": "2002",
+      "rating": 76,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3,
+        11,
+        13
+      ],
+      "attributes": [
+        77,
+        49,
+        64,
+        61,
+        75,
+        79
+      ],
+      "hasDynamicImage": false,
+      "price": 1500,
+      "resourceId": 253510,
+      "assetId": 253510
+    },
+    "256402": {
+      "name": "Carlos Alcaraz",
+      "cardName": "Alcaraz",
+      "originalVersionId": "0",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 52,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [
+        20,
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        31,
+        42
+      ],
+      "attributes": [
+        80,
+        71,
+        71,
+        78,
+        46,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 1000,
+      "resourceId": 256402,
+      "assetId": 256402
+    },
+    "257896": {
+      "name": "Nathan Patterson",
+      "cardName": "Patterson",
+      "originalVersionId": "0",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 42,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        18
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5
+      ],
+      "attributes": [
+        71,
+        46,
+        63,
+        70,
+        70,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 10000,
+      "resourceId": 257896,
+      "assetId": 257896
+    },
+    "261188": {
+      "name": "Iliman Ndiaye",
+      "cardName": "Ndiaye",
+      "originalVersionId": "1",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 136,
+      "versionId": "3002",
+      "rating": 79,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        30
+      ],
+      "attributes": [
+        84,
+        76,
+        70,
+        84,
+        40,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 800,
+      "resourceId": 261188,
+      "assetId": 261188
+    },
+    "266609": {
+      "name": "Tim Iroegbunam",
+      "cardName": "Iroegbunam",
+      "originalVersionId": "1",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "3001",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        18
+      ],
+      "attributes": [
+        65,
+        58,
+        67,
+        73,
+        72,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 2500,
+      "resourceId": 266609,
+      "assetId": 266609
+    },
+    "268631": {
+      "name": "Harry Tyrer",
+      "cardName": "Tyrer",
+      "originalVersionId": "1",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "3000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        65,
+        61,
+        62,
+        65,
+        16,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 4900,
+      "resourceId": 268631,
+      "assetId": 268631
+    },
+    "270866": {
+      "name": "Youssef Chermiti",
+      "cardName": "Chermiti",
+      "originalVersionId": "0",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 38,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        65,
+        68,
+        55,
+        69,
+        33,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 270866,
+      "assetId": 270866
+    },
+    "276295": {
+      "name": "Thierno Barry",
+      "cardName": "Barry",
+      "originalVersionId": "0",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 18,
+      "versionId": "2002",
+      "rating": 77,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        29
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        44
+      ],
+      "attributes": [
+        80,
+        75,
+        65,
+        75,
+        25,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 7000,
+      "resourceId": 276295,
+      "assetId": 276295
+    },
+    "50403646": {
+      "name": "Tyrique George",
+      "cardName": "George",
+      "originalVersionId": "0",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "ST"
+      ],
+      "playStyles": [
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27
+      ],
+      "attributes": [
+        79,
+        66,
+        66,
+        73,
+        36,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 7500,
+      "resourceId": 50403646,
+      "assetId": 71998
+    },
+    "50511864": {
+      "name": "Séamus Coleman",
+      "cardName": "Coleman",
+      "originalVersionId": "25",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 25,
+      "versionId": "25",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        12,
+        14,
+        16,
+        17,
+        2,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        20,
+        21,
+        28
+      ],
+      "rolesPlus": [
+        24,
+        26,
+        103,
+        104,
+        105,
+        106,
+        123,
+        125,
+        146
+      ],
+      "attributes": [
+        91,
+        88,
+        91,
+        91,
+        93,
+        87
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50511864,
+      "assetId": 180216
+    },
+    "50525122": {
+      "name": "Idrissa Gueye",
+      "cardName": "Gueye",
+      "originalVersionId": "98",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 136,
+      "versionId": "98",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        149
+      ],
+      "attributes": [
+        86,
+        75,
+        87,
+        88,
+        93,
+        92
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50525122,
+      "assetId": 193474
+    },
+    "50536583": {
+      "name": "Jordan Pickford",
+      "cardName": "Pickford",
+      "originalVersionId": "150",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "150",
+      "rating": 85,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        10,
+        30,
+        31
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        2,
+        145
+      ],
+      "attributes": [
+        85,
+        80,
+        89,
+        88,
+        55,
+        82
+      ],
+      "hasDynamicImage": true,
+      "price": 47500,
+      "resourceId": 50536583,
+      "assetId": 204935
+    },
+    "50538165": {
+      "name": "Jack Grealish",
+      "cardName": "Grealish",
+      "originalVersionId": "91",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "91",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        0,
+        13,
+        22,
+        8
+      ],
+      "playStylesPlus": [
+        24
+      ],
+      "rolesPlus": [
+        33,
+        38,
+        130,
+        139
+      ],
+      "attributes": [
+        83,
+        85,
+        86,
+        88,
+        58,
+        75
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 45200,
+      "resourceId": 50538165,
+      "assetId": 206517
+    },
+    "50542345": {
+      "name": "Christian Nørgaard",
+      "cardName": "Nørgaard",
+      "originalVersionId": "0",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 13,
+      "versionId": "2002",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        16,
+        19,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        20
+      ],
+      "attributes": [
+        49,
+        65,
+        74,
+        71,
+        79,
+        79
+      ],
+      "hasDynamicImage": false,
+      "price": 1000,
+      "resourceId": 50542345,
+      "assetId": 210697
+    },
+    "50569034": {
+      "name": "Kiernan Dewsbury-Hall",
+      "cardName": "Dewsbury-Hall",
+      "originalVersionId": "113",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "113",
+      "rating": 90,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        11,
+        16,
+        20,
+        21,
+        24,
+        8
+      ],
+      "playStylesPlus": [
+        17,
+        9
+      ],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        149
+      ],
+      "attributes": [
+        88,
+        86,
+        90,
+        91,
+        85,
+        85
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50569034,
+      "assetId": 237386
+    },
+    "50575305": {
+      "name": "James Garner",
+      "cardName": "Garner",
+      "originalVersionId": "120",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "120",
+      "rating": 90,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        14,
+        18,
+        20,
+        22,
+        28,
+        8
+      ],
+      "playStylesPlus": [
+        11,
+        16,
+        9
+      ],
+      "rolesPlus": [
+        18,
+        21,
+        22,
+        114,
+        115,
+        116,
+        117,
+        119,
+        120,
+        149
+      ],
+      "attributes": [
+        88,
+        80,
+        92,
+        87,
+        90,
+        88
+      ],
+      "hasDynamicImage": true,
+      "price": 47500,
+      "resourceId": 50575305,
+      "assetId": 243657
+    },
+    "50583540": {
+      "name": "Beto",
+      "cardName": "Beto",
+      "originalVersionId": "3",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 119,
+      "versionId": "3",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        11,
+        21,
+        22,
+        29,
+        4
+      ],
+      "playStylesPlus": [
+        2,
+        24
+      ],
+      "rolesPlus": [
+        42,
+        43,
+        141,
+        144
+      ],
+      "attributes": [
+        87,
+        88,
+        75,
+        82,
+        36,
+        93
+      ],
+      "hasDynamicImage": true,
+      "price": 54500,
+      "resourceId": 50583540,
+      "assetId": 251892
+    },
+    "50591362": {
+      "name": "Merlin Röhl",
+      "cardName": "Röhl",
+      "originalVersionId": "1",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 21,
+      "versionId": "3001",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [
+        18,
+        21
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        31,
+        32,
+        49
+      ],
+      "attributes": [
+        81,
+        65,
+        68,
+        75,
+        63,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 10000,
+      "resourceId": 50591362,
+      "assetId": 259714
+    },
+    "50592836": {
+      "name": "Iliman Ndiaye",
+      "cardName": "Ndiaye",
+      "originalVersionId": "96",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 136,
+      "versionId": "96",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        12,
+        20,
+        22,
+        23
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        29,
+        37,
+        40,
+        130,
+        136,
+        139
+      ],
+      "attributes": [
+        89,
+        82,
+        80,
+        88,
+        46,
+        70
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50592836,
+      "assetId": 261188
+    },
+    "50611145": {
+      "name": "Tyler Dibling",
+      "cardName": "Dibling",
+      "originalVersionId": "0",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 74,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        20,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        25,
+        33,
+        36
+      ],
+      "attributes": [
+        77,
+        67,
+        70,
+        77,
+        38,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 8000,
+      "resourceId": 50611145,
+      "assetId": 279497
+    },
+    "67180862": {
+      "name": "Tyrique George",
+      "cardName": "George",
+      "originalVersionId": "111",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "111",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        11,
+        13,
+        20,
+        21,
+        24,
+        26
+      ],
+      "playStylesPlus": [
+        25
+      ],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        95,
+        86,
+        85,
+        89,
+        56,
+        73
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 76250,
+      "price": 74050,
+      "resourceId": 67180862,
+      "assetId": 71998
+    },
+    "67313799": {
+      "name": "Jordan Pickford",
+      "cardName": "Pickford",
+      "originalVersionId": "3",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "3",
+      "rating": 86,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        10,
+        30,
+        31,
+        35
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        145
+      ],
+      "attributes": [
+        86,
+        82,
+        90,
+        89,
+        57,
+        84
+      ],
+      "hasDynamicImage": true,
+      "price": 55000,
+      "resourceId": 67313799,
+      "assetId": 204935
+    },
+    "67315381": {
+      "name": "Jack Grealish",
+      "cardName": "Grealish",
+      "originalVersionId": "30",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "30",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        28,
+        29,
+        40,
+        127,
+        130,
+        138,
+        139
+      ],
+      "attributes": [
+        88,
+        87,
+        88,
+        91,
+        60,
+        80
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 67315381,
+      "assetId": 206517
+    },
+    "67368578": {
+      "name": "Merlin Röhl",
+      "cardName": "Röhl",
+      "originalVersionId": "16",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 21,
+      "versionId": "16",
+      "rating": 95,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM",
+        "RM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        131,
+        132,
+        133,
+        134,
+        141,
+        142,
+        143,
+        144,
+        149
+      ],
+      "attributes": [
+        96,
+        90,
+        90,
+        94,
+        85,
+        92
+      ],
+      "hasDynamicImage": true,
+      "price": 12750,
+      "resourceId": 67368578,
+      "assetId": 259714
+    },
+    "67370052": {
+      "name": "Iliman Ndiaye",
+      "cardName": "Ndiaye",
+      "originalVersionId": "107",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 136,
+      "versionId": "107",
+      "rating": 94,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        10,
+        11,
+        21,
+        22,
+        23,
+        6,
+        7,
+        9
+      ],
+      "playStylesPlus": [
+        0,
+        12,
+        20
+      ],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        96,
+        91,
+        91,
+        96,
+        55,
+        83
+      ],
+      "hasDynamicImage": true,
+      "price": 24500,
+      "resourceId": 67370052,
+      "assetId": 261188
+    },
+    "84091015": {
+      "name": "Jordan Pickford",
+      "cardName": "Pickford",
+      "originalVersionId": "98",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "98",
+      "rating": 93,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        93,
+        90,
+        93,
+        93,
+        70,
+        91
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 84091015,
+      "assetId": 204935
+    },
+    "84137501": {
+      "name": "Brennan Johnson",
+      "cardName": "Johnson",
+      "originalVersionId": "1",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 50,
+      "versionId": "3002",
+      "rating": 79,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        21,
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        35,
+        36
+      ],
+      "attributes": [
+        86,
+        76,
+        72,
+        78,
+        43,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 1100,
+      "resourceId": 84137501,
+      "assetId": 251421
+    },
+    "84139134": {
+      "name": "Hayden Hackney",
+      "cardName": "Hackney",
+      "originalVersionId": "1",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "3001",
+      "rating": 73,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        13,
+        24
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        21,
+        49
+      ],
+      "attributes": [
+        67,
+        62,
+        69,
+        72,
+        68,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 9500,
+      "resourceId": 84139134,
+      "assetId": 253054
+    }
+  }
+}

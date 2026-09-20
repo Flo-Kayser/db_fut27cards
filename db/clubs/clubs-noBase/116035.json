@@ -1,0 +1,655 @@
+{
+  "clubName": "Paris FC",
+  "players": {
+    "50577345": {
+      "name": "Clara Mateo",
+      "cardName": "Mateo",
+      "originalVersionId": "3",
+      "clubId": 116035,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "3",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        22,
+        26,
+        6,
+        7
+      ],
+      "playStylesPlus": [
+        2
+      ],
+      "rolesPlus": [
+        41,
+        130,
+        143
+      ],
+      "attributes": [
+        88,
+        87,
+        82,
+        85,
+        57,
+        77
+      ],
+      "hasDynamicImage": true,
+      "price": 59000,
+      "resourceId": 50577345,
+      "assetId": 245697
+    },
+    "50596513": {
+      "name": "Mylène Chavas",
+      "cardName": "Chavas",
+      "originalVersionId": "11",
+      "clubId": 116035,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "11",
+      "rating": 93,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        10,
+        30,
+        31,
+        32
+      ],
+      "playStylesPlus": [
+        33,
+        34,
+        35
+      ],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        93,
+        93,
+        90,
+        94,
+        70,
+        92
+      ],
+      "hasDynamicImage": true,
+      "price": 75000,
+      "resourceId": 50596513,
+      "assetId": 264865
+    },
+    "50597509": {
+      "name": "Maëlle Garbino",
+      "cardName": "Garbino",
+      "originalVersionId": "96",
+      "clubId": 116035,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "96",
+      "rating": 86,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        11,
+        20,
+        22,
+        26,
+        7
+      ],
+      "playStylesPlus": [
+        13
+      ],
+      "rolesPlus": [
+        25,
+        29,
+        37,
+        40,
+        126,
+        130,
+        136,
+        139
+      ],
+      "attributes": [
+        86,
+        86,
+        86,
+        86,
+        60,
+        70
+      ],
+      "hasDynamicImage": true,
+      "price": 35000,
+      "resourceId": 50597509,
+      "assetId": 265861
+    },
+    "50600856": {
+      "name": "Deja Davis",
+      "cardName": "Davis",
+      "originalVersionId": "11",
+      "clubId": 116035,
+      "leagueId": 2218,
+      "countryId": 95,
+      "versionId": "11",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        14,
+        17,
+        18,
+        19,
+        25,
+        28,
+        9
+      ],
+      "playStylesPlus": [
+        10,
+        15,
+        16
+      ],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        87,
+        60,
+        84,
+        87,
+        92,
+        92
+      ],
+      "hasDynamicImage": true,
+      "price": 11500,
+      "resourceId": 50600856,
+      "assetId": 269208
+    },
+    "50601459": {
+      "name": "Anaële Le Moguédec",
+      "cardName": "Le Moguédec",
+      "originalVersionId": "30",
+      "clubId": 116035,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "30",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        19,
+        20,
+        34,
+        44,
+        118,
+        121,
+        131,
+        143
+      ],
+      "attributes": [
+        85,
+        80,
+        87,
+        88,
+        80,
+        84
+      ],
+      "hasDynamicImage": true,
+      "price": 29750,
+      "resourceId": 50601459,
+      "assetId": 269811
+    },
+    "50601620": {
+      "name": "Lou Bogaert",
+      "cardName": "Bogaert",
+      "originalVersionId": "71",
+      "clubId": 116035,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "71",
+      "rating": 79,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9
+      ],
+      "attributes": [
+        77,
+        51,
+        71,
+        75,
+        78,
+        66
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50601620,
+      "assetId": 269972
+    },
+    "50608196": {
+      "name": "Océane Picard",
+      "cardName": "Picard",
+      "originalVersionId": "58",
+      "clubId": 116035,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "58",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        11,
+        13,
+        20,
+        6,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        16
+      ],
+      "rolesPlus": [
+        16,
+        20,
+        33,
+        118,
+        121,
+        131,
+        149
+      ],
+      "attributes": [
+        84,
+        85,
+        88,
+        89,
+        84,
+        82
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 33500,
+      "price": 24600,
+      "resourceId": 50608196,
+      "assetId": 276548
+    },
+    "50608473": {
+      "name": "Melween N'Dongala",
+      "cardName": "N'Dongala",
+      "originalVersionId": "68",
+      "clubId": 116035,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "68",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        14,
+        15,
+        16,
+        18,
+        28,
+        29
+      ],
+      "playStylesPlus": [
+        25
+      ],
+      "rolesPlus": [
+        3,
+        4,
+        25,
+        105,
+        106,
+        123
+      ],
+      "attributes": [
+        92,
+        82,
+        85,
+        88,
+        88,
+        87
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50608473,
+      "assetId": 276825
+    },
+    "67354561": {
+      "name": "Clara Mateo",
+      "cardName": "Mateo",
+      "originalVersionId": "111",
+      "clubId": 116035,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "111",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [
+        11,
+        20,
+        21,
+        22,
+        25,
+        26,
+        6,
+        7,
+        9
+      ],
+      "playStylesPlus": [
+        0,
+        8
+      ],
+      "rolesPlus": [
+        131,
+        132,
+        133,
+        134,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        94,
+        99,
+        89,
+        91,
+        63,
+        83
+      ],
+      "hasDynamicImage": true,
+      "price": 11500,
+      "resourceId": 67354561,
+      "assetId": 245697
+    },
+    "67374725": {
+      "name": "Maëlle Garbino",
+      "cardName": "Garbino",
+      "originalVersionId": "3",
+      "clubId": 116035,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "3",
+      "rating": 85,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        11,
+        13,
+        20,
+        22,
+        26,
+        7
+      ],
+      "playStylesPlus": [
+        2
+      ],
+      "rolesPlus": [
+        23,
+        25,
+        37,
+        126,
+        135,
+        136
+      ],
+      "attributes": [
+        85,
+        85,
+        84,
+        86,
+        57,
+        70
+      ],
+      "hasDynamicImage": true,
+      "price": 32500,
+      "resourceId": 67374725,
+      "assetId": 265861
+    },
+    "67378675": {
+      "name": "Anaële Le Moguédec",
+      "cardName": "Le Moguédec",
+      "originalVersionId": "11",
+      "clubId": 116035,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "11",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        10,
+        11,
+        20,
+        21,
+        24,
+        9
+      ],
+      "playStylesPlus": [
+        13,
+        6,
+        8
+      ],
+      "rolesPlus": [
+        18,
+        19,
+        20,
+        43,
+        44,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        141,
+        142
+      ],
+      "attributes": [
+        88,
+        89,
+        91,
+        92,
+        87,
+        88
+      ],
+      "hasDynamicImage": true,
+      "price": 32000,
+      "resourceId": 67378675,
+      "assetId": 269811
+    },
+    "67385689": {
+      "name": "Melween N'Dongala",
+      "cardName": "N'Dongala",
+      "originalVersionId": "16",
+      "clubId": 116035,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "16",
+      "rating": 96,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "RB",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        135,
+        136,
+        137,
+        146,
+        147
+      ],
+      "attributes": [
+        96,
+        90,
+        92,
+        95,
+        95,
+        93
+      ],
+      "hasDynamicImage": true,
+      "price": 13000,
+      "resourceId": 67385689,
+      "assetId": 276825
+    },
+    "84131777": {
+      "name": "Clara Mateo",
+      "cardName": "Mateo",
+      "originalVersionId": "30",
+      "clubId": 116035,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "30",
+      "rating": 98,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        97,
+        99,
+        95,
+        97,
+        70,
+        90
+      ],
+      "hasDynamicImage": true,
+      "price": 12250,
+      "resourceId": 84131777,
+      "assetId": 245697
+    }
+  }
+}

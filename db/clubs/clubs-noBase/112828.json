@@ -1,0 +1,94 @@
+{
+  "clubName": "New York City FC",
+  "players": {
+    "50565438": {
+      "name": "Thiago",
+      "cardName": "Thiago",
+      "originalVersionId": "34",
+      "clubId": 112828,
+      "leagueId": 39,
+      "countryId": 54,
+      "versionId": "34",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        14,
+        19
+      ],
+      "playStylesPlus": [
+        15
+      ],
+      "rolesPlus": [
+        48,
+        111,
+        113
+      ],
+      "attributes": [
+        80,
+        52,
+        70,
+        74,
+        84,
+        87
+      ],
+      "hasDynamicImage": true,
+      "price": 37500,
+      "resourceId": 50565438,
+      "assetId": 233790
+    },
+    "67181769": {
+      "name": "Raul Gustavo",
+      "cardName": "Raul Gustavo",
+      "originalVersionId": "38",
+      "clubId": 112828,
+      "leagueId": 39,
+      "countryId": 54,
+      "versionId": "38",
+      "rating": 89,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        14,
+        16,
+        17,
+        18,
+        9
+      ],
+      "playStylesPlus": [
+        15,
+        28
+      ],
+      "rolesPlus": [
+        111,
+        112,
+        113
+      ],
+      "attributes": [
+        86,
+        61,
+        73,
+        81,
+        90,
+        89
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 20000,
+      "price": 24750,
+      "resourceId": 67181769,
+      "assetId": 72905
+    }
+  }
+}
