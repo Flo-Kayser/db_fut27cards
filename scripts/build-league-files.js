@@ -13,6 +13,7 @@ const OUT_ALL    = path.join(OUT_DIR, "leagues-all");
 const OUT_NOBASE = path.join(OUT_DIR, "leagues-noBase");
 const OUT_ONLYBEST     = path.join(OUT_DIR, "leagues-onlyBest");
 const OUT_ONLYBESTSPEC = path.join(OUT_DIR, "leagues-onlyBestSpecial");
+const HERO_CLUB_ID = 114605;
 
 // Lese League-Metadaten & Club-IDs + Namen aus Managerdaten
 async function loadManagerData() {
@@ -33,6 +34,9 @@ async function loadManagerData() {
   // Map leagueId -> Array {id,name}
   const leagueClubs = {};
   for (const c of data.clubs) {
+    // HERO is a global pseudo-club. Hero cards are added separately by
+    // build-hero-club-files.js as league-specific pseudo-clubs.
+    if (Number(c.id) === HERO_CLUB_ID) continue;
     const lid = String(c.league);
     if (!leagueClubs[lid]) leagueClubs[lid] = [];
     leagueClubs[lid].push({ id: c.id, name: c.name ?? null });

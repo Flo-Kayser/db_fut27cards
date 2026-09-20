@@ -290,6 +290,12 @@ export const COUNTRYID_FOR_LEAGUEID = {
   2236: { cId: 27, sortId: 18 },
   2244: { cId: 5, sortId: 57 },
   2249: { cId:55, sortId: 58 },
+  341: { cId: 83, sortId: 59 },
+  2267: { cId: 54, sortId: 60 },
+  2271: { cId: 188, sortId: 61 },
+  2274: { cId: 9, sortId: 62 },
+  2272: { cId: 36, sortId: 63 },
+  2273: { cId: 24, sortId: 64 },
 };
 
 export const BASE_VERSION_IDS = new Set([
