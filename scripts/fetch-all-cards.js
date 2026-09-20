@@ -7,7 +7,7 @@ const OUT_DIR = path.join("db", "core-data");
 const OUT_FILE_ALL = path.join(OUT_DIR, "all-cards.json");
 const OUT_FILE_NOBASE = path.join(OUT_DIR, "cards-noBase.json");
 
-const BASE_URL = "https://api-fc26.easysbc.io";
+const BASE_URL = "https://api-fc27.easysbc.io";
 const CARDS_ENDPOINT = (page) => `/players?page=${page}`;
 
 async function fetchPage(page) {

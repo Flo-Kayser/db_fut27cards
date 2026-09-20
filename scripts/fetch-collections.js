@@ -2,7 +2,7 @@ import fs from "fs/promises";
 import path from "path";
 import axios from "axios";
 
-const BASE_URL = "https://www.fut.gg/api/fut/collections/26/?";
+const BASE_URL = "https://www.fut.gg/api/fut/collections/27/?";
 const PAGE_ENDPOINT = (page) => `page=${page}`;
 const OUT_FILE = path.join("db", "core-data", "collections.json");
 
