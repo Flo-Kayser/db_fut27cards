@@ -81,7 +81,7 @@ function buildDetailsMap(rawAssets) {
     }
 
     if (idNum === 3) {
-      map.set("3", toDetails(asset, 1));
+      map.set("3", toDetails(asset, 3));
       continue;
     }
 
