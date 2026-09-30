@@ -36,6 +36,7 @@
       79
     ],
     "hasDynamicImage": true,
+    "price": 0,
     "resourceId": 50405533,
     "assetId": 73885
   },
@@ -76,6 +77,7 @@
       83
     ],
     "hasDynamicImage": true,
+    "price": 0,
     "resourceId": 50406968,
     "assetId": 75320
   },
@@ -116,6 +118,7 @@
       80
     ],
     "hasDynamicImage": true,
+    "price": 0,
     "resourceId": 50408064,
     "assetId": 76416
   },
@@ -181,6 +184,7 @@
       73
     ],
     "hasDynamicImage": true,
+    "price": 0,
     "resourceId": 50524813,
     "assetId": 193165
   },
@@ -228,6 +232,7 @@
       68
     ],
     "hasDynamicImage": true,
+    "price": 0,
     "resourceId": 50538238,
     "assetId": 206590
   },
@@ -274,6 +279,7 @@
       80
     ],
     "hasDynamicImage": true,
+    "price": 0,
     "resourceId": 50542904,
     "assetId": 211256
   },
@@ -314,6 +320,7 @@
       83
     ],
     "hasDynamicImage": true,
+    "price": 0,
     "resourceId": 50552469,
     "assetId": 220821
   },
@@ -354,8 +361,66 @@
       76
     ],
     "hasDynamicImage": true,
+    "price": 0,
     "resourceId": 50553308,
     "assetId": 221660
+  },
+  "50558033": {
+    "name": "Cristian Espinoza",
+    "cardName": "Espinoza",
+    "originalVersionId": "87",
+    "clubId": 114162,
+    "leagueId": 39,
+    "countryId": 52,
+    "versionId": "87",
+    "rating": 82,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      12,
+      21,
+      9
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137
+    ],
+    "attributes": [
+      84,
+      76,
+      80,
+      82,
+      55,
+      71
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 3750,
+    "price": 0,
+    "resourceId": 50558033,
+    "assetId": 226385
   },
   "50561297": {
     "name": "Gabriel Suazo",
@@ -404,6 +469,7 @@
       82
     ],
     "hasDynamicImage": true,
+    "price": 0,
     "resourceId": 50561297,
     "assetId": 229649
   },
@@ -444,6 +510,7 @@
       85
     ],
     "hasDynamicImage": true,
+    "price": 0,
     "resourceId": 50568180,
     "assetId": 236532
   },
@@ -484,6 +551,7 @@
       81
     ],
     "hasDynamicImage": true,
+    "price": 0,
     "resourceId": 50574680,
     "assetId": 243032
   },
@@ -543,6 +611,7 @@
       70
     ],
     "hasDynamicImage": true,
+    "price": 0,
     "resourceId": 50575254,
     "assetId": 243606
   },
@@ -597,6 +666,7 @@
       82
     ],
     "hasDynamicImage": true,
+    "price": 0,
     "resourceId": 50582818,
     "assetId": 251170
   },
@@ -647,8 +717,111 @@
       77
     ],
     "hasDynamicImage": true,
+    "price": 0,
     "resourceId": 50591364,
     "assetId": 259716
+  },
+  "50592897": {
+    "name": "Édouard Michut",
+    "cardName": "Michut",
+    "originalVersionId": "87",
+    "clubId": 634,
+    "leagueId": 10,
+    "countryId": 18,
+    "versionId": "87",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      11,
+      20,
+      22
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      149
+    ],
+    "attributes": [
+      79,
+      70,
+      81,
+      84,
+      76,
+      77
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50592897,
+    "assetId": 261249
+  },
+  "50604005": {
+    "name": "Lucas Rosa",
+    "cardName": "Lucas Rosa",
+    "originalVersionId": "87",
+    "clubId": 245,
+    "leagueId": 10,
+    "countryId": 54,
+    "versionId": "87",
+    "rating": 82,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "CDM",
+      "LB",
+      "RB"
+    ],
+    "playStyles": [
+      16,
+      17,
+      22
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      114,
+      115,
+      116,
+      117,
+      146,
+      147,
+      149
+    ],
+    "attributes": [
+      83,
+      53,
+      73,
+      76,
+      78,
+      79
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50604005,
+    "assetId": 272357
   },
   "50604542": {
     "name": "Kévin Danois",
@@ -694,6 +867,7 @@
       73
     ],
     "hasDynamicImage": true,
+    "price": 0,
     "resourceId": 50604542,
     "assetId": 272894
   },
@@ -752,6 +926,7 @@
       73
     ],
     "hasDynamicImage": true,
+    "price": 0,
     "resourceId": 50605894,
     "assetId": 274246
   },
@@ -804,7 +979,62 @@
       81
     ],
     "hasDynamicImage": true,
+    "price": 0,
     "resourceId": 50607864,
     "assetId": 276216
+  },
+  "50611456": {
+    "name": "Shunsuke Mito",
+    "cardName": "Mito",
+    "originalVersionId": "87",
+    "clubId": 100646,
+    "leagueId": 10,
+    "countryId": 163,
+    "versionId": "87",
+    "rating": 83,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      25,
+      6,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140
+    ],
+    "attributes": [
+      87,
+      77,
+      75,
+      85,
+      46,
+      66
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50611456,
+    "assetId": 279808
   }
 }

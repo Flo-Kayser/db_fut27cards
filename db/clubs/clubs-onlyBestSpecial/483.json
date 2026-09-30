@@ -1,4 +1,105 @@
 {
   "clubName": "Villarreal CF",
-  "players": {}
+  "players": {
+    "50596036": {
+      "name": "Moleiro",
+      "cardName": "Moleiro",
+      "originalVersionId": "3",
+      "clubId": 483,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "3",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        11,
+        20,
+        22,
+        6,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        88,
+        80,
+        80,
+        86,
+        53,
+        72
+      ],
+      "hasDynamicImage": true,
+      "price": 69500,
+      "resourceId": 50596036,
+      "assetId": 264388
+    },
+    "50605554": {
+      "name": "Renato Veiga",
+      "cardName": "Renato Veiga",
+      "originalVersionId": "22",
+      "clubId": 483,
+      "leagueId": 53,
+      "countryId": 38,
+      "versionId": "22",
+      "rating": 84,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        15,
+        16,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        80,
+        66,
+        77,
+        78,
+        83,
+        87
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 23000,
+      "price": 0,
+      "resourceId": 50605554,
+      "assetId": 273906
+    }
+  }
 }

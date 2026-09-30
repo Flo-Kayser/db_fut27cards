@@ -37,7 +37,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 950,
       "resourceId": 70841,
       "assetId": 70841
     },
@@ -77,7 +77,7 @@
         85
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 3000,
       "resourceId": 73070,
       "assetId": 73070
     },
@@ -151,50 +151,9 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 1000,
       "resourceId": 188836,
       "assetId": 188836
-    },
-    "190765": {
-      "name": "Pascal Groß",
-      "cardName": "Groß",
-      "originalVersionId": "0",
-      "clubId": 1808,
-      "leagueId": 13,
-      "countryId": 21,
-      "versionId": "2002",
-      "rating": 79,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "CDM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        10,
-        12,
-        3,
-        8
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        17,
-        20
-      ],
-      "attributes": [
-        37,
-        74,
-        84,
-        78,
-        71,
-        71
-      ],
-      "hasDynamicImage": false,
-      "price": 750,
-      "resourceId": 190765,
-      "assetId": 190765
     },
     "225863": {
       "name": "Olivier Boscagli",
@@ -228,7 +187,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 950,
       "resourceId": 225863,
       "assetId": 225863
     },
@@ -270,7 +229,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 235152,
       "assetId": 235152
     },
@@ -348,7 +307,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 2600,
+      "price": 2300,
       "resourceId": 240734,
       "assetId": 240734
     },
@@ -382,7 +341,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 400,
       "resourceId": 243588,
       "assetId": 243588
     },
@@ -421,7 +380,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 3000,
+      "price": 1700,
       "resourceId": 245637,
       "assetId": 245637
     },
@@ -501,7 +460,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 850,
       "resourceId": 250779,
       "assetId": 250779
     },
@@ -580,7 +539,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 6200,
+      "price": 2900,
       "resourceId": 251942,
       "assetId": 251942
     },
@@ -622,7 +581,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 255565,
       "assetId": 255565
     },
@@ -661,7 +620,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 257400,
       "assetId": 257400
     },
@@ -698,7 +657,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 650,
       "resourceId": 258498,
       "assetId": 258498
     },
@@ -777,7 +736,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 269278,
       "assetId": 269278
     },
@@ -865,7 +824,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 850,
       "resourceId": 274516,
       "assetId": 274516
     },
@@ -899,7 +858,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 800,
       "resourceId": 274699,
       "assetId": 274699
     },
@@ -940,7 +899,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 650,
       "resourceId": 277283,
       "assetId": 277283
     },
@@ -981,6 +940,7 @@
         79
       ],
       "hasDynamicImage": true,
+      "price": 0,
       "resourceId": 50405533,
       "assetId": 73885
     },
@@ -1017,9 +977,58 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 1000,
       "resourceId": 50406704,
       "assetId": 75056
+    },
+    "50522413": {
+      "name": "Pascal Groß",
+      "cardName": "Groß",
+      "originalVersionId": "3",
+      "clubId": 1808,
+      "leagueId": 13,
+      "countryId": 21,
+      "versionId": "3",
+      "rating": 81,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        11,
+        3,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        149
+      ],
+      "attributes": [
+        70,
+        76,
+        86,
+        81,
+        73,
+        75
+      ],
+      "hasDynamicImage": true,
+      "price": 11000,
+      "resourceId": 50522413,
+      "assetId": 190765
     },
     "50585081": {
       "name": "Femi Azeez",
@@ -1064,7 +1073,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 5900,
+      "price": 1700,
       "resourceId": 50585081,
       "assetId": 253433
     },
@@ -1107,7 +1116,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 1100,
       "resourceId": 50589878,
       "assetId": 258230
     },
@@ -1149,6 +1158,7 @@
         84
       ],
       "hasDynamicImage": true,
+      "price": 0,
       "resourceId": 50606840,
       "assetId": 275192
     },
@@ -1189,7 +1199,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 10000,
+      "price": 11750,
       "resourceId": 67308779,
       "assetId": 199915
     }

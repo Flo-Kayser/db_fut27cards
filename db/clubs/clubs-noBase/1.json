@@ -1,6 +1,47 @@
 {
   "clubName": "Arsenal",
   "players": {
+    "50559326": {
+      "name": "Ezri Konsa",
+      "cardName": "Konsa",
+      "originalVersionId": "22",
+      "clubId": 1,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "22",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        14,
+        17,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        78,
+        58,
+        76,
+        78,
+        88,
+        83
+      ],
+      "hasDynamicImage": true,
+      "price": 102000,
+      "resourceId": 50559326,
+      "assetId": 227678
+    },
     "50588596": {
       "name": "Christos Tzolis",
       "cardName": "Tzolis",
@@ -42,6 +83,7 @@
         73
       ],
       "hasDynamicImage": true,
+      "price": 0,
       "resourceId": 50588596,
       "assetId": 256948
     },
@@ -83,7 +125,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 303000,
+      "price": 259000,
       "resourceId": 67329765,
       "assetId": 220901
     }

@@ -31,7 +31,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 71397,
       "assetId": 71397
     },
@@ -72,7 +72,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 74071,
       "assetId": 74071
     },
@@ -141,7 +141,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 1000,
       "resourceId": 206098,
       "assetId": 206098
     },
@@ -177,7 +177,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 211361,
       "assetId": 211361
     },
@@ -216,7 +216,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 220502,
       "assetId": 220502
     },
@@ -295,7 +295,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 2400,
       "resourceId": 228302,
       "assetId": 228302
     },
@@ -333,7 +333,7 @@
         85
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 232658,
       "assetId": 232658
     },
@@ -372,45 +372,9 @@
         51
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 850,
       "resourceId": 235374,
       "assetId": 235374
-    },
-    "239807": {
-      "name": "Davide Frattesi",
-      "cardName": "Frattesi",
-      "originalVersionId": "0",
-      "clubId": 115841,
-      "leagueId": 31,
-      "countryId": 27,
-      "versionId": "2002",
-      "rating": 80,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CM"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        22,
-        33
-      ],
-      "attributes": [
-        80,
-        77,
-        77,
-        80,
-        73,
-        74
-      ],
-      "hasDynamicImage": false,
-      "price": 700,
-      "resourceId": 239807,
-      "assetId": 239807
     },
     "243237": {
       "name": "Luca Pellegrini",
@@ -444,7 +408,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 600,
       "resourceId": 243237,
       "assetId": 243237
     },
@@ -525,7 +489,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 750,
       "resourceId": 251530,
       "assetId": 251530
     },
@@ -605,7 +569,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 255009,
       "assetId": 255009
     },
@@ -643,7 +607,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 3400,
       "resourceId": 256325,
       "assetId": 256325
     },
@@ -681,7 +645,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 600,
       "resourceId": 258890,
       "assetId": 258890
     },
@@ -717,7 +681,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 650,
       "resourceId": 263929,
       "assetId": 263929
     },
@@ -752,7 +716,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 550,
       "resourceId": 264257,
       "assetId": 264257
     },
@@ -787,7 +751,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 650,
       "resourceId": 266123,
       "assetId": 266123
     },
@@ -821,7 +785,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 200,
       "resourceId": 270217,
       "assetId": 270217
     },
@@ -861,7 +825,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 600,
       "resourceId": 274444,
       "assetId": 274444
     },
@@ -897,7 +861,7 @@
         45
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 600,
       "resourceId": 275163,
       "assetId": 275163
     },
@@ -1005,7 +969,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 2800,
+      "price": 2400,
       "resourceId": 50567490,
       "assetId": 235842
     },
@@ -1046,9 +1010,57 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 50569652,
       "assetId": 238004
+    },
+    "50571455": {
+      "name": "Davide Frattesi",
+      "cardName": "Frattesi",
+      "originalVersionId": "22",
+      "clubId": 115841,
+      "leagueId": 31,
+      "countryId": 27,
+      "versionId": "22",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        13,
+        20,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134
+      ],
+      "attributes": [
+        84,
+        81,
+        81,
+        84,
+        77,
+        78
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 36500,
+      "price": 0,
+      "resourceId": 50571455,
+      "assetId": 239807
     }
   }
 }

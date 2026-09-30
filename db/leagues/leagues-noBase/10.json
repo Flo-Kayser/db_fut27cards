@@ -40,7 +40,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 79000,
+    "price": 66500,
     "resourceId": 5673,
     "assetId": 5673
   },
@@ -88,7 +88,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 76500,
+    "price": 69000,
     "resourceId": 15723,
     "assetId": 15723
   },
@@ -131,8 +131,105 @@
       68
     ],
     "hasDynamicImage": false,
+    "price": 0,
     "resourceId": 172049,
     "assetId": 172049
+  },
+  "50402374": {
+    "name": "Anis Hadj Moussa",
+    "cardName": "Hadj Moussa",
+    "originalVersionId": "3",
+    "clubId": 246,
+    "leagueId": 10,
+    "countryId": 97,
+    "versionId": "3",
+    "rating": 80,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 5,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      12,
+      22,
+      23,
+      25,
+      6,
+      7
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      135,
+      136,
+      137
+    ],
+    "attributes": [
+      82,
+      78,
+      74,
+      88,
+      34,
+      65
+    ],
+    "hasDynamicImage": true,
+    "price": 10250,
+    "resourceId": 50402374,
+    "assetId": 70726
+  },
+  "50592897": {
+    "name": "Édouard Michut",
+    "cardName": "Michut",
+    "originalVersionId": "87",
+    "clubId": 634,
+    "leagueId": 10,
+    "countryId": 18,
+    "versionId": "87",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      11,
+      20,
+      22
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      149
+    ],
+    "attributes": [
+      79,
+      70,
+      81,
+      84,
+      76,
+      77
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50592897,
+    "assetId": 261249
   },
   "50597808": {
     "name": "Mika Mármol",
@@ -177,8 +274,117 @@
       85
     ],
     "hasDynamicImage": true,
+    "price": 0,
     "resourceId": 50597808,
     "assetId": 266160
+  },
+  "50604005": {
+    "name": "Lucas Rosa",
+    "cardName": "Lucas Rosa",
+    "originalVersionId": "87",
+    "clubId": 245,
+    "leagueId": 10,
+    "countryId": 54,
+    "versionId": "87",
+    "rating": 82,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "CDM",
+      "LB",
+      "RB"
+    ],
+    "playStyles": [
+      16,
+      17,
+      22
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      114,
+      115,
+      116,
+      117,
+      146,
+      147,
+      149
+    ],
+    "attributes": [
+      83,
+      53,
+      73,
+      76,
+      78,
+      79
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50604005,
+    "assetId": 272357
+  },
+  "50611456": {
+    "name": "Shunsuke Mito",
+    "cardName": "Mito",
+    "originalVersionId": "87",
+    "clubId": 100646,
+    "leagueId": 10,
+    "countryId": 163,
+    "versionId": "87",
+    "rating": 83,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      25,
+      6,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140
+    ],
+    "attributes": [
+      87,
+      77,
+      75,
+      85,
+      46,
+      66
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50611456,
+    "assetId": 279808
   },
   "67363653": {
     "name": "Sven Mijnans",
@@ -235,7 +441,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 10000,
+    "price": 10750,
     "resourceId": 67363653,
     "assetId": 254789
   }

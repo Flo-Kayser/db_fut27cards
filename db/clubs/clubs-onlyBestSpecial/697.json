@@ -1,4 +1,59 @@
 {
   "clubName": "LA Galaxy",
-  "players": {}
+  "players": {
+    "50519998": {
+      "name": "Marco Reus",
+      "cardName": "Reus",
+      "originalVersionId": "3",
+      "clubId": 697,
+      "leagueId": 39,
+      "countryId": 21,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        0,
+        1,
+        22,
+        7
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        149
+      ],
+      "attributes": [
+        72,
+        83,
+        83,
+        82,
+        55,
+        65
+      ],
+      "hasDynamicImage": true,
+      "price": 10500,
+      "resourceId": 50519998,
+      "assetId": 188350
+    }
+  }
 }

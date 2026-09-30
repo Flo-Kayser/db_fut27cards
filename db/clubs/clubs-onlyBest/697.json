@@ -34,7 +34,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 450,
       "resourceId": 70335,
       "assetId": 70335
     },
@@ -108,7 +108,7 @@
         51
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 77486,
       "assetId": 77486
     },
@@ -145,49 +145,6 @@
       "price": 250,
       "resourceId": 83335,
       "assetId": 83335
-    },
-    "188350": {
-      "name": "Marco Reus",
-      "cardName": "Reus",
-      "originalVersionId": "0",
-      "clubId": 697,
-      "leagueId": 39,
-      "countryId": 21,
-      "versionId": "2002",
-      "rating": 78,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        0,
-        1,
-        22,
-        7
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        16,
-        20,
-        31
-      ],
-      "attributes": [
-        53,
-        81,
-        81,
-        79,
-        52,
-        61
-      ],
-      "hasDynamicImage": false,
-      "price": 700,
-      "resourceId": 188350,
-      "assetId": 188350
     },
     "191648": {
       "name": "Maya Yoshida",
@@ -300,7 +257,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 550,
       "resourceId": 221797,
       "assetId": 221797
     },
@@ -344,7 +301,7 @@
         49
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 1300,
       "resourceId": 221992,
       "assetId": 221992
     },
@@ -383,7 +340,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 750,
       "resourceId": 233400,
       "assetId": 233400
     },
@@ -423,7 +380,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 450,
       "resourceId": 239944,
       "assetId": 239944
     },
@@ -457,7 +414,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 241091,
       "assetId": 241091
     },
@@ -500,7 +457,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 700,
       "resourceId": 241162,
       "assetId": 241162
     },
@@ -536,7 +493,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 650,
       "resourceId": 242703,
       "assetId": 242703
     },
@@ -580,7 +537,7 @@
         44
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 1000,
       "resourceId": 242816,
       "assetId": 242816
     },
@@ -619,7 +576,7 @@
         86
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 550,
       "resourceId": 242998,
       "assetId": 242998
     },
@@ -658,7 +615,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 950,
       "resourceId": 245538,
       "assetId": 245538
     },
@@ -700,7 +657,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 550,
       "resourceId": 247038,
       "assetId": 247038
     },
@@ -738,7 +695,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 600,
       "resourceId": 247308,
       "assetId": 247308
     },
@@ -816,7 +773,7 @@
         38
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 260421,
       "assetId": 260421
     },
@@ -853,7 +810,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 650,
       "resourceId": 273826,
       "assetId": 273826
     },
@@ -889,7 +846,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 274267,
       "assetId": 274267
     },
@@ -925,9 +882,63 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 275032,
       "assetId": 275032
+    },
+    "50519998": {
+      "name": "Marco Reus",
+      "cardName": "Reus",
+      "originalVersionId": "3",
+      "clubId": 697,
+      "leagueId": 39,
+      "countryId": 21,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        0,
+        1,
+        22,
+        7
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        149
+      ],
+      "attributes": [
+        72,
+        83,
+        83,
+        82,
+        55,
+        65
+      ],
+      "hasDynamicImage": true,
+      "price": 10500,
+      "resourceId": 50519998,
+      "assetId": 188350
     },
     "50572096": {
       "name": "Pablo Ruiz",
@@ -961,7 +972,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 450,
       "resourceId": 50572096,
       "assetId": 240448
     }

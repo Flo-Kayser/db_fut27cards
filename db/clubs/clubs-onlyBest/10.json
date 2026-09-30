@@ -33,7 +33,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 5400,
+      "price": 3500,
       "resourceId": 76624,
       "assetId": 76624
     },
@@ -67,7 +67,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 1600,
       "resourceId": 204246,
       "assetId": 204246
     },
@@ -107,7 +107,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 207410,
       "assetId": 207410
     },
@@ -143,7 +143,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 650,
       "resourceId": 215316,
       "assetId": 215316
     },
@@ -179,7 +179,7 @@
         88
       ],
       "hasDynamicImage": false,
-      "price": 72000,
+      "price": 37000,
       "resourceId": 230621,
       "assetId": 230621
     },
@@ -225,7 +225,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 750,
       "resourceId": 237692,
       "assetId": 237692
     },
@@ -269,7 +269,7 @@
         89
       ],
       "hasDynamicImage": false,
-      "price": 227000,
+      "price": 133000,
       "resourceId": 239085,
       "assetId": 239085
     },
@@ -309,7 +309,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 6400,
+      "price": 6600,
       "resourceId": 239818,
       "assetId": 239818
     },
@@ -351,56 +351,9 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 6200,
+      "price": 3000,
       "resourceId": 241159,
       "assetId": 241159
-    },
-    "241236": {
-      "name": "Antoine Semenyo",
-      "cardName": "Semenyo",
-      "originalVersionId": "0",
-      "clubId": 10,
-      "leagueId": 13,
-      "countryId": 117,
-      "versionId": "2002",
-      "rating": 85,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 3,
-      "preferredPosition": "RW",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        19,
-        24,
-        27,
-        29,
-        6
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        26,
-        30,
-        35,
-        39,
-        136
-      ],
-      "attributes": [
-        82,
-        85,
-        79,
-        84,
-        46,
-        80
-      ],
-      "hasDynamicImage": false,
-      "price": 15000,
-      "resourceId": 241236,
-      "assetId": 241236
     },
     "242641": {
       "name": "Rayan Aït-Nouri",
@@ -487,7 +440,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 104000,
+      "price": 57000,
       "resourceId": 246420,
       "assetId": 246420
     },
@@ -529,7 +482,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 20250,
+      "price": 5500,
       "resourceId": 251517,
       "assetId": 251517
     },
@@ -577,7 +530,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 86000,
+      "price": 57000,
       "resourceId": 251570,
       "assetId": 251570
     },
@@ -615,7 +568,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 3200,
+      "price": 900,
       "resourceId": 253124,
       "assetId": 253124
     },
@@ -659,7 +612,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 800,
       "resourceId": 254243,
       "assetId": 254243
     },
@@ -697,7 +650,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 7600,
+      "price": 0,
       "resourceId": 264681,
       "assetId": 264681
     },
@@ -738,7 +691,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 2000,
       "resourceId": 271574,
       "assetId": 271574
     },
@@ -776,7 +729,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 39750,
+      "price": 23000,
       "resourceId": 277031,
       "assetId": 277031
     },
@@ -818,9 +771,65 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 7200,
+      "price": 2000,
       "resourceId": 277427,
       "assetId": 277427
+    },
+    "50572884": {
+      "name": "Antoine Semenyo",
+      "cardName": "Semenyo",
+      "originalVersionId": "3",
+      "clubId": 10,
+      "leagueId": 13,
+      "countryId": 117,
+      "versionId": "3",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        20,
+        24,
+        29,
+        6,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        84,
+        86,
+        81,
+        85,
+        47,
+        82
+      ],
+      "hasDynamicImage": true,
+      "price": 73000,
+      "resourceId": 50572884,
+      "assetId": 241236
     },
     "50578738": {
       "name": "Enzo Fernández",
@@ -861,7 +870,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 4200,
       "resourceId": 50578738,
       "assetId": 247090
     },
@@ -912,6 +921,7 @@
         78
       ],
       "hasDynamicImage": true,
+      "price": 0,
       "resourceId": 50585891,
       "assetId": 254243
     },
@@ -955,7 +965,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 700,
       "resourceId": 50592836,
       "assetId": 261188
     },
@@ -1004,7 +1014,8 @@
         80
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 19800,
+      "sbcPrice": 17300,
+      "price": 0,
       "resourceId": 50610549,
       "assetId": 278901
     }

@@ -1,6 +1,47 @@
 {
   "clubName": "Lombardia FC",
   "players": {
+    "50573384": {
+      "name": "Yann Aurel Bisseck",
+      "cardName": "Bisseck",
+      "originalVersionId": "22",
+      "clubId": 131682,
+      "leagueId": 31,
+      "countryId": 21,
+      "versionId": "22",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        17,
+        28,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        81,
+        64,
+        71,
+        77,
+        84,
+        86
+      ],
+      "hasDynamicImage": true,
+      "price": 68500,
+      "resourceId": 50573384,
+      "assetId": 241736
+    },
     "50575350": {
       "name": "Djed Spence",
       "cardName": "Spence",
@@ -45,6 +86,7 @@
         78
       ],
       "hasDynamicImage": true,
+      "price": 0,
       "resourceId": 50575350,
       "assetId": 243702
     },
@@ -87,7 +129,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 76000,
+      "price": 60500,
       "resourceId": 67336957,
       "assetId": 228093
     }

@@ -33,7 +33,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 950,
       "resourceId": 76416,
       "assetId": 76416
     },
@@ -110,7 +110,7 @@
         49
       ],
       "hasDynamicImage": false,
-      "price": 4000,
+      "price": 750,
       "resourceId": 81844,
       "assetId": 81844
     },
@@ -146,7 +146,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 700,
       "resourceId": 204092,
       "assetId": 204092
     },
@@ -185,7 +185,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 1800,
+      "price": 800,
       "resourceId": 208618,
       "assetId": 208618
     },
@@ -335,7 +335,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 1200,
       "resourceId": 212242,
       "assetId": 212242
     },
@@ -383,7 +383,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 800,
       "resourceId": 228813,
       "assetId": 228813
     },
@@ -508,7 +508,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 236804,
       "assetId": 236804
     },
@@ -553,7 +553,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 237328,
       "assetId": 237328
     },
@@ -633,7 +633,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 1800,
       "resourceId": 247679,
       "assetId": 247679
     },
@@ -673,7 +673,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 950,
       "resourceId": 255106,
       "assetId": 255106
     },
@@ -719,7 +719,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 256853,
       "assetId": 256853
     },
@@ -756,7 +756,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 1500,
       "resourceId": 261865,
       "assetId": 261865
     },
@@ -797,7 +797,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 2300,
+      "price": 1000,
       "resourceId": 262151,
       "assetId": 262151
     },
@@ -836,7 +836,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 270033,
       "assetId": 270033
     },
@@ -920,7 +920,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 273651,
       "assetId": 273651
     },
@@ -964,7 +964,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 650,
       "resourceId": 275029,
       "assetId": 275029
     },
@@ -1005,7 +1005,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 650,
       "resourceId": 276901,
       "assetId": 276901
     },
@@ -1046,6 +1046,7 @@
         80
       ],
       "hasDynamicImage": true,
+      "price": 0,
       "resourceId": 50408064,
       "assetId": 76416
     },
@@ -1092,9 +1093,56 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 750,
       "resourceId": 50573500,
       "assetId": 241852
+    },
+    "50593513": {
+      "name": "Miguel Gutiérrez",
+      "cardName": "Miguel Gutiérrez",
+      "originalVersionId": "3",
+      "clubId": 32,
+      "leagueId": 19,
+      "countryId": 45,
+      "versionId": "3",
+      "rating": 82,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        12,
+        16,
+        17
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        107,
+        108,
+        109,
+        110,
+        127,
+        128,
+        129,
+        130,
+        147
+      ],
+      "attributes": [
+        83,
+        74,
+        82,
+        80,
+        80,
+        74
+      ],
+      "hasDynamicImage": true,
+      "price": 11750,
+      "resourceId": 50593513,
+      "assetId": 261865
     },
     "50606856": {
       "name": "Guéla Doué",
@@ -1132,7 +1180,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 900,
       "resourceId": 50606856,
       "assetId": 275208
     }

@@ -45,7 +45,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 202000,
+    "price": 119000,
     "resourceId": 7743,
     "assetId": 7743
   },
@@ -90,7 +90,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 129000,
+    "price": 89500,
     "resourceId": 39386,
     "assetId": 39386
   },
@@ -137,9 +137,120 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 75000,
+    "price": 49000,
     "resourceId": 155897,
     "assetId": 155897
+  },
+  "50519998": {
+    "name": "Marco Reus",
+    "cardName": "Reus",
+    "originalVersionId": "3",
+    "clubId": 697,
+    "leagueId": 39,
+    "countryId": 21,
+    "versionId": "3",
+    "rating": 80,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      0,
+      1,
+      22,
+      7
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134,
+      149
+    ],
+    "attributes": [
+      72,
+      83,
+      83,
+      82,
+      55,
+      65
+    ],
+    "hasDynamicImage": true,
+    "price": 10500,
+    "resourceId": 50519998,
+    "assetId": 188350
+  },
+  "50558033": {
+    "name": "Cristian Espinoza",
+    "cardName": "Espinoza",
+    "originalVersionId": "87",
+    "clubId": 114162,
+    "leagueId": 39,
+    "countryId": 52,
+    "versionId": "87",
+    "rating": 82,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      12,
+      21,
+      9
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137
+    ],
+    "attributes": [
+      84,
+      76,
+      80,
+      82,
+      55,
+      71
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 3750,
+    "price": 0,
+    "resourceId": 50558033,
+    "assetId": 226385
   },
   "67383910": {
     "name": "Bruno Damiani",
@@ -183,7 +294,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 10000,
+    "price": 11000,
     "resourceId": 67383910,
     "assetId": 275046
   }

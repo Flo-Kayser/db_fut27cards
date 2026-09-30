@@ -1,4 +1,207 @@
 {
+  "199835": {
+    "name": "Emmanuel Emenike",
+    "cardName": "Emenike",
+    "originalVersionId": "9",
+    "clubId": 132794,
+    "leagueId": 68,
+    "countryId": 133,
+    "versionId": "9",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      21,
+      22,
+      6
+    ],
+    "playStylesPlus": [
+      29
+    ],
+    "rolesPlus": [
+      26,
+      30,
+      36,
+      39,
+      141
+    ],
+    "attributes": [
+      88,
+      82,
+      62,
+      80,
+      29,
+      85
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 199835,
+    "assetId": 199835
+  },
+  "50540979": {
+    "name": "Mohamed Salah",
+    "cardName": "Salah",
+    "originalVersionId": "3",
+    "clubId": 436,
+    "leagueId": 68,
+    "countryId": 111,
+    "versionId": "3",
+    "rating": 88,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "CAM",
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      13,
+      20,
+      22,
+      7
+    ],
+    "playStylesPlus": [
+      6
+    ],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      86,
+      84,
+      84,
+      88,
+      46,
+      74
+    ],
+    "hasDynamicImage": true,
+    "price": 165000,
+    "resourceId": 50540979,
+    "assetId": 209331
+  },
+  "50555358": {
+    "name": "Vedat Muriqi",
+    "cardName": "Muriqi",
+    "originalVersionId": "3",
+    "clubId": 326,
+    "leagueId": 68,
+    "countryId": 219,
+    "versionId": "3",
+    "rating": 83,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      2,
+      29,
+      4
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      75,
+      85,
+      70,
+      75,
+      35,
+      85
+    ],
+    "hasDynamicImage": true,
+    "price": 11250,
+    "resourceId": 50555358,
+    "assetId": 223710
+  },
+  "50574893": {
+    "name": "Orkun Kökçü",
+    "cardName": "Kökçü",
+    "originalVersionId": "22",
+    "clubId": 327,
+    "leagueId": 68,
+    "countryId": 48,
+    "versionId": "22",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 3,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      0,
+      10,
+      2,
+      3,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134,
+      149
+    ],
+    "attributes": [
+      77,
+      84,
+      87,
+      84,
+      74,
+      84
+    ],
+    "hasDynamicImage": true,
+    "price": 32000,
+    "resourceId": 50574893,
+    "assetId": 243245
+  },
   "67382428": {
     "name": "Gift Orban",
     "cardName": "Orban",
@@ -36,7 +239,7 @@
       68
     ],
     "hasDynamicImage": true,
-    "price": 11000,
+    "price": 11250,
     "resourceId": 67382428,
     "assetId": 273564
   }

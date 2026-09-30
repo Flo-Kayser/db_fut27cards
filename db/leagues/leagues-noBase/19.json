@@ -40,7 +40,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 267000,
+    "price": 324000,
     "resourceId": 5454,
     "assetId": 5454
   },
@@ -88,7 +88,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 96000,
+    "price": 70500,
     "resourceId": 8473,
     "assetId": 8473
   },
@@ -130,7 +130,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 211000,
+    "price": 132000,
     "resourceId": 10704,
     "assetId": 10704
   },
@@ -175,7 +175,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 57000,
+    "price": 42250,
     "resourceId": 25420,
     "assetId": 25420
   },
@@ -225,7 +225,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 564000,
+    "price": 506000,
     "resourceId": 28765,
     "assetId": 28765
   },
@@ -273,7 +273,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 315000,
+    "price": 285000,
     "resourceId": 81644,
     "assetId": 81644
   },
@@ -316,9 +316,51 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 97000,
+    "price": 64500,
     "resourceId": 150418,
     "assetId": 150418
+  },
+  "164994": {
+    "name": "Jakub Błaszczykowski",
+    "cardName": "Błaszczykowski",
+    "originalVersionId": "9",
+    "clubId": 132794,
+    "leagueId": 19,
+    "countryId": 37,
+    "versionId": "9",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      12,
+      25,
+      26
+    ],
+    "playStylesPlus": [
+      21
+    ],
+    "rolesPlus": [
+      123,
+      135
+    ],
+    "attributes": [
+      93,
+      78,
+      78,
+      84,
+      58,
+      76
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 164994,
+    "assetId": 164994
   },
   "166676": {
     "name": "Rudi Völler",
@@ -360,7 +402,7 @@
       85
     ],
     "hasDynamicImage": false,
-    "price": 510000,
+    "price": 436000,
     "resourceId": 166676,
     "assetId": 166676
   },
@@ -406,7 +448,7 @@
       88
     ],
     "hasDynamicImage": false,
-    "price": 70500,
+    "price": 47250,
     "resourceId": 181783,
     "assetId": 181783
   },
@@ -449,7 +491,7 @@
       90
     ],
     "hasDynamicImage": false,
-    "price": 142000,
+    "price": 107000,
     "resourceId": 261593,
     "assetId": 261593
   },
@@ -490,6 +532,7 @@
       80
     ],
     "hasDynamicImage": true,
+    "price": 0,
     "resourceId": 50408064,
     "assetId": 76416
   },
@@ -530,8 +573,168 @@
       85
     ],
     "hasDynamicImage": true,
+    "price": 0,
     "resourceId": 50568180,
     "assetId": 236532
+  },
+  "50575824": {
+    "name": "Deniz Undav",
+    "cardName": "Undav",
+    "originalVersionId": "22",
+    "clubId": 36,
+    "leagueId": 19,
+    "countryId": 21,
+    "versionId": "22",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      1,
+      29,
+      6,
+      7,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      131,
+      132,
+      133,
+      134,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      75,
+      88,
+      79,
+      85,
+      36,
+      84
+    ],
+    "hasDynamicImage": true,
+    "price": 43500,
+    "resourceId": 50575824,
+    "assetId": 244176
+  },
+  "50579475": {
+    "name": "Michael Olise",
+    "cardName": "Olise",
+    "originalVersionId": "3",
+    "clubId": 21,
+    "leagueId": 19,
+    "countryId": 18,
+    "versionId": "3",
+    "rating": 91,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 5,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "CAM",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      11,
+      12,
+      20,
+      22,
+      23,
+      8
+    ],
+    "playStylesPlus": [
+      0
+    ],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137
+    ],
+    "attributes": [
+      84,
+      84,
+      90,
+      92,
+      48,
+      71
+    ],
+    "hasDynamicImage": true,
+    "price": 1223000,
+    "resourceId": 50579475,
+    "assetId": 247827
+  },
+  "50584757": {
+    "name": "Joey Veerman",
+    "cardName": "Veerman",
+    "originalVersionId": "22",
+    "clubId": 22,
+    "leagueId": 19,
+    "countryId": 34,
+    "versionId": "22",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      0,
+      10,
+      13,
+      22,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134,
+      149
+    ],
+    "attributes": [
+      74,
+      83,
+      88,
+      86,
+      70,
+      76
+    ],
+    "hasDynamicImage": true,
+    "price": 26250,
+    "resourceId": 50584757,
+    "assetId": 253109
   },
   "50591364": {
     "name": "Daniel Svensson",
@@ -580,8 +783,114 @@
       77
     ],
     "hasDynamicImage": true,
+    "price": 0,
     "resourceId": 50591364,
     "assetId": 259716
+  },
+  "50593513": {
+    "name": "Miguel Gutiérrez",
+    "cardName": "Miguel Gutiérrez",
+    "originalVersionId": "3",
+    "clubId": 32,
+    "leagueId": 19,
+    "countryId": 45,
+    "versionId": "3",
+    "rating": 82,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "LB",
+      "LM"
+    ],
+    "playStyles": [
+      12,
+      16,
+      17
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      107,
+      108,
+      109,
+      110,
+      127,
+      128,
+      129,
+      130,
+      147
+    ],
+    "attributes": [
+      83,
+      74,
+      82,
+      80,
+      80,
+      74
+    ],
+    "hasDynamicImage": true,
+    "price": 11750,
+    "resourceId": 50593513,
+    "assetId": 261865
+  },
+  "50594511": {
+    "name": "Antonio Nusa",
+    "cardName": "Nusa",
+    "originalVersionId": "22",
+    "clubId": 112172,
+    "leagueId": 19,
+    "countryId": 36,
+    "versionId": "22",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 5,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      13,
+      20,
+      21,
+      25
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      118,
+      119,
+      120,
+      121,
+      122,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      138,
+      139,
+      140
+    ],
+    "attributes": [
+      88,
+      80,
+      77,
+      88,
+      50,
+      72
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 68000,
+    "price": 0,
+    "resourceId": 50594511,
+    "assetId": 262863
   },
   "50607864": {
     "name": "Ezechiel Banzuzi",
@@ -632,6 +941,7 @@
       81
     ],
     "hasDynamicImage": true,
+    "price": 0,
     "resourceId": 50607864,
     "assetId": 276216
   },
@@ -680,7 +990,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 273000,
+    "price": 208000,
     "resourceId": 67355727,
     "assetId": 246863
   },
@@ -728,7 +1038,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 12000,
+    "price": 13500,
     "resourceId": 67371770,
     "assetId": 262906
   }

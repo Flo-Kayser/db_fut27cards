@@ -1,4 +1,63 @@
 {
   "clubName": "FC Bayern München",
-  "players": {}
+  "players": {
+    "50590935": {
+      "name": "Pernille Harder",
+      "cardName": "Harder",
+      "originalVersionId": "22",
+      "clubId": 115995,
+      "leagueId": 2215,
+      "countryId": 13,
+      "versionId": "22",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        2,
+        20,
+        4,
+        8
+      ],
+      "playStylesPlus": [
+        7
+      ],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        83,
+        83,
+        82,
+        90,
+        29,
+        80
+      ],
+      "hasDynamicImage": true,
+      "price": 108000,
+      "resourceId": 50590935,
+      "assetId": 259287
+    }
+  }
 }

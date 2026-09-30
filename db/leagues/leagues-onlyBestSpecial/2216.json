@@ -38,7 +38,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 99500,
+    "price": 94500,
     "resourceId": 227261,
     "assetId": 227261
   },
@@ -84,7 +84,7 @@
       89
     ],
     "hasDynamicImage": false,
-    "price": 120000,
+    "price": 123000,
     "resourceId": 227262,
     "assetId": 227262
   },
@@ -128,7 +128,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 68500,
+    "price": 75500,
     "resourceId": 227271,
     "assetId": 227271
   },
@@ -185,6 +185,7 @@
       83
     ],
     "hasDynamicImage": true,
+    "price": 0,
     "resourceId": 50596595,
     "assetId": 264947
   },
@@ -230,8 +231,65 @@
       80
     ],
     "hasDynamicImage": true,
+    "price": 0,
     "resourceId": 50596673,
     "assetId": 265025
+  },
+  "50604825": {
+    "name": "Olivia Holdt",
+    "cardName": "Holdt",
+    "originalVersionId": "3",
+    "clubId": 116011,
+    "leagueId": 2216,
+    "countryId": 13,
+    "versionId": "3",
+    "rating": 81,
+    "preferredFoot": "Right",
+    "weakFoot": 2,
+    "skillMoves": 4,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      20,
+      24,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      118,
+      119,
+      120,
+      121,
+      122,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      138,
+      139,
+      140
+    ],
+    "attributes": [
+      78,
+      76,
+      77,
+      81,
+      59,
+      77
+    ],
+    "hasDynamicImage": true,
+    "price": 10000,
+    "resourceId": 50604825,
+    "assetId": 273177
   },
   "67336110": {
     "name": "Lucy Bronze",
@@ -285,7 +343,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 17250,
+    "price": 24500,
     "resourceId": 67336110,
     "assetId": 227246
   }

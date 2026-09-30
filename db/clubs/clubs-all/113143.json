@@ -71,7 +71,7 @@
         47
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 83897,
       "assetId": 83897
     },
@@ -105,7 +105,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 800,
       "resourceId": 83898,
       "assetId": 83898
     },
@@ -179,7 +179,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 550,
       "resourceId": 83900,
       "assetId": 83900
     },
@@ -248,7 +248,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 0,
       "resourceId": 83903,
       "assetId": 83903
     },
@@ -283,7 +283,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 83904,
       "assetId": 83904
     },
@@ -319,7 +319,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 500,
       "resourceId": 83906,
       "assetId": 83906
     },
@@ -353,7 +353,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 83923,
       "assetId": 83923
     },
@@ -393,7 +393,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 84325,
       "assetId": 84325
     },
@@ -466,7 +466,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 85573,
       "assetId": 85573
     },
@@ -500,7 +500,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 86339,
       "assetId": 86339
     },
@@ -534,7 +534,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 500,
       "resourceId": 240662,
       "assetId": 240662
     },
@@ -569,7 +569,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 450,
       "resourceId": 253284,
       "assetId": 253284
     },
@@ -605,7 +605,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 800,
       "resourceId": 254618,
       "assetId": 254618
     },
@@ -643,7 +643,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 255785,
       "assetId": 255785
     },
@@ -683,7 +683,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 500,
       "resourceId": 257211,
       "assetId": 257211
     },
@@ -719,7 +719,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 950,
       "resourceId": 259579,
       "assetId": 259579
     },
@@ -755,7 +755,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 500,
       "resourceId": 259810,
       "assetId": 259810
     },
@@ -793,7 +793,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 900,
       "resourceId": 259928,
       "assetId": 259928
     },
@@ -827,7 +827,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 550,
       "resourceId": 273861,
       "assetId": 273861
     },
@@ -861,7 +861,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 273907,
       "assetId": 273907
     },
@@ -897,9 +897,50 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 450,
       "resourceId": 278176,
       "assetId": 278176
+    },
+    "50591227": {
+      "name": "Salomón Rodríguez",
+      "cardName": "Rodríguez",
+      "originalVersionId": "3",
+      "clubId": 113143,
+      "leagueId": 1014,
+      "countryId": 60,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        29,
+        4,
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        78,
+        82,
+        70,
+        75,
+        43,
+        80
+      ],
+      "hasDynamicImage": true,
+      "price": 10000,
+      "resourceId": 50591227,
+      "assetId": 259579
     }
   }
 }

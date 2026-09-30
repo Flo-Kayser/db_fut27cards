@@ -35,7 +35,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 142000,
+    "price": 118000,
     "resourceId": 1845,
     "assetId": 1845
   },
@@ -84,7 +84,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 330000,
+    "price": 0,
     "resourceId": 84415,
     "assetId": 84415
   },
@@ -129,8 +129,66 @@
       86
     ],
     "hasDynamicImage": false,
-    "price": 110000,
+    "price": 128000,
     "resourceId": 274967,
     "assetId": 274967
+  },
+  "50594511": {
+    "name": "Antonio Nusa",
+    "cardName": "Nusa",
+    "originalVersionId": "22",
+    "clubId": 112172,
+    "leagueId": 19,
+    "countryId": 36,
+    "versionId": "22",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 5,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      13,
+      20,
+      21,
+      25
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      118,
+      119,
+      120,
+      121,
+      122,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      138,
+      139,
+      140
+    ],
+    "attributes": [
+      88,
+      80,
+      77,
+      88,
+      50,
+      72
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 68000,
+    "price": 0,
+    "resourceId": 50594511,
+    "assetId": 262863
   }
 }

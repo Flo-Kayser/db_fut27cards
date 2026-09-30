@@ -1,6 +1,47 @@
 {
   "clubName": "Real Madrid",
   "players": {
+    "50411878": {
+      "name": "Bella Andersson",
+      "cardName": "Andersson",
+      "originalVersionId": "3",
+      "clubId": 116326,
+      "leagueId": 2222,
+      "countryId": 46,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        14,
+        17,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        72,
+        30,
+        62,
+        66,
+        80,
+        84
+      ],
+      "hasDynamicImage": true,
+      "price": 11000,
+      "resourceId": 50411878,
+      "assetId": 80230
+    },
     "50596683": {
       "name": "Elisa Senß",
       "cardName": "Senß",
@@ -50,6 +91,7 @@
         71
       ],
       "hasDynamicImage": true,
+      "price": 0,
       "resourceId": 50596683,
       "assetId": 265035
     }

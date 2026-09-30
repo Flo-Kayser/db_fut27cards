@@ -1,4 +1,53 @@
 {
   "clubName": "Athletic Club",
-  "players": {}
+  "players": {
+    "50611252": {
+      "name": "Jauregizar",
+      "cardName": "Jauregizar",
+      "originalVersionId": "22",
+      "clubId": 448,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "22",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        16,
+        17,
+        26
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        149
+      ],
+      "attributes": [
+        80,
+        77,
+        82,
+        83,
+        84,
+        86
+      ],
+      "hasDynamicImage": true,
+      "price": 101000,
+      "resourceId": 50611252,
+      "assetId": 279604
+    }
+  }
 }

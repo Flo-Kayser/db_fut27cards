@@ -82,7 +82,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 500,
       "resourceId": 70546,
       "assetId": 70546
     },
@@ -118,7 +118,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 84472,
       "assetId": 84472
     },
@@ -161,7 +161,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 600,
       "resourceId": 86396,
       "assetId": 86396
     },
@@ -197,7 +197,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 600,
       "resourceId": 86913,
       "assetId": 86913
     },
@@ -237,7 +237,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 650,
       "resourceId": 226998,
       "assetId": 226998
     },
@@ -282,7 +282,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 850,
       "resourceId": 239345,
       "assetId": 239345
     },
@@ -323,7 +323,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 850,
       "resourceId": 247513,
       "assetId": 247513
     },
@@ -458,57 +458,9 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 10250,
       "resourceId": 248822,
       "assetId": 248822
-    },
-    "259287": {
-      "name": "Pernille Harder",
-      "cardName": "Harder",
-      "originalVersionId": "0",
-      "clubId": 115995,
-      "leagueId": 2215,
-      "countryId": 13,
-      "versionId": "2002",
-      "rating": 87,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "RM",
-        "RW",
-        "ST"
-      ],
-      "playStyles": [
-        2,
-        20,
-        7,
-        8
-      ],
-      "playStylesPlus": [
-        4
-      ],
-      "rolesPlus": [
-        26,
-        31,
-        36,
-        132,
-        143
-      ],
-      "attributes": [
-        82,
-        81,
-        80,
-        88,
-        28,
-        79
-      ],
-      "hasDynamicImage": false,
-      "price": 6700,
-      "resourceId": 259287,
-      "assetId": 259287
     },
     "264886": {
       "name": "Glódís Perla Viggósdóttir",
@@ -545,7 +497,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 264886,
       "assetId": 264886
     },
@@ -585,7 +537,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 650,
       "resourceId": 264890,
       "assetId": 264890
     },
@@ -627,7 +579,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 264903,
       "assetId": 264903
     },
@@ -663,7 +615,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 1200,
       "resourceId": 264908,
       "assetId": 264908
     },
@@ -706,7 +658,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 264933,
       "assetId": 264933
     },
@@ -790,7 +742,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 270525,
       "assetId": 270525
     },
@@ -827,7 +779,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 271860,
       "assetId": 271860
     },
@@ -862,7 +814,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 2200,
+      "price": 1000,
       "resourceId": 273168,
       "assetId": 273168
     },
@@ -896,7 +848,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 500,
       "resourceId": 275968,
       "assetId": 275968
     },
@@ -938,7 +890,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 650,
       "resourceId": 276519,
       "assetId": 276519
     },
@@ -981,7 +933,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 1200,
       "resourceId": 277039,
       "assetId": 277039
     },
@@ -1022,9 +974,67 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 277452,
       "assetId": 277452
+    },
+    "50590935": {
+      "name": "Pernille Harder",
+      "cardName": "Harder",
+      "originalVersionId": "22",
+      "clubId": 115995,
+      "leagueId": 2215,
+      "countryId": 13,
+      "versionId": "22",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        2,
+        20,
+        4,
+        8
+      ],
+      "playStylesPlus": [
+        7
+      ],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        83,
+        83,
+        82,
+        90,
+        29,
+        80
+      ],
+      "hasDynamicImage": true,
+      "price": 108000,
+      "resourceId": 50590935,
+      "assetId": 259287
     }
   }
 }

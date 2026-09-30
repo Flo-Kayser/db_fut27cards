@@ -40,7 +40,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 185000,
+    "price": 184000,
     "resourceId": 1025,
     "assetId": 1025
   },
@@ -82,7 +82,7 @@
       87
     ],
     "hasDynamicImage": false,
-    "price": 605000,
+    "price": 533000,
     "resourceId": 16619,
     "assetId": 16619
   },
@@ -128,7 +128,7 @@
       87
     ],
     "hasDynamicImage": false,
-    "price": 210000,
+    "price": 0,
     "resourceId": 53302,
     "assetId": 53302
   },
@@ -175,7 +175,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 1377000,
+    "price": 1425000,
     "resourceId": 120274,
     "assetId": 120274
   },
@@ -217,7 +217,7 @@
       85
     ],
     "hasDynamicImage": false,
-    "price": 608000,
+    "price": 566000,
     "resourceId": 137186,
     "assetId": 137186
   },
@@ -263,9 +263,101 @@
       81
     ],
     "hasDynamicImage": false,
-    "price": 244000,
+    "price": 226000,
     "resourceId": 138123,
     "assetId": 138123
+  },
+  "169051": {
+    "name": "Fredy Guarín",
+    "cardName": "Guarín",
+    "originalVersionId": "9",
+    "clubId": 132794,
+    "leagueId": 31,
+    "countryId": 56,
+    "versionId": "9",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      26,
+      28,
+      6,
+      9
+    ],
+    "playStylesPlus": [
+      2
+    ],
+    "rolesPlus": [
+      31,
+      118,
+      149
+    ],
+    "attributes": [
+      79,
+      85,
+      82,
+      83,
+      75,
+      88
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 169051,
+    "assetId": 169051
+  },
+  "170733": {
+    "name": "Gervinho",
+    "cardName": "Gervinho",
+    "originalVersionId": "9",
+    "clubId": 132794,
+    "leagueId": 31,
+    "countryId": 108,
+    "versionId": "9",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      23,
+      25,
+      9
+    ],
+    "playStylesPlus": [
+      21
+    ],
+    "rolesPlus": [
+      23,
+      35,
+      39,
+      127,
+      138
+    ],
+    "attributes": [
+      94,
+      76,
+      78,
+      86,
+      40,
+      70
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 170733,
+    "assetId": 170733
   },
   "171877": {
     "name": "Marek Hamšík",
@@ -307,7 +399,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 719000,
+    "price": 503000,
     "resourceId": 171877,
     "assetId": 171877
   },
@@ -353,9 +445,186 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 402000,
+    "price": 329000,
     "resourceId": 173210,
     "assetId": 173210
+  },
+  "180175": {
+    "name": "Alexandre Pato",
+    "cardName": "Alexandre Pato",
+    "originalVersionId": "9",
+    "clubId": 132794,
+    "leagueId": 31,
+    "countryId": 54,
+    "versionId": "9",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      21,
+      22,
+      6
+    ],
+    "playStylesPlus": [
+      25
+    ],
+    "rolesPlus": [
+      26,
+      36,
+      43,
+      141
+    ],
+    "attributes": [
+      90,
+      85,
+      71,
+      86,
+      33,
+      73
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 180175,
+    "assetId": 180175
+  },
+  "188428": {
+    "name": "Seydou Doumbia",
+    "cardName": "Doumbia",
+    "originalVersionId": "9",
+    "clubId": 132794,
+    "leagueId": 31,
+    "countryId": 108,
+    "versionId": "9",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      22,
+      6
+    ],
+    "playStylesPlus": [
+      25
+    ],
+    "rolesPlus": [
+      141
+    ],
+    "attributes": [
+      93,
+      84,
+      68,
+      83,
+      43,
+      75
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 188428,
+    "assetId": 188428
+  },
+  "203551": {
+    "name": "Alessandro Florenzi",
+    "cardName": "Florenzi",
+    "originalVersionId": "9",
+    "clubId": 132794,
+    "leagueId": 31,
+    "countryId": 27,
+    "versionId": "9",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "CM",
+      "LB",
+      "RB",
+      "RM"
+    ],
+    "playStyles": [
+      12,
+      17,
+      6
+    ],
+    "playStylesPlus": [
+      26
+    ],
+    "rolesPlus": [
+      5,
+      18,
+      25,
+      47,
+      146
+    ],
+    "attributes": [
+      86,
+      80,
+      80,
+      82,
+      78,
+      77
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 203551,
+    "assetId": 203551
+  },
+  "204550": {
+    "name": "Víctor Ibarbo",
+    "cardName": "Ibarbo",
+    "originalVersionId": "9",
+    "clubId": 132794,
+    "leagueId": 31,
+    "countryId": 56,
+    "versionId": "9",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      2,
+      21,
+      29
+    ],
+    "playStylesPlus": [
+      25
+    ],
+    "rolesPlus": [
+      26,
+      41,
+      136
+    ],
+    "attributes": [
+      93,
+      81,
+      71,
+      84,
+      42,
+      82
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 204550,
+    "assetId": 204550
   },
   "215732": {
     "name": "Oliver Bierhoff",
@@ -395,7 +664,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 42500,
+    "price": 40500,
     "resourceId": 215732,
     "assetId": 215732
   },
@@ -437,7 +706,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 139000,
+    "price": 116000,
     "resourceId": 233700,
     "assetId": 233700
   },
@@ -479,7 +748,7 @@
       67
     ],
     "hasDynamicImage": false,
-    "price": 116000,
+    "price": 103000,
     "resourceId": 242625,
     "assetId": 242625
   },
@@ -522,7 +791,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 136000,
+    "price": 99500,
     "resourceId": 262271,
     "assetId": 262271
   },
@@ -572,7 +841,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 585000,
+    "price": 496000,
     "resourceId": 274750,
     "assetId": 274750
   },
@@ -617,7 +886,7 @@
       89
     ],
     "hasDynamicImage": false,
-    "price": 578000,
+    "price": 484000,
     "resourceId": 274966,
     "assetId": 274966
   },
@@ -686,9 +955,58 @@
       50
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 19800,
+    "sbcPrice": 17000,
+    "price": 0,
     "resourceId": 50404645,
     "assetId": 72997
+  },
+  "50571455": {
+    "name": "Davide Frattesi",
+    "cardName": "Frattesi",
+    "originalVersionId": "22",
+    "clubId": 115841,
+    "leagueId": 31,
+    "countryId": 27,
+    "versionId": "22",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CM"
+    ],
+    "playStyles": [
+      13,
+      20,
+      9
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134
+    ],
+    "attributes": [
+      84,
+      81,
+      81,
+      84,
+      77,
+      78
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 36500,
+    "price": 0,
+    "resourceId": 50571455,
+    "assetId": 239807
   },
   "50572598": {
     "name": "Pedro Gonçalves",
@@ -740,9 +1058,51 @@
       70
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 19800,
+    "sbcPrice": 17000,
+    "price": 0,
     "resourceId": 50572598,
     "assetId": 240950
+  },
+  "50573384": {
+    "name": "Yann Aurel Bisseck",
+    "cardName": "Bisseck",
+    "originalVersionId": "22",
+    "clubId": 131682,
+    "leagueId": 31,
+    "countryId": 21,
+    "versionId": "22",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      17,
+      28,
+      4
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      111,
+      112,
+      113,
+      148
+    ],
+    "attributes": [
+      81,
+      64,
+      71,
+      77,
+      84,
+      86
+    ],
+    "hasDynamicImage": true,
+    "price": 68500,
+    "resourceId": 50573384,
+    "assetId": 241736
   },
   "50575350": {
     "name": "Djed Spence",
@@ -788,8 +1148,49 @@
       78
     ],
     "hasDynamicImage": true,
+    "price": 0,
     "resourceId": 50575350,
     "assetId": 243702
+  },
+  "50608373": {
+    "name": "Lorenzo Palmisani",
+    "cardName": "Palmisani",
+    "originalVersionId": "3",
+    "clubId": 111657,
+    "leagueId": 31,
+    "countryId": 27,
+    "versionId": "3",
+    "rating": 82,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 1,
+    "preferredPosition": "GK",
+    "possiblePositions": [
+      "GK"
+    ],
+    "playStyles": [
+      30,
+      34,
+      35
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      101,
+      102,
+      145
+    ],
+    "attributes": [
+      82,
+      81,
+      80,
+      84,
+      40,
+      83
+    ],
+    "hasDynamicImage": true,
+    "price": 10750,
+    "resourceId": 50608373,
+    "assetId": 276725
   },
   "67336957": {
     "name": "Marcus Thuram",
@@ -830,7 +1231,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 76000,
+    "price": 60500,
     "resourceId": 67336957,
     "assetId": 228093
   },
@@ -880,7 +1281,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 10500,
+    "price": 11000,
     "resourceId": 67388037,
     "assetId": 279173
   }

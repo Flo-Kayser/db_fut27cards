@@ -361,12 +361,6 @@
       "isWomen": true
     },
     {
-      "id": 2070,
-      "name": "Thailand League",
-      "abbrName": "THA 1",
-      "isWomen": false
-    },
-    {
       "name": "Thailand League",
       "abbrName": "THA 1",
       "id": 2271,
@@ -672,11 +666,6 @@
       "abbrName": "FRO"
     },
     {
-      "name": "Fiji",
-      "abbrName": "FIJ",
-      "id": 197
-    },
-    {
       "id": 17,
       "name": "Finland",
       "abbrName": "FIN"
@@ -890,11 +879,6 @@
       "id": 125,
       "name": "Malawi",
       "abbrName": "MLW"
-    },
-    {
-      "id": 173,
-      "name": "Malaysia",
-      "abbrName": "MLY"
     },
     {
       "id": 126,
@@ -1112,11 +1096,6 @@
       "abbrName": "RSA"
     },
     {
-      "name": "South Sudan",
-      "abbrName": "SSD",
-      "id": 218
-    },
-    {
       "id": 45,
       "name": "Spain",
       "abbrName": "ESP"
@@ -1135,11 +1114,6 @@
       "id": 90,
       "name": "St Lucia",
       "abbrName": "STL"
-    },
-    {
-      "name": "St Vincent Grenadine",
-      "abbrName": "SVG",
-      "id": 91
     },
     {
       "id": 92,
@@ -1165,11 +1139,6 @@
       "name": "São Tomé & Príncipe",
       "abbrName": "STP",
       "id": 135
-    },
-    {
-      "id": 187,
-      "name": "Tajikistan",
-      "abbrName": "TJK"
     },
     {
       "id": 143,
@@ -1240,11 +1209,6 @@
       "id": 61,
       "name": "Venezuela",
       "abbrName": "VEN"
-    },
-    {
-      "name": "Vietnam",
-      "abbrName": "VTN",
-      "id": 192
     },
     {
       "id": 50,
@@ -1335,14 +1299,6 @@
       "id": 132866,
       "league": 2215,
       "isWomen": true
-    },
-    {
-      "id": 33,
-      "name": "1860 München",
-      "abbrName": "TSV",
-      "league": 2076,
-      "isWomen": false,
-      "linkedClubIds": []
     },
     {
       "name": "AC Horsens",
@@ -1477,28 +1433,10 @@
       ]
     },
     {
-      "id": 116044,
-      "name": "AS Saint Étienne",
-      "abbrName": "ASSE",
-      "league": 2218,
-      "isWomen": true,
-      "linkedClubIds": [
-        1819
-      ]
-    },
-    {
       "id": 1819,
       "name": "AS Saint-Étienne",
       "abbrName": "ASSE",
       "league": 17,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
-      "id": 131463,
-      "name": "AVS Futebol SAD",
-      "abbrName": "AFS",
-      "league": 308,
       "isWomen": false,
       "linkedClubIds": []
     },
@@ -1667,25 +1605,9 @@
       "linkedClubIds": []
     },
     {
-      "id": 115892,
-      "name": "Al Najmah",
-      "abbrName": "ALN",
-      "league": 350,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
       "id": 112139,
       "name": "Al Nassr",
       "abbrName": "NAS",
-      "league": 350,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
-      "id": 113060,
-      "name": "Al Okhdood",
-      "abbrName": "OKH",
       "league": 350,
       "isWomen": false,
       "linkedClubIds": []
@@ -1755,36 +1677,12 @@
       "linkedClubIds": []
     },
     {
-      "id": 111448,
-      "name": "Algeria",
-      "abbrName": "ALG",
-      "linkedClubIds": [],
-      "league": 78,
-      "isWomen": false
-    },
-    {
-      "id": 131123,
-      "name": "Alhama CF",
-      "abbrName": "ALH",
-      "league": 2222,
-      "isWomen": true,
-      "linkedClubIds": []
-    },
-    {
       "name": "Alianza Atlético",
       "abbrName": "AAS",
       "linkedClubIds": [],
       "id": 111012,
       "league": 1014,
       "isWomen": false
-    },
-    {
-      "id": 111010,
-      "name": "Alianza Lima",
-      "abbrName": "ALI",
-      "league": 1003,
-      "isWomen": false,
-      "linkedClubIds": []
     },
     {
       "name": "Always Ready",
@@ -1801,14 +1699,6 @@
       "id": 132392,
       "league": 68,
       "isWomen": false
-    },
-    {
-      "id": 1816,
-      "name": "Amiens SC",
-      "abbrName": "ASC",
-      "league": 17,
-      "isWomen": false,
-      "linkedClubIds": []
     },
     {
       "id": 101099,
@@ -1835,14 +1725,6 @@
       "linkedClubIds": []
     },
     {
-      "id": 741,
-      "name": "Antalyaspor",
-      "abbrName": "ANT",
-      "league": 68,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
       "id": 1369,
       "name": "Argentina",
       "abbrName": "ARG",
@@ -1863,14 +1745,6 @@
       "name": "Argentinos Jrs.",
       "abbrName": "ARG",
       "league": 353,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
-      "id": 111082,
-      "name": "Arka Gdynia",
-      "abbrName": "ARK",
-      "league": 66,
       "isWomen": false,
       "linkedClubIds": []
     },
@@ -1989,14 +1863,6 @@
       "id": 101114,
       "league": 341,
       "isWomen": false
-    },
-    {
-      "id": 114598,
-      "name": "Atlético Grau",
-      "abbrName": "GRA",
-      "league": 1014,
-      "isWomen": false,
-      "linkedClubIds": []
     },
     {
       "id": 1035,
@@ -2151,14 +2017,6 @@
       "linkedClubIds": []
     },
     {
-      "id": 1848,
-      "name": "Bari",
-      "abbrName": "BAR",
-      "league": 32,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
       "id": 135,
       "name": "Barnet",
       "abbrName": "BNT",
@@ -2179,14 +2037,6 @@
       "name": "Barracas Central",
       "abbrName": "BAR",
       "league": 353,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
-      "id": 381,
-      "name": "Barrow",
-      "abbrName": "BRW",
-      "league": 61,
       "isWomen": false,
       "linkedClubIds": []
     },
@@ -2299,14 +2149,6 @@
       "linkedClubIds": []
     },
     {
-      "id": 110720,
-      "name": "Blau-Weiss Linz",
-      "abbrName": "BWL",
-      "league": 80,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
       "name": "Blooming",
       "abbrName": "BLO",
       "linkedClubIds": [],
@@ -2361,22 +2203,6 @@
       "league": 19,
       "isWomen": false,
       "linkedClubIds": []
-    },
-    {
-      "id": 105013,
-      "name": "Bosnia-Herzegov",
-      "abbrName": "BIH",
-      "linkedClubIds": [],
-      "league": 78,
-      "isWomen": false
-    },
-    {
-      "id": 114472,
-      "name": "Boston Legacy",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2221,
-      "isWomen": true
     },
     {
       "name": "Boston Legacy",
@@ -2511,34 +2337,10 @@
       "linkedClubIds": []
     },
     {
-      "id": 112510,
-      "name": "Bruk-Bet",
-      "abbrName": "BBT",
-      "league": 66,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
-      "id": 1523,
-      "name": "Bryne FK",
-      "abbrName": "BRY",
-      "league": 41,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
       "id": 269,
       "name": "Brøndby IF",
       "abbrName": "BIF",
       "league": 1,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
-      "id": 112992,
-      "name": "Bucaramanga",
-      "abbrName": "BUC",
-      "league": 1003,
       "isWomen": false,
       "linkedClubIds": []
     },
@@ -2557,14 +2359,6 @@
       "league": 54,
       "isWomen": false,
       "linkedClubIds": []
-    },
-    {
-      "id": 114427,
-      "name": "Buriram United",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2070,
-      "isWomen": false
     },
     {
       "name": "Buriram United",
@@ -2633,14 +2427,6 @@
       "linkedClubIds": []
     },
     {
-      "id": 110069,
-      "name": "CD Mirandés",
-      "abbrName": "MIR",
-      "league": 54,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
       "name": "CD Tenerife",
       "abbrName": "TEN",
       "linkedClubIds": [
@@ -2649,14 +2435,6 @@
       "id": 260,
       "league": 54,
       "isWomen": false
-    },
-    {
-      "id": 112516,
-      "name": "CD Tondela",
-      "abbrName": "TON",
-      "league": 308,
-      "isWomen": false,
-      "linkedClubIds": []
     },
     {
       "name": "CE Sabadell",
@@ -2691,14 +2469,6 @@
       "linkedClubIds": []
     },
     {
-      "id": 111456,
-      "name": "Cabo Verde",
-      "abbrName": "CPV",
-      "linkedClubIds": [],
-      "league": 78,
-      "isWomen": false
-    },
-    {
       "id": 1842,
       "name": "Cagliari Calcio",
       "abbrName": "CAG",
@@ -2731,14 +2501,6 @@
       "linkedClubIds": []
     },
     {
-      "id": 111455,
-      "name": "Canada",
-      "abbrName": "CAN",
-      "linkedClubIds": [],
-      "league": 78,
-      "isWomen": false
-    },
-    {
       "id": 110991,
       "name": "Carabobo FC",
       "abbrName": "CBB",
@@ -2760,14 +2522,6 @@
       "abbrName": "CAR",
       "league": 14,
       "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
-      "id": 116005,
-      "name": "Carl Zeiss Jena",
-      "abbrName": "FCC",
-      "league": 2215,
-      "isWomen": true,
       "linkedClubIds": []
     },
     {
@@ -2843,14 +2597,6 @@
       "linkedClubIds": []
     },
     {
-      "id": 115536,
-      "name": "Cerro Largo",
-      "abbrName": "CER",
-      "league": 1014,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
       "id": 112716,
       "name": "Cerro Porteño",
       "abbrName": "CCP",
@@ -2863,14 +2609,6 @@
       "name": "Cesena",
       "abbrName": "CES",
       "league": 32,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
-      "id": 111769,
-      "name": "Changchun Yatai",
-      "abbrName": "CCYT",
-      "league": 2012,
       "isWomen": false,
       "linkedClubIds": []
     },
@@ -2974,14 +2712,6 @@
       "id": 111459,
       "name": "Chile",
       "abbrName": "CHI",
-      "linkedClubIds": [],
-      "league": 78,
-      "isWomen": false
-    },
-    {
-      "id": 1413,
-      "name": "China PR",
-      "abbrName": "CHN",
       "linkedClubIds": [],
       "league": 78,
       "isWomen": false
@@ -3099,14 +2829,6 @@
       "linkedClubIds": []
     },
     {
-      "id": 110980,
-      "name": "Colo-Colo",
-      "abbrName": "COL",
-      "league": 1003,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
       "id": 111109,
       "name": "Colombia",
       "abbrName": "COL",
@@ -3159,14 +2881,6 @@
       "name": "Corinthians",
       "abbrName": "COR",
       "league": 1003,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
-      "id": 422,
-      "name": "Cork City",
-      "abbrName": "COR",
-      "league": 65,
       "isWomen": false,
       "linkedClubIds": []
     },
@@ -3255,14 +2969,6 @@
       "isWomen": true
     },
     {
-      "id": 15012,
-      "name": "Cultural Leonesa",
-      "abbrName": "CLE",
-      "league": 54,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
       "name": "Cusco FC",
       "abbrName": "CUS",
       "linkedClubIds": [],
@@ -3295,14 +3001,6 @@
       "linkedClubIds": []
     },
     {
-      "id": 111112,
-      "name": "Côte d'Ivoire",
-      "abbrName": "CIV",
-      "linkedClubIds": [],
-      "league": 78,
-      "isWomen": false
-    },
-    {
       "id": 463,
       "name": "D. Alavés",
       "abbrName": "ALA",
@@ -3331,14 +3029,6 @@
       "linkedClubIds": []
     },
     {
-      "id": 2056,
-      "name": "Daegu FC",
-      "abbrName": "DG",
-      "league": 83,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
       "id": 980,
       "name": "Daejeon Hana",
       "abbrName": "DJ",
@@ -3351,14 +3041,6 @@
       "name": "Dalian Yingbo",
       "abbrName": "DLY",
       "league": 2012,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
-      "id": 113217,
-      "name": "Damac",
-      "abbrName": "DMC",
-      "league": 350,
       "isWomen": false,
       "linkedClubIds": []
     },
@@ -3395,14 +3077,6 @@
       "linkedClubIds": []
     },
     {
-      "id": 114473,
-      "name": "Denver Summit",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2221,
-      "isWomen": true
-    },
-    {
       "name": "Denver Summit",
       "abbrName": "DEN",
       "linkedClubIds": [],
@@ -3431,22 +3105,6 @@
       "name": "Dep. Riestra",
       "abbrName": "RIE",
       "league": 353,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
-      "id": 110990,
-      "name": "Dep. Táchira",
-      "abbrName": "TAC",
-      "league": 1003,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
-      "id": 112531,
-      "name": "Deportes Iquique",
-      "abbrName": "CDI",
-      "league": 1014,
       "isWomen": false,
       "linkedClubIds": []
     },
@@ -3481,14 +3139,6 @@
       "id": 110569,
       "league": 17,
       "isWomen": false
-    },
-    {
-      "id": 116039,
-      "name": "Dijon FCO",
-      "abbrName": "DFCO",
-      "league": 2218,
-      "isWomen": true,
-      "linkedClubIds": []
     },
     {
       "id": 211,
@@ -3585,22 +3235,6 @@
       "league": 16,
       "isWomen": false,
       "linkedClubIds": []
-    },
-    {
-      "id": 111629,
-      "name": "East Bengal",
-      "abbrName": "EB",
-      "league": 2149,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
-      "id": 111465,
-      "name": "Ecuador",
-      "abbrName": "ECU",
-      "linkedClubIds": [],
-      "league": 78,
-      "isWomen": false
     },
     {
       "id": 111130,
@@ -3759,14 +3393,6 @@
       "linkedClubIds": []
     },
     {
-      "id": 111334,
-      "name": "FBC Melgar",
-      "abbrName": "MEL",
-      "league": 1014,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
       "id": 717,
       "name": "FC Alverca",
       "abbrName": "ALV",
@@ -3895,14 +3521,6 @@
       "linkedClubIds": []
     },
     {
-      "id": 506,
-      "name": "FC Erzgebirge Aue",
-      "abbrName": "AUE",
-      "league": 2076,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
       "id": 112809,
       "name": "FC Famalicão",
       "abbrName": "FAM",
@@ -3916,14 +3534,6 @@
       "abbrName": "FCF",
       "league": 2218,
       "isWomen": true,
-      "linkedClubIds": []
-    },
-    {
-      "id": 15006,
-      "name": "FC Fredericia",
-      "abbrName": "FCF",
-      "league": 1,
-      "isWomen": false,
       "linkedClubIds": []
     },
     {
@@ -3947,14 +3557,6 @@
       "name": "FC Hansa Rostock",
       "abbrName": "FCH",
       "league": 2076,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
-      "id": 114147,
-      "name": "FC Hermannstadt",
-      "abbrName": "FCH",
-      "league": 330,
       "isWomen": false,
       "linkedClubIds": []
     },
@@ -3995,14 +3597,6 @@
       "name": "FC Luzern",
       "abbrName": "LUZ",
       "league": 189,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
-      "id": 114545,
-      "name": "FC Metaloglobus",
-      "abbrName": "MGB",
-      "league": 330,
       "isWomen": false,
       "linkedClubIds": []
     },
@@ -4091,14 +3685,6 @@
       "linkedClubIds": []
     },
     {
-      "id": 583,
-      "name": "FC Schweinfurt 05",
-      "abbrName": "S05",
-      "league": 2076,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
       "id": 982,
       "name": "FC Seoul",
       "abbrName": "FCS",
@@ -4183,28 +3769,12 @@
       "isWomen": false
     },
     {
-      "id": 645,
-      "name": "FC Volendam",
-      "abbrName": "VOL",
-      "league": 10,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
       "name": "FC Voluntari",
       "abbrName": "FCV",
       "linkedClubIds": [],
       "id": 113182,
       "league": 330,
       "isWomen": false
-    },
-    {
-      "id": 1713,
-      "name": "FC Winterthur",
-      "abbrName": "WIN",
-      "league": 189,
-      "isWomen": false,
-      "linkedClubIds": []
     },
     {
       "id": 894,
@@ -4243,14 +3813,6 @@
       "isWomen": false
     },
     {
-      "id": 537,
-      "name": "FCV Dender EH",
-      "abbrName": "DEN",
-      "league": 4,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
       "id": 256,
       "name": "FK Austria Wien",
       "abbrName": "FAK",
@@ -4271,14 +3833,6 @@
       "name": "FK Csíkszereda",
       "abbrName": "FKCS",
       "league": 330,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
-      "id": 1463,
-      "name": "FK Haugesund",
-      "abbrName": "FKH",
-      "league": 41,
       "isWomen": false,
       "linkedClubIds": []
     },
@@ -4358,14 +3912,6 @@
       "id": 567,
       "name": "Fluminense",
       "abbrName": "FLU",
-      "league": 1003,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
-      "id": 111052,
-      "name": "Fortaleza",
-      "abbrName": "FOR",
       "league": 1003,
       "isWomen": false,
       "linkedClubIds": []
@@ -4475,14 +4021,6 @@
       "name": "GKS Katowice",
       "abbrName": "GKS",
       "league": 66,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
-      "id": 132375,
-      "name": "GV San José",
-      "abbrName": "GVS",
-      "league": 1014,
       "isWomen": false,
       "linkedClubIds": []
     },
@@ -4631,14 +4169,6 @@
       "linkedClubIds": []
     },
     {
-      "id": 111706,
-      "name": "Godoy Cruz",
-      "abbrName": "GOD",
-      "league": 353,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
       "id": 116310,
       "name": "Gotham FC",
       "abbrName": "GFC",
@@ -4707,14 +4237,6 @@
       "linkedClubIds": []
     },
     {
-      "id": 111329,
-      "name": "Guaraní",
-      "abbrName": "GUA",
-      "league": 1014,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
       "id": 112258,
       "name": "Gwangju FC",
       "abbrName": "GJ",
@@ -4761,14 +4283,6 @@
       "league": 322,
       "isWomen": false,
       "linkedClubIds": []
-    },
-    {
-      "id": 112048,
-      "name": "Haiti",
-      "abbrName": "HAI",
-      "linkedClubIds": [],
-      "league": 78,
-      "isWomen": false
     },
     {
       "id": 263,
@@ -4831,14 +4345,6 @@
       "linkedClubIds": []
     },
     {
-      "id": 112222,
-      "name": "Harrogate Town",
-      "abbrName": "HGT",
-      "league": 61,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
       "id": 116416,
       "name": "Havre AC",
       "abbrName": "HAC",
@@ -4887,14 +4393,6 @@
       "name": "Henan FC",
       "abbrName": "HNFC",
       "league": 2012,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
-      "id": 100634,
-      "name": "Heracles Almelo",
-      "abbrName": "HER",
-      "league": 10,
       "isWomen": false,
       "linkedClubIds": []
     },
@@ -5002,22 +4500,6 @@
       "id": 319,
       "name": "IFK Göteborg",
       "abbrName": "GÖT",
-      "league": 56,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
-      "id": 702,
-      "name": "IFK Norrköping",
-      "abbrName": "NOR",
-      "league": 56,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
-      "id": 112126,
-      "name": "IFK Värnamo",
-      "abbrName": "VÄR",
       "league": 56,
       "isWomen": false,
       "linkedClubIds": []
@@ -5143,28 +4625,12 @@
       "linkedClubIds": []
     },
     {
-      "id": 1048,
-      "name": "Internacional",
-      "abbrName": "INT",
-      "league": 1003,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
       "id": 94,
       "name": "Ipswich",
       "abbrName": "IPS",
       "league": 13,
       "isWomen": false,
       "linkedClubIds": []
-    },
-    {
-      "id": 111512,
-      "name": "Iraq",
-      "abbrName": "IRQ",
-      "linkedClubIds": [],
-      "league": 78,
-      "isWomen": false
     },
     {
       "id": 1355,
@@ -5229,14 +4695,6 @@
       "league": 83,
       "isWomen": false,
       "linkedClubIds": []
-    },
-    {
-      "id": 111513,
-      "name": "Jordan",
-      "abbrName": "JOR",
-      "linkedClubIds": [],
-      "league": 78,
-      "isWomen": false
     },
     {
       "name": "Junior",
@@ -5347,14 +4805,6 @@
       "isWomen": false
     },
     {
-      "id": 111117,
-      "name": "Karagümrük SK",
-      "abbrName": "FKG",
-      "league": 68,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
       "id": 1832,
       "name": "Karlsruher SC",
       "abbrName": "KSC",
@@ -5366,14 +4816,6 @@
       "id": 111339,
       "name": "Kasımpaşa",
       "abbrName": "KSP",
-      "league": 68,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
-      "id": 101020,
-      "name": "Kayserispor",
-      "abbrName": "KAY",
       "league": 68,
       "isWomen": false,
       "linkedClubIds": []
@@ -5515,14 +4957,6 @@
       "linkedClubIds": []
     },
     {
-      "id": 111091,
-      "name": "Lechia Gdańsk",
-      "abbrName": "LGD",
-      "league": 66,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
       "id": 8,
       "name": "Leeds United",
       "abbrName": "LEE",
@@ -5537,16 +4971,6 @@
       "league": 66,
       "isWomen": false,
       "linkedClubIds": []
-    },
-    {
-      "id": 116020,
-      "name": "Leicester City",
-      "abbrName": "LEI",
-      "league": 2216,
-      "isWomen": true,
-      "linkedClubIds": [
-        95
-      ]
     },
     {
       "id": 95,
@@ -5573,16 +4997,6 @@
       "league": 53,
       "isWomen": false,
       "linkedClubIds": []
-    },
-    {
-      "id": 116333,
-      "name": "Levante UD",
-      "abbrName": "LUD",
-      "league": 2222,
-      "isWomen": true,
-      "linkedClubIds": [
-        1853
-      ]
     },
     {
       "id": 115996,
@@ -5663,14 +5077,6 @@
       "linkedClubIds": [
         116343
       ]
-    },
-    {
-      "id": 621,
-      "name": "Livingston",
-      "abbrName": "LIV",
-      "league": 50,
-      "isWomen": false,
-      "linkedClubIds": []
     },
     {
       "id": 132629,
@@ -5841,14 +5247,6 @@
       "isWomen": false
     },
     {
-      "id": 114628,
-      "name": "Meizhou Hakka FC",
-      "abbrName": "MZH",
-      "league": 2012,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
       "id": 111397,
       "name": "Melb. Victory",
       "abbrName": "MVC",
@@ -5945,14 +5343,6 @@
       "linkedClubIds": []
     },
     {
-      "id": 111633,
-      "name": "Mohammedan SC",
-      "abbrName": "MSC",
-      "league": 2149,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
       "id": 113146,
       "name": "Mohun Bagan SG",
       "abbrName": "MB",
@@ -6037,14 +5427,6 @@
       "linkedClubIds": []
     },
     {
-      "id": 114615,
-      "name": "Mushuc Runa",
-      "abbrName": "MUS",
-      "league": 1014,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
       "id": 573,
       "name": "Málaga CF",
       "abbrName": "MGA",
@@ -6056,14 +5438,6 @@
       "id": 1910,
       "name": "N.E.C. Nijmegen",
       "abbrName": "NEC",
-      "league": 10,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
-      "id": 1904,
-      "name": "NAC Breda",
-      "abbrName": "NAC",
       "league": 10,
       "isWomen": false,
       "linkedClubIds": []
@@ -6089,14 +5463,6 @@
       "name": "Nacional",
       "abbrName": "NAC",
       "league": 1003,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
-      "id": 112667,
-      "name": "Nacional Potosí",
-      "abbrName": "POT",
-      "league": 1014,
       "isWomen": false,
       "linkedClubIds": []
     },
@@ -6355,14 +5721,6 @@
       "isWomen": false
     },
     {
-      "id": 101106,
-      "name": "Once Caldas",
-      "abbrName": "ONC",
-      "league": 1014,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
       "id": 112606,
       "name": "Orlando City",
       "abbrName": "ORL",
@@ -6475,14 +5833,6 @@
       "linkedClubIds": []
     },
     {
-      "id": 111475,
-      "name": "Panama",
-      "abbrName": "PAN",
-      "linkedClubIds": [],
-      "league": 78,
-      "isWomen": false
-    },
-    {
       "id": 1884,
       "name": "Panathinaikos",
       "abbrName": "PAO",
@@ -6557,14 +5907,6 @@
       "linkedClubIds": [],
       "league": 78,
       "isWomen": false
-    },
-    {
-      "id": 200,
-      "name": "Pescara",
-      "abbrName": "PES",
-      "league": 32,
-      "isWomen": false,
-      "linkedClubIds": []
     },
     {
       "id": 1938,
@@ -6963,14 +6305,6 @@
       "linkedClubIds": []
     },
     {
-      "id": 112615,
-      "name": "Racing Club",
-      "abbrName": "RCM",
-      "league": 1014,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
       "id": 101085,
       "name": "Racing Club",
       "abbrName": "RAC",
@@ -7093,14 +6427,6 @@
       "linkedClubIds": []
     },
     {
-      "id": 244,
-      "name": "Real Zaragoza",
-      "abbrName": "ZAR",
-      "league": 54,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
       "name": "Recoleta",
       "abbrName": "REC",
       "linkedClubIds": [],
@@ -7121,14 +6447,6 @@
       "name": "Red Star FC",
       "abbrName": "RED",
       "league": 17,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
-      "id": 110740,
-      "name": "Reggiana",
-      "abbrName": "REG",
-      "league": 32,
       "isWomen": false,
       "linkedClubIds": []
     },
@@ -7237,14 +6555,6 @@
       "isWomen": false
     },
     {
-      "id": 58,
-      "name": "SC Bastia",
-      "abbrName": "SCB",
-      "league": 17,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
       "id": 1896,
       "name": "SC Braga",
       "abbrName": "BRA",
@@ -7339,22 +6649,6 @@
       "linkedClubIds": [
         467
       ]
-    },
-    {
-      "id": 110839,
-      "name": "SD Huesca",
-      "abbrName": "HUE",
-      "league": 54,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
-      "id": 116001,
-      "name": "SGS Essen",
-      "abbrName": "SGS",
-      "league": 2215,
-      "isWomen": true,
-      "linkedClubIds": []
     },
     {
       "id": 111928,
@@ -7461,14 +6755,6 @@
       "linkedClubIds": []
     },
     {
-      "id": 110176,
-      "name": "SSV Ulm 1846",
-      "abbrName": "ULM",
-      "league": 2076,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
       "id": 110502,
       "name": "SV Darmstadt 98",
       "abbrName": "SVD",
@@ -7569,14 +6855,6 @@
       "linkedClubIds": []
     },
     {
-      "id": 131795,
-      "name": "San Antonio",
-      "abbrName": "SAN",
-      "league": 1003,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
       "id": 131439,
       "name": "San Diego FC",
       "abbrName": "SD",
@@ -7596,14 +6874,6 @@
       "id": 1013,
       "name": "San Lorenzo",
       "abbrName": "SLO",
-      "league": 353,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
-      "id": 111713,
-      "name": "San Martín",
-      "abbrName": "SMA",
       "league": 353,
       "isWomen": false,
       "linkedClubIds": []
@@ -7665,14 +6935,6 @@
       "linkedClubIds": []
     },
     {
-      "id": 114422,
-      "name": "Saudi Arabia",
-      "abbrName": "KSA",
-      "linkedClubIds": [],
-      "league": 78,
-      "isWomen": false
-    },
-    {
       "id": 111114,
       "name": "Saudi Arabia",
       "abbrName": "KSA",
@@ -7705,14 +6967,6 @@
       "linkedClubIds": [
         111144
       ]
-    },
-    {
-      "id": 1667,
-      "name": "Senegal",
-      "abbrName": "SEN",
-      "linkedClubIds": [],
-      "league": 78,
-      "isWomen": false
     },
     {
       "name": "Sepsi OSK",
@@ -7877,14 +7131,6 @@
       ]
     },
     {
-      "id": 111099,
-      "name": "South Africa",
-      "abbrName": "RSA",
-      "linkedClubIds": [],
-      "league": 78,
-      "isWomen": false
-    },
-    {
       "id": 17,
       "name": "Southampton",
       "abbrName": "SOU",
@@ -7933,14 +7179,6 @@
       "linkedClubIds": []
     },
     {
-      "id": 113974,
-      "name": "Spezia",
-      "abbrName": "SPE",
-      "league": 32,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
       "id": 237,
       "name": "Sporting CP",
       "abbrName": "SPO",
@@ -7961,14 +7199,6 @@
       "name": "Sporting KC",
       "abbrName": "SKC",
       "league": 39,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
-      "id": 111006,
-      "name": "Sportivo Luqueño",
-      "abbrName": "LUQ",
-      "league": 1014,
       "isWomen": false,
       "linkedClubIds": []
     },
@@ -8101,26 +7331,10 @@
       ]
     },
     {
-      "id": 922,
-      "name": "Strømsgodset IF",
-      "abbrName": "SIF",
-      "league": 41,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
       "id": 106,
       "name": "Sunderland",
       "abbrName": "SUN",
       "league": 13,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
-      "id": 112558,
-      "name": "Suwon FC",
-      "abbrName": "SWF",
-      "league": 83,
       "isWomen": false,
       "linkedClubIds": []
     },
@@ -8341,36 +7555,12 @@
       "linkedClubIds": []
     },
     {
-      "id": 1391,
-      "name": "Tunisia",
-      "abbrName": "TUN",
-      "linkedClubIds": [],
-      "league": 78,
-      "isWomen": false
-    },
-    {
       "id": 1365,
       "name": "Türkiye",
       "abbrName": "TUR",
       "linkedClubIds": [],
       "league": 78,
       "isWomen": false
-    },
-    {
-      "id": 114581,
-      "name": "U. Católica",
-      "abbrName": "UCA",
-      "league": 1014,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
-      "id": 15029,
-      "name": "U. de Chile",
-      "abbrName": "UCH",
-      "league": 1003,
-      "isWomen": false,
-      "linkedClubIds": []
     },
     {
       "name": "UCV FC",
@@ -8489,14 +7679,6 @@
       ]
     },
     {
-      "id": 131459,
-      "name": "Unirea Slobozia",
-      "abbrName": "SLO",
-      "league": 330,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
       "id": 1387,
       "name": "United States",
       "abbrName": "USA",
@@ -8541,14 +7723,6 @@
       "name": "Unión",
       "abbrName": "UNI",
       "league": 353,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
-      "id": 110977,
-      "name": "Unión Española",
-      "abbrName": "UES",
-      "league": 1014,
       "isWomen": false,
       "linkedClubIds": []
     },
@@ -9419,14 +8593,6 @@
       ]
     },
     {
-      "id": 111485,
-      "name": "Uzbekistan",
-      "abbrName": "UZB",
-      "linkedClubIds": [],
-      "league": 78,
-      "isWomen": false
-    },
-    {
       "id": 461,
       "name": "Valencia CF",
       "abbrName": "VAL",
@@ -9451,14 +8617,6 @@
       "name": "Vasco da Gama",
       "abbrName": "VAS",
       "league": 1014,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
-      "id": 822,
-      "name": "Vejle Boldklub",
-      "abbrName": "VB",
-      "league": 1,
       "isWomen": false,
       "linkedClubIds": []
     },
@@ -9599,14 +8757,6 @@
       "linkedClubIds": []
     },
     {
-      "id": 1719,
-      "name": "Vitória",
-      "abbrName": "VIT",
-      "league": 1014,
-      "isWomen": false,
-      "linkedClubIds": []
-    },
-    {
       "id": 1887,
       "name": "Vitória SC",
       "abbrName": "VIT",
@@ -9737,14 +8887,6 @@
       "linkedClubIds": [
         116014
       ]
-    },
-    {
-      "id": 114023,
-      "name": "Western United",
-      "abbrName": "WUN",
-      "league": 351,
-      "isWomen": false,
-      "linkedClubIds": []
     },
     {
       "id": 101112,
@@ -9913,14 +9055,6 @@
       "id": 706,
       "league": 56,
       "isWomen": false
-    },
-    {
-      "id": 1870,
-      "name": "Östers IF",
-      "abbrName": "ÖIF",
-      "league": 56,
-      "isWomen": false,
-      "linkedClubIds": []
     },
     {
       "name": "Śląsk Wrocław",

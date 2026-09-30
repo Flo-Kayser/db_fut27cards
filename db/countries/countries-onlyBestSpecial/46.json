@@ -43,7 +43,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 112000,
+    "price": 90500,
     "resourceId": 6975,
     "assetId": 6975
   },
@@ -87,7 +87,7 @@
       89
     ],
     "hasDynamicImage": false,
-    "price": 3427000,
+    "price": 3401000,
     "resourceId": 41236,
     "assetId": 41236
   },
@@ -135,7 +135,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 1308000,
+    "price": 1064000,
     "resourceId": 226369,
     "assetId": 226369
   },
@@ -181,7 +181,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 675000,
+    "price": 662000,
     "resourceId": 226975,
     "assetId": 226975
   },
@@ -223,9 +223,50 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 300000,
+    "price": 216000,
     "resourceId": 239261,
     "assetId": 239261
+  },
+  "50411878": {
+    "name": "Bella Andersson",
+    "cardName": "Andersson",
+    "originalVersionId": "3",
+    "clubId": 116326,
+    "leagueId": 2222,
+    "countryId": 46,
+    "versionId": "3",
+    "rating": 80,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      14,
+      17,
+      9
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      111,
+      112,
+      113,
+      148
+    ],
+    "attributes": [
+      72,
+      30,
+      62,
+      66,
+      80,
+      84
+    ],
+    "hasDynamicImage": true,
+    "price": 11000,
+    "resourceId": 50411878,
+    "assetId": 80230
   },
   "50552469": {
     "name": "Carl Starfelt",
@@ -264,6 +305,7 @@
       83
     ],
     "hasDynamicImage": true,
+    "price": 0,
     "resourceId": 50552469,
     "assetId": 220821
   },
@@ -304,8 +346,54 @@
       76
     ],
     "hasDynamicImage": true,
+    "price": 0,
     "resourceId": 50553308,
     "assetId": 221660
+  },
+  "50565379": {
+    "name": "Alexander Isak",
+    "cardName": "Isak",
+    "originalVersionId": "22",
+    "clubId": 9,
+    "leagueId": 13,
+    "countryId": 46,
+    "versionId": "22",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      2,
+      21,
+      6,
+      7
+    ],
+    "playStylesPlus": [
+      22
+    ],
+    "rolesPlus": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      83,
+      89,
+      75,
+      85,
+      40,
+      75
+    ],
+    "hasDynamicImage": true,
+    "price": 580000,
+    "resourceId": 50565379,
+    "assetId": 233731
   },
   "50591364": {
     "name": "Daniel Svensson",
@@ -354,6 +442,7 @@
       77
     ],
     "hasDynamicImage": true,
+    "price": 0,
     "resourceId": 50591364,
     "assetId": 259716
   }

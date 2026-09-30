@@ -31,7 +31,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 650,
       "resourceId": 74754,
       "assetId": 74754
     },
@@ -66,7 +66,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 800,
       "resourceId": 75725,
       "assetId": 75725
     },
@@ -102,7 +102,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 1000,
       "resourceId": 75726,
       "assetId": 75726
     },
@@ -172,7 +172,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 900,
       "resourceId": 79219,
       "assetId": 79219
     },
@@ -206,7 +206,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 79410,
       "assetId": 79410
     },
@@ -282,7 +282,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 600,
       "resourceId": 244058,
       "assetId": 244058
     },
@@ -320,7 +320,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 650,
       "resourceId": 244064,
       "assetId": 244064
     },
@@ -360,7 +360,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 262458,
       "assetId": 262458
     },
@@ -398,7 +398,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 950,
       "resourceId": 264233,
       "assetId": 264233
     },
@@ -439,7 +439,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 264950,
       "assetId": 264950
     },
@@ -521,7 +521,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 650,
       "resourceId": 265246,
       "assetId": 265246
     },
@@ -566,7 +566,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 265258,
       "assetId": 265258
     },
@@ -612,7 +612,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 650,
       "resourceId": 265274,
       "assetId": 265274
     },
@@ -647,7 +647,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 650,
       "resourceId": 265408,
       "assetId": 265408
     },
@@ -688,7 +688,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 950,
       "resourceId": 266598,
       "assetId": 266598
     },
@@ -725,51 +725,9 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 266939,
       "assetId": 266939
-    },
-    "273177": {
-      "name": "Olivia Holdt",
-      "cardName": "Holdt",
-      "originalVersionId": "0",
-      "clubId": 116011,
-      "leagueId": 2216,
-      "countryId": 13,
-      "versionId": "2002",
-      "rating": 79,
-      "preferredFoot": "Right",
-      "weakFoot": 2,
-      "skillMoves": 4,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "LM",
-        "LW"
-      ],
-      "playStyles": [
-        1
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        21,
-        30,
-        31,
-        39
-      ],
-      "attributes": [
-        74,
-        73,
-        72,
-        78,
-        57,
-        72
-      ],
-      "hasDynamicImage": false,
-      "price": 700,
-      "resourceId": 273177,
-      "assetId": 273177
     },
     "274644": {
       "name": "Clare Hunt",
@@ -804,7 +762,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 650,
       "resourceId": 274644,
       "assetId": 274644
     },
@@ -839,7 +797,7 @@
         47
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 200,
       "resourceId": 276726,
       "assetId": 276726
     },
@@ -878,7 +836,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 600,
       "resourceId": 277966,
       "assetId": 277966
     },
@@ -918,9 +876,65 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 600,
       "resourceId": 279885,
       "assetId": 279885
+    },
+    "50604825": {
+      "name": "Olivia Holdt",
+      "cardName": "Holdt",
+      "originalVersionId": "3",
+      "clubId": 116011,
+      "leagueId": 2216,
+      "countryId": 13,
+      "versionId": "3",
+      "rating": 81,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        20,
+        24,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        78,
+        76,
+        77,
+        81,
+        59,
+        77
+      ],
+      "hasDynamicImage": true,
+      "price": 10000,
+      "resourceId": 50604825,
+      "assetId": 273177
     }
   }
 }

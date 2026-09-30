@@ -1,4 +1,67 @@
 {
   "clubName": "Cardiff City",
-  "players": {}
+  "players": {
+    "50593509": {
+      "name": "Jack Moylan",
+      "cardName": "Moylan",
+      "originalVersionId": "3",
+      "clubId": 1961,
+      "leagueId": 14,
+      "countryId": 25,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        25,
+        6,
+        7
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        138,
+        139,
+        140,
+        149
+      ],
+      "attributes": [
+        84,
+        80,
+        79,
+        81,
+        57,
+        75
+      ],
+      "hasDynamicImage": true,
+      "price": 10500,
+      "resourceId": 50593509,
+      "assetId": 261861
+    }
+  }
 }

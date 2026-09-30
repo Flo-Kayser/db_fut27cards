@@ -1,4 +1,50 @@
 {
   "clubName": "Liverpool",
-  "players": {}
+  "players": {
+    "50565379": {
+      "name": "Alexander Isak",
+      "cardName": "Isak",
+      "originalVersionId": "22",
+      "clubId": 9,
+      "leagueId": 13,
+      "countryId": 46,
+      "versionId": "22",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        2,
+        21,
+        6,
+        7
+      ],
+      "playStylesPlus": [
+        22
+      ],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        83,
+        89,
+        75,
+        85,
+        40,
+        75
+      ],
+      "hasDynamicImage": true,
+      "price": 580000,
+      "resourceId": 50565379,
+      "assetId": 233731
+    }
+  }
 }

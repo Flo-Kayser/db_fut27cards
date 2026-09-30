@@ -35,7 +35,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 75012,
       "assetId": 75012
     },
@@ -71,7 +71,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 76242,
       "assetId": 76242
     },
@@ -107,7 +107,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 500,
       "resourceId": 76929,
       "assetId": 76929
     },
@@ -141,7 +141,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 77690,
       "assetId": 77690
     },
@@ -176,7 +176,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 6400,
       "resourceId": 80230,
       "assetId": 80230
     },
@@ -212,7 +212,7 @@
         45
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 250,
       "resourceId": 81549,
       "assetId": 81549
     },
@@ -247,7 +247,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 1600,
       "resourceId": 85272,
       "assetId": 85272
     },
@@ -291,7 +291,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 900,
       "resourceId": 227327,
       "assetId": 227327
     },
@@ -334,7 +334,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 227344,
       "assetId": 227344
     },
@@ -382,7 +382,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 9900,
+      "price": 9500,
       "resourceId": 240717,
       "assetId": 240717
     },
@@ -419,7 +419,7 @@
         85
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 247789,
       "assetId": 247789
     },
@@ -464,7 +464,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 10500,
+      "price": 5400,
       "resourceId": 259372,
       "assetId": 259372
     },
@@ -514,7 +514,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 261843,
       "assetId": 261843
     },
@@ -598,7 +598,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 1500,
       "resourceId": 264725,
       "assetId": 264725
     },
@@ -637,7 +637,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 650,
       "resourceId": 264946,
       "assetId": 264946
     },
@@ -678,7 +678,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 1300,
       "resourceId": 265024,
       "assetId": 265024
     },
@@ -720,7 +720,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 850,
       "resourceId": 265035,
       "assetId": 265035
     },
@@ -799,7 +799,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 650,
       "resourceId": 265849,
       "assetId": 265849
     },
@@ -839,7 +839,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 271944,
       "assetId": 271944
     },
@@ -888,7 +888,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 31500,
+      "price": 19000,
       "resourceId": 273153,
       "assetId": 273153
     },
@@ -928,7 +928,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 600,
       "resourceId": 277952,
       "assetId": 277952
     },
@@ -966,9 +966,50 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 279107,
       "assetId": 279107
+    },
+    "50411878": {
+      "name": "Bella Andersson",
+      "cardName": "Andersson",
+      "originalVersionId": "3",
+      "clubId": 116326,
+      "leagueId": 2222,
+      "countryId": 46,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        14,
+        17,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        72,
+        30,
+        62,
+        66,
+        80,
+        84
+      ],
+      "hasDynamicImage": true,
+      "price": 11000,
+      "resourceId": 50411878,
+      "assetId": 80230
     },
     "50596683": {
       "name": "Elisa Senß",
@@ -1019,6 +1060,7 @@
         71
       ],
       "hasDynamicImage": true,
+      "price": 0,
       "resourceId": 50596683,
       "assetId": 265035
     },
@@ -1061,7 +1103,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 850,
       "resourceId": 50598581,
       "assetId": 266933
     }

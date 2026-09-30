@@ -1,4 +1,61 @@
 {
   "clubName": "Spurs",
-  "players": {}
+  "players": {
+    "50604825": {
+      "name": "Olivia Holdt",
+      "cardName": "Holdt",
+      "originalVersionId": "3",
+      "clubId": 116011,
+      "leagueId": 2216,
+      "countryId": 13,
+      "versionId": "3",
+      "rating": 81,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        20,
+        24,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        78,
+        76,
+        77,
+        81,
+        59,
+        77
+      ],
+      "hasDynamicImage": true,
+      "price": 10000,
+      "resourceId": 50604825,
+      "assetId": 273177
+    }
+  }
 }

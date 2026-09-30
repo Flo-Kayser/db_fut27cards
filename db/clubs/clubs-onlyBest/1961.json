@@ -37,7 +37,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 600,
       "resourceId": 70026,
       "assetId": 70026
     },
@@ -72,7 +72,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 850,
       "resourceId": 72046,
       "assetId": 72046
     },
@@ -108,7 +108,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 750,
       "resourceId": 75296,
       "assetId": 75296
     },
@@ -146,7 +146,7 @@
         37
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 81755,
       "assetId": 81755
     },
@@ -185,7 +185,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 800,
       "resourceId": 205989,
       "assetId": 205989
     },
@@ -223,7 +223,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 600,
       "resourceId": 206518,
       "assetId": 206518
     },
@@ -265,7 +265,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 1100,
       "resourceId": 223905,
       "assetId": 223905
     },
@@ -306,7 +306,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 450,
       "resourceId": 225785,
       "assetId": 225785
     },
@@ -341,7 +341,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 750,
       "resourceId": 231185,
       "assetId": 231185
     },
@@ -383,7 +383,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 750,
       "resourceId": 234111,
       "assetId": 234111
     },
@@ -420,7 +420,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 1700,
+      "price": 1000,
       "resourceId": 238060,
       "assetId": 238060
     },
@@ -460,7 +460,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 900,
       "resourceId": 256510,
       "assetId": 256510
     },
@@ -495,7 +495,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 600,
       "resourceId": 256611,
       "assetId": 256611
     },
@@ -533,7 +533,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 750,
       "resourceId": 257437,
       "assetId": 257437
     },
@@ -577,7 +577,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 650,
       "resourceId": 257438,
       "assetId": 257438
     },
@@ -619,54 +619,9 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 450,
       "resourceId": 259677,
       "assetId": 259677
-    },
-    "261861": {
-      "name": "Jack Moylan",
-      "cardName": "Moylan",
-      "originalVersionId": "0",
-      "clubId": 1961,
-      "leagueId": 14,
-      "countryId": 25,
-      "versionId": "2001",
-      "rating": 69,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CDM",
-        "CM",
-        "LM",
-        "LW"
-      ],
-      "playStyles": [
-        6,
-        7
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        18,
-        30,
-        34,
-        39,
-        49
-      ],
-      "attributes": [
-        73,
-        68,
-        66,
-        68,
-        46,
-        64
-      ],
-      "hasDynamicImage": false,
-      "price": 1100,
-      "resourceId": 261861,
-      "assetId": 261861
     },
     "263775": {
       "name": "Yousef Salech",
@@ -702,7 +657,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 650,
       "resourceId": 263775,
       "assetId": 263775
     },
@@ -812,7 +767,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 500,
       "resourceId": 277584,
       "assetId": 277584
     },
@@ -882,7 +837,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 278894,
       "assetId": 278894
     },
@@ -923,9 +878,71 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 550,
       "resourceId": 50556411,
       "assetId": 224763
+    },
+    "50593509": {
+      "name": "Jack Moylan",
+      "cardName": "Moylan",
+      "originalVersionId": "3",
+      "clubId": 1961,
+      "leagueId": 14,
+      "countryId": 25,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        25,
+        6,
+        7
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        138,
+        139,
+        140,
+        149
+      ],
+      "attributes": [
+        84,
+        80,
+        79,
+        81,
+        57,
+        75
+      ],
+      "hasDynamicImage": true,
+      "price": 10500,
+      "resourceId": 50593509,
+      "assetId": 261861
     }
   }
 }

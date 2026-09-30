@@ -31,7 +31,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 850,
       "resourceId": 206585,
       "assetId": 206585
     },
@@ -70,7 +70,7 @@
         86
       ],
       "hasDynamicImage": false,
-      "price": 81500,
+      "price": 31750,
       "resourceId": 220901,
       "assetId": 220901
     },
@@ -113,7 +113,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 6300,
+      "price": 4600,
       "resourceId": 222665,
       "assetId": 222665
     },
@@ -154,7 +154,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 850,
       "resourceId": 225193,
       "assetId": 225193
     },
@@ -191,7 +191,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 1700,
+      "price": 1400,
       "resourceId": 227678,
       "assetId": 227678
     },
@@ -273,7 +273,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 19000,
+      "price": 22000,
       "resourceId": 232580,
       "assetId": 232580
     },
@@ -316,7 +316,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 12000,
+      "price": 8900,
       "resourceId": 234378,
       "assetId": 234378
     },
@@ -361,7 +361,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 650,
       "resourceId": 235790,
       "assetId": 235790
     },
@@ -409,7 +409,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 900,
       "resourceId": 235794,
       "assetId": 235794
     },
@@ -450,7 +450,7 @@
         87
       ],
       "hasDynamicImage": false,
-      "price": 19500,
+      "price": 10750,
       "resourceId": 241651,
       "assetId": 241651
     },
@@ -486,7 +486,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 3100,
       "resourceId": 242656,
       "assetId": 242656
     },
@@ -526,7 +526,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 139000,
+      "price": 77500,
       "resourceId": 243715,
       "assetId": 243715
     },
@@ -569,7 +569,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 7600,
+      "price": 6500,
       "resourceId": 246669,
       "assetId": 246669
     },
@@ -613,7 +613,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 4700,
+      "price": 4200,
       "resourceId": 247851,
       "assetId": 247851
     },
@@ -696,7 +696,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 2100,
+      "price": 750,
       "resourceId": 251805,
       "assetId": 251805
     },
@@ -736,7 +736,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 700,
       "resourceId": 254796,
       "assetId": 254796
     },
@@ -778,7 +778,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 13500,
+      "price": 3500,
       "resourceId": 256197,
       "assetId": 256197
     },
@@ -818,7 +818,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 256948,
       "assetId": 256948
     },
@@ -859,7 +859,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 257711,
       "assetId": 257711
     },
@@ -895,7 +895,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 1700,
       "resourceId": 264846,
       "assetId": 264846
     },
@@ -935,9 +935,50 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 950,
       "resourceId": 278773,
       "assetId": 278773
+    },
+    "50559326": {
+      "name": "Ezri Konsa",
+      "cardName": "Konsa",
+      "originalVersionId": "22",
+      "clubId": 1,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "22",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        14,
+        17,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        78,
+        58,
+        76,
+        78,
+        88,
+        83
+      ],
+      "hasDynamicImage": true,
+      "price": 102000,
+      "resourceId": 50559326,
+      "assetId": 227678
     },
     "50588596": {
       "name": "Christos Tzolis",
@@ -980,6 +1021,7 @@
         73
       ],
       "hasDynamicImage": true,
+      "price": 0,
       "resourceId": 50588596,
       "assetId": 256948
     },
@@ -1021,7 +1063,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 303000,
+      "price": 259000,
       "resourceId": 67329765,
       "assetId": 220901
     }

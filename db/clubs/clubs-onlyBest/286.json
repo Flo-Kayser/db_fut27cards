@@ -172,7 +172,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 77144,
       "assetId": 77144
     },
@@ -212,7 +212,7 @@
         42
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 78064,
       "assetId": 78064
     },
@@ -246,7 +246,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 82777,
       "assetId": 82777
     },
@@ -280,7 +280,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 86023,
       "assetId": 86023
     },
@@ -349,7 +349,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 86028,
       "assetId": 86028
     },
@@ -451,7 +451,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 700,
       "resourceId": 190058,
       "assetId": 190058
     },
@@ -485,7 +485,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 193665,
       "assetId": 193665
     },
@@ -523,7 +523,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 750,
       "resourceId": 206249,
       "assetId": 206249
     },
@@ -557,7 +557,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 450,
       "resourceId": 209458,
       "assetId": 209458
     },
@@ -591,7 +591,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 244090,
       "assetId": 244090
     },
@@ -626,7 +626,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 244978,
       "assetId": 244978
     },
@@ -664,7 +664,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 251689,
       "assetId": 251689
     },
@@ -702,7 +702,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 252295,
       "assetId": 252295
     },
@@ -773,7 +773,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 256706,
       "assetId": 256706
     },
@@ -811,7 +811,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 600,
       "resourceId": 256981,
       "assetId": 256981
     },
@@ -852,7 +852,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 257183,
       "assetId": 257183
     },
@@ -889,7 +889,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 258005,
       "assetId": 258005
     },
@@ -924,7 +924,7 @@
         43
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 263656,
       "assetId": 263656
     },
@@ -963,6 +963,74 @@
       "price": 250,
       "resourceId": 276009,
       "assetId": 276009
+    },
+    "50521706": {
+      "name": "Dejan Sorgić",
+      "cardName": "Sorgić",
+      "originalVersionId": "0",
+      "clubId": 286,
+      "leagueId": 189,
+      "countryId": 51,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        42
+      ],
+      "attributes": [
+        58,
+        69,
+        62,
+        69,
+        41,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 500,
+      "resourceId": 50521706,
+      "assetId": 190058
+    },
+    "50541106": {
+      "name": "Denis Simani",
+      "cardName": "Simani",
+      "originalVersionId": "0",
+      "clubId": 286,
+      "leagueId": 189,
+      "countryId": 47,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        46,
+        55,
+        49,
+        49,
+        63,
+        77
+      ],
+      "hasDynamicImage": false,
+      "price": 550,
+      "resourceId": 50541106,
+      "assetId": 209458
     }
   }
 }
