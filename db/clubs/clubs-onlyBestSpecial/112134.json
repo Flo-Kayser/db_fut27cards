@@ -1,6 +1,61 @@
 {
   "clubName": "Philadelphia",
   "players": {
+    "50586923": {
+      "name": "Milan Iloski",
+      "cardName": "Iloski",
+      "originalVersionId": "3",
+      "clubId": 112134,
+      "leagueId": 39,
+      "countryId": 95,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        2,
+        6,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        86,
+        80,
+        70,
+        81,
+        32,
+        66
+      ],
+      "hasDynamicImage": true,
+      "price": 10750,
+      "resourceId": 50586923,
+      "assetId": 255275
+    },
     "67383910": {
       "name": "Bruno Damiani",
       "cardName": "Damiani",
@@ -43,7 +98,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 11000,
+      "price": 10500,
       "resourceId": 67383910,
       "assetId": 275046
     }

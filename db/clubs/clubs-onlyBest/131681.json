@@ -31,7 +31,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 300,
       "resourceId": 72179,
       "assetId": 72179
     },
@@ -69,7 +69,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 74510,
       "assetId": 74510
     },
@@ -105,55 +105,9 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 850,
       "resourceId": 80597,
       "assetId": 80597
-    },
-    "177003": {
-      "name": "Luka Modrić",
-      "cardName": "Modrić",
-      "originalVersionId": "0",
-      "clubId": 131681,
-      "leagueId": 31,
-      "countryId": 10,
-      "versionId": "2002",
-      "rating": 85,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        10,
-        11,
-        14,
-        16,
-        20
-      ],
-      "playStylesPlus": [
-        13
-      ],
-      "rolesPlus": [
-        16,
-        31,
-        121
-      ],
-      "attributes": [
-        65,
-        75,
-        87,
-        86,
-        73,
-        59
-      ],
-      "hasDynamicImage": false,
-      "price": 2800,
-      "resourceId": 177003,
-      "assetId": 177003
     },
     "205812": {
       "name": "Pietro Terracciano",
@@ -185,7 +139,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 1800,
+      "price": 2000,
       "resourceId": 205812,
       "assetId": 205812
     },
@@ -224,7 +178,7 @@
         85
       ],
       "hasDynamicImage": false,
-      "price": 2600,
+      "price": 2900,
       "resourceId": 210008,
       "assetId": 210008
     },
@@ -300,7 +254,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 12000,
+      "price": 11250,
       "resourceId": 215698,
       "assetId": 215698
     },
@@ -345,7 +299,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 7000,
+      "price": 5800,
       "resourceId": 227796,
       "assetId": 227796
     },
@@ -418,7 +372,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 850,
       "resourceId": 237942,
       "assetId": 237942
     },
@@ -495,7 +449,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 242664,
       "assetId": 242664
     },
@@ -539,7 +493,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 1000,
       "resourceId": 246172,
       "assetId": 246172
     },
@@ -575,7 +529,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 1000,
       "resourceId": 253177,
       "assetId": 253177
     },
@@ -613,7 +567,7 @@
         86
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 1700,
       "resourceId": 254840,
       "assetId": 254840
     },
@@ -689,7 +643,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 3600,
+      "price": 4200,
       "resourceId": 257186,
       "assetId": 257186
     },
@@ -726,7 +680,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 550,
       "resourceId": 257353,
       "assetId": 257353
     },
@@ -764,7 +718,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 1400,
       "resourceId": 265774,
       "assetId": 265774
     },
@@ -802,7 +756,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 268804,
       "assetId": 268804
     },
@@ -888,7 +842,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 700,
       "resourceId": 271579,
       "assetId": 271579
     },
@@ -924,7 +878,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 600,
       "resourceId": 278237,
       "assetId": 278237
     },
@@ -963,7 +917,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 278326,
       "assetId": 278326
     },
@@ -997,9 +951,66 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 650,
       "resourceId": 279202,
       "assetId": 279202
+    },
+    "50508651": {
+      "name": "Luka Modrić",
+      "cardName": "Modrić",
+      "originalVersionId": "3",
+      "clubId": 131681,
+      "leagueId": 31,
+      "countryId": 10,
+      "versionId": "3",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        11,
+        14,
+        16,
+        20
+      ],
+      "playStylesPlus": [
+        13
+      ],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        149
+      ],
+      "attributes": [
+        75,
+        77,
+        88,
+        87,
+        74,
+        65
+      ],
+      "hasDynamicImage": true,
+      "price": 99000,
+      "resourceId": 50508651,
+      "assetId": 177003
     },
     "50591793": {
       "name": "Omari Hutchinson",
@@ -1038,7 +1049,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 1400,
       "resourceId": 50591793,
       "assetId": 260145
     }

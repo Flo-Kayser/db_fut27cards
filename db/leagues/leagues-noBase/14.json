@@ -1,4 +1,54 @@
 {
+  "50586853": {
+    "name": "Sebastian Berhalter",
+    "cardName": "Berhalter",
+    "originalVersionId": "3",
+    "clubId": 12,
+    "leagueId": 14,
+    "countryId": 95,
+    "versionId": "3",
+    "rating": 80,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      10,
+      12,
+      2,
+      26,
+      3
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      149
+    ],
+    "attributes": [
+      77,
+      70,
+      82,
+      75,
+      75,
+      82
+    ],
+    "hasDynamicImage": true,
+    "price": 10750,
+    "resourceId": 50586853,
+    "assetId": 255205
+  },
   "50593509": {
     "name": "Jack Moylan",
     "cardName": "Moylan",
@@ -57,8 +107,54 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 10250,
+    "price": 10750,
     "resourceId": 50593509,
     "assetId": 261861
+  },
+  "50594290": {
+    "name": "Zeki Amdouni",
+    "cardName": "Amdouni",
+    "originalVersionId": "3",
+    "clubId": 1796,
+    "leagueId": 14,
+    "countryId": 47,
+    "versionId": "3",
+    "rating": 80,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "ST"
+    ],
+    "playStyles": [
+      20,
+      6,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      131,
+      132,
+      133,
+      134,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      78,
+      82,
+      78,
+      84,
+      52,
+      72
+    ],
+    "hasDynamicImage": true,
+    "price": 10750,
+    "resourceId": 50594290,
+    "assetId": 262642
   }
 }

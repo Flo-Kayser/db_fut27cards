@@ -45,7 +45,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 120000,
+    "price": 122000,
     "resourceId": 7743,
     "assetId": 7743
   },
@@ -84,7 +84,7 @@
       84
     ],
     "hasDynamicImage": false,
-    "price": 65500,
+    "price": 56500,
     "resourceId": 16254,
     "assetId": 16254
   },
@@ -129,7 +129,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 89500,
+    "price": 87000,
     "resourceId": 39386,
     "assetId": 39386
   },
@@ -176,7 +176,7 @@
       81
     ],
     "hasDynamicImage": false,
-    "price": 413000,
+    "price": 400000,
     "resourceId": 71608,
     "assetId": 71608
   },
@@ -223,7 +223,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 46750,
+    "price": 42750,
     "resourceId": 155897,
     "assetId": 155897
   },
@@ -268,7 +268,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 3099000,
+    "price": 2839000,
     "resourceId": 226301,
     "assetId": 226301
   },
@@ -318,7 +318,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 1391000,
+    "price": 1250000,
     "resourceId": 226330,
     "assetId": 226330
   },
@@ -365,9 +365,114 @@
       81
     ],
     "hasDynamicImage": false,
-    "price": 7247000,
+    "price": 7883000,
     "resourceId": 275243,
     "assetId": 275243
+  },
+  "50586853": {
+    "name": "Sebastian Berhalter",
+    "cardName": "Berhalter",
+    "originalVersionId": "3",
+    "clubId": 12,
+    "leagueId": 14,
+    "countryId": 95,
+    "versionId": "3",
+    "rating": 80,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      10,
+      12,
+      2,
+      26,
+      3
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      149
+    ],
+    "attributes": [
+      77,
+      70,
+      82,
+      75,
+      75,
+      82
+    ],
+    "hasDynamicImage": true,
+    "price": 10750,
+    "resourceId": 50586853,
+    "assetId": 255205
+  },
+  "50586923": {
+    "name": "Milan Iloski",
+    "cardName": "Iloski",
+    "originalVersionId": "3",
+    "clubId": 112134,
+    "leagueId": 39,
+    "countryId": 95,
+    "versionId": "3",
+    "rating": 80,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      2,
+      6,
+      9
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      86,
+      80,
+      70,
+      81,
+      32,
+      66
+    ],
+    "hasDynamicImage": true,
+    "price": 10750,
+    "resourceId": 50586923,
+    "assetId": 255275
   },
   "50595660": {
     "name": "Sophia Wilson",
@@ -414,7 +519,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 831000,
+    "price": 846000,
     "resourceId": 50595660,
     "assetId": 264012
   },
@@ -521,5 +626,61 @@
     "price": 0,
     "resourceId": 67335194,
     "assetId": 226330
+  },
+  "67379904": {
+    "name": "Jaedyn Shaw",
+    "cardName": "Shaw",
+    "originalVersionId": "3",
+    "clubId": 116310,
+    "leagueId": 2221,
+    "countryId": 95,
+    "versionId": "3",
+    "rating": 82,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      22,
+      8,
+      9
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      85,
+      78,
+      82,
+      84,
+      46,
+      71
+    ],
+    "hasDynamicImage": true,
+    "price": 10500,
+    "resourceId": 67379904,
+    "assetId": 271040
   }
 }

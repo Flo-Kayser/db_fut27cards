@@ -31,7 +31,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 650,
       "resourceId": 206585,
       "assetId": 206585
     },
@@ -70,7 +70,7 @@
         86
       ],
       "hasDynamicImage": false,
-      "price": 32250,
+      "price": 30500,
       "resourceId": 220901,
       "assetId": 220901
     },
@@ -191,7 +191,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 1800,
       "resourceId": 227678,
       "assetId": 227678
     },
@@ -229,7 +229,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 700,
       "resourceId": 231936,
       "assetId": 231936
     },
@@ -273,7 +273,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 21750,
+      "price": 18500,
       "resourceId": 232580,
       "assetId": 232580
     },
@@ -316,7 +316,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 10250,
+      "price": 8800,
       "resourceId": 234378,
       "assetId": 234378
     },
@@ -361,7 +361,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 235790,
       "assetId": 235790
     },
@@ -409,7 +409,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 950,
       "resourceId": 235794,
       "assetId": 235794
     },
@@ -450,7 +450,7 @@
         87
       ],
       "hasDynamicImage": false,
-      "price": 10750,
+      "price": 11250,
       "resourceId": 241651,
       "assetId": 241651
     },
@@ -486,7 +486,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 3200,
+      "price": 4200,
       "resourceId": 242656,
       "assetId": 242656
     },
@@ -526,7 +526,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 78000,
+      "price": 83500,
       "resourceId": 243715,
       "assetId": 243715
     },
@@ -569,7 +569,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 6600,
+      "price": 5900,
       "resourceId": 246669,
       "assetId": 246669
     },
@@ -613,7 +613,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 4300,
+      "price": 3700,
       "resourceId": 247851,
       "assetId": 247851
     },
@@ -652,7 +652,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 248148,
       "assetId": 248148
     },
@@ -696,7 +696,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 800,
       "resourceId": 251805,
       "assetId": 251805
     },
@@ -778,7 +778,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 3800,
+      "price": 2900,
       "resourceId": 256197,
       "assetId": 256197
     },
@@ -859,7 +859,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 650,
       "resourceId": 257711,
       "assetId": 257711
     },
@@ -895,7 +895,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 1700,
+      "price": 2500,
       "resourceId": 264846,
       "assetId": 264846
     },
@@ -935,9 +935,59 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 1000,
       "resourceId": 278773,
       "assetId": 278773
+    },
+    "50554313": {
+      "name": "Martin Ødegaard",
+      "cardName": "Ødegaard",
+      "originalVersionId": "3",
+      "clubId": 1,
+      "leagueId": 13,
+      "countryId": 36,
+      "versionId": "3",
+      "rating": 87,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 5,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        13,
+        20,
+        22,
+        9
+      ],
+      "playStylesPlus": [
+        8
+      ],
+      "rolesPlus": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134
+      ],
+      "attributes": [
+        76,
+        80,
+        89,
+        88,
+        67,
+        68
+      ],
+      "hasDynamicImage": true,
+      "price": 181000,
+      "resourceId": 50554313,
+      "assetId": 222665
     },
     "50559326": {
       "name": "Ezri Konsa",
@@ -979,6 +1029,50 @@
       "price": 102000,
       "resourceId": 50559326,
       "assetId": 227678
+    },
+    "50573299": {
+      "name": "Viktor Gyökeres",
+      "cardName": "Gyökeres",
+      "originalVersionId": "3",
+      "clubId": 1,
+      "leagueId": 13,
+      "countryId": 46,
+      "versionId": "3",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        2,
+        24,
+        29,
+        5,
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        83,
+        88,
+        74,
+        80,
+        45,
+        88
+      ],
+      "hasDynamicImage": true,
+      "price": 123000,
+      "resourceId": 50573299,
+      "assetId": 241651
     },
     "50588596": {
       "name": "Christos Tzolis",
@@ -1063,7 +1157,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 254000,
+      "price": 262000,
       "resourceId": 67329765,
       "assetId": 220901
     }

@@ -38,7 +38,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 2271000,
+    "price": 0,
     "resourceId": 9676,
     "assetId": 9676
   },
@@ -82,5 +82,60 @@
     "price": 0,
     "resourceId": 50408064,
     "assetId": 76416
+  },
+  "50571279": {
+    "name": "Danny Namaso",
+    "cardName": "Namaso",
+    "originalVersionId": "3",
+    "clubId": 57,
+    "leagueId": 16,
+    "countryId": 103,
+    "versionId": "3",
+    "rating": 80,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      12,
+      20,
+      6
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      86,
+      78,
+      70,
+      84,
+      31,
+      77
+    ],
+    "hasDynamicImage": true,
+    "price": 14000,
+    "resourceId": 50571279,
+    "assetId": 239631
   }
 }

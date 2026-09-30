@@ -1,4 +1,54 @@
 {
   "clubName": "Fulham",
-  "players": {}
+  "players": {
+    "50608343": {
+      "name": "Shea Charles",
+      "cardName": "Charles",
+      "originalVersionId": "3",
+      "clubId": 144,
+      "leagueId": 13,
+      "countryId": 35,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        14,
+        16,
+        24,
+        3
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        149
+      ],
+      "attributes": [
+        74,
+        71,
+        80,
+        78,
+        77,
+        83
+      ],
+      "hasDynamicImage": true,
+      "price": 10750,
+      "resourceId": 50608343,
+      "assetId": 276695
+    }
+  }
 }
