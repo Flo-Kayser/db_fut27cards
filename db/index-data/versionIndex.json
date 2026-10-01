@@ -52,6 +52,19 @@
         "tertiaryColor": "#1ad9a9"
       }
     },
+    "42": {
+      "count": 1,
+      "file": "db/versions/42.json",
+      "details": {
+        "name": "POTM Bundesliga",
+        "hasStrip": true,
+        "createdAt": "2026-09-16T16:58:30.722Z",
+        "url": "https://assets.easysbc.io/fc27/cards/e_42_0.png",
+        "primaryColor": "#ffffff",
+        "secondaryColor": "#93020e",
+        "tertiaryColor": "#d10214"
+      }
+    },
     "69": {
       "count": 5,
       "file": "db/versions/69.json",
@@ -89,6 +102,19 @@
         "primaryColor": "#fff6dd",
         "secondaryColor": "#05433e",
         "tertiaryColor": "#3feae8"
+      }
+    },
+    "114": {
+      "count": 1,
+      "file": "db/versions/114.json",
+      "details": {
+        "name": "POTM Serie A",
+        "hasStrip": true,
+        "createdAt": "2026-09-16T16:58:30.722Z",
+        "url": "https://assets.easysbc.io/fc27/cards/e_114_0.png",
+        "primaryColor": "#ffffff",
+        "secondaryColor": "#171d88",
+        "tertiaryColor": "#00e8da"
       }
     },
     "150": {
@@ -158,8 +184,8 @@
     }
   },
   "meta": {
-    "totalVersions": 12,
-    "totalVersionsWithoutBase": 9,
-    "updatedAt": "2026-09-30T21:25:29.971Z"
+    "totalVersions": 14,
+    "totalVersionsWithoutBase": 11,
+    "updatedAt": "2026-10-01T21:48:21.372Z"
   }
 }
