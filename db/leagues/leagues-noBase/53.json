@@ -37,7 +37,7 @@
       85
     ],
     "hasDynamicImage": false,
-    "price": 87500,
+    "price": 101000,
     "resourceId": 5661,
     "assetId": 5661
   },
@@ -77,7 +77,7 @@
       87
     ],
     "hasDynamicImage": false,
-    "price": 130000,
+    "price": 143000,
     "resourceId": 8348,
     "assetId": 8348
   },
@@ -121,7 +121,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 142000,
+    "price": 135000,
     "resourceId": 10959,
     "assetId": 10959
   },
@@ -162,7 +162,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 238000,
+    "price": 259000,
     "resourceId": 25924,
     "assetId": 25924
   },
@@ -207,7 +207,7 @@
       88
     ],
     "hasDynamicImage": false,
-    "price": 132000,
+    "price": 138000,
     "resourceId": 26709,
     "assetId": 26709
   },
@@ -249,7 +249,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 77000,
+    "price": 78000,
     "resourceId": 77787,
     "assetId": 77787
   },
@@ -294,7 +294,7 @@
       86
     ],
     "hasDynamicImage": false,
-    "price": 219000,
+    "price": 187000,
     "resourceId": 142754,
     "assetId": 142754
   },
@@ -393,7 +393,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 676000,
+    "price": 631000,
     "resourceId": 214101,
     "assetId": 214101
   },
@@ -435,7 +435,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 157000,
+    "price": 188000,
     "resourceId": 214649,
     "assetId": 214649
   },
@@ -477,7 +477,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 79500,
+    "price": 82500,
     "resourceId": 238424,
     "assetId": 238424
   },
@@ -521,7 +521,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 146000,
+    "price": 143000,
     "resourceId": 262285,
     "assetId": 262285
   },
@@ -566,7 +566,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 331000,
+    "price": 349000,
     "resourceId": 266691,
     "assetId": 266691
   },
@@ -665,7 +665,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 69500,
+    "price": 79000,
     "resourceId": 50520215,
     "assetId": 188567
   },
@@ -809,6 +809,62 @@
     "resourceId": 50561297,
     "assetId": 229649
   },
+  "50562547": {
+    "name": "Ademola Lookman",
+    "cardName": "Lookman",
+    "originalVersionId": "22",
+    "clubId": 240,
+    "leagueId": 53,
+    "countryId": 133,
+    "versionId": "22",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      22,
+      25,
+      6,
+      7
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      88,
+      85,
+      76,
+      86,
+      35,
+      71
+    ],
+    "hasDynamicImage": true,
+    "price": 395000,
+    "resourceId": 50562547,
+    "assetId": 230899
+  },
   "50563395": {
     "name": "Kylian Mbappé",
     "cardName": "Mbappé",
@@ -924,9 +980,104 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 1525000,
+    "price": 1619000,
     "resourceId": 50565067,
     "assetId": 233419
+  },
+  "50570879": {
+    "name": "Cucurella",
+    "cardName": "Cucurella",
+    "originalVersionId": "22",
+    "clubId": 243,
+    "leagueId": 53,
+    "countryId": 45,
+    "versionId": "22",
+    "rating": 88,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "LB"
+    ],
+    "playStyles": [
+      15,
+      24,
+      26
+    ],
+    "playStylesPlus": [
+      14
+    ],
+    "rolesPlus": [
+      107,
+      108,
+      109,
+      110,
+      147
+    ],
+    "attributes": [
+      83,
+      65,
+      81,
+      80,
+      88,
+      80
+    ],
+    "hasDynamicImage": true,
+    "price": 313000,
+    "resourceId": 50570879,
+    "assetId": 239231
+  },
+  "50574612": {
+    "name": "Anthony Gordon",
+    "cardName": "Gordon",
+    "originalVersionId": "22",
+    "clubId": 241,
+    "leagueId": 53,
+    "countryId": 14,
+    "versionId": "22",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      12,
+      21,
+      25
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      127,
+      128,
+      129,
+      130,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      93,
+      83,
+      81,
+      87,
+      55,
+      75
+    ],
+    "hasDynamicImage": true,
+    "price": 424000,
+    "resourceId": 50574612,
+    "assetId": 242964
   },
   "50574680": {
     "name": "Hugo Duro",
@@ -1076,7 +1227,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 90000,
+    "price": 100000,
     "resourceId": 50579813,
     "assetId": 248165
   },
@@ -1201,7 +1352,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 15750,
+    "price": 16750,
     "resourceId": 50588927,
     "assetId": 257279
   },
@@ -1259,7 +1410,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 75000,
+    "price": 70500,
     "resourceId": 50596036,
     "assetId": 264388
   },
@@ -1300,7 +1451,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 20150,
+    "sbcPrice": 23100,
     "price": 0,
     "resourceId": 50605554,
     "assetId": 273906
@@ -1349,7 +1500,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 99000,
+    "price": 125000,
     "resourceId": 50611252,
     "assetId": 279604
   },
@@ -1390,7 +1541,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 13500,
     "resourceId": 67352494,
     "assetId": 243630
   },
@@ -1444,7 +1595,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 496000,
+    "price": 489000,
     "resourceId": 67377753,
     "assetId": 268889
   },
@@ -1494,8 +1645,137 @@
       63
     ],
     "hasDynamicImage": true,
-    "price": 1564000,
+    "price": 1524000,
     "resourceId": 67386507,
     "assetId": 277643
+  },
+  "84119499": {
+    "name": "Raphinha",
+    "cardName": "Raphinha",
+    "originalVersionId": "86",
+    "clubId": 241,
+    "leagueId": 53,
+    "countryId": 54,
+    "versionId": "86",
+    "rating": 89,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "LW",
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      2,
+      21,
+      23,
+      25,
+      26
+    ],
+    "playStylesPlus": [
+      6
+    ],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      92,
+      87,
+      86,
+      88,
+      55,
+      77
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 1175100,
+    "price": 0,
+    "resourceId": 84119499,
+    "assetId": 233419
+  },
+  "84143359": {
+    "name": "Álex Baena",
+    "cardName": "Álex Baena",
+    "originalVersionId": "19",
+    "clubId": 240,
+    "leagueId": 53,
+    "countryId": 45,
+    "versionId": "19",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      0,
+      11,
+      20,
+      22,
+      3,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      118,
+      119,
+      120,
+      121,
+      122,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      138,
+      139,
+      140
+    ],
+    "attributes": [
+      81,
+      78,
+      85,
+      83,
+      67,
+      70
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 84143359,
+    "assetId": 257279
   }
 }

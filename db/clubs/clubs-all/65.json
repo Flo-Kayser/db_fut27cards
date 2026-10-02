@@ -38,7 +38,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 400,
       "resourceId": 73355,
       "assetId": 73355
     },
@@ -151,7 +151,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 450,
       "resourceId": 76759,
       "assetId": 76759
     },
@@ -188,7 +188,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 500,
       "resourceId": 77364,
       "assetId": 77364
     },
@@ -229,7 +229,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 2900,
+      "price": 2700,
       "resourceId": 178509,
       "assetId": 178509
     },
@@ -314,7 +314,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 213296,
       "assetId": 213296
     },
@@ -353,7 +353,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 450,
       "resourceId": 227794,
       "assetId": 227794
     },
@@ -392,7 +392,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 800,
       "resourceId": 231318,
       "assetId": 231318
     },
@@ -438,7 +438,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 1000,
       "resourceId": 232360,
       "assetId": 232360
     },
@@ -474,7 +474,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 3500,
+      "price": 4100,
       "resourceId": 237525,
       "assetId": 237525
     },
@@ -512,7 +512,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 239254,
       "assetId": 239254
     },
@@ -548,7 +548,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 4700,
+      "price": 3900,
       "resourceId": 241821,
       "assetId": 241821
     },
@@ -671,7 +671,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 259054,
       "assetId": 259054
     },
@@ -708,7 +708,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 1200,
       "resourceId": 262071,
       "assetId": 262071
     },
@@ -829,7 +829,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 900,
       "resourceId": 270559,
       "assetId": 270559
     },
@@ -870,7 +870,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 450,
       "resourceId": 274447,
       "assetId": 274447
     },
@@ -913,7 +913,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 700,
       "resourceId": 278172,
       "assetId": 278172
     },
@@ -989,7 +989,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 500,
       "resourceId": 50406908,
       "assetId": 75260
     },
@@ -1027,7 +1027,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 1100,
       "resourceId": 50582437,
       "assetId": 250789
     },
@@ -1064,7 +1064,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 4600,
+      "price": 4100,
       "resourceId": 50583810,
       "assetId": 252162
     },
@@ -1150,7 +1150,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 10000,
+      "price": 10250,
       "resourceId": 67361026,
       "assetId": 252162
     },
@@ -1197,9 +1197,52 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 11750,
+      "price": 10750,
       "resourceId": 67379423,
       "assetId": 270559
+    },
+    "100915458": {
+      "name": "Ayase Ueda",
+      "cardName": "Ueda",
+      "originalVersionId": "19",
+      "clubId": 65,
+      "leagueId": 16,
+      "countryId": 163,
+      "versionId": "19",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        11,
+        24,
+        6
+      ],
+      "playStylesPlus": [
+        4
+      ],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        80,
+        80,
+        66,
+        79,
+        32,
+        77
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 100915458,
+      "assetId": 252162
     }
   }
 }

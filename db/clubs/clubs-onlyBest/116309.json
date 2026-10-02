@@ -67,7 +67,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 400,
       "resourceId": 76323,
       "assetId": 76323
     },
@@ -101,7 +101,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 400,
       "resourceId": 76324,
       "assetId": 76324
     },
@@ -137,7 +137,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 450,
       "resourceId": 76325,
       "assetId": 76325
     },
@@ -207,7 +207,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 400,
       "resourceId": 83022,
       "assetId": 83022
     },
@@ -241,7 +241,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 83024,
       "assetId": 83024
     },
@@ -275,7 +275,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 83025,
       "assetId": 83025
     },
@@ -321,7 +321,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 6100,
+      "price": 7000,
       "resourceId": 226893,
       "assetId": 226893
     },
@@ -357,7 +357,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 850,
       "resourceId": 264011,
       "assetId": 264011
     },
@@ -397,7 +397,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 650,
       "resourceId": 267226,
       "assetId": 267226
     },
@@ -473,7 +473,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 267268,
       "assetId": 267268
     },
@@ -510,7 +510,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 267276,
       "assetId": 267276
     },
@@ -546,7 +546,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 750,
       "resourceId": 267329,
       "assetId": 267329
     },
@@ -588,7 +588,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 750,
       "resourceId": 267336,
       "assetId": 267336
     },
@@ -661,7 +661,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 400,
       "resourceId": 267521,
       "assetId": 267521
     },
@@ -699,7 +699,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 2100,
+      "price": 2000,
       "resourceId": 273136,
       "assetId": 273136
     },
@@ -738,7 +738,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 273467,
       "assetId": 273467
     },
@@ -777,7 +777,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 273472,
       "assetId": 273472
     },
@@ -815,7 +815,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 350,
       "resourceId": 273476,
       "assetId": 273476
     },
@@ -851,7 +851,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 400,
       "resourceId": 273480,
       "assetId": 273480
     },
@@ -898,7 +898,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 279812,
       "assetId": 279812
     },
@@ -947,8 +947,57 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 236000,
+      "price": 206000,
       "resourceId": 50611447,
+      "assetId": 279799
+    },
+    "84165879": {
+      "name": "Temwa Chawinga",
+      "cardName": "Chawinga",
+      "originalVersionId": "19",
+      "clubId": 116309,
+      "leagueId": 2221,
+      "countryId": 125,
+      "versionId": "19",
+      "rating": 90,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        1,
+        22,
+        25,
+        6,
+        7
+      ],
+      "playStylesPlus": [
+        21
+      ],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        92,
+        84,
+        83,
+        87,
+        48,
+        86
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 84165879,
       "assetId": 279799
     }
   }

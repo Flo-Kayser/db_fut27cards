@@ -38,7 +38,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 83000,
+    "price": 89500,
     "resourceId": 227261,
     "assetId": 227261
   },
@@ -84,7 +84,7 @@
       89
     ],
     "hasDynamicImage": false,
-    "price": 112000,
+    "price": 121000,
     "resourceId": 227262,
     "assetId": 227262
   },
@@ -128,9 +128,58 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 73000,
+    "price": 72000,
     "resourceId": 227271,
     "assetId": 227271
+  },
+  "50559009": {
+    "name": "Kadidiatou Diani",
+    "cardName": "Diani",
+    "originalVersionId": "22",
+    "clubId": 132176,
+    "leagueId": 2216,
+    "countryId": 18,
+    "versionId": "22",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      0,
+      20,
+      25,
+      29,
+      7
+    ],
+    "playStylesPlus": [
+      6
+    ],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      135,
+      136,
+      137
+    ],
+    "attributes": [
+      92,
+      85,
+      82,
+      89,
+      58,
+      75
+    ],
+    "hasDynamicImage": true,
+    "price": 1304000,
+    "resourceId": 50559009,
+    "assetId": 227361
   },
   "50571678": {
     "name": "Ellie Carpenter",
@@ -175,7 +224,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 16500,
+    "price": 18500,
     "resourceId": 50571678,
     "assetId": 240030
   },
@@ -390,8 +439,55 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 21750,
+    "price": 19250,
     "resourceId": 67336110,
     "assetId": 227246
+  },
+  "84126110": {
+    "name": "Ellie Carpenter",
+    "cardName": "Carpenter",
+    "originalVersionId": "19",
+    "clubId": 5,
+    "leagueId": 2216,
+    "countryId": 195,
+    "versionId": "19",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "RB",
+      "RM"
+    ],
+    "playStyles": [
+      15,
+      16,
+      21
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      123,
+      124,
+      125,
+      126,
+      146
+    ],
+    "attributes": [
+      86,
+      52,
+      80,
+      79,
+      82,
+      85
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 84126110,
+    "assetId": 240030
   }
 }

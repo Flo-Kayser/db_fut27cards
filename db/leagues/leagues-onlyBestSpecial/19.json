@@ -40,7 +40,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 370000,
+    "price": 369000,
     "resourceId": 5454,
     "assetId": 5454
   },
@@ -88,7 +88,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 73500,
+    "price": 71500,
     "resourceId": 8473,
     "assetId": 8473
   },
@@ -130,7 +130,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 120000,
+    "price": 135000,
     "resourceId": 10704,
     "assetId": 10704
   },
@@ -175,7 +175,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 40750,
+    "price": 40000,
     "resourceId": 25420,
     "assetId": 25420
   },
@@ -225,7 +225,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 492000,
+    "price": 539000,
     "resourceId": 28765,
     "assetId": 28765
   },
@@ -273,7 +273,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 281000,
+    "price": 288000,
     "resourceId": 81644,
     "assetId": 81644
   },
@@ -316,7 +316,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 63000,
+    "price": 62000,
     "resourceId": 150418,
     "assetId": 150418
   },
@@ -402,7 +402,7 @@
       85
     ],
     "hasDynamicImage": false,
-    "price": 447000,
+    "price": 445000,
     "resourceId": 166676,
     "assetId": 166676
   },
@@ -448,7 +448,7 @@
       88
     ],
     "hasDynamicImage": false,
-    "price": 41250,
+    "price": 41500,
     "resourceId": 181783,
     "assetId": 181783
   },
@@ -491,7 +491,7 @@
       90
     ],
     "hasDynamicImage": false,
-    "price": 103000,
+    "price": 105000,
     "resourceId": 261593,
     "assetId": 261593
   },
@@ -594,6 +594,92 @@
     "resourceId": 50547923,
     "assetId": 216275
   },
+  "50555345": {
+    "name": "Robin Gosens",
+    "cardName": "Gosens",
+    "originalVersionId": "22",
+    "clubId": 34,
+    "leagueId": 19,
+    "countryId": 21,
+    "versionId": "22",
+    "rating": 85,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "LB"
+    ],
+    "playStyles": [
+      12,
+      14,
+      16
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      107,
+      108,
+      109,
+      110,
+      147
+    ],
+    "attributes": [
+      83,
+      82,
+      81,
+      83,
+      85,
+      83
+    ],
+    "hasDynamicImage": true,
+    "price": 142000,
+    "resourceId": 50555345,
+    "assetId": 223697
+  },
+  "50561206": {
+    "name": "Dayot Upamecano",
+    "cardName": "Upamecano",
+    "originalVersionId": "22",
+    "clubId": 21,
+    "leagueId": 19,
+    "countryId": 18,
+    "versionId": "22",
+    "rating": 89,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      14,
+      17,
+      28,
+      9
+    ],
+    "playStylesPlus": [
+      16
+    ],
+    "rolesPlus": [
+      111,
+      112,
+      113,
+      148
+    ],
+    "attributes": [
+      82,
+      47,
+      67,
+      77,
+      89,
+      85
+    ],
+    "hasDynamicImage": true,
+    "price": 1969000,
+    "resourceId": 50561206,
+    "assetId": 229558
+  },
   "50568180": {
     "name": "Robin Koch",
     "cardName": "Koch",
@@ -680,7 +766,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 30250,
+    "price": 30500,
     "resourceId": 50575824,
     "assetId": 244176
   },
@@ -735,7 +821,7 @@
       71
     ],
     "hasDynamicImage": true,
-    "price": 929000,
+    "price": 985000,
     "resourceId": 50579475,
     "assetId": 247827
   },
@@ -888,7 +974,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "price": 11000,
+    "price": 11750,
     "resourceId": 50593513,
     "assetId": 261865
   },
@@ -945,10 +1031,65 @@
       72
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 59150,
+    "sbcPrice": 63600,
     "price": 0,
     "resourceId": 50594511,
     "assetId": 262863
+  },
+  "50606677": {
+    "name": "Ibrahim Maza",
+    "cardName": "Maza",
+    "originalVersionId": "22",
+    "clubId": 32,
+    "leagueId": 19,
+    "countryId": 97,
+    "versionId": "22",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      11,
+      13,
+      20,
+      24,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134,
+      149
+    ],
+    "attributes": [
+      80,
+      75,
+      84,
+      90,
+      70,
+      72
+    ],
+    "hasDynamicImage": true,
+    "price": 46000,
+    "resourceId": 50606677,
+    "assetId": 275029
   },
   "50607864": {
     "name": "Ezechiel Banzuzi",
@@ -1048,7 +1189,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 199000,
+    "price": 180000,
     "resourceId": 67355727,
     "assetId": 246863
   },
@@ -1096,9 +1237,67 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 11750,
+    "price": 11250,
     "resourceId": 67371770,
     "assetId": 262906
+  },
+  "84102355": {
+    "name": "Phillipp Mwene",
+    "cardName": "Mwene",
+    "originalVersionId": "19",
+    "clubId": 169,
+    "leagueId": 19,
+    "countryId": 4,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "LB",
+      "LM",
+      "RB",
+      "RM"
+    ],
+    "playStyles": [
+      17,
+      5,
+      9
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      146,
+      147
+    ],
+    "attributes": [
+      82,
+      60,
+      74,
+      80,
+      76,
+      78
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 84102355,
+    "assetId": 216275
   },
   "84133907": {
     "name": "Michael Olise",
@@ -1151,7 +1350,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 548600,
+    "sbcPrice": 632850,
     "price": 0,
     "resourceId": 84133907,
     "assetId": 247827

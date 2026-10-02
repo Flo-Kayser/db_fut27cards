@@ -1,6 +1,50 @@
 {
   "clubName": "FC Bayern München",
   "players": {
+    "50561206": {
+      "name": "Dayot Upamecano",
+      "cardName": "Upamecano",
+      "originalVersionId": "22",
+      "clubId": 21,
+      "leagueId": 19,
+      "countryId": 18,
+      "versionId": "22",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        14,
+        17,
+        28,
+        9
+      ],
+      "playStylesPlus": [
+        16
+      ],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        82,
+        47,
+        67,
+        77,
+        89,
+        85
+      ],
+      "hasDynamicImage": true,
+      "price": 1969000,
+      "resourceId": 50561206,
+      "assetId": 229558
+    },
     "50579475": {
       "name": "Michael Olise",
       "cardName": "Olise",
@@ -52,7 +96,7 @@
         71
       ],
       "hasDynamicImage": true,
-      "price": 929000,
+      "price": 985000,
       "resourceId": 50579475,
       "assetId": 247827
     },
@@ -107,7 +151,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 548600,
+      "sbcPrice": 632850,
       "price": 0,
       "resourceId": 84133907,
       "assetId": 247827

@@ -41,7 +41,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 2500,
+      "price": 1500,
       "resourceId": 71532,
       "assetId": 71532
     },
@@ -81,7 +81,7 @@
         47
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 500,
       "resourceId": 74460,
       "assetId": 74460
     },
@@ -120,7 +120,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 500,
       "resourceId": 75516,
       "assetId": 75516
     },
@@ -231,7 +231,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 77934,
       "assetId": 77934
     },
@@ -266,7 +266,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 77935,
       "assetId": 77935
     },
@@ -303,7 +303,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 350,
       "resourceId": 78784,
       "assetId": 78784
     },
@@ -378,7 +378,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 1100,
       "resourceId": 80911,
       "assetId": 80911
     },
@@ -412,7 +412,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 1000,
       "resourceId": 83550,
       "assetId": 83550
     },
@@ -447,7 +447,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 84600,
       "assetId": 84600
     },
@@ -485,7 +485,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 88338,
       "assetId": 88338
     },
@@ -595,7 +595,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 450,
       "resourceId": 200696,
       "assetId": 200696
     },
@@ -639,7 +639,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 2200,
       "resourceId": 236593,
       "assetId": 236593
     },
@@ -673,7 +673,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 450,
       "resourceId": 241835,
       "assetId": 241835
     },
@@ -709,7 +709,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 600,
       "resourceId": 244218,
       "assetId": 244218
     },
@@ -752,7 +752,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 550,
       "resourceId": 260076,
       "assetId": 260076
     },
@@ -795,7 +795,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 400,
       "resourceId": 263099,
       "assetId": 263099
     },
@@ -834,7 +834,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 950,
       "resourceId": 266071,
       "assetId": 266071
     },
@@ -873,7 +873,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 400,
       "resourceId": 267446,
       "assetId": 267446
     },
@@ -950,7 +950,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 750,
       "resourceId": 273752,
       "assetId": 273752
     },
@@ -987,7 +987,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 500,
       "resourceId": 274528,
       "assetId": 274528
     },
@@ -1029,7 +1029,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 450,
       "resourceId": 275867,
       "assetId": 275867
     },
@@ -1070,7 +1070,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 500,
       "resourceId": 277864,
       "assetId": 277864
     },
@@ -1153,9 +1153,52 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 400,
       "resourceId": 50602184,
       "assetId": 270536
+    },
+    "84154054": {
+      "name": "Mexx Meerdink",
+      "cardName": "Meerdink",
+      "originalVersionId": "19",
+      "clubId": 1906,
+      "leagueId": 10,
+      "countryId": 34,
+      "versionId": "19",
+      "rating": 80,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        2,
+        22,
+        29,
+        5,
+        7
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        78,
+        81,
+        70,
+        80,
+        38,
+        84
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 84154054,
+      "assetId": 267974
     }
   }
 }

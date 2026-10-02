@@ -43,7 +43,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 84500,
+    "price": 80500,
     "resourceId": 6975,
     "assetId": 6975
   },
@@ -87,7 +87,7 @@
       89
     ],
     "hasDynamicImage": false,
-    "price": 3331000,
+    "price": 3281000,
     "resourceId": 41236,
     "assetId": 41236
   },
@@ -135,7 +135,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 1001000,
+    "price": 1000000,
     "resourceId": 226369,
     "assetId": 226369
   },
@@ -181,7 +181,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 735000,
+    "price": 698000,
     "resourceId": 226975,
     "assetId": 226975
   },
@@ -223,7 +223,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 204000,
+    "price": 214000,
     "resourceId": 239261,
     "assetId": 239261
   },
@@ -264,7 +264,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 11000,
+    "price": 10500,
     "resourceId": 50411878,
     "assetId": 80230
   },
@@ -437,7 +437,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 451000,
+    "price": 470000,
     "resourceId": 50565379,
     "assetId": 233731
   },
@@ -481,7 +481,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 60000,
+    "price": 71000,
     "resourceId": 50573299,
     "assetId": 241651
   },
@@ -535,5 +535,51 @@
     "price": 0,
     "resourceId": 50591364,
     "assetId": 259716
+  },
+  "83971352": {
+    "name": "Felicia Schröder",
+    "cardName": "Schröder",
+    "originalVersionId": "19",
+    "clubId": 243,
+    "leagueId": 2222,
+    "countryId": 46,
+    "versionId": "19",
+    "rating": 82,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "ST"
+    ],
+    "playStyles": [
+      2,
+      22,
+      25
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      131,
+      132,
+      133,
+      134,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      83,
+      84,
+      68,
+      83,
+      29,
+      73
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 83971352,
+    "assetId": 85272
   }
 }

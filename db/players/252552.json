@@ -29,7 +29,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 1300,
+    "price": 1600,
     "resourceId": 252552,
     "assetId": 252552,
     "originalVersionId": 0
@@ -67,10 +67,48 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 10750,
+    "price": 11000,
     "resourceId": 50584200,
     "assetId": 252552,
     "originalVersionId": 3
+  },
+  "84138632": {
+    "clubId": 1952,
+    "leagueId": 13,
+    "countryId": 22,
+    "versionId": "19",
+    "rating": 81,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 1,
+    "preferredPosition": "GK",
+    "possiblePositions": [
+      "GK"
+    ],
+    "playStyles": [
+      31,
+      33,
+      35
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      101,
+      102,
+      145
+    ],
+    "attributes": [
+      81,
+      80,
+      79,
+      85,
+      58,
+      80
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 84138632,
+    "assetId": 252552,
+    "originalVersionId": 19
   },
   "cardName": "Tzolakis",
   "name": "Konstantinos Tzolakis"

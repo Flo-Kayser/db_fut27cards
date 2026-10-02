@@ -1,6 +1,53 @@
 {
   "clubName": "Manchester City",
   "players": {
+    "50570733": {
+      "name": "Erling Haaland",
+      "cardName": "Haaland",
+      "originalVersionId": "22",
+      "clubId": 10,
+      "leagueId": 13,
+      "countryId": 36,
+      "versionId": "22",
+      "rating": 91,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        1,
+        2,
+        29,
+        4,
+        6,
+        7
+      ],
+      "playStylesPlus": [
+        25
+      ],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        88,
+        92,
+        72,
+        81,
+        47,
+        90
+      ],
+      "hasDynamicImage": true,
+      "price": 4130000,
+      "resourceId": 50570733,
+      "assetId": 239085
+    },
     "50572884": {
       "name": "Antoine Semenyo",
       "cardName": "Semenyo",
@@ -53,7 +100,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 77000,
+      "price": 70500,
       "resourceId": 50572884,
       "assetId": 241236
     },

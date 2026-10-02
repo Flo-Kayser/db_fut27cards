@@ -31,7 +31,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 550,
       "resourceId": 73558,
       "assetId": 73558
     },
@@ -65,7 +65,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 80673,
       "assetId": 80673
     },
@@ -105,7 +105,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 82755,
       "assetId": 82755
     },
@@ -139,7 +139,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 85338,
       "assetId": 85338
     },
@@ -179,7 +179,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 193747,
       "assetId": 193747
     },
@@ -218,7 +218,7 @@
         86
       ],
       "hasDynamicImage": false,
-      "price": 11000,
+      "price": 12750,
       "resourceId": 200389,
       "assetId": 200389
     },
@@ -298,7 +298,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 750,
       "resourceId": 214979,
       "assetId": 214979
     },
@@ -385,55 +385,9 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 76000,
+      "price": 86000,
       "resourceId": 226161,
       "assetId": 226161
-    },
-    "230899": {
-      "name": "Ademola Lookman",
-      "cardName": "Lookman",
-      "originalVersionId": "0",
-      "clubId": 240,
-      "leagueId": 53,
-      "countryId": 133,
-      "versionId": "2002",
-      "rating": 83,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "CAM",
-        "LM",
-        "LW",
-        "ST"
-      ],
-      "playStyles": [
-        22,
-        25,
-        6,
-        7
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        30,
-        32,
-        39,
-        41,
-        43
-      ],
-      "attributes": [
-        86,
-        83,
-        73,
-        84,
-        32,
-        68
-      ],
-      "hasDynamicImage": false,
-      "price": 4800,
-      "resourceId": 230899,
-      "assetId": 230899
     },
     "232488": {
       "name": "Cristian Romero",
@@ -472,7 +426,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 232488,
       "assetId": 232488
     },
@@ -551,7 +505,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 244669,
       "assetId": 244669
     },
@@ -596,7 +550,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 80500,
+      "price": 89500,
       "resourceId": 246191,
       "assetId": 246191
     },
@@ -637,7 +591,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 247103,
       "assetId": 247103
     },
@@ -682,7 +636,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 1800,
       "resourceId": 253396,
       "assetId": 253396
     },
@@ -766,7 +720,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 550,
       "resourceId": 263701,
       "assetId": 263701
     },
@@ -801,7 +755,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 500,
       "resourceId": 264738,
       "assetId": 264738
     },
@@ -884,7 +838,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 750,
       "resourceId": 272449,
       "assetId": 272449
     },
@@ -921,9 +875,65 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 600,
       "resourceId": 278523,
       "assetId": 278523
+    },
+    "50562547": {
+      "name": "Ademola Lookman",
+      "cardName": "Lookman",
+      "originalVersionId": "22",
+      "clubId": 240,
+      "leagueId": 53,
+      "countryId": 133,
+      "versionId": "22",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        22,
+        25,
+        6,
+        7
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        88,
+        85,
+        76,
+        86,
+        35,
+        71
+      ],
+      "hasDynamicImage": true,
+      "price": 395000,
+      "resourceId": 50562547,
+      "assetId": 230899
     },
     "50575428": {
       "name": "Lee Kang In",
@@ -1039,7 +1049,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 15750,
+      "price": 16750,
       "resourceId": 50588927,
       "assetId": 257279
     },
@@ -1080,9 +1090,68 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 13000,
+      "price": 13500,
       "resourceId": 67352494,
       "assetId": 243630
+    },
+    "84143359": {
+      "name": "Álex Baena",
+      "cardName": "Álex Baena",
+      "originalVersionId": "19",
+      "clubId": 240,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "19",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        0,
+        11,
+        20,
+        22,
+        3,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        81,
+        78,
+        85,
+        83,
+        67,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 84143359,
+      "assetId": 257279
     }
   }
 }

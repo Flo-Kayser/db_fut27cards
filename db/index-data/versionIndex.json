@@ -39,8 +39,21 @@
         "tertiaryColor": "#94792e"
       }
     },
+    "19": {
+      "count": 16,
+      "file": "db/versions/19.json",
+      "details": {
+        "name": "FUT Champions",
+        "hasStrip": true,
+        "createdAt": "2026-09-16T16:58:30.722Z",
+        "url": "https://assets.easysbc.io/fc27/cards/e_19_0.png",
+        "primaryColor": "#f7e39c",
+        "secondaryColor": "#4e0e0e",
+        "tertiaryColor": "#574e2c"
+      }
+    },
     "22": {
-      "count": 18,
+      "count": 35,
       "file": "db/versions/22.json",
       "details": {
         "name": "Destined for Glory",
@@ -63,6 +76,19 @@
         "primaryColor": "#ffffff",
         "secondaryColor": "#93020e",
         "tertiaryColor": "#d10214"
+      }
+    },
+    "43": {
+      "count": 1,
+      "file": "db/versions/43.json",
+      "details": {
+        "name": "POTM Premier League",
+        "hasStrip": true,
+        "createdAt": "2026-09-16T16:58:30.722Z",
+        "url": "https://assets.easysbc.io/fc27/cards/e_43_0.png",
+        "primaryColor": "#ffffff",
+        "secondaryColor": "#3d195b",
+        "tertiaryColor": "#00f5ff"
       }
     },
     "69": {
@@ -89,6 +115,19 @@
         "primaryColor": "#ffd44f",
         "secondaryColor": "#242d61",
         "tertiaryColor": "#f97af8"
+      }
+    },
+    "86": {
+      "count": 1,
+      "file": "db/versions/86.json",
+      "details": {
+        "name": "POTM LALIGA EA SPORTS",
+        "hasStrip": true,
+        "createdAt": "2026-09-16T16:58:30.722Z",
+        "url": "https://assets.easysbc.io/fc27/cards/e_86_0.png",
+        "primaryColor": "#ffffff",
+        "secondaryColor": "#00001b",
+        "tertiaryColor": "#ff4b44"
       }
     },
     "87": {
@@ -184,8 +223,8 @@
     }
   },
   "meta": {
-    "totalVersions": 14,
-    "totalVersionsWithoutBase": 11,
-    "updatedAt": "2026-10-01T21:48:21.372Z"
+    "totalVersions": 17,
+    "totalVersionsWithoutBase": 14,
+    "updatedAt": "2026-10-02T21:19:18.703Z"
   }
 }

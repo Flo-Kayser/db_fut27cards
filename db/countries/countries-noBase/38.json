@@ -40,7 +40,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 195000,
+    "price": 175000,
     "resourceId": 1025,
     "assetId": 1025
   },
@@ -83,7 +83,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 305000,
+    "price": 369000,
     "resourceId": 3622,
     "assetId": 3622
   },
@@ -131,7 +131,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 578000,
+    "price": 585000,
     "resourceId": 5589,
     "assetId": 5589
   },
@@ -180,7 +180,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 295000,
+    "price": 292000,
     "resourceId": 20775,
     "assetId": 20775
   },
@@ -223,7 +223,7 @@
       89
     ],
     "hasDynamicImage": false,
-    "price": 876000,
+    "price": 845000,
     "resourceId": 120533,
     "assetId": 120533
   },
@@ -273,7 +273,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 676000,
+    "price": 631000,
     "resourceId": 214101,
     "assetId": 214101
   },
@@ -317,7 +317,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 7000000,
+    "price": 0,
     "resourceId": 242519,
     "assetId": 242519
   },
@@ -499,7 +499,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 194000,
+    "price": 206000,
     "resourceId": 50574092,
     "assetId": 242444
   },
@@ -555,6 +555,48 @@
     "resourceId": 50583793,
     "assetId": 252145
   },
+  "50588551": {
+    "name": "Gonçalo Ramos",
+    "cardName": "Gonçalo Ramos",
+    "originalVersionId": "22",
+    "clubId": 131681,
+    "leagueId": 31,
+    "countryId": 38,
+    "versionId": "22",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      19,
+      24,
+      4
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      82,
+      85,
+      70,
+      82,
+      55,
+      83
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50588551,
+    "assetId": 256903
+  },
   "50593503": {
     "name": "Kika Nazareth",
     "cardName": "Kika Nazareth",
@@ -606,9 +648,62 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 855000,
+    "price": 816000,
     "resourceId": 50593503,
     "assetId": 261855
+  },
+  "50602505": {
+    "name": "Mateus Fernandes",
+    "cardName": "Mateus Fernandes",
+    "originalVersionId": "22",
+    "clubId": 18,
+    "leagueId": 13,
+    "countryId": 38,
+    "versionId": "22",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      10,
+      13,
+      17
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134,
+      149
+    ],
+    "attributes": [
+      79,
+      84,
+      85,
+      86,
+      78,
+      77
+    ],
+    "hasDynamicImage": true,
+    "price": 120000,
+    "resourceId": 50602505,
+    "assetId": 270857
   },
   "50605554": {
     "name": "Renato Veiga",
@@ -647,7 +742,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 20150,
+    "sbcPrice": 23100,
     "price": 0,
     "resourceId": 50605554,
     "assetId": 273906
@@ -740,7 +835,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 11750,
+    "price": 10750,
     "resourceId": 67379423,
     "assetId": 270559
   }

@@ -107,6 +107,50 @@
       "resourceId": 50563395,
       "assetId": 231747
     },
+    "50570879": {
+      "name": "Cucurella",
+      "cardName": "Cucurella",
+      "originalVersionId": "22",
+      "clubId": 243,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "22",
+      "rating": 88,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB"
+      ],
+      "playStyles": [
+        15,
+        24,
+        26
+      ],
+      "playStylesPlus": [
+        14
+      ],
+      "rolesPlus": [
+        107,
+        108,
+        109,
+        110,
+        147
+      ],
+      "attributes": [
+        83,
+        65,
+        81,
+        80,
+        88,
+        80
+      ],
+      "hasDynamicImage": true,
+      "price": 313000,
+      "resourceId": 50570879,
+      "assetId": 239231
+    },
     "67377753": {
       "name": "Álvaro Carreras",
       "cardName": "Álvaro Carreras",
@@ -157,9 +201,55 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 496000,
+      "price": 489000,
       "resourceId": 67377753,
       "assetId": 268889
+    },
+    "83971352": {
+      "name": "Felicia Schröder",
+      "cardName": "Schröder",
+      "originalVersionId": "19",
+      "clubId": 243,
+      "leagueId": 2222,
+      "countryId": 46,
+      "versionId": "19",
+      "rating": 82,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [
+        2,
+        22,
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        131,
+        132,
+        133,
+        134,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        83,
+        84,
+        68,
+        83,
+        29,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 83971352,
+      "assetId": 85272
     }
   }
 }

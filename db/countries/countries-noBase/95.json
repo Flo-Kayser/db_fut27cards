@@ -45,7 +45,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 137000,
+    "price": 122000,
     "resourceId": 7743,
     "assetId": 7743
   },
@@ -84,7 +84,7 @@
       84
     ],
     "hasDynamicImage": false,
-    "price": 64500,
+    "price": 62500,
     "resourceId": 16254,
     "assetId": 16254
   },
@@ -129,7 +129,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 90500,
+    "price": 93500,
     "resourceId": 39386,
     "assetId": 39386
   },
@@ -176,7 +176,7 @@
       81
     ],
     "hasDynamicImage": false,
-    "price": 414000,
+    "price": 415000,
     "resourceId": 71608,
     "assetId": 71608
   },
@@ -223,7 +223,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 47500,
+    "price": 44500,
     "resourceId": 155897,
     "assetId": 155897
   },
@@ -268,7 +268,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 2750000,
+    "price": 2775000,
     "resourceId": 226301,
     "assetId": 226301
   },
@@ -318,7 +318,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 1250000,
+    "price": 1264000,
     "resourceId": 226330,
     "assetId": 226330
   },
@@ -365,9 +365,73 @@
       81
     ],
     "hasDynamicImage": false,
-    "price": 8216000,
+    "price": 7799000,
     "resourceId": 275243,
     "assetId": 275243
+  },
+  "50570392": {
+    "name": "Weston McKennie",
+    "cardName": "McKennie",
+    "originalVersionId": "22",
+    "clubId": 45,
+    "leagueId": 31,
+    "countryId": 95,
+    "versionId": "22",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      27,
+      28,
+      4
+    ],
+    "playStylesPlus": [
+      26
+    ],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      149
+    ],
+    "attributes": [
+      82,
+      79,
+      84,
+      84,
+      84,
+      86
+    ],
+    "hasDynamicImage": true,
+    "price": 158000,
+    "resourceId": 50570392,
+    "assetId": 238744
   },
   "50586853": {
     "name": "Sebastian Berhalter",
@@ -415,7 +479,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 10250,
+    "price": 10000,
     "resourceId": 50586853,
     "assetId": 255205
   },
@@ -519,7 +583,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 776000,
+    "price": 669000,
     "resourceId": 50595660,
     "assetId": 264012
   },
@@ -681,6 +745,167 @@
     "hasDynamicImage": true,
     "price": 10500,
     "resourceId": 67379904,
+    "assetId": 271040
+  },
+  "84141285": {
+    "name": "Sebastian Berhalter",
+    "cardName": "Berhalter",
+    "originalVersionId": "19",
+    "clubId": 12,
+    "leagueId": 14,
+    "countryId": 95,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      10,
+      12,
+      2,
+      26,
+      3
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      149
+    ],
+    "attributes": [
+      77,
+      70,
+      82,
+      75,
+      75,
+      82
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 84141285,
+    "assetId": 255205
+  },
+  "84141355": {
+    "name": "Milan Iloski",
+    "cardName": "Iloski",
+    "originalVersionId": "19",
+    "clubId": 112134,
+    "leagueId": 39,
+    "countryId": 95,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      2,
+      6,
+      9
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      86,
+      80,
+      70,
+      81,
+      32,
+      66
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 84141355,
+    "assetId": 255275
+  },
+  "100934336": {
+    "name": "Jaedyn Shaw",
+    "cardName": "Shaw",
+    "originalVersionId": "19",
+    "clubId": 116310,
+    "leagueId": 2221,
+    "countryId": 95,
+    "versionId": "19",
+    "rating": 82,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      22,
+      8,
+      9
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      85,
+      78,
+      82,
+      84,
+      46,
+      71
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 100934336,
     "assetId": 271040
   }
 }
