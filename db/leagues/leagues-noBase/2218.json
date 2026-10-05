@@ -36,7 +36,7 @@
       86
     ],
     "hasDynamicImage": false,
-    "price": 294000,
+    "price": 325000,
     "resourceId": 227315,
     "assetId": 227315
   },
@@ -84,9 +84,63 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 188000,
+    "price": 174000,
     "resourceId": 275092,
     "assetId": 275092
+  },
+  "50606401": {
+    "name": "Tarciane",
+    "cardName": "Tarciane",
+    "originalVersionId": "22",
+    "clubId": 116033,
+    "leagueId": 2218,
+    "countryId": 54,
+    "versionId": "22",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB",
+      "CDM",
+      "RB"
+    ],
+    "playStyles": [
+      10,
+      14,
+      17
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      146,
+      148,
+      149
+    ],
+    "attributes": [
+      80,
+      45,
+      74,
+      70,
+      84,
+      87
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 16100,
+    "price": 0,
+    "resourceId": 50606401,
+    "assetId": 274753
   },
   "67374762": {
     "name": "Melchie Dumornay",
@@ -144,8 +198,56 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 2700000,
+    "price": 3281000,
     "resourceId": 67374762,
     "assetId": 265898
+  },
+  "84112442": {
+    "name": "Louisa Necib",
+    "cardName": "Necib",
+    "originalVersionId": "72",
+    "clubId": 114605,
+    "leagueId": 2218,
+    "countryId": 18,
+    "versionId": "72",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      12,
+      2,
+      22,
+      3,
+      7,
+      8
+    ],
+    "playStylesPlus": [
+      23
+    ],
+    "rolesPlus": [
+      27,
+      31,
+      129,
+      140
+    ],
+    "attributes": [
+      84,
+      83,
+      87,
+      90,
+      44,
+      70
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 84112442,
+    "assetId": 226362
   }
 }

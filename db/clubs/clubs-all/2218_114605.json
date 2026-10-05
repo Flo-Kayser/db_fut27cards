@@ -4,6 +4,93 @@
     "leagueId": 2218,
     "countryId": 18,
     "versionId": "72",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      12,
+      2,
+      22,
+      3,
+      7,
+      8
+    ],
+    "playStylesPlus": [
+      23
+    ],
+    "rolesPlus": [
+      27,
+      31,
+      129,
+      140
+    ],
+    "attributes": [
+      84,
+      83,
+      87,
+      90,
+      44,
+      70
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 84112442,
+    "assetId": 226362,
+    "name": "Louisa Necib",
+    "cardName": "Necib"
+  },
+  {
+    "clubId": 114605,
+    "leagueId": 2218,
+    "countryId": 18,
+    "versionId": "72",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      15,
+      18,
+      28
+    ],
+    "playStylesPlus": [
+      17
+    ],
+    "rolesPlus": [
+      11,
+      112
+    ],
+    "attributes": [
+      85,
+      48,
+      66,
+      67,
+      87,
+      86
+    ],
+    "hasDynamicImage": false,
+    "price": 325000,
+    "resourceId": 227315,
+    "assetId": 227315,
+    "name": "Laura Georges",
+    "cardName": "Georges"
+  },
+  {
+    "clubId": 114605,
+    "leagueId": 2218,
+    "countryId": 18,
+    "versionId": "72",
     "rating": 86,
     "preferredFoot": "Left",
     "weakFoot": 3,
@@ -40,50 +127,10 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 188000,
+    "price": 174000,
     "resourceId": 275092,
     "assetId": 275092,
     "name": "Sonia Bompastor",
     "cardName": "Bompastor"
-  },
-  {
-    "clubId": 114605,
-    "leagueId": 2218,
-    "countryId": 18,
-    "versionId": "72",
-    "rating": 87,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 2,
-    "preferredPosition": "CB",
-    "possiblePositions": [
-      "CB"
-    ],
-    "playStyles": [
-      15,
-      18,
-      28
-    ],
-    "playStylesPlus": [
-      17
-    ],
-    "rolesPlus": [
-      11,
-      112
-    ],
-    "attributes": [
-      85,
-      48,
-      66,
-      67,
-      87,
-      86
-    ],
-    "hasDynamicImage": false,
-    "price": 294000,
-    "resourceId": 227315,
-    "assetId": 227315,
-    "name": "Laura Georges",
-    "cardName": "Georges"
   }
 ]
