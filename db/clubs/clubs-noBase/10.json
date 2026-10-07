@@ -1,6 +1,48 @@
 {
   "clubName": "Manchester City",
   "players": {
+    "50562269": {
+      "name": "Gianluigi Donnarumma",
+      "cardName": "Donnarumma",
+      "originalVersionId": "3",
+      "clubId": 10,
+      "leagueId": 13,
+      "countryId": 27,
+      "versionId": "3",
+      "rating": 90,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        10,
+        30,
+        34
+      ],
+      "playStylesPlus": [
+        35
+      ],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        91,
+        84,
+        74,
+        91,
+        48,
+        89
+      ],
+      "hasDynamicImage": true,
+      "price": 351000,
+      "resourceId": 50562269,
+      "assetId": 230621
+    },
     "50570733": {
       "name": "Erling Haaland",
       "cardName": "Haaland",
@@ -44,7 +86,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 1346000,
+      "price": 1226000,
       "resourceId": 50570733,
       "assetId": 239085
     },
@@ -100,7 +142,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 65000,
+      "price": 66500,
       "resourceId": 50572884,
       "assetId": 241236
     },

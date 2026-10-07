@@ -1,4 +1,55 @@
 {
   "clubName": "SSC Napoli",
-  "players": {}
+  "players": {
+    "50524633": {
+      "name": "Kevin De Bruyne",
+      "cardName": "De Bruyne",
+      "originalVersionId": "3",
+      "clubId": 48,
+      "leagueId": 31,
+      "countryId": 7,
+      "versionId": "3",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        11,
+        24,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        2
+      ],
+      "rolesPlus": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134
+      ],
+      "attributes": [
+        76,
+        83,
+        90,
+        85,
+        68,
+        71
+      ],
+      "hasDynamicImage": true,
+      "price": 129000,
+      "resourceId": 50524633,
+      "assetId": 192985
+    }
+  }
 }

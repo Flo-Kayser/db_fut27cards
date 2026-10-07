@@ -1,6 +1,63 @@
 {
   "clubName": "London City",
   "players": {
+    "50558851": {
+      "name": "Alexia Putellas",
+      "cardName": "Alexia Putellas",
+      "originalVersionId": "3",
+      "clubId": 132176,
+      "leagueId": 2216,
+      "countryId": 45,
+      "versionId": "3",
+      "rating": 92,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        11,
+        13,
+        20,
+        22,
+        7
+      ],
+      "playStylesPlus": [
+        8
+      ],
+      "rolesPlus": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        81,
+        91,
+        92,
+        93,
+        73,
+        77
+      ],
+      "hasDynamicImage": true,
+      "price": 2900000,
+      "resourceId": 50558851,
+      "assetId": 227203
+    },
     "50559009": {
       "name": "Kadidiatou Diani",
       "cardName": "Diani",
@@ -39,14 +96,14 @@
       ],
       "attributes": [
         92,
-        85,
-        82,
+        86,
+        83,
         89,
         58,
         75
       ],
       "hasDynamicImage": true,
-      "price": 851000,
+      "price": 789000,
       "resourceId": 50559009,
       "assetId": 227361
     },
@@ -58,7 +115,7 @@
       "leagueId": 2216,
       "countryId": 21,
       "versionId": "150",
-      "rating": 84,
+      "rating": 85,
       "preferredFoot": "Right",
       "weakFoot": 4,
       "skillMoves": 4,
@@ -95,12 +152,12 @@
         144
       ],
       "attributes": [
-        90,
-        82,
-        74,
-        84,
-        55,
-        83
+        91,
+        83,
+        75,
+        85,
+        56,
+        84
       ],
       "hasDynamicImage": true,
       "price": 0,

@@ -33,7 +33,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 70230,
       "assetId": 70230
     },
@@ -105,7 +105,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 750,
       "resourceId": 81539,
       "assetId": 81539
     },
@@ -142,7 +142,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 950,
       "resourceId": 193105,
       "assetId": 193105
     },
@@ -178,7 +178,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 208004,
       "assetId": 208004
     },
@@ -216,7 +216,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 450,
       "resourceId": 215798,
       "assetId": 215798
     },
@@ -260,7 +260,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 900,
       "resourceId": 224371,
       "assetId": 224371
     },
@@ -296,7 +296,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 650,
       "resourceId": 227927,
       "assetId": 227927
     },
@@ -340,7 +340,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 235844,
       "assetId": 235844
     },
@@ -380,7 +380,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 900,
       "resourceId": 236792,
       "assetId": 236792
     },
@@ -418,47 +418,9 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 800,
       "resourceId": 237712,
       "assetId": 237712
-    },
-    "242000": {
-      "name": "Konstantinos Mavropanos",
-      "cardName": "Mavropanos",
-      "originalVersionId": "0",
-      "clubId": 19,
-      "leagueId": 14,
-      "countryId": 22,
-      "versionId": "2002",
-      "rating": 78,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [
-        16,
-        19,
-        28
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        11
-      ],
-      "attributes": [
-        71,
-        56,
-        54,
-        58,
-        78,
-        79
-      ],
-      "hasDynamicImage": false,
-      "price": 700,
-      "resourceId": 242000,
-      "assetId": 242000
     },
     "245336": {
       "name": "Maximilian Kilman",
@@ -531,7 +493,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 900,
       "resourceId": 246158,
       "assetId": 246158
     },
@@ -604,7 +566,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 2100,
       "resourceId": 247249,
       "assetId": 247249
     },
@@ -640,7 +602,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 950,
       "resourceId": 264290,
       "assetId": 264290
     },
@@ -718,7 +680,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 600,
       "resourceId": 272874,
       "assetId": 272874
     },
@@ -752,7 +714,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 700,
       "resourceId": 274102,
       "assetId": 274102
     },
@@ -790,7 +752,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 600,
       "resourceId": 275102,
       "assetId": 275102
     },
@@ -864,9 +826,50 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 500,
       "resourceId": 50401992,
       "assetId": 70344
+    },
+    "50573648": {
+      "name": "Konstantinos Mavropanos",
+      "cardName": "Mavropanos",
+      "originalVersionId": "3",
+      "clubId": 19,
+      "leagueId": 14,
+      "countryId": 22,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        16,
+        19,
+        28
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        75,
+        58,
+        60,
+        65,
+        80,
+        82
+      ],
+      "hasDynamicImage": true,
+      "price": 10500,
+      "resourceId": 50573648,
+      "assetId": 242000
     },
     "50587656": {
       "name": "Morato",
@@ -902,7 +905,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 1000,
       "resourceId": 50587656,
       "assetId": 256008
     },
@@ -942,7 +945,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 650,
       "resourceId": 50602913,
       "assetId": 271265
     }

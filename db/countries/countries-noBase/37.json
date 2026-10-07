@@ -79,6 +79,110 @@
     "resourceId": 164994,
     "assetId": 164994
   },
+  "50520193": {
+    "name": "Robert Lewandowski",
+    "cardName": "Lewandowski",
+    "originalVersionId": "3",
+    "clubId": 693,
+    "leagueId": 39,
+    "countryId": 37,
+    "versionId": "3",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      1,
+      2,
+      22,
+      4,
+      6,
+      7
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      77,
+      86,
+      80,
+      82,
+      45,
+      82
+    ],
+    "hasDynamicImage": true,
+    "price": 28250,
+    "resourceId": 50520193,
+    "assetId": 188545
+  },
+  "50573494": {
+    "name": "Ewa Pajor",
+    "cardName": "Pajor",
+    "originalVersionId": "3",
+    "clubId": 116325,
+    "leagueId": 2222,
+    "countryId": 37,
+    "versionId": "3",
+    "rating": 90,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      21,
+      4,
+      6,
+      7
+    ],
+    "playStylesPlus": [
+      1
+    ],
+    "rolesPlus": [
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      94,
+      92,
+      68,
+      90,
+      23,
+      75
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50573494,
+    "assetId": 241846
+  },
   "50597341": {
     "name": "Jakub Kiwior",
     "cardName": "Kiwior",
@@ -124,7 +228,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 20500,
+    "price": 20250,
     "resourceId": 50597341,
     "assetId": 265693
   }

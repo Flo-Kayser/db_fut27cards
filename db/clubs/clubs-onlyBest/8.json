@@ -33,7 +33,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 73353,
       "assetId": 73353
     },
@@ -105,7 +105,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 300,
       "resourceId": 85912,
       "assetId": 85912
     },
@@ -215,7 +215,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 350,
       "resourceId": 203215,
       "assetId": 203215
     },
@@ -255,7 +255,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 220710,
       "assetId": 220710
     },
@@ -292,48 +292,9 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 950,
       "resourceId": 221479,
       "assetId": 221479
-    },
-    "221491": {
-      "name": "Nico Elvedi",
-      "cardName": "Elvedi",
-      "originalVersionId": "0",
-      "clubId": 8,
-      "leagueId": 13,
-      "countryId": 47,
-      "versionId": "2002",
-      "rating": 78,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [
-        16,
-        17,
-        18,
-        19
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        11
-      ],
-      "attributes": [
-        70,
-        39,
-        62,
-        64,
-        79,
-        78
-      ],
-      "hasDynamicImage": false,
-      "price": 900,
-      "resourceId": 221491,
-      "assetId": 221491
     },
     "229266": {
       "name": "Joe Rodon",
@@ -367,7 +328,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 1900,
       "resourceId": 229266,
       "assetId": 229266
     },
@@ -443,7 +404,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 1800,
       "resourceId": 231554,
       "assetId": 231554
     },
@@ -484,7 +445,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 232104,
       "assetId": 232104
     },
@@ -525,7 +486,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 235735,
       "assetId": 235735
     },
@@ -561,7 +522,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 1600,
       "resourceId": 236764,
       "assetId": 236764
     },
@@ -601,7 +562,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 800,
       "resourceId": 236822,
       "assetId": 236822
     },
@@ -637,7 +598,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 850,
       "resourceId": 237161,
       "assetId": 237161
     },
@@ -680,7 +641,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 242530,
       "assetId": 242530
     },
@@ -718,7 +679,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 1700,
       "resourceId": 244238,
       "assetId": 244238
     },
@@ -755,7 +716,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 1500,
       "resourceId": 244591,
       "assetId": 244591
     },
@@ -799,7 +760,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 1300,
       "resourceId": 247361,
       "assetId": 247361
     },
@@ -835,7 +796,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 1200,
       "resourceId": 248384,
       "assetId": 248384
     },
@@ -876,7 +837,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 257191,
       "assetId": 257191
     },
@@ -915,7 +876,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 3000,
+      "price": 3400,
       "resourceId": 262027,
       "assetId": 262027
     },
@@ -951,7 +912,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 1100,
       "resourceId": 263063,
       "assetId": 263063
     },
@@ -991,9 +952,51 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 1500,
       "resourceId": 270206,
       "assetId": 270206
+    },
+    "50553139": {
+      "name": "Nico Elvedi",
+      "cardName": "Elvedi",
+      "originalVersionId": "3",
+      "clubId": 8,
+      "leagueId": 13,
+      "countryId": 47,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        16,
+        17,
+        18,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        74,
+        41,
+        65,
+        68,
+        81,
+        80
+      ],
+      "hasDynamicImage": true,
+      "price": 11000,
+      "resourceId": 50553139,
+      "assetId": 221491
     },
     "50559018": {
       "name": "Michael Zetterer",
@@ -1028,7 +1031,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 50559018,
       "assetId": 227370
     },
@@ -1074,7 +1077,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 50586196,
       "assetId": 254548
     },

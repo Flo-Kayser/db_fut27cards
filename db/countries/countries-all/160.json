@@ -35,7 +35,7 @@
       48
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 74579,
     "assetId": 74579
   },
@@ -72,7 +72,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 500,
+    "price": 450,
     "resourceId": 209701,
     "assetId": 209701
   },
@@ -117,7 +117,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 750,
+    "price": 1000,
     "resourceId": 224841,
     "assetId": 224841
   },
@@ -156,7 +156,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 500,
+    "price": 600,
     "resourceId": 227794,
     "assetId": 227794
   },
@@ -192,7 +192,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 1000,
+    "price": 450,
     "resourceId": 236571,
     "assetId": 236571
   },
@@ -228,7 +228,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 500,
+    "price": 850,
     "resourceId": 258926,
     "assetId": 258926
   },
@@ -269,7 +269,7 @@
       67
     ],
     "hasDynamicImage": false,
-    "price": 550,
+    "price": 1300,
     "resourceId": 259114,
     "assetId": 259114
   },
@@ -339,7 +339,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 850,
+    "price": 950,
     "resourceId": 262396,
     "assetId": 262396
   },
@@ -380,7 +380,7 @@
       54
     ],
     "hasDynamicImage": false,
-    "price": 550,
+    "price": 700,
     "resourceId": 268727,
     "assetId": 268727
   },
@@ -419,7 +419,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 600,
+    "price": 550,
     "resourceId": 269247,
     "assetId": 269247
   },
@@ -458,7 +458,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 450,
+    "price": 600,
     "resourceId": 269467,
     "assetId": 269467
   },
@@ -494,9 +494,65 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 700,
+    "price": 650,
     "resourceId": 50560061,
     "assetId": 228413
+  },
+  "50590762": {
+    "name": "Ole Romeny",
+    "cardName": "Romeny",
+    "originalVersionId": "3",
+    "clubId": 634,
+    "leagueId": 10,
+    "countryId": 160,
+    "versionId": "3",
+    "rating": 80,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 3,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      24,
+      8,
+      9
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137
+    ],
+    "attributes": [
+      81,
+      82,
+      77,
+      81,
+      45,
+      80
+    ],
+    "hasDynamicImage": true,
+    "price": 10250,
+    "resourceId": 50590762,
+    "assetId": 259114
   },
   "50590811": {
     "name": "Mees Hilgers",
@@ -533,7 +589,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 600,
+    "price": 450,
     "resourceId": 50590811,
     "assetId": 259163
   }

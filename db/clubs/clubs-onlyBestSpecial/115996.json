@@ -1,4 +1,46 @@
 {
   "clubName": "Leverkusen",
-  "players": {}
+  "players": {
+    "50404662": {
+      "name": "Cornelia Kramer",
+      "cardName": "Kramer",
+      "originalVersionId": "3",
+      "clubId": 115996,
+      "leagueId": 2215,
+      "countryId": 13,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        2,
+        26
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        83,
+        82,
+        64,
+        80,
+        50,
+        78
+      ],
+      "hasDynamicImage": true,
+      "price": 10750,
+      "resourceId": 50404662,
+      "assetId": 73014
+    }
+  }
 }

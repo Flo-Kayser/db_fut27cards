@@ -30,7 +30,7 @@
       58
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 250,
     "resourceId": 73871,
     "assetId": 73871
   },
@@ -67,7 +67,7 @@
       58
     ],
     "hasDynamicImage": false,
-    "price": 550,
+    "price": 600,
     "resourceId": 81958,
     "assetId": 81958
   },
@@ -101,7 +101,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 500,
+    "price": 550,
     "resourceId": 81960,
     "assetId": 81960
   },
@@ -171,7 +171,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 2600,
+    "price": 0,
     "resourceId": 86106,
     "assetId": 86106
   },
@@ -245,7 +245,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 450,
+    "price": 500,
     "resourceId": 220380,
     "assetId": 220380
   },
@@ -287,7 +287,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 750,
+    "price": 700,
     "resourceId": 226078,
     "assetId": 226078
   },
@@ -327,7 +327,7 @@
       57
     ],
     "hasDynamicImage": false,
-    "price": 400,
+    "price": 650,
     "resourceId": 245870,
     "assetId": 245870
   },
@@ -362,7 +362,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 550,
+    "price": 600,
     "resourceId": 269164,
     "assetId": 269164
   },
@@ -399,7 +399,7 @@
       52
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 250,
     "resourceId": 271214,
     "assetId": 271214
   },
@@ -493,7 +493,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "price": 144000,
+    "price": 161000,
     "resourceId": 50540979,
     "assetId": 209331
   },
@@ -532,23 +532,23 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 500,
+    "price": 550,
     "resourceId": 50585895,
     "assetId": 254247
   },
-  "50588323": {
+  "67365539": {
     "name": "Omar Marmoush",
     "cardName": "Marmoush",
-    "originalVersionId": "0",
+    "originalVersionId": "3",
     "clubId": 18,
     "leagueId": 13,
     "countryId": 111,
-    "versionId": "2002",
-    "rating": 82,
+    "versionId": "3",
+    "rating": 84,
     "preferredFoot": "Right",
     "weakFoot": 3,
     "skillMoves": 4,
-    "preferredPosition": "LW",
+    "preferredPosition": "ST",
     "possiblePositions": [
       "CAM",
       "LM",
@@ -563,22 +563,33 @@
     ],
     "playStylesPlus": [],
     "rolesPlus": [
-      30,
-      32,
-      39,
-      43
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
     ],
     "attributes": [
-      87,
-      83,
-      76,
-      83,
-      34,
-      69
+      89,
+      85,
+      78,
+      85,
+      37,
+      72
     ],
-    "hasDynamicImage": false,
-    "price": 700,
-    "resourceId": 50588323,
+    "hasDynamicImage": true,
+    "price": 92000,
+    "resourceId": 67365539,
     "assetId": 256675
   }
 }

@@ -1,6 +1,65 @@
 {
   "clubName": "FC Barcelona",
   "players": {
+    "50542162": {
+      "name": "João Cancelo",
+      "cardName": "João Cancelo",
+      "originalVersionId": "3",
+      "clubId": 241,
+      "leagueId": 53,
+      "countryId": 38,
+      "versionId": "3",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        12,
+        2,
+        20,
+        22
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        146,
+        147
+      ],
+      "attributes": [
+        85,
+        74,
+        85,
+        86,
+        79,
+        77
+      ],
+      "hasDynamicImage": true,
+      "price": 91000,
+      "resourceId": 50542162,
+      "assetId": 210514
+    },
     "50565067": {
       "name": "Raphinha",
       "cardName": "Raphinha",
@@ -66,7 +125,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 1689000,
+      "price": 1799000,
       "resourceId": 50565067,
       "assetId": 233419
     },
@@ -117,7 +176,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 283000,
+      "price": 244000,
       "resourceId": 50574612,
       "assetId": 242964
     },
@@ -233,7 +292,7 @@
         63
       ],
       "hasDynamicImage": true,
-      "price": 1388000,
+      "price": 1181000,
       "resourceId": 67386507,
       "assetId": 277643
     },
@@ -302,7 +361,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 1096850,
+      "sbcPrice": 1488350,
       "price": 0,
       "resourceId": 84119499,
       "assetId": 233419

@@ -1,6 +1,65 @@
 {
   "clubName": "FC Barcelona",
   "players": {
+    "50573494": {
+      "name": "Ewa Pajor",
+      "cardName": "Pajor",
+      "originalVersionId": "3",
+      "clubId": 116325,
+      "leagueId": 2222,
+      "countryId": 37,
+      "versionId": "3",
+      "rating": 90,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        21,
+        4,
+        6,
+        7
+      ],
+      "playStylesPlus": [
+        1
+      ],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        94,
+        92,
+        68,
+        90,
+        23,
+        75
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50573494,
+      "assetId": 241846
+    },
     "50593503": {
       "name": "Kika Nazareth",
       "cardName": "Kika Nazareth",
@@ -52,9 +111,65 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 888000,
+      "price": 955000,
       "resourceId": 50593503,
       "assetId": 261855
+    },
+    "50594179": {
+      "name": "Claudia Pina",
+      "cardName": "Claudia Pina",
+      "originalVersionId": "177",
+      "clubId": 116325,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "177",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        1,
+        11,
+        2,
+        20,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        0
+      ],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        91,
+        89,
+        85,
+        89,
+        45,
+        74
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 1288000,
+      "price": 0,
+      "resourceId": 50594179,
+      "assetId": 262531
     },
     "67376394": {
       "name": "Esmee Brugts",
@@ -119,7 +234,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 0,
+      "price": 123000,
       "resourceId": 67376394,
       "assetId": 267530
     }

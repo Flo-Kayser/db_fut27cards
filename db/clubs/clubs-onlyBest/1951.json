@@ -36,7 +36,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 500,
       "resourceId": 70229,
       "assetId": 70229
     },
@@ -76,7 +76,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 74579,
       "assetId": 74579
     },
@@ -116,7 +116,7 @@
         49
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 83599,
       "assetId": 83599
     },
@@ -188,7 +188,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 211203,
       "assetId": 211203
     },
@@ -226,7 +226,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 550,
       "resourceId": 211594,
       "assetId": 211594
     },
@@ -301,7 +301,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 700,
       "resourceId": 220140,
       "assetId": 220140
     },
@@ -343,7 +343,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 650,
       "resourceId": 220940,
       "assetId": 220940
     },
@@ -377,7 +377,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 500,
       "resourceId": 237833,
       "assetId": 237833
     },
@@ -415,7 +415,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 238070,
       "assetId": 238070
     },
@@ -460,7 +460,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 600,
       "resourceId": 239350,
       "assetId": 239350
     },
@@ -505,49 +505,9 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 500,
       "resourceId": 242004,
       "assetId": 242004
-    },
-    "242541": {
-      "name": "Ciaron Brown",
-      "cardName": "Brown",
-      "originalVersionId": "0",
-      "clubId": 1951,
-      "leagueId": 60,
-      "countryId": 35,
-      "versionId": "2001",
-      "rating": 69,
-      "preferredFoot": "Left",
-      "weakFoot": 2,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB",
-        "LB"
-      ],
-      "playStyles": [
-        15,
-        16,
-        19
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        7,
-        11
-      ],
-      "attributes": [
-        65,
-        46,
-        56,
-        60,
-        69,
-        75
-      ],
-      "hasDynamicImage": false,
-      "price": 500,
-      "resourceId": 242541,
-      "assetId": 242541
     },
     "245340": {
       "name": "Louie Sibley",
@@ -585,7 +545,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 750,
       "resourceId": 245340,
       "assetId": 245340
     },
@@ -622,7 +582,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 600,
       "resourceId": 252268,
       "assetId": 252268
     },
@@ -658,7 +618,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 500,
       "resourceId": 255314,
       "assetId": 255314
     },
@@ -695,7 +655,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 258702,
       "assetId": 258702
     },
@@ -736,7 +696,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 500,
       "resourceId": 263271,
       "assetId": 263271
     },
@@ -775,7 +735,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 600,
       "resourceId": 263861,
       "assetId": 263861
     },
@@ -813,7 +773,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 266577,
       "assetId": 266577
     },
@@ -847,7 +807,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 269930,
       "assetId": 269930
     },
@@ -887,9 +847,56 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 450,
       "resourceId": 270637,
       "assetId": 270637
+    },
+    "50574189": {
+      "name": "Ciaron Brown",
+      "cardName": "Brown",
+      "originalVersionId": "3",
+      "clubId": 1951,
+      "leagueId": 60,
+      "countryId": 35,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "LB"
+      ],
+      "playStyles": [
+        15,
+        16,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        147,
+        148
+      ],
+      "attributes": [
+        76,
+        57,
+        68,
+        72,
+        80,
+        85
+      ],
+      "hasDynamicImage": true,
+      "price": 10500,
+      "resourceId": 50574189,
+      "assetId": 242541
     },
     "50609305": {
       "name": "Kai Andrews",

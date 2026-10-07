@@ -33,7 +33,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 71782,
       "assetId": 71782
     },
@@ -68,7 +68,7 @@
         50
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 1400,
       "resourceId": 71784,
       "assetId": 71784
     },
@@ -104,7 +104,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 750,
       "resourceId": 75063,
       "assetId": 75063
     },
@@ -142,7 +142,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 1400,
       "resourceId": 78357,
       "assetId": 78357
     },
@@ -216,7 +216,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 1400,
       "resourceId": 81289,
       "assetId": 81289
     },
@@ -250,7 +250,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 83800,
       "assetId": 83800
     },
@@ -294,7 +294,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 284000,
+      "price": 244000,
       "resourceId": 227102,
       "assetId": 227102
     },
@@ -337,7 +337,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 5800,
+      "price": 8600,
       "resourceId": 227190,
       "assetId": 227190
     },
@@ -376,7 +376,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 2300,
       "resourceId": 227191,
       "assetId": 227191
     },
@@ -422,7 +422,7 @@
         88
       ],
       "hasDynamicImage": false,
-      "price": 186000,
+      "price": 189000,
       "resourceId": 237289,
       "assetId": 237289
     },
@@ -467,58 +467,9 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 274000,
+      "price": 269000,
       "resourceId": 241667,
       "assetId": 241667
-    },
-    "241846": {
-      "name": "Ewa Pajor",
-      "cardName": "Pajor",
-      "originalVersionId": "0",
-      "clubId": 116325,
-      "leagueId": 2222,
-      "countryId": 37,
-      "versionId": "2002",
-      "rating": 89,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "CAM",
-        "LM",
-        "LW",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        21,
-        4,
-        6,
-        7
-      ],
-      "playStylesPlus": [
-        1
-      ],
-      "rolesPlus": [
-        30,
-        32,
-        43,
-        139,
-        142
-      ],
-      "attributes": [
-        93,
-        91,
-        65,
-        89,
-        22,
-        72
-      ],
-      "hasDynamicImage": false,
-      "price": 152000,
-      "resourceId": 241846,
-      "assetId": 241846
     },
     "253435": {
       "name": "Laia Aleixandri",
@@ -559,7 +510,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 950,
       "resourceId": 253435,
       "assetId": 253435
     },
@@ -607,7 +558,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 885000,
+      "price": 880000,
       "resourceId": 262531,
       "assetId": 262531
     },
@@ -652,7 +603,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 2100,
+      "price": 3200,
       "resourceId": 267234,
       "assetId": 267234
     },
@@ -688,7 +639,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 2600,
+      "price": 3000,
       "resourceId": 268942,
       "assetId": 268942
     },
@@ -722,7 +673,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 1200,
       "resourceId": 268943,
       "assetId": 268943
     },
@@ -758,7 +709,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 1500,
       "resourceId": 268947,
       "assetId": 268947
     },
@@ -807,7 +758,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 21750,
+      "price": 20250,
       "resourceId": 271446,
       "assetId": 271446
     },
@@ -889,9 +840,68 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 1500,
       "resourceId": 279890,
       "assetId": 279890
+    },
+    "50573494": {
+      "name": "Ewa Pajor",
+      "cardName": "Pajor",
+      "originalVersionId": "3",
+      "clubId": 116325,
+      "leagueId": 2222,
+      "countryId": 37,
+      "versionId": "3",
+      "rating": 90,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        21,
+        4,
+        6,
+        7
+      ],
+      "playStylesPlus": [
+        1
+      ],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        94,
+        92,
+        68,
+        90,
+        23,
+        75
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50573494,
+      "assetId": 241846
     },
     "50593503": {
       "name": "Kika Nazareth",
@@ -944,9 +954,65 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 888000,
+      "price": 955000,
       "resourceId": 50593503,
       "assetId": 261855
+    },
+    "50594179": {
+      "name": "Claudia Pina",
+      "cardName": "Claudia Pina",
+      "originalVersionId": "177",
+      "clubId": 116325,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "177",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        1,
+        11,
+        2,
+        20,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        0
+      ],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        91,
+        89,
+        85,
+        89,
+        45,
+        74
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 1288000,
+      "price": 0,
+      "resourceId": 50594179,
+      "assetId": 262531
     },
     "67376394": {
       "name": "Esmee Brugts",
@@ -1011,7 +1077,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 0,
+      "price": 123000,
       "resourceId": 67376394,
       "assetId": 267530
     }
