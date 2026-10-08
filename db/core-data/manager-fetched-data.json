@@ -249,7 +249,7 @@
     {
       "id": 39,
       "name": "MLS",
-      "abbrName": "MLS",
+      "abbrName": "USA 1",
       "isWomen": false
     },
     {
@@ -1357,6 +1357,14 @@
       "linkedClubIds": []
     },
     {
+      "id": 132823,
+      "name": "AFC Richmond",
+      "abbrName": "AFC",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false
+    },
+    {
       "id": 112259,
       "name": "AFC Wimbledon",
       "abbrName": "WIM",
@@ -1946,6 +1954,14 @@
       "abbrName": "AUT",
       "linkedClubIds": [],
       "league": 78,
+      "isWomen": false
+    },
+    {
+      "name": "Austria Lustenau",
+      "abbrName": "ALU",
+      "linkedClubIds": [],
+      "id": 781,
+      "league": 80,
       "isWomen": false
     },
     {
@@ -6547,14 +6563,6 @@
       "isWomen": false
     },
     {
-      "name": "SC Austria",
-      "abbrName": "ALU",
-      "linkedClubIds": [],
-      "id": 781,
-      "league": 80,
-      "isWomen": false
-    },
-    {
       "id": 1896,
       "name": "SC Braga",
       "abbrName": "BRA",
@@ -8528,14 +8536,6 @@
     },
     {
       "id": 131631,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false
-    },
-    {
-      "id": 132823,
       "name": "Unknown",
       "abbrName": "Unknown",
       "linkedClubIds": [],

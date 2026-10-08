@@ -1010,7 +1010,7 @@
         "onlybestSpecial": 12
       },
       "name": "MLS",
-      "aName": "MLS",
+      "aName": "USA 1",
       "isW": false,
       "cId": 95,
       "sortId": 22,
@@ -2064,6 +2064,10 @@
       "sortId": 5,
       "clubIds": [
         {
+          "id": 781,
+          "name": "Austria Lustenau"
+        },
+        {
           "id": 256,
           "name": "FK Austria Wien"
         },
@@ -2078,10 +2082,6 @@
         {
           "id": 191,
           "name": "RB Salzburg"
-        },
-        {
-          "id": 781,
-          "name": "SC Austria"
         },
         {
           "id": 15009,
