@@ -1,6 +1,47 @@
 {
   "clubName": "Como 1907",
   "players": {
+    "50402614": {
+      "name": "Jacobo Ramón",
+      "cardName": "Jacobo Ramón",
+      "originalVersionId": "71",
+      "clubId": 1745,
+      "leagueId": 31,
+      "countryId": 45,
+      "versionId": "71",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        14,
+        17,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        80,
+        52,
+        65,
+        70,
+        89,
+        85
+      ],
+      "hasDynamicImage": true,
+      "price": 207000,
+      "resourceId": 50402614,
+      "assetId": 70966
+    },
     "50609494": {
       "name": "Nico Paz",
       "cardName": "Nico Paz",
@@ -51,7 +92,7 @@
         71
       ],
       "hasDynamicImage": true,
-      "price": 108000,
+      "price": 112000,
       "resourceId": 50609494,
       "assetId": 277846
     }

@@ -1,6 +1,49 @@
 {
   "clubName": "Real Madrid",
   "players": {
+    "50402615": {
+      "name": "Carlos Espí",
+      "cardName": "Carlos Espí",
+      "originalVersionId": "71",
+      "clubId": 243,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "71",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        25,
+        29,
+        4,
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        85,
+        85,
+        73,
+        82,
+        46,
+        88
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 39850,
+      "price": 0,
+      "resourceId": 50402615,
+      "assetId": 70967
+    },
     "50409660": {
       "name": "Yan Diomande",
       "cardName": "Diomande",
@@ -103,7 +146,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 7951000,
+      "price": 0,
       "resourceId": 50563395,
       "assetId": 231747
     },
@@ -147,7 +190,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 192000,
+      "price": 203000,
       "resourceId": 50570879,
       "assetId": 239231
     },
@@ -219,7 +262,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 0,
+      "price": 1570000,
       "resourceId": 50584019,
       "assetId": 252371
     },
@@ -273,7 +316,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 580000,
+      "price": 578000,
       "resourceId": 67377753,
       "assetId": 268889
     },
@@ -322,6 +365,78 @@
       "price": 0,
       "resourceId": 83971352,
       "assetId": 85272
+    },
+    "84138451": {
+      "name": "Jude Bellingham",
+      "cardName": "Bellingham",
+      "originalVersionId": "19",
+      "clubId": 243,
+      "leagueId": 53,
+      "countryId": 14,
+      "versionId": "19",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM",
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        18,
+        20,
+        22,
+        26,
+        4,
+        6
+      ],
+      "playStylesPlus": [
+        9
+      ],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        149
+      ],
+      "attributes": [
+        80,
+        87,
+        85,
+        89,
+        80,
+        86
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 84138451,
+      "assetId": 252371
     }
   }
 }

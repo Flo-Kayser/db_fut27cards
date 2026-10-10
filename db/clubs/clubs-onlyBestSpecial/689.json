@@ -1,4 +1,56 @@
 {
   "clubName": "Red Bulls",
-  "players": {}
+  "players": {
+    "50609822": {
+      "name": "Julian Hall",
+      "cardName": "Hall",
+      "originalVersionId": "71",
+      "clubId": 689,
+      "leagueId": 39,
+      "countryId": 95,
+      "versionId": "71",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        2,
+        21,
+        24,
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        89,
+        83,
+        70,
+        84,
+        44,
+        86
+      ],
+      "hasDynamicImage": true,
+      "price": 53500,
+      "resourceId": 50609822,
+      "assetId": 278174
+    }
+  }
 }

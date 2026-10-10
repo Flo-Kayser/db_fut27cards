@@ -1,4 +1,64 @@
 {
   "clubName": "Club Tijuana",
-  "players": {}
+  "players": {
+    "50411047": {
+      "name": "Gilberto Mora",
+      "cardName": "Mora",
+      "originalVersionId": "71",
+      "clubId": 111678,
+      "leagueId": 341,
+      "countryId": 83,
+      "versionId": "71",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        0,
+        11,
+        24,
+        8
+      ],
+      "playStylesPlus": [
+        9
+      ],
+      "rolesPlus": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        86,
+        82,
+        87,
+        89,
+        55,
+        62
+      ],
+      "hasDynamicImage": true,
+      "price": 127000,
+      "resourceId": 50411047,
+      "assetId": 79399
+    }
+  }
 }

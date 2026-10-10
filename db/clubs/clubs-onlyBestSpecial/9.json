@@ -1,6 +1,63 @@
 {
   "clubName": "Liverpool",
   "players": {
+    "50412024": {
+      "name": "Rio Ngumoha",
+      "cardName": "Ngumoha",
+      "originalVersionId": "71",
+      "clubId": 9,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "71",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        22,
+        23,
+        25
+      ],
+      "playStylesPlus": [
+        21
+      ],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        93,
+        85,
+        82,
+        88,
+        51,
+        63
+      ],
+      "hasDynamicImage": true,
+      "price": 1028000,
+      "resourceId": 50412024,
+      "assetId": 80376
+    },
     "50565379": {
       "name": "Alexander Isak",
       "cardName": "Isak",
@@ -42,7 +99,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 514000,
+      "price": 490000,
       "resourceId": 50565379,
       "assetId": 233731
     },
@@ -89,8 +146,55 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 66000,
+      "price": 31000,
       "resourceId": 50592556,
+      "assetId": 260908
+    },
+    "84146988": {
+      "name": "Milos Kerkez",
+      "cardName": "Kerkez",
+      "originalVersionId": "19",
+      "clubId": 9,
+      "leagueId": 13,
+      "countryId": 23,
+      "versionId": "19",
+      "rating": 83,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        15,
+        18,
+        21
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        107,
+        108,
+        109,
+        110,
+        127,
+        128,
+        129,
+        130,
+        147
+      ],
+      "attributes": [
+        86,
+        62,
+        78,
+        80,
+        78,
+        81
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 84146988,
       "assetId": 260908
     }
   }

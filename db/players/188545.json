@@ -34,7 +34,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 1400,
+    "price": 950,
     "resourceId": 188545,
     "assetId": 188545,
     "originalVersionId": 0
@@ -77,10 +77,53 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 28250,
+    "price": 13750,
     "resourceId": 50520193,
     "assetId": 188545,
     "originalVersionId": 3
+  },
+  "84074625": {
+    "clubId": 693,
+    "leagueId": 39,
+    "countryId": 37,
+    "versionId": "19",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      1,
+      2,
+      22,
+      4,
+      6,
+      7
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      77,
+      86,
+      80,
+      82,
+      45,
+      82
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84074625,
+    "assetId": 188545,
+    "originalVersionId": 19
   },
   "cardName": "Lewandowski",
   "name": "Robert Lewandowski"

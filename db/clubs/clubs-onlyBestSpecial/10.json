@@ -39,7 +39,7 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 351000,
+      "price": 186000,
       "resourceId": 50562269,
       "assetId": 230621
     },
@@ -86,7 +86,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 1226000,
+      "price": 1179000,
       "resourceId": 50570733,
       "assetId": 239085
     },
@@ -142,7 +142,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 66500,
+      "price": 64000,
       "resourceId": 50572884,
       "assetId": 241236
     },
@@ -246,6 +246,48 @@
       "price": 0,
       "resourceId": 50610549,
       "assetId": 278901
+    },
+    "84116701": {
+      "name": "Gianluigi Donnarumma",
+      "cardName": "Donnarumma",
+      "originalVersionId": "19",
+      "clubId": 10,
+      "leagueId": 13,
+      "countryId": 27,
+      "versionId": "19",
+      "rating": 90,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        10,
+        30,
+        34
+      ],
+      "playStylesPlus": [
+        35
+      ],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        91,
+        84,
+        74,
+        91,
+        48,
+        89
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 84116701,
+      "assetId": 230621
     }
   }
 }

@@ -40,7 +40,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 68000,
+    "price": 62000,
     "resourceId": 5673,
     "assetId": 5673
   },
@@ -88,7 +88,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 70500,
+    "price": 69500,
     "resourceId": 15723,
     "assetId": 15723
   },
@@ -179,9 +179,55 @@
       65
     ],
     "hasDynamicImage": true,
-    "price": 14000,
+    "price": 12000,
     "resourceId": 50402374,
     "assetId": 70726
+  },
+  "50412559": {
+    "name": "Patati",
+    "cardName": "Patati",
+    "originalVersionId": "87",
+    "clubId": 1906,
+    "leagueId": 10,
+    "countryId": 54,
+    "versionId": "87",
+    "rating": 84,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      20,
+      21,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      135,
+      136,
+      137
+    ],
+    "attributes": [
+      90,
+      82,
+      77,
+      84,
+      40,
+      75
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 11850,
+    "price": 0,
+    "resourceId": 50412559,
+    "assetId": 80911
   },
   "50590762": {
     "name": "Ole Romeny",
@@ -435,7 +481,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 11000,
+    "price": 10250,
     "resourceId": 50599622,
     "assetId": 267974
   },
@@ -602,9 +648,65 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 10500,
+    "price": 10750,
     "resourceId": 67363653,
     "assetId": 254789
+  },
+  "84145194": {
+    "name": "Ole Romeny",
+    "cardName": "Romeny",
+    "originalVersionId": "19",
+    "clubId": 634,
+    "leagueId": 10,
+    "countryId": 160,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 3,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      24,
+      8,
+      9
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137
+    ],
+    "attributes": [
+      81,
+      82,
+      77,
+      81,
+      45,
+      80
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84145194,
+    "assetId": 259114
   },
   "84154054": {
     "name": "Mexx Meerdink",

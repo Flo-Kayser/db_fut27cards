@@ -40,7 +40,7 @@
       }
     },
     "19": {
-      "count": 16,
+      "count": 39,
       "file": "db/versions/19.json",
       "details": {
         "name": "FUT Champions",
@@ -104,6 +104,19 @@
         "tertiaryColor": "#fefefe"
       }
     },
+    "71": {
+      "count": 22,
+      "file": "db/versions/71.json",
+      "details": {
+        "name": "Future Stars",
+        "hasStrip": true,
+        "createdAt": "2026-09-22T18:45:01.531Z",
+        "url": "https://assets.easysbc.io/fc27/cards/e_71_0.png",
+        "primaryColor": "#ffffff",
+        "secondaryColor": "#2a084f",
+        "tertiaryColor": "#f09bff"
+      }
+    },
     "72": {
       "count": 88,
       "file": "db/versions/72.json",
@@ -131,7 +144,7 @@
       }
     },
     "87": {
-      "count": 22,
+      "count": 23,
       "file": "db/versions/87.json",
       "details": {
         "name": "Squad Foundations",
@@ -236,8 +249,8 @@
     }
   },
   "meta": {
-    "totalVersions": 18,
-    "totalVersionsWithoutBase": 15,
-    "updatedAt": "2026-10-09T21:40:07.492Z"
+    "totalVersions": 19,
+    "totalVersionsWithoutBase": 16,
+    "updatedAt": "2026-10-10T20:34:05.012Z"
   }
 }

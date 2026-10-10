@@ -33,7 +33,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 2900,
+      "price": 4400,
       "resourceId": 76624,
       "assetId": 76624
     },
@@ -67,7 +67,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 2100,
       "resourceId": 204246,
       "assetId": 204246
     },
@@ -107,7 +107,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 1100,
       "resourceId": 207410,
       "assetId": 207410
     },
@@ -143,7 +143,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 1500,
       "resourceId": 215316,
       "assetId": 215316
     },
@@ -179,7 +179,7 @@
         88
       ],
       "hasDynamicImage": false,
-      "price": 31000,
+      "price": 30000,
       "resourceId": 230621,
       "assetId": 230621
     },
@@ -269,7 +269,7 @@
         89
       ],
       "hasDynamicImage": false,
-      "price": 119000,
+      "price": 80000,
       "resourceId": 239085,
       "assetId": 239085
     },
@@ -309,7 +309,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 8200,
+      "price": 6200,
       "resourceId": 239818,
       "assetId": 239818
     },
@@ -351,7 +351,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 2800,
+      "price": 2700,
       "resourceId": 241159,
       "assetId": 241159
     },
@@ -398,7 +398,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 3200,
+      "price": 2700,
       "resourceId": 241236,
       "assetId": 241236
     },
@@ -438,7 +438,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 1400,
       "resourceId": 242641,
       "assetId": 242641
     },
@@ -487,7 +487,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 24500,
+      "price": 16000,
       "resourceId": 246420,
       "assetId": 246420
     },
@@ -529,7 +529,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 3600,
+      "price": 2900,
       "resourceId": 251517,
       "assetId": 251517
     },
@@ -577,7 +577,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 30000,
+      "price": 17000,
       "resourceId": 251570,
       "assetId": 251570
     },
@@ -615,7 +615,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 1300,
       "resourceId": 253124,
       "assetId": 253124
     },
@@ -659,7 +659,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 950,
       "resourceId": 254243,
       "assetId": 254243
     },
@@ -738,7 +738,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 2900,
       "resourceId": 271574,
       "assetId": 271574
     },
@@ -776,7 +776,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 14000,
+      "price": 11250,
       "resourceId": 277031,
       "assetId": 277031
     },
@@ -860,7 +860,7 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 351000,
+      "price": 186000,
       "resourceId": 50562269,
       "assetId": 230621
     },
@@ -907,7 +907,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 1226000,
+      "price": 1179000,
       "resourceId": 50570733,
       "assetId": 239085
     },
@@ -963,7 +963,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 66500,
+      "price": 64000,
       "resourceId": 50572884,
       "assetId": 241236
     },
@@ -1006,7 +1006,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 5800,
+      "price": 5000,
       "resourceId": 50578738,
       "assetId": 247090
     },
@@ -1101,7 +1101,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 950,
       "resourceId": 50592836,
       "assetId": 261188
     },
@@ -1193,9 +1193,51 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 1200,
       "resourceId": 67387765,
       "assetId": 278901
+    },
+    "84116701": {
+      "name": "Gianluigi Donnarumma",
+      "cardName": "Donnarumma",
+      "originalVersionId": "19",
+      "clubId": 10,
+      "leagueId": 13,
+      "countryId": 27,
+      "versionId": "19",
+      "rating": 90,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        10,
+        30,
+        34
+      ],
+      "playStylesPlus": [
+        35
+      ],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        91,
+        84,
+        74,
+        91,
+        48,
+        89
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 84116701,
+      "assetId": 230621
     }
   }
 }

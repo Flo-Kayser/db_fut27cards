@@ -91,7 +91,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 1600000,
+    "price": 1659000,
     "resourceId": 183277,
     "assetId": 183277
   },
@@ -138,7 +138,7 @@
       86
     ],
     "hasDynamicImage": false,
-    "price": 527000,
+    "price": 576000,
     "resourceId": 251483,
     "assetId": 251483
   },
@@ -188,7 +188,7 @@
       68
     ],
     "hasDynamicImage": true,
-    "price": 10750,
+    "price": 9900,
     "resourceId": 50411180,
     "assetId": 79532
   },
@@ -238,7 +238,7 @@
       71
     ],
     "hasDynamicImage": true,
-    "price": 129000,
+    "price": 46750,
     "resourceId": 50524633,
     "assetId": 192985
   },
@@ -297,5 +297,153 @@
     "price": 0,
     "resourceId": 50548041,
     "assetId": 216393
+  },
+  "50590026": {
+    "name": "Mika Godts",
+    "cardName": "Godts",
+    "originalVersionId": "71",
+    "clubId": 73,
+    "leagueId": 16,
+    "countryId": 7,
+    "versionId": "71",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      12,
+      20,
+      25,
+      7
+    ],
+    "playStylesPlus": [
+      6
+    ],
+    "rolesPlus": [
+      127,
+      128,
+      129,
+      130,
+      138,
+      139,
+      140
+    ],
+    "attributes": [
+      88,
+      84,
+      83,
+      89,
+      52,
+      75
+    ],
+    "hasDynamicImage": true,
+    "price": 420000,
+    "resourceId": 50590026,
+    "assetId": 258378
+  },
+  "83965612": {
+    "name": "Mariam Toloba",
+    "cardName": "Toloba",
+    "originalVersionId": "19",
+    "clubId": 116035,
+    "leagueId": 2218,
+    "countryId": 7,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      21,
+      22
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      127,
+      128,
+      129,
+      130,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      80,
+      82,
+      62,
+      82,
+      24,
+      68
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 83965612,
+    "assetId": 79532
+  },
+  "84079065": {
+    "name": "Kevin De Bruyne",
+    "cardName": "De Bruyne",
+    "originalVersionId": "19",
+    "clubId": 48,
+    "leagueId": 31,
+    "countryId": 7,
+    "versionId": "19",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CM"
+    ],
+    "playStyles": [
+      11,
+      24,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      2
+    ],
+    "rolesPlus": [
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134
+    ],
+    "attributes": [
+      76,
+      83,
+      90,
+      85,
+      68,
+      71
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84079065,
+    "assetId": 192985
   }
 }

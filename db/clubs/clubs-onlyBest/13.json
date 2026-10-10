@@ -76,7 +76,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 71418,
       "assetId": 71418
     },
@@ -184,7 +184,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 1500,
       "resourceId": 75734,
       "assetId": 75734
     },
@@ -222,7 +222,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 2400,
       "resourceId": 77152,
       "assetId": 77152
     },
@@ -264,7 +264,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 800,
       "resourceId": 198032,
       "assetId": 198032
     },
@@ -298,7 +298,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 500,
       "resourceId": 198039,
       "assetId": 198039
     },
@@ -374,7 +374,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 206085,
       "assetId": 206085
     },
@@ -412,7 +412,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 850,
       "resourceId": 210047,
       "assetId": 210047
     },
@@ -495,7 +495,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 234742,
       "assetId": 234742
     },
@@ -568,7 +568,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 1600,
       "resourceId": 237329,
       "assetId": 237329
     },
@@ -608,7 +608,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 246923,
       "assetId": 246923
     },
@@ -645,7 +645,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 251809,
       "assetId": 251809
     },
@@ -683,7 +683,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 256261,
       "assetId": 256261
     },
@@ -721,7 +721,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 1800,
       "resourceId": 257345,
       "assetId": 257345
     },
@@ -762,7 +762,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 700,
       "resourceId": 257470,
       "assetId": 257470
     },
@@ -796,7 +796,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 2300,
+      "price": 2100,
       "resourceId": 258936,
       "assetId": 258936
     },
@@ -838,47 +838,9 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 750,
       "resourceId": 262118,
       "assetId": 262118
-    },
-    "266127": {
-      "name": "Lewis Hall",
-      "cardName": "Hall",
-      "originalVersionId": "0",
-      "clubId": 13,
-      "leagueId": 13,
-      "countryId": 14,
-      "versionId": "2002",
-      "rating": 83,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "LB",
-      "possiblePositions": [
-        "LB"
-      ],
-      "playStyles": [
-        12,
-        15,
-        24
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        47
-      ],
-      "attributes": [
-        78,
-        64,
-        81,
-        82,
-        80,
-        68
-      ],
-      "hasDynamicImage": false,
-      "price": 900,
-      "resourceId": 266127,
-      "assetId": 266127
     },
     "270519": {
       "name": "William Osula",
@@ -910,7 +872,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 1600,
       "resourceId": 270519,
       "assetId": 270519
     },
@@ -944,7 +906,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 550,
       "resourceId": 278210,
       "assetId": 278210
     },
@@ -981,9 +943,53 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 50586717,
       "assetId": 255069
+    },
+    "50597775": {
+      "name": "Lewis Hall",
+      "cardName": "Hall",
+      "originalVersionId": "71",
+      "clubId": 13,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "71",
+      "rating": 86,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB"
+      ],
+      "playStyles": [
+        12,
+        14,
+        15,
+        16,
+        24
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        107,
+        108,
+        109,
+        110,
+        147
+      ],
+      "attributes": [
+        83,
+        67,
+        84,
+        86,
+        86,
+        79
+      ],
+      "hasDynamicImage": true,
+      "price": 116000,
+      "resourceId": 50597775,
+      "assetId": 266127
     },
     "50605894": {
       "name": "Lewis Miley",
@@ -1082,7 +1088,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 1000,
       "resourceId": 50607696,
       "assetId": 276048
     }

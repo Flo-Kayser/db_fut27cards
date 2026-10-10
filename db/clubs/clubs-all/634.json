@@ -40,7 +40,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 450,
       "resourceId": 73964,
       "assetId": 73964
     },
@@ -80,7 +80,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 650,
       "resourceId": 79242,
       "assetId": 79242
     },
@@ -150,7 +150,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 87594,
       "assetId": 87594
     },
@@ -188,7 +188,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 450,
       "resourceId": 197860,
       "assetId": 197860
     },
@@ -224,7 +224,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 400,
       "resourceId": 202457,
       "assetId": 202457
     },
@@ -263,7 +263,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 700,
       "resourceId": 210386,
       "assetId": 210386
     },
@@ -297,7 +297,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 400,
       "resourceId": 210832,
       "assetId": 210832
     },
@@ -336,7 +336,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 500,
       "resourceId": 220385,
       "assetId": 220385
     },
@@ -380,7 +380,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 700,
       "resourceId": 246960,
       "assetId": 246960
     },
@@ -419,7 +419,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 500,
       "resourceId": 254503,
       "assetId": 254503
     },
@@ -458,7 +458,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 500,
       "resourceId": 254680,
       "assetId": 254680
     },
@@ -530,7 +530,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 400,
       "resourceId": 258926,
       "assetId": 258926
     },
@@ -571,7 +571,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 750,
       "resourceId": 259114,
       "assetId": 259114
     },
@@ -611,7 +611,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 550,
       "resourceId": 260436,
       "assetId": 260436
     },
@@ -649,7 +649,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 500,
       "resourceId": 261249,
       "assetId": 261249
     },
@@ -685,7 +685,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 500,
       "resourceId": 263556,
       "assetId": 263556
     },
@@ -757,7 +757,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 2400,
+      "price": 1500,
       "resourceId": 269259,
       "assetId": 269259
     },
@@ -791,7 +791,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 276494,
       "assetId": 276494
     },
@@ -898,6 +898,62 @@
       "price": 0,
       "resourceId": 50592897,
       "assetId": 261249
+    },
+    "84145194": {
+      "name": "Ole Romeny",
+      "cardName": "Romeny",
+      "originalVersionId": "19",
+      "clubId": 634,
+      "leagueId": 10,
+      "countryId": 160,
+      "versionId": "19",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        24,
+        8,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137
+      ],
+      "attributes": [
+        81,
+        82,
+        77,
+        81,
+        45,
+        80
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 84145194,
+      "assetId": 259114
     }
   }
 }

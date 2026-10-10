@@ -1,6 +1,48 @@
 {
   "clubName": "Middlesbrough",
   "players": {
+    "50406920": {
+      "name": "Will Lankshear",
+      "cardName": "Lankshear",
+      "originalVersionId": "71",
+      "clubId": 12,
+      "leagueId": 14,
+      "countryId": 14,
+      "versionId": "71",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        24,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        83,
+        85,
+        70,
+        82,
+        43,
+        86
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 13600,
+      "price": 0,
+      "resourceId": 50406920,
+      "assetId": 75272
+    },
     "50586853": {
       "name": "Sebastian Berhalter",
       "cardName": "Berhalter",
@@ -47,7 +89,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 10500,
+      "price": 10750,
       "resourceId": 50586853,
       "assetId": 255205
     },

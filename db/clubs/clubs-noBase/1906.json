@@ -1,6 +1,52 @@
 {
   "clubName": "AZ",
   "players": {
+    "50412559": {
+      "name": "Patati",
+      "cardName": "Patati",
+      "originalVersionId": "87",
+      "clubId": 1906,
+      "leagueId": 10,
+      "countryId": 54,
+      "versionId": "87",
+      "rating": 84,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        20,
+        21,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        135,
+        136,
+        137
+      ],
+      "attributes": [
+        90,
+        82,
+        77,
+        84,
+        40,
+        75
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 11850,
+      "price": 0,
+      "resourceId": 50412559,
+      "assetId": 80911
+    },
     "50599622": {
       "name": "Mexx Meerdink",
       "cardName": "Meerdink",
@@ -40,7 +86,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 11000,
+      "price": 10250,
       "resourceId": 50599622,
       "assetId": 267974
     },
