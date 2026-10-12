@@ -1,6 +1,61 @@
 {
   "clubName": "Beşiktaş",
   "players": {
+    "50403818": {
+      "name": "Ilhan Fakili",
+      "cardName": "Fakili",
+      "originalVersionId": "71",
+      "clubId": 327,
+      "leagueId": 68,
+      "countryId": 48,
+      "versionId": "71",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        20,
+        25,
+        7
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        88,
+        79,
+        78,
+        87,
+        40,
+        76
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 11700,
+      "price": 0,
+      "resourceId": 50403818,
+      "assetId": 72170
+    },
     "50574893": {
       "name": "Orkun Kökçü",
       "cardName": "Kökçü",
@@ -52,7 +107,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 30750,
+      "price": 38750,
       "resourceId": 50574893,
       "assetId": 243245
     }

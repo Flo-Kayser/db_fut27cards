@@ -107,7 +107,7 @@
         50
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 73062,
       "assetId": 73062
     },
@@ -179,7 +179,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 83493,
       "assetId": 83493
     },
@@ -215,7 +215,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 83495,
       "assetId": 83495
     },
@@ -251,7 +251,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 0,
       "resourceId": 83544,
       "assetId": 83544
     },
@@ -285,7 +285,7 @@
         50
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 83548,
       "assetId": 83548
     },
@@ -322,7 +322,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 83621,
       "assetId": 83621
     },
@@ -392,7 +392,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 84368,
       "assetId": 84368
     },
@@ -428,7 +428,7 @@
         39
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 84636,
       "assetId": 84636
     },
@@ -464,7 +464,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 84637,
       "assetId": 84637
     },
@@ -503,7 +503,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 650,
       "resourceId": 231933,
       "assetId": 231933
     },
@@ -583,7 +583,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 258410,
       "assetId": 258410
     },
@@ -697,7 +697,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 263683,
       "assetId": 263683
     },
@@ -736,7 +736,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 264499,
       "assetId": 264499
     },
@@ -961,9 +961,126 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 700,
       "resourceId": 278937,
       "assetId": 278937
+    },
+    "50555408": {
+      "name": "Amrinder Singh",
+      "cardName": "Singh",
+      "originalVersionId": "0",
+      "clubId": 113299,
+      "leagueId": 2149,
+      "countryId": 159,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        10,
+        31
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        45
+      ],
+      "attributes": [
+        67,
+        64,
+        64,
+        64,
+        43,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 650,
+      "resourceId": 50555408,
+      "assetId": 223760
+    },
+    "50579955": {
+      "name": "Mohammed Yasir",
+      "cardName": "Yasir",
+      "originalVersionId": "0",
+      "clubId": 113299,
+      "leagueId": 2149,
+      "countryId": 159,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        24,
+        36
+      ],
+      "attributes": [
+        76,
+        52,
+        55,
+        61,
+        35,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 650,
+      "resourceId": 50579955,
+      "assetId": 248307
+    },
+    "50609215": {
+      "name": "Ramhlunchhunga Ramhlunchhunga",
+      "cardName": "Ramhlunchhunga",
+      "originalVersionId": "0",
+      "clubId": 113299,
+      "leagueId": 2149,
+      "countryId": 159,
+      "versionId": "2000",
+      "rating": 56,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        27,
+        28,
+        35,
+        38
+      ],
+      "attributes": [
+        67,
+        42,
+        50,
+        58,
+        39,
+        43
+      ],
+      "hasDynamicImage": false,
+      "price": 650,
+      "resourceId": 50609215,
+      "assetId": 277567
     }
   }
 }

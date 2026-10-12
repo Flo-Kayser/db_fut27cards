@@ -47,6 +47,110 @@
     "resourceId": 199835,
     "assetId": 199835
   },
+  "50403818": {
+    "name": "Ilhan Fakili",
+    "cardName": "Fakili",
+    "originalVersionId": "71",
+    "clubId": 327,
+    "leagueId": 68,
+    "countryId": 48,
+    "versionId": "71",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      20,
+      25,
+      7
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140
+    ],
+    "attributes": [
+      88,
+      79,
+      78,
+      87,
+      40,
+      76
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 11700,
+    "price": 0,
+    "resourceId": 50403818,
+    "assetId": 72170
+  },
+  "50415664": {
+    "name": "Ousmane Diabate",
+    "cardName": "Diabate",
+    "originalVersionId": "71",
+    "clubId": 101025,
+    "leagueId": 68,
+    "countryId": 118,
+    "versionId": "71",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      10,
+      22,
+      26
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      149
+    ],
+    "attributes": [
+      82,
+      68,
+      78,
+      79,
+      80,
+      84
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 11700,
+    "price": 0,
+    "resourceId": 50415664,
+    "assetId": 84016
+  },
   "50540979": {
     "name": "Mohamed Salah",
     "cardName": "Salah",
@@ -102,7 +206,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "price": 171000,
+    "price": 186000,
     "resourceId": 50540979,
     "assetId": 209331
   },
@@ -143,7 +247,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 11500,
+    "price": 11250,
     "resourceId": 50555358,
     "assetId": 223710
   },
@@ -198,9 +302,61 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 30750,
+    "price": 38750,
     "resourceId": 50574893,
     "assetId": 243245
+  },
+  "50600885": {
+    "name": "Arda Okan Kurtulan",
+    "cardName": "Kurtulan",
+    "originalVersionId": "71",
+    "clubId": 101026,
+    "leagueId": 68,
+    "countryId": 1,
+    "versionId": "71",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "RB",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      16,
+      25,
+      27
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      123,
+      124,
+      125,
+      126,
+      135,
+      136,
+      137,
+      146
+    ],
+    "attributes": [
+      86,
+      76,
+      78,
+      83,
+      77,
+      84
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 11700,
+    "price": 0,
+    "resourceId": 50600885,
+    "assetId": 269237
   },
   "67382428": {
     "name": "Gift Orban",
@@ -239,8 +395,55 @@
       68
     ],
     "hasDynamicImage": true,
-    "price": 11000,
+    "price": 10750,
     "resourceId": 67382428,
     "assetId": 273564
+  },
+  "67386075": {
+    "name": "Franculino",
+    "cardName": "Franculino",
+    "originalVersionId": "71",
+    "clubId": 436,
+    "leagueId": 68,
+    "countryId": 119,
+    "versionId": "71",
+    "rating": 84,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "ST"
+    ],
+    "playStyles": [
+      1,
+      21,
+      24
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      131,
+      132,
+      133,
+      134,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      89,
+      82,
+      76,
+      82,
+      48,
+      84
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 11700,
+    "price": 0,
+    "resourceId": 67386075,
+    "assetId": 277211
   }
 }

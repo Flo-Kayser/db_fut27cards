@@ -104,7 +104,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 70222,
       "assetId": 70222
     },
@@ -178,7 +178,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 77457,
       "assetId": 77457
     },
@@ -212,7 +212,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 700,
       "resourceId": 80609,
       "assetId": 80609
     },
@@ -283,7 +283,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 350,
       "resourceId": 228295,
       "assetId": 228295
     },
@@ -327,7 +327,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 350,
       "resourceId": 231985,
       "assetId": 231985
     },
@@ -405,7 +405,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 1600,
       "resourceId": 237000,
       "assetId": 237000
     },
@@ -447,7 +447,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 400,
       "resourceId": 237138,
       "assetId": 237138
     },
@@ -528,7 +528,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 550,
       "resourceId": 256934,
       "assetId": 256934
     },
@@ -609,7 +609,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 450,
       "resourceId": 261455,
       "assetId": 261455
     },
@@ -797,7 +797,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 271055,
       "assetId": 271055
     },
@@ -871,7 +871,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 400,
       "resourceId": 276207,
       "assetId": 276207
     },
@@ -909,6 +909,51 @@
       "price": 200,
       "resourceId": 279544,
       "assetId": 279544
+    },
+    "50584444": {
+      "name": "Morgan Whittaker",
+      "cardName": "Whittaker",
+      "originalVersionId": "0",
+      "clubId": 694,
+      "leagueId": 39,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 74,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        6,
+        7
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        24,
+        32,
+        35,
+        43
+      ],
+      "attributes": [
+        77,
+        73,
+        68,
+        74,
+        38,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 650,
+      "resourceId": 50584444,
+      "assetId": 252796
     }
   }
 }

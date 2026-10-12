@@ -49,7 +49,7 @@
       63
     ],
     "hasDynamicImage": true,
-    "price": 81000,
+    "price": 60000,
     "resourceId": 50402434,
     "assetId": 70786
   },
@@ -90,7 +90,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 207000,
+    "price": 180000,
     "resourceId": 50402614,
     "assetId": 70966
   },
@@ -132,10 +132,65 @@
       88
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 39850,
+    "sbcPrice": 42350,
     "price": 0,
     "resourceId": 50402615,
     "assetId": 70967
+  },
+  "50403818": {
+    "name": "Ilhan Fakili",
+    "cardName": "Fakili",
+    "originalVersionId": "71",
+    "clubId": 327,
+    "leagueId": 68,
+    "countryId": 48,
+    "versionId": "71",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      20,
+      25,
+      7
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140
+    ],
+    "attributes": [
+      88,
+      79,
+      78,
+      87,
+      40,
+      76
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 11700,
+    "price": 0,
+    "resourceId": 50403818,
+    "assetId": 72170
   },
   "50406920": {
     "name": "Will Lankshear",
@@ -174,7 +229,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 13600,
+    "sbcPrice": 14450,
     "price": 0,
     "resourceId": 50406920,
     "assetId": 75272
@@ -242,7 +297,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 13600,
+    "sbcPrice": 14450,
     "price": 0,
     "resourceId": 50407276,
     "assetId": 75628
@@ -302,7 +357,7 @@
       62
     ],
     "hasDynamicImage": true,
-    "price": 127000,
+    "price": 113000,
     "resourceId": 50411047,
     "assetId": 79399
   },
@@ -359,7 +414,7 @@
       63
     ],
     "hasDynamicImage": true,
-    "price": 1028000,
+    "price": 805000,
     "resourceId": 50412024,
     "assetId": 80376
   },
@@ -406,10 +461,59 @@
       75
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 13600,
+    "sbcPrice": 14450,
     "price": 0,
     "resourceId": 50413187,
     "assetId": 81539
+  },
+  "50415664": {
+    "name": "Ousmane Diabate",
+    "cardName": "Diabate",
+    "originalVersionId": "71",
+    "clubId": 101025,
+    "leagueId": 68,
+    "countryId": 118,
+    "versionId": "71",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      10,
+      22,
+      26
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      149
+    ],
+    "attributes": [
+      82,
+      68,
+      78,
+      79,
+      80,
+      84
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 11700,
+    "price": 0,
+    "resourceId": 50415664,
+    "assetId": 84016
   },
   "50590026": {
     "name": "Mika Godts",
@@ -455,7 +559,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 420000,
+    "price": 336000,
     "resourceId": 50590026,
     "assetId": 258378
   },
@@ -498,7 +602,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 205000,
+    "price": 161000,
     "resourceId": 50591213,
     "assetId": 259565
   },
@@ -559,7 +663,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 100000,
+    "price": 83500,
     "resourceId": 50595413,
     "assetId": 263765
   },
@@ -608,7 +712,7 @@
       65
     ],
     "hasDynamicImage": true,
-    "price": 67500,
+    "price": 75000,
     "resourceId": 50596965,
     "assetId": 265317
   },
@@ -652,9 +756,61 @@
       79
     ],
     "hasDynamicImage": true,
-    "price": 116000,
+    "price": 85500,
     "resourceId": 50597775,
     "assetId": 266127
+  },
+  "50600885": {
+    "name": "Arda Okan Kurtulan",
+    "cardName": "Kurtulan",
+    "originalVersionId": "71",
+    "clubId": 101026,
+    "leagueId": 68,
+    "countryId": 1,
+    "versionId": "71",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "RB",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      16,
+      25,
+      27
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      123,
+      124,
+      125,
+      126,
+      135,
+      136,
+      137,
+      146
+    ],
+    "attributes": [
+      86,
+      76,
+      78,
+      83,
+      77,
+      84
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 11700,
+    "price": 0,
+    "resourceId": 50600885,
+    "assetId": 269237
   },
   "50603094": {
     "name": "Vicky López",
@@ -720,7 +876,7 @@
       66
     ],
     "hasDynamicImage": true,
-    "price": 3320000,
+    "price": 2716000,
     "resourceId": 50603094,
     "assetId": 271446
   },
@@ -760,7 +916,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 33000,
+    "price": 30250,
     "resourceId": 50603566,
     "assetId": 271918
   },
@@ -855,7 +1011,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 58500,
+    "price": 49750,
     "resourceId": 50608873,
     "assetId": 277225
   },
@@ -909,7 +1065,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 58500,
+    "price": 47750,
     "resourceId": 50609599,
     "assetId": 277951
   },
@@ -960,7 +1116,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 53500,
+    "price": 42500,
     "resourceId": 50609822,
     "assetId": 278174
   },
@@ -1017,7 +1173,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 800000,
+    "price": 704000,
     "resourceId": 50610421,
     "assetId": 278773
   },
@@ -1071,7 +1227,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 13600,
+    "sbcPrice": 14450,
     "price": 0,
     "resourceId": 50610726,
     "assetId": 279078
@@ -1128,5 +1284,52 @@
     "price": 0,
     "resourceId": 50611347,
     "assetId": 279699
+  },
+  "67386075": {
+    "name": "Franculino",
+    "cardName": "Franculino",
+    "originalVersionId": "71",
+    "clubId": 436,
+    "leagueId": 68,
+    "countryId": 119,
+    "versionId": "71",
+    "rating": 84,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "ST"
+    ],
+    "playStyles": [
+      1,
+      21,
+      24
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      131,
+      132,
+      133,
+      134,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      89,
+      82,
+      76,
+      82,
+      48,
+      84
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 11700,
+    "price": 0,
+    "resourceId": 67386075,
+    "assetId": 277211
   }
 }
