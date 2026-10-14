@@ -33,7 +33,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 800,
       "resourceId": 71782,
       "assetId": 71782
     },
@@ -68,7 +68,7 @@
         50
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 1200,
       "resourceId": 71784,
       "assetId": 71784
     },
@@ -142,7 +142,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 0,
+      "price": 19500,
       "resourceId": 78357,
       "assetId": 78357
     },
@@ -178,7 +178,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 1400,
       "resourceId": 79675,
       "assetId": 79675
     },
@@ -250,7 +250,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 500,
       "resourceId": 83800,
       "assetId": 83800
     },
@@ -294,7 +294,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 222000,
+      "price": 210000,
       "resourceId": 227102,
       "assetId": 227102
     },
@@ -337,7 +337,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 7700,
+      "price": 6900,
       "resourceId": 227190,
       "assetId": 227190
     },
@@ -376,55 +376,9 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 2300,
+      "price": 2200,
       "resourceId": 227191,
       "assetId": 227191
-    },
-    "237289": {
-      "name": "Patri Guijarro",
-      "cardName": "Patri Guijarro",
-      "originalVersionId": "0",
-      "clubId": 116325,
-      "leagueId": 2222,
-      "countryId": 45,
-      "versionId": "2002",
-      "rating": 88,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "CDM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        11,
-        13,
-        22,
-        24,
-        8
-      ],
-      "playStylesPlus": [
-        16
-      ],
-      "rolesPlus": [
-        16,
-        49,
-        117,
-        120
-      ],
-      "attributes": [
-        78,
-        82,
-        83,
-        88,
-        84,
-        88
-      ],
-      "hasDynamicImage": false,
-      "price": 194000,
-      "resourceId": 237289,
-      "assetId": 237289
     },
     "241667": {
       "name": "Aitana Bonmatí",
@@ -467,7 +421,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 282000,
+      "price": 266000,
       "resourceId": 241667,
       "assetId": 241667
     },
@@ -510,7 +464,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 850,
       "resourceId": 253435,
       "assetId": 253435
     },
@@ -558,7 +512,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 779000,
+      "price": 720000,
       "resourceId": 262531,
       "assetId": 262531
     },
@@ -603,7 +557,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 2800,
+      "price": 3000,
       "resourceId": 267234,
       "assetId": 267234
     },
@@ -639,7 +593,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 3000,
+      "price": 2700,
       "resourceId": 268942,
       "assetId": 268942
     },
@@ -673,7 +627,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 1100,
       "resourceId": 268943,
       "assetId": 268943
     },
@@ -709,7 +663,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 1100,
       "resourceId": 268947,
       "assetId": 268947
     },
@@ -753,7 +707,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 11250,
       "resourceId": 277699,
       "assetId": 277699
     },
@@ -791,9 +745,61 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 1500,
       "resourceId": 279890,
       "assetId": 279890
+    },
+    "50568937": {
+      "name": "Patri Guijarro",
+      "cardName": "Patri Guijarro",
+      "originalVersionId": "3",
+      "clubId": 116325,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "3",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        11,
+        2,
+        22,
+        24,
+        8
+      ],
+      "playStylesPlus": [
+        16
+      ],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        149
+      ],
+      "attributes": [
+        80,
+        84,
+        84,
+        89,
+        85,
+        89
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50568937,
+      "assetId": 237289
     },
     "50573494": {
       "name": "Ewa Pajor",
@@ -850,7 +856,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 901000,
+      "price": 882000,
       "resourceId": 50573494,
       "assetId": 241846
     },
@@ -905,7 +911,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 943000,
+      "price": 970000,
       "resourceId": 50593503,
       "assetId": 261855
     },
@@ -960,7 +966,7 @@
         74
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 1355700,
+      "sbcPrice": 1262300,
       "price": 0,
       "resourceId": 50594179,
       "assetId": 262531
@@ -1029,7 +1035,7 @@
         66
       ],
       "hasDynamicImage": true,
-      "price": 2571000,
+      "price": 2577000,
       "resourceId": 50603094,
       "assetId": 271446
     },
@@ -1096,7 +1102,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 76500,
+      "price": 77500,
       "resourceId": 67376394,
       "assetId": 267530
     },

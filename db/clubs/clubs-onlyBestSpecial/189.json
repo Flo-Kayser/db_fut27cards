@@ -1,4 +1,55 @@
 {
   "clubName": "Bologna FC",
-  "players": {}
+  "players": {
+    "50600351": {
+      "name": "Nicolò Cambiaghi",
+      "cardName": "Cambiaghi",
+      "originalVersionId": "3",
+      "clubId": 189,
+      "leagueId": 31,
+      "countryId": 27,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        12,
+        7,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        79,
+        80,
+        78,
+        83,
+        48,
+        67
+      ],
+      "hasDynamicImage": true,
+      "price": 10250,
+      "resourceId": 50600351,
+      "assetId": 268703
+    }
+  }
 }

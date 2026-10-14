@@ -1,4 +1,52 @@
 {
   "clubName": "SL Benfica",
-  "players": {}
+  "players": {
+    "50608900": {
+      "name": "Samuel Dahl",
+      "cardName": "Dahl",
+      "originalVersionId": "3",
+      "clubId": 234,
+      "leagueId": 308,
+      "countryId": 46,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        14,
+        26,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        107,
+        108,
+        109,
+        110,
+        127,
+        128,
+        129,
+        130,
+        147
+      ],
+      "attributes": [
+        86,
+        57,
+        75,
+        82,
+        77,
+        80
+      ],
+      "hasDynamicImage": true,
+      "price": 11500,
+      "resourceId": 50608900,
+      "assetId": 277252
+    }
+  }
 }

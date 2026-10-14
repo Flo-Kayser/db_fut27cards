@@ -1,6 +1,54 @@
 {
   "clubName": "Chelsea",
   "players": {
+    "50515359": {
+      "name": "Jordan Henderson",
+      "cardName": "Henderson",
+      "originalVersionId": "3",
+      "clubId": 5,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        17,
+        3,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        149
+      ],
+      "attributes": [
+        73,
+        77,
+        82,
+        77,
+        80,
+        78
+      ],
+      "hasDynamicImage": true,
+      "price": 17750,
+      "resourceId": 50515359,
+      "assetId": 183711
+    },
     "50575715": {
       "name": "Maxence Lacroix",
       "cardName": "Lacroix",
@@ -97,7 +145,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 410000,
+      "price": 426000,
       "resourceId": 50591895,
       "assetId": 260247
     },

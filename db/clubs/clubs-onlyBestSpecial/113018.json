@@ -1,4 +1,68 @@
 {
   "clubName": "St. Louis CITY SC",
-  "players": {}
+  "players": {
+    "50571688": {
+      "name": "Carlo Holse",
+      "cardName": "Holse",
+      "originalVersionId": "3",
+      "clubId": 113018,
+      "leagueId": 39,
+      "countryId": 13,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        12,
+        13,
+        20,
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        149
+      ],
+      "attributes": [
+        84,
+        75,
+        80,
+        83,
+        65,
+        74
+      ],
+      "hasDynamicImage": true,
+      "price": 10500,
+      "resourceId": 50571688,
+      "assetId": 240040
+    }
+  }
 }

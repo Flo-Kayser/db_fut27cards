@@ -102,7 +102,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 77797,
       "assetId": 77797
     },
@@ -137,7 +137,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 350,
       "resourceId": 79239,
       "assetId": 79239
     },
@@ -173,7 +173,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 400,
       "resourceId": 83013,
       "assetId": 83013
     },
@@ -207,7 +207,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 600,
       "resourceId": 83151,
       "assetId": 83151
     },
@@ -247,7 +247,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 400,
       "resourceId": 83156,
       "assetId": 83156
     },
@@ -285,7 +285,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 500,
       "resourceId": 83283,
       "assetId": 83283
     },
@@ -428,7 +428,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 650,
       "resourceId": 227243,
       "assetId": 227243
     },
@@ -477,7 +477,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 5600,
+      "price": 4900,
       "resourceId": 231432,
       "assetId": 231432
     },
@@ -548,7 +548,7 @@
         49
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 650,
       "resourceId": 246286,
       "assetId": 246286
     },
@@ -588,46 +588,9 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 450,
       "resourceId": 264960,
       "assetId": 264960
-    },
-    "265020": {
-      "name": "Melissa Kössler",
-      "cardName": "Kössler",
-      "originalVersionId": "0",
-      "clubId": 132698,
-      "leagueId": 2221,
-      "countryId": 21,
-      "versionId": "2002",
-      "rating": 79,
-      "preferredFoot": "Right",
-      "weakFoot": 2,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        19
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        42
-      ],
-      "attributes": [
-        83,
-        78,
-        71,
-        77,
-        45,
-        78
-      ],
-      "hasDynamicImage": false,
-      "price": 700,
-      "resourceId": 265020,
-      "assetId": 265020
     },
     "265231": {
       "name": "Natasha Flint",
@@ -661,7 +624,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 800,
       "resourceId": 265231,
       "assetId": 265231
     },
@@ -701,7 +664,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 267213,
       "assetId": 267213
     },
@@ -784,7 +747,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 700,
       "resourceId": 267235,
       "assetId": 267235
     },
@@ -863,7 +826,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 850,
       "resourceId": 267251,
       "assetId": 267251
     },
@@ -934,7 +897,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 650,
       "resourceId": 268908,
       "assetId": 268908
     },
@@ -992,9 +955,50 @@
         74
       ],
       "hasDynamicImage": true,
-      "price": 10250,
+      "price": 10000,
       "resourceId": 50559029,
       "assetId": 227381
+    },
+    "50596668": {
+      "name": "Melissa Kössler",
+      "cardName": "Kössler",
+      "originalVersionId": "3",
+      "clubId": 132698,
+      "leagueId": 2221,
+      "countryId": 21,
+      "versionId": "3",
+      "rating": 81,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        19,
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        85,
+        81,
+        73,
+        80,
+        47,
+        80
+      ],
+      "hasDynamicImage": true,
+      "price": 10250,
+      "resourceId": 50596668,
+      "assetId": 265020
     },
     "84113461": {
       "name": "Janine Sonis",

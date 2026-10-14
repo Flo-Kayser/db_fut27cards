@@ -37,7 +37,7 @@
       85
     ],
     "hasDynamicImage": false,
-    "price": 86500,
+    "price": 81000,
     "resourceId": 5661,
     "assetId": 5661
   },
@@ -77,7 +77,7 @@
       87
     ],
     "hasDynamicImage": false,
-    "price": 127000,
+    "price": 114000,
     "resourceId": 8348,
     "assetId": 8348
   },
@@ -121,7 +121,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 120000,
+    "price": 117000,
     "resourceId": 10959,
     "assetId": 10959
   },
@@ -162,7 +162,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 165000,
+    "price": 120000,
     "resourceId": 25924,
     "assetId": 25924
   },
@@ -207,7 +207,7 @@
       88
     ],
     "hasDynamicImage": false,
-    "price": 156000,
+    "price": 150000,
     "resourceId": 26709,
     "assetId": 26709
   },
@@ -249,7 +249,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 82000,
+    "price": 77500,
     "resourceId": 77787,
     "assetId": 77787
   },
@@ -294,7 +294,7 @@
       86
     ],
     "hasDynamicImage": false,
-    "price": 220000,
+    "price": 219000,
     "resourceId": 142754,
     "assetId": 142754
   },
@@ -393,7 +393,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 646000,
+    "price": 660000,
     "resourceId": 214101,
     "assetId": 214101
   },
@@ -435,7 +435,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 161000,
+    "price": 156000,
     "resourceId": 214649,
     "assetId": 214649
   },
@@ -477,7 +477,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 80000,
+    "price": 74500,
     "resourceId": 238424,
     "assetId": 238424
   },
@@ -521,7 +521,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 153000,
+    "price": 151000,
     "resourceId": 262285,
     "assetId": 262285
   },
@@ -566,7 +566,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 304000,
+    "price": 327000,
     "resourceId": 266691,
     "assetId": 266691
   },
@@ -608,7 +608,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 49700,
+    "sbcPrice": 46000,
     "price": 0,
     "resourceId": 50402615,
     "assetId": 70967
@@ -725,7 +725,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 41000,
+    "sbcPrice": 38500,
     "price": 0,
     "resourceId": 50413511,
     "assetId": 81863
@@ -769,9 +769,66 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 71500,
+    "price": 73000,
     "resourceId": 50520215,
     "assetId": 188567
+  },
+  "50529429": {
+    "name": "Isco",
+    "cardName": "Isco",
+    "originalVersionId": "3",
+    "clubId": 449,
+    "leagueId": 53,
+    "countryId": 45,
+    "versionId": "3",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      0,
+      11,
+      13,
+      20,
+      3,
+      7,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134,
+      149
+    ],
+    "attributes": [
+      70,
+      80,
+      86,
+      87,
+      60,
+      61
+    ],
+    "hasDynamicImage": true,
+    "price": 29500,
+    "resourceId": 50529429,
+    "assetId": 197781
   },
   "50538238": {
     "name": "Moi Gómez",
@@ -876,7 +933,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 50000,
+    "price": 52000,
     "resourceId": 50542162,
     "assetId": 210514
   },
@@ -1024,7 +1081,7 @@
       71
     ],
     "hasDynamicImage": true,
-    "price": 308000,
+    "price": 315000,
     "resourceId": 50562547,
     "assetId": 230899
   },
@@ -1074,9 +1131,52 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 6886000,
+    "price": 6993000,
     "resourceId": 50563395,
     "assetId": 231747
+  },
+  "50564136": {
+    "name": "Cristian Romero",
+    "cardName": "Romero",
+    "originalVersionId": "3",
+    "clubId": 240,
+    "leagueId": 53,
+    "countryId": 52,
+    "versionId": "3",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 2,
+    "skillMoves": 3,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      18,
+      19,
+      28,
+      4,
+      9
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      111,
+      112,
+      113,
+      148
+    ],
+    "attributes": [
+      72,
+      50,
+      65,
+      66,
+      85,
+      84
+    ],
+    "hasDynamicImage": true,
+    "price": 24000,
+    "resourceId": 50564136,
+    "assetId": 232488
   },
   "50565067": {
     "name": "Raphinha",
@@ -1143,7 +1243,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 1619000,
+    "price": 1735000,
     "resourceId": 50565067,
     "assetId": 233419
   },
@@ -1187,7 +1287,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 165000,
+    "price": 148000,
     "resourceId": 50570879,
     "assetId": 239231
   },
@@ -1238,7 +1338,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 269000,
+    "price": 271000,
     "resourceId": 50574612,
     "assetId": 242964
   },
@@ -1436,7 +1536,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 107000,
+    "price": 103000,
     "resourceId": 50579813,
     "assetId": 248165
   },
@@ -1574,7 +1674,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 1659000,
+    "price": 1696000,
     "resourceId": 50584019,
     "assetId": 252371
   },
@@ -1691,7 +1791,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 64000,
+    "price": 65000,
     "resourceId": 50596036,
     "assetId": 264388
   },
@@ -1732,7 +1832,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 10000,
+    "price": 11000,
     "resourceId": 50600834,
     "assetId": 269186
   },
@@ -1816,7 +1916,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 55500,
+    "price": 55000,
     "resourceId": 50608873,
     "assetId": 277225
   },
@@ -1864,7 +1964,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 121000,
+    "price": 135000,
     "resourceId": 50611252,
     "assetId": 279604
   },
@@ -1905,7 +2005,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 15000,
+    "price": 14500,
     "resourceId": 67352494,
     "assetId": 243630
   },
@@ -1959,7 +2059,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 559000,
+    "price": 552000,
     "resourceId": 67377753,
     "assetId": 268889
   },
@@ -2009,7 +2109,7 @@
       63
     ],
     "hasDynamicImage": true,
-    "price": 1268000,
+    "price": 1334000,
     "resourceId": 67386507,
     "assetId": 277643
   },
@@ -2137,7 +2237,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 1566650,
+    "sbcPrice": 1458900,
     "price": 0,
     "resourceId": 84119499,
     "assetId": 233419

@@ -38,7 +38,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 700,
       "resourceId": 73348,
       "assetId": 73348
     },
@@ -78,7 +78,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 2300,
+      "price": 1900,
       "resourceId": 74896,
       "assetId": 74896
     },
@@ -112,7 +112,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 75319,
       "assetId": 75319
     },
@@ -147,7 +147,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 700,
       "resourceId": 77056,
       "assetId": 77056
     },
@@ -183,7 +183,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 650,
       "resourceId": 77105,
       "assetId": 77105
     },
@@ -217,7 +217,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 700,
       "resourceId": 77709,
       "assetId": 77709
     },
@@ -287,7 +287,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 750,
       "resourceId": 176994,
       "assetId": 176994
     },
@@ -365,56 +365,9 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 700,
       "resourceId": 203486,
       "assetId": 203486
-    },
-    "204970": {
-      "name": "Florian Thauvin",
-      "cardName": "Thauvin",
-      "originalVersionId": "0",
-      "clubId": 64,
-      "leagueId": 16,
-      "countryId": 18,
-      "versionId": "2002",
-      "rating": 82,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "RW",
-      "possiblePositions": [
-        "CAM",
-        "RM",
-        "RW",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        12,
-        13,
-        20,
-        3
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        26,
-        35,
-        37,
-        43,
-        136
-      ],
-      "attributes": [
-        70,
-        79,
-        84,
-        83,
-        46,
-        68
-      ],
-      "hasDynamicImage": false,
-      "price": 750,
-      "resourceId": 204970,
-      "assetId": 204970
     },
     "221284": {
       "name": "Jonathan Gradit",
@@ -489,7 +442,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 900,
       "resourceId": 223597,
       "assetId": 223597
     },
@@ -575,7 +528,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 229236,
       "assetId": 229236
     },
@@ -648,7 +601,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 1000,
       "resourceId": 238463,
       "assetId": 238463
     },
@@ -733,7 +686,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 700,
       "resourceId": 251633,
       "assetId": 251633
     },
@@ -770,7 +723,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 600,
       "resourceId": 255838,
       "assetId": 255838
     },
@@ -810,7 +763,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 650,
       "resourceId": 259027,
       "assetId": 259027
     },
@@ -849,7 +802,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 700,
       "resourceId": 259816,
       "assetId": 259816
     },
@@ -887,7 +840,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 800,
       "resourceId": 270997,
       "assetId": 270997
     },
@@ -932,6 +885,63 @@
       "resourceId": 50406968,
       "assetId": 75320
     },
+    "50536618": {
+      "name": "Florian Thauvin",
+      "cardName": "Thauvin",
+      "originalVersionId": "3",
+      "clubId": 64,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "3",
+      "rating": 84,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        12,
+        13,
+        20,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        80,
+        84,
+        86,
+        85,
+        50,
+        70
+      ],
+      "hasDynamicImage": true,
+      "price": 35750,
+      "resourceId": 50536618,
+      "assetId": 204970
+    },
     "50577036": {
       "name": "Jean-Clair Todibo",
       "cardName": "Todibo",
@@ -966,7 +976,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 850,
       "resourceId": 50577036,
       "assetId": 245388
     },
@@ -1066,7 +1076,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 500,
       "resourceId": 50588731,
       "assetId": 257083
     },
