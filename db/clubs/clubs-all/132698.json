@@ -66,7 +66,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 650,
       "resourceId": 71504,
       "assetId": 71504
     },
@@ -137,7 +137,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 79239,
       "assetId": 79239
     },
@@ -173,7 +173,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 1200,
       "resourceId": 83013,
       "assetId": 83013
     },
@@ -207,7 +207,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 500,
       "resourceId": 83151,
       "assetId": 83151
     },
@@ -247,7 +247,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 500,
       "resourceId": 83156,
       "assetId": 83156
     },
@@ -319,7 +319,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 550,
       "resourceId": 83284,
       "assetId": 83284
     },
@@ -390,7 +390,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 650,
       "resourceId": 83427,
       "assetId": 83427
     },
@@ -428,7 +428,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 850,
       "resourceId": 227243,
       "assetId": 227243
     },
@@ -471,7 +471,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 227381,
       "assetId": 227381
     },
@@ -520,7 +520,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 4900,
+      "price": 4600,
       "resourceId": 231432,
       "assetId": 231432
     },
@@ -591,7 +591,7 @@
         49
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 550,
       "resourceId": 246286,
       "assetId": 246286
     },
@@ -631,7 +631,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 550,
       "resourceId": 264960,
       "assetId": 264960
     },
@@ -827,7 +827,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 267235,
       "assetId": 267235
     },
@@ -870,7 +870,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 267240,
       "assetId": 267240
     },
@@ -906,7 +906,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 500,
       "resourceId": 267251,
       "assetId": 267251
     },
@@ -943,7 +943,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 550,
       "resourceId": 267505,
       "assetId": 267505
     },
@@ -977,7 +977,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 850,
       "resourceId": 268908,
       "assetId": 268908
     },
@@ -1035,7 +1035,7 @@
         74
       ],
       "hasDynamicImage": true,
-      "price": 10000,
+      "price": 10250,
       "resourceId": 50559029,
       "assetId": 227381
     },
@@ -1076,7 +1076,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 10250,
+      "price": 10000,
       "resourceId": 50596668,
       "assetId": 265020
     },
@@ -1137,6 +1137,47 @@
       "price": 0,
       "resourceId": 84113461,
       "assetId": 227381
+    },
+    "84151100": {
+      "name": "Melissa Kössler",
+      "cardName": "Kössler",
+      "originalVersionId": "19",
+      "clubId": 132698,
+      "leagueId": 2221,
+      "countryId": 21,
+      "versionId": "19",
+      "rating": 81,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        19,
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        85,
+        81,
+        73,
+        80,
+        47,
+        80
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 84151100,
+      "assetId": 265020
     }
   }
 }

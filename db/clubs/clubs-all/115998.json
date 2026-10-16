@@ -69,7 +69,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 78843,
       "assetId": 78843
     },
@@ -139,7 +139,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 1200,
       "resourceId": 79449,
       "assetId": 79449
     },
@@ -207,7 +207,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 81642,
       "assetId": 81642
     },
@@ -241,7 +241,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 1000,
       "resourceId": 86391,
       "assetId": 86391
     },
@@ -327,7 +327,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 2800,
+      "price": 2400,
       "resourceId": 227337,
       "assetId": 227337
     },
@@ -369,7 +369,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 1000,
       "resourceId": 241847,
       "assetId": 241847
     },
@@ -409,7 +409,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 247790,
       "assetId": 247790
     },
@@ -495,7 +495,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 264864,
       "assetId": 264864
     },
@@ -532,7 +532,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 950,
       "resourceId": 264934,
       "assetId": 264934
     },
@@ -572,7 +572,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 264939,
       "assetId": 264939
     },
@@ -609,7 +609,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 800,
       "resourceId": 264999,
       "assetId": 264999
     },
@@ -653,7 +653,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 700,
       "resourceId": 265004,
       "assetId": 265004
     },
@@ -691,7 +691,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 650,
       "resourceId": 265042,
       "assetId": 265042
     },
@@ -730,7 +730,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 750,
       "resourceId": 265054,
       "assetId": 265054
     },
@@ -769,7 +769,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 650,
       "resourceId": 265057,
       "assetId": 265057
     },
@@ -805,7 +805,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 265059,
       "assetId": 265059
     },
@@ -847,7 +847,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 800,
       "resourceId": 265063,
       "assetId": 265063
     },
@@ -886,7 +886,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 650,
       "resourceId": 269972,
       "assetId": 269972
     },
@@ -922,7 +922,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 1000,
       "resourceId": 270329,
       "assetId": 270329
     },
@@ -993,7 +993,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 950,
       "resourceId": 273178,
       "assetId": 273178
     },
@@ -1034,9 +1034,55 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 750,
       "resourceId": 274846,
       "assetId": 274846
+    },
+    "50596705": {
+      "name": "Cora Zicai",
+      "cardName": "Zicai",
+      "originalVersionId": "71",
+      "clubId": 115998,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "71",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        0,
+        21,
+        23
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        87,
+        83,
+        82,
+        88,
+        58,
+        77
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 27600,
+      "price": 0,
+      "resourceId": 50596705,
+      "assetId": 265057
     }
   }
 }

@@ -31,7 +31,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 900,
+    "price": 1000,
     "resourceId": 183711,
     "assetId": 183711,
     "originalVersionId": 0
@@ -77,10 +77,56 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 17750,
+    "price": 11000,
     "resourceId": 50515359,
     "assetId": 183711,
     "originalVersionId": 3
+  },
+  "84069791": {
+    "clubId": 5,
+    "leagueId": 13,
+    "countryId": 14,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      17,
+      3,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      149
+    ],
+    "attributes": [
+      73,
+      77,
+      82,
+      77,
+      80,
+      78
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84069791,
+    "assetId": 183711,
+    "originalVersionId": 19
   },
   "cardName": "Henderson",
   "name": "Jordan Henderson"

@@ -95,7 +95,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 35750,
+      "price": 12500,
       "resourceId": 50536618,
       "assetId": 204970
     },
@@ -153,7 +153,7 @@
         79
       ],
       "hasDynamicImage": true,
-      "price": 29250,
+      "price": 31750,
       "resourceId": 50578336,
       "assetId": 246688
     },
@@ -193,9 +193,66 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 30250,
+      "price": 24000,
       "resourceId": 50603566,
       "assetId": 271918
+    },
+    "84091050": {
+      "name": "Florian Thauvin",
+      "cardName": "Thauvin",
+      "originalVersionId": "19",
+      "clubId": 64,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "19",
+      "rating": 84,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        12,
+        13,
+        20,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        80,
+        84,
+        86,
+        85,
+        50,
+        70
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 84091050,
+      "assetId": 204970
     }
   }
 }

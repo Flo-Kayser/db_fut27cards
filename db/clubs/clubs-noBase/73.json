@@ -1,6 +1,59 @@
 {
   "clubName": "PSG",
   "players": {
+    "50412322": {
+      "name": "Dro Fernández",
+      "cardName": "Dro Fernández",
+      "originalVersionId": "71",
+      "clubId": 73,
+      "leagueId": 16,
+      "countryId": 45,
+      "versionId": "71",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        13,
+        20,
+        22
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        149
+      ],
+      "attributes": [
+        85,
+        82,
+        85,
+        88,
+        75,
+        82
+      ],
+      "hasDynamicImage": true,
+      "price": 125000,
+      "resourceId": 50412322,
+      "assetId": 80674
+    },
     "50539513": {
       "name": "Marquinhos",
       "cardName": "Marquinhos",
@@ -40,7 +93,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 244000,
+      "price": 307000,
       "resourceId": 50539513,
       "assetId": 207865
     },
@@ -142,7 +195,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 989000,
+      "price": 957000,
       "resourceId": 50583793,
       "assetId": 252145
     },
@@ -190,7 +243,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 307000,
+      "price": 354000,
       "resourceId": 50590026,
       "assetId": 258378
     },
@@ -288,7 +341,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 25000,
+      "price": 28000,
       "resourceId": 67349089,
       "assetId": 240225
     },
@@ -338,7 +391,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 138000,
+      "sbcPrice": 111600,
       "price": 0,
       "resourceId": 67350325,
       "assetId": 241461

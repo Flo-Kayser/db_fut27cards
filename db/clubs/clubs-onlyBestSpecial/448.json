@@ -1,6 +1,59 @@
 {
   "clubName": "Athletic Club",
   "players": {
+    "50406911": {
+      "name": "Peio Canales",
+      "cardName": "Peio Canales",
+      "originalVersionId": "71",
+      "clubId": 448,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "71",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        11,
+        13
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        149
+      ],
+      "attributes": [
+        80,
+        81,
+        84,
+        84,
+        76,
+        85
+      ],
+      "hasDynamicImage": true,
+      "price": 35250,
+      "resourceId": 50406911,
+      "assetId": 75263
+    },
     "50611252": {
       "name": "Jauregizar",
       "cardName": "Jauregizar",
@@ -45,7 +98,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 135000,
+      "price": 146000,
       "resourceId": 50611252,
       "assetId": 279604
     },

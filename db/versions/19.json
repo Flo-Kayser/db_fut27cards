@@ -195,6 +195,95 @@
     "resourceId": 83971352,
     "assetId": 85272
   },
+  "83972709": {
+    "name": "André Henrique",
+    "cardName": "André Henrique",
+    "originalVersionId": "19",
+    "clubId": 101026,
+    "leagueId": 68,
+    "countryId": 54,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      22,
+      4
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      80,
+      82,
+      60,
+      77,
+      40,
+      75
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 83972709,
+    "assetId": 86629
+  },
+  "84069791": {
+    "name": "Jordan Henderson",
+    "cardName": "Henderson",
+    "originalVersionId": "19",
+    "clubId": 5,
+    "leagueId": 13,
+    "countryId": 14,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      17,
+      3,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      149
+    ],
+    "attributes": [
+      73,
+      77,
+      82,
+      77,
+      80,
+      78
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84069791,
+    "assetId": 183711
+  },
   "84074625": {
     "name": "Robert Lewandowski",
     "cardName": "Lewandowski",
@@ -290,6 +379,63 @@
     "resourceId": 84079065,
     "assetId": 192985
   },
+  "84083861": {
+    "name": "Isco",
+    "cardName": "Isco",
+    "originalVersionId": "19",
+    "clubId": 449,
+    "leagueId": 53,
+    "countryId": 45,
+    "versionId": "19",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      0,
+      11,
+      13,
+      20,
+      3,
+      7,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134,
+      149
+    ],
+    "attributes": [
+      70,
+      80,
+      86,
+      87,
+      60,
+      61
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84083861,
+    "assetId": 197781
+  },
   "84086184": {
     "name": "Son Heung Min",
     "cardName": "Son Heung Min",
@@ -345,6 +491,63 @@
     "price": 0,
     "resourceId": 84086184,
     "assetId": 200104
+  },
+  "84091050": {
+    "name": "Florian Thauvin",
+    "cardName": "Thauvin",
+    "originalVersionId": "19",
+    "clubId": 64,
+    "leagueId": 16,
+    "countryId": 18,
+    "versionId": "19",
+    "rating": 84,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "CAM",
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      12,
+      13,
+      20,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      80,
+      84,
+      86,
+      85,
+      50,
+      70
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84091050,
+    "assetId": 204970
   },
   "84096594": {
     "name": "João Cancelo",
@@ -404,6 +607,56 @@
     "price": 0,
     "resourceId": 84096594,
     "assetId": 210514
+  },
+  "84099093": {
+    "name": "Frank Acheampong",
+    "cardName": "Acheampong",
+    "originalVersionId": "19",
+    "clubId": 132305,
+    "leagueId": 2012,
+    "countryId": 117,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      1,
+      21,
+      25
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      127,
+      128,
+      129,
+      130,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      92,
+      78,
+      75,
+      81,
+      55,
+      77
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 84099093,
+    "assetId": 213013
   },
   "84102355": {
     "name": "Phillipp Mwene",
@@ -754,6 +1007,207 @@
     "resourceId": 84116701,
     "assetId": 230621
   },
+  "84117052": {
+    "name": "Adriel Ba Loua",
+    "cardName": "Ba Loua",
+    "originalVersionId": "19",
+    "clubId": 112258,
+    "leagueId": 83,
+    "countryId": 108,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "LM",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      20,
+      25,
+      4
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      135,
+      136,
+      137
+    ],
+    "attributes": [
+      92,
+      76,
+      75,
+      80,
+      42,
+      65
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84117052,
+    "assetId": 230972
+  },
+  "84118568": {
+    "name": "Cristian Romero",
+    "cardName": "Romero",
+    "originalVersionId": "19",
+    "clubId": 240,
+    "leagueId": 53,
+    "countryId": 52,
+    "versionId": "19",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 2,
+    "skillMoves": 3,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      18,
+      19,
+      28,
+      4,
+      9
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      111,
+      112,
+      113,
+      148
+    ],
+    "attributes": [
+      72,
+      50,
+      65,
+      66,
+      85,
+      84
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84118568,
+    "assetId": 232488
+  },
+  "84123369": {
+    "name": "Patri Guijarro",
+    "cardName": "Patri Guijarro",
+    "originalVersionId": "19",
+    "clubId": 116325,
+    "leagueId": 2222,
+    "countryId": 45,
+    "versionId": "19",
+    "rating": 89,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      11,
+      2,
+      22,
+      24,
+      8
+    ],
+    "playStylesPlus": [
+      16
+    ],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      149
+    ],
+    "attributes": [
+      80,
+      84,
+      84,
+      89,
+      85,
+      89
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84123369,
+    "assetId": 237289
+  },
+  "84124310": {
+    "name": "Jaminton Campaz",
+    "cardName": "Campaz",
+    "originalVersionId": "19",
+    "clubId": 110580,
+    "leagueId": 353,
+    "countryId": 56,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      0,
+      20,
+      21
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      118,
+      119,
+      120,
+      121,
+      122,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      138,
+      139,
+      140
+    ],
+    "attributes": [
+      86,
+      80,
+      77,
+      82,
+      35,
+      65
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84124310,
+    "assetId": 238230
+  },
   "84126110": {
     "name": "Ellie Carpenter",
     "cardName": "Carpenter",
@@ -800,6 +1254,130 @@
     "price": 0,
     "resourceId": 84126110,
     "assetId": 240030
+  },
+  "84126120": {
+    "name": "Carlo Holse",
+    "cardName": "Holse",
+    "originalVersionId": "19",
+    "clubId": 113018,
+    "leagueId": 39,
+    "countryId": 13,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      12,
+      13,
+      20,
+      6
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      149
+    ],
+    "attributes": [
+      84,
+      75,
+      80,
+      83,
+      65,
+      74
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84126120,
+    "assetId": 240040
+  },
+  "84126797": {
+    "name": "Lineth Beerensteyn",
+    "cardName": "Beerensteyn",
+    "originalVersionId": "19",
+    "clubId": 116326,
+    "leagueId": 2222,
+    "countryId": 34,
+    "versionId": "19",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 2,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      20,
+      25,
+      4,
+      7
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      91,
+      84,
+      74,
+      87,
+      51,
+      78
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84126797,
+    "assetId": 240717
   },
   "84127926": {
     "name": "Ewa Pajor",
@@ -1006,6 +1584,57 @@
     "price": 0,
     "resourceId": 84128621,
     "assetId": 242541
+  },
+  "84128987": {
+    "name": "Bryan Reynolds",
+    "cardName": "Reynolds",
+    "originalVersionId": "19",
+    "clubId": 74,
+    "leagueId": 16,
+    "countryId": 95,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "RB",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      12,
+      26,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      123,
+      124,
+      125,
+      126,
+      135,
+      136,
+      137,
+      146
+    ],
+    "attributes": [
+      80,
+      55,
+      77,
+      80,
+      78,
+      82
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84128987,
+    "assetId": 242907
   },
   "84131982": {
     "name": "Troy Parrott",
@@ -1376,6 +2005,111 @@
     "resourceId": 84143359,
     "assetId": 257279
   },
+  "84144037": {
+    "name": "Marco Rente",
+    "cardName": "Rente",
+    "originalVersionId": "19",
+    "clubId": 1915,
+    "leagueId": 10,
+    "countryId": 21,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB",
+      "CDM",
+      "RB"
+    ],
+    "playStyles": [
+      16,
+      18,
+      19,
+      4
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      146,
+      148,
+      149
+    ],
+    "attributes": [
+      84,
+      40,
+      65,
+      67,
+      80,
+      83
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84144037,
+    "assetId": 257957
+  },
+  "84145060": {
+    "name": "Alessia Russo",
+    "cardName": "Russo",
+    "originalVersionId": "19",
+    "clubId": 116009,
+    "leagueId": 2216,
+    "countryId": 14,
+    "versionId": "19",
+    "rating": 89,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      11,
+      21,
+      22,
+      29,
+      4
+    ],
+    "playStylesPlus": [
+      6
+    ],
+    "rolesPlus": [
+      131,
+      132,
+      133,
+      134,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      86,
+      89,
+      75,
+      87,
+      40,
+      80
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84145060,
+    "assetId": 258980
+  },
   "84145194": {
     "name": "Ole Romeny",
     "cardName": "Romeny",
@@ -1525,6 +2259,88 @@
     "resourceId": 84148722,
     "assetId": 262642
   },
+  "84150337": {
+    "name": "Tijjani Noslin",
+    "cardName": "Noslin",
+    "originalVersionId": "19",
+    "clubId": 115841,
+    "leagueId": 31,
+    "countryId": 34,
+    "versionId": "19",
+    "rating": 82,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      20,
+      22,
+      9
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      83,
+      82,
+      76,
+      84,
+      50,
+      68
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84150337,
+    "assetId": 264257
+  },
+  "84151100": {
+    "name": "Melissa Kössler",
+    "cardName": "Kössler",
+    "originalVersionId": "19",
+    "clubId": 132698,
+    "leagueId": 2221,
+    "countryId": 21,
+    "versionId": "19",
+    "rating": 81,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      19,
+      6
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      85,
+      81,
+      73,
+      80,
+      47,
+      80
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84151100,
+    "assetId": 265020
+  },
   "84154054": {
     "name": "Mexx Meerdink",
     "cardName": "Meerdink",
@@ -1567,6 +2383,56 @@
     "price": 0,
     "resourceId": 84154054,
     "assetId": 267974
+  },
+  "84154783": {
+    "name": "Nicolò Cambiaghi",
+    "cardName": "Cambiaghi",
+    "originalVersionId": "19",
+    "clubId": 189,
+    "leagueId": 31,
+    "countryId": 27,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 3,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      12,
+      7,
+      9
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      138,
+      139,
+      140
+    ],
+    "attributes": [
+      79,
+      80,
+      78,
+      83,
+      48,
+      67
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84154783,
+    "assetId": 268703
   },
   "84155266": {
     "name": "Orri Óskarsson",
@@ -1732,6 +2598,134 @@
     "resourceId": 84159643,
     "assetId": 273563
   },
+  "84159919": {
+    "name": "Pierce Charles",
+    "cardName": "Charles",
+    "originalVersionId": "19",
+    "clubId": 15,
+    "leagueId": 14,
+    "countryId": 35,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 1,
+    "preferredPosition": "GK",
+    "possiblePositions": [
+      "GK"
+    ],
+    "playStyles": [
+      31,
+      34,
+      35
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      101,
+      102,
+      145
+    ],
+    "attributes": [
+      82,
+      81,
+      83,
+      80,
+      46,
+      79
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84159919,
+    "assetId": 273839
+  },
+  "84163332": {
+    "name": "Samuel Dahl",
+    "cardName": "Dahl",
+    "originalVersionId": "19",
+    "clubId": 234,
+    "leagueId": 308,
+    "countryId": 46,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "LB",
+      "LM"
+    ],
+    "playStyles": [
+      14,
+      26,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      107,
+      108,
+      109,
+      110,
+      127,
+      128,
+      129,
+      130,
+      147
+    ],
+    "attributes": [
+      86,
+      57,
+      75,
+      82,
+      77,
+      80
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84163332,
+    "assetId": 277252
+  },
+  "84163565": {
+    "name": "Sidiki Chérif",
+    "cardName": "Chérif",
+    "originalVersionId": "19",
+    "clubId": 1800,
+    "leagueId": 13,
+    "countryId": 18,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      21,
+      29,
+      6
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      87,
+      80,
+      70,
+      80,
+      43,
+      82
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84163565,
+    "assetId": 277485
+  },
   "84163949": {
     "name": "Michael Kayode",
     "cardName": "Kayode",
@@ -1830,6 +2824,93 @@
     "resourceId": 84165879,
     "assetId": 279799
   },
+  "100884993": {
+    "name": "Ollie Watkins",
+    "cardName": "Watkins",
+    "originalVersionId": "19",
+    "clubId": 605,
+    "leagueId": 350,
+    "countryId": 14,
+    "versionId": "19",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      10,
+      4,
+      6
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      82,
+      84,
+      75,
+      80,
+      52,
+      78
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 100884993,
+    "assetId": 221697
+  },
+  "100895707": {
+    "name": "Christopher Nkunku",
+    "cardName": "Nkunku",
+    "originalVersionId": "19",
+    "clubId": 112172,
+    "leagueId": 19,
+    "countryId": 18,
+    "versionId": "19",
+    "rating": 82,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "ST"
+    ],
+    "playStyles": [
+      20,
+      6,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      131,
+      132,
+      133,
+      134,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      80,
+      85,
+      81,
+      84,
+      45,
+      60
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 100895707,
+    "assetId": 232411
+  },
   "100915458": {
     "name": "Ayase Ueda",
     "cardName": "Ueda",
@@ -1872,6 +2953,57 @@
     "price": 0,
     "resourceId": 100915458,
     "assetId": 252162
+  },
+  "100917539": {
+    "name": "Elliot Anderson",
+    "cardName": "Anderson",
+    "originalVersionId": "19",
+    "clubId": 10,
+    "leagueId": 13,
+    "countryId": 14,
+    "versionId": "19",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      15,
+      19,
+      20,
+      26
+    ],
+    "playStylesPlus": [
+      17
+    ],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      149
+    ],
+    "attributes": [
+      70,
+      72,
+      85,
+      83,
+      82,
+      80
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 100917539,
+    "assetId": 254243
   },
   "100919971": {
     "name": "Omar Marmoush",

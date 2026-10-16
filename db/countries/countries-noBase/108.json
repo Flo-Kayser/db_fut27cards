@@ -44,7 +44,7 @@
       90
     ],
     "hasDynamicImage": false,
-    "price": 1871000,
+    "price": 1890000,
     "resourceId": 20289,
     "assetId": 20289
   },
@@ -87,7 +87,7 @@
       90
     ],
     "hasDynamicImage": false,
-    "price": 801000,
+    "price": 939000,
     "resourceId": 31432,
     "assetId": 31432
   },
@@ -280,7 +280,7 @@
       65
     ],
     "hasDynamicImage": true,
-    "price": 10250,
+    "price": 9900,
     "resourceId": 50562620,
     "assetId": 230972
   },
@@ -323,7 +323,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 147000,
+    "price": 151000,
     "resourceId": 50591213,
     "assetId": 259565
   },
@@ -426,5 +426,55 @@
     "price": 0,
     "resourceId": 67129153,
     "assetId": 20289
+  },
+  "84117052": {
+    "name": "Adriel Ba Loua",
+    "cardName": "Ba Loua",
+    "originalVersionId": "19",
+    "clubId": 112258,
+    "leagueId": 83,
+    "countryId": 108,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "LM",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      20,
+      25,
+      4
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      135,
+      136,
+      137
+    ],
+    "attributes": [
+      92,
+      76,
+      75,
+      80,
+      42,
+      65
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84117052,
+    "assetId": 230972
   }
 }

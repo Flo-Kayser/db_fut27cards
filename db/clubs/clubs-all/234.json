@@ -67,7 +67,7 @@
         47
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 950,
       "resourceId": 81674,
       "assetId": 81674
     },
@@ -103,7 +103,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 82744,
       "assetId": 82744
     },
@@ -137,7 +137,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 83401,
       "assetId": 83401
     },
@@ -206,7 +206,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 800,
       "resourceId": 86520,
       "assetId": 86520
     },
@@ -327,7 +327,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 216547,
       "assetId": 216547
     },
@@ -362,7 +362,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 220440,
       "assetId": 220440
     },
@@ -492,7 +492,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 231913,
       "assetId": 231913
     },
@@ -534,7 +534,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 245235,
       "assetId": 245235
     },
@@ -577,7 +577,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 245253,
       "assetId": 245253
     },
@@ -689,7 +689,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 250753,
       "assetId": 250753
     },
@@ -734,7 +734,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 252495,
       "assetId": 252495
     },
@@ -858,7 +858,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 266096,
       "assetId": 266096
     },
@@ -894,7 +894,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 1000,
       "resourceId": 268913,
       "assetId": 268913
     },
@@ -977,7 +977,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 900,
       "resourceId": 270060,
       "assetId": 270060
     },
@@ -1016,7 +1016,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 1100,
       "resourceId": 274105,
       "assetId": 274105
     },
@@ -1052,7 +1052,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 950,
       "resourceId": 277252,
       "assetId": 277252
     },
@@ -1170,7 +1170,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 800,
       "resourceId": 50594121,
       "assetId": 262473
     },
@@ -1206,7 +1206,7 @@
         49
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 750,
       "resourceId": 50608176,
       "assetId": 276528
     },
@@ -1253,8 +1253,55 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 11500,
+      "price": 9900,
       "resourceId": 50608900,
+      "assetId": 277252
+    },
+    "84163332": {
+      "name": "Samuel Dahl",
+      "cardName": "Dahl",
+      "originalVersionId": "19",
+      "clubId": 234,
+      "leagueId": 308,
+      "countryId": 46,
+      "versionId": "19",
+      "rating": 80,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        14,
+        26,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        107,
+        108,
+        109,
+        110,
+        127,
+        128,
+        129,
+        130,
+        147
+      ],
+      "attributes": [
+        86,
+        57,
+        75,
+        82,
+        77,
+        80
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 84163332,
       "assetId": 277252
     }
   }

@@ -1,4 +1,55 @@
 {
   "clubName": "Angel City FC",
-  "players": {}
+  "players": {
+    "50606461": {
+      "name": "Gisele Thompson",
+      "cardName": "Thompson",
+      "originalVersionId": "71",
+      "clubId": 116311,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "71",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        11,
+        14,
+        15,
+        17
+      ],
+      "playStylesPlus": [
+        25
+      ],
+      "rolesPlus": [
+        103,
+        104,
+        105,
+        106,
+        123,
+        124,
+        125,
+        126,
+        146
+      ],
+      "attributes": [
+        90,
+        71,
+        77,
+        86,
+        85,
+        70
+      ],
+      "hasDynamicImage": true,
+      "price": 122000,
+      "resourceId": 50606461,
+      "assetId": 274813
+    }
+  }
 }

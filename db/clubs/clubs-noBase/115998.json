@@ -1,4 +1,51 @@
 {
   "clubName": "VfL Wolfsburg",
-  "players": {}
+  "players": {
+    "50596705": {
+      "name": "Cora Zicai",
+      "cardName": "Zicai",
+      "originalVersionId": "71",
+      "clubId": 115998,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "71",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        0,
+        21,
+        23
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        87,
+        83,
+        82,
+        88,
+        58,
+        77
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 27600,
+      "price": 0,
+      "resourceId": 50596705,
+      "assetId": 265057
+    }
+  }
 }

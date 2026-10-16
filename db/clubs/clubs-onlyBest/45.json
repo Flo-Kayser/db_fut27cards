@@ -33,50 +33,9 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 1200,
       "resourceId": 74485,
       "assetId": 74485
-    },
-    "75533": {
-      "name": "Kerim Alajbegović",
-      "cardName": "Alajbegović",
-      "originalVersionId": "0",
-      "clubId": 45,
-      "leagueId": 31,
-      "countryId": 8,
-      "versionId": "2001",
-      "rating": 71,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "LM",
-        "LW",
-        "ST"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        29,
-        32,
-        33,
-        39,
-        43
-      ],
-      "attributes": [
-        73,
-        72,
-        69,
-        75,
-        41,
-        62
-      ],
-      "hasDynamicImage": false,
-      "price": 1800,
-      "resourceId": 75533,
-      "assetId": 75533
     },
     "189342": {
       "name": "Carlo Pinsoglio",
@@ -108,7 +67,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 1400,
       "resourceId": 189342,
       "assetId": 189342
     },
@@ -144,7 +103,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 2200,
+      "price": 2300,
       "resourceId": 205175,
       "assetId": 205175
     },
@@ -178,7 +137,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 1300,
       "resourceId": 211320,
       "assetId": 211320
     },
@@ -266,7 +225,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 950,
       "resourceId": 224422,
       "assetId": 224422
     },
@@ -307,7 +266,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 950,
       "resourceId": 224490,
       "assetId": 224490
     },
@@ -344,7 +303,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 2200,
       "resourceId": 231207,
       "assetId": 231207
     },
@@ -382,7 +341,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 2200,
+      "price": 2400,
       "resourceId": 231512,
       "assetId": 231512
     },
@@ -420,7 +379,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 900,
       "resourceId": 236499,
       "assetId": 236499
     },
@@ -465,7 +424,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 1300,
       "resourceId": 237679,
       "assetId": 237679
     },
@@ -502,7 +461,7 @@
         85
       ],
       "hasDynamicImage": false,
-      "price": 5200,
+      "price": 4900,
       "resourceId": 239580,
       "assetId": 239580
     },
@@ -617,7 +576,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 900,
       "resourceId": 240679,
       "assetId": 240679
     },
@@ -665,7 +624,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 900,
       "resourceId": 240690,
       "assetId": 240690
     },
@@ -705,7 +664,7 @@
         85
       ],
       "hasDynamicImage": false,
-      "price": 2300,
+      "price": 1100,
       "resourceId": 247246,
       "assetId": 247246
     },
@@ -743,7 +702,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 1200,
       "resourceId": 251870,
       "assetId": 251870
     },
@@ -783,7 +742,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 255654,
       "assetId": 255654
     },
@@ -827,7 +786,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 1000,
       "resourceId": 258966,
       "assetId": 258966
     },
@@ -870,7 +829,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 950,
       "resourceId": 261050,
       "assetId": 261050
     },
@@ -904,7 +863,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 900,
       "resourceId": 266872,
       "assetId": 266872
     },
@@ -950,9 +909,65 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 950,
       "resourceId": 277954,
       "assetId": 277954
+    },
+    "50407181": {
+      "name": "Kerim Alajbegović",
+      "cardName": "Alajbegović",
+      "originalVersionId": "71",
+      "clubId": 45,
+      "leagueId": 31,
+      "countryId": 8,
+      "versionId": "71",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        12,
+        22,
+        25,
+        7
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        87,
+        85,
+        84,
+        89,
+        56,
+        77
+      ],
+      "hasDynamicImage": true,
+      "price": 132000,
+      "resourceId": 50407181,
+      "assetId": 75533
     },
     "50560031": {
       "name": "Kamil Grabara",
@@ -988,7 +1003,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 1000,
       "resourceId": 50560031,
       "assetId": 228383
     },
@@ -1052,7 +1067,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 88500,
+      "price": 101000,
       "resourceId": 50570392,
       "assetId": 238744
     },
@@ -1093,7 +1108,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 950,
       "resourceId": 50585670,
       "assetId": 254022
     },
@@ -1129,7 +1144,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 950,
       "resourceId": 50591516,
       "assetId": 259868
     }

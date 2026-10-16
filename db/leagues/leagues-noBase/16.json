@@ -44,7 +44,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 571000,
+    "price": 655000,
     "resourceId": 570,
     "assetId": 570
   },
@@ -89,7 +89,7 @@
       64
     ],
     "hasDynamicImage": false,
-    "price": 87000,
+    "price": 88500,
     "resourceId": 1551,
     "assetId": 1551
   },
@@ -136,7 +136,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 636000,
+    "price": 725000,
     "resourceId": 167425,
     "assetId": 167425
   },
@@ -181,7 +181,7 @@
       85
     ],
     "hasDynamicImage": false,
-    "price": 1920000,
+    "price": 2109000,
     "resourceId": 170890,
     "assetId": 170890
   },
@@ -231,7 +231,7 @@
       84
     ],
     "hasDynamicImage": false,
-    "price": 2701000,
+    "price": 2898000,
     "resourceId": 191972,
     "assetId": 191972
   },
@@ -275,6 +275,59 @@
     "price": 0,
     "resourceId": 50406968,
     "assetId": 75320
+  },
+  "50412322": {
+    "name": "Dro Fernández",
+    "cardName": "Dro Fernández",
+    "originalVersionId": "71",
+    "clubId": 73,
+    "leagueId": 16,
+    "countryId": 45,
+    "versionId": "71",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      13,
+      20,
+      22
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134,
+      149
+    ],
+    "attributes": [
+      85,
+      82,
+      85,
+      88,
+      75,
+      82
+    ],
+    "hasDynamicImage": true,
+    "price": 125000,
+    "resourceId": 50412322,
+    "assetId": 80674
   },
   "50536618": {
     "name": "Florian Thauvin",
@@ -329,7 +382,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 35750,
+    "price": 12500,
     "resourceId": 50536618,
     "assetId": 204970
   },
@@ -372,7 +425,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 244000,
+    "price": 307000,
     "resourceId": 50539513,
     "assetId": 207865
   },
@@ -529,7 +582,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 12250,
+    "price": 12750,
     "resourceId": 50571279,
     "assetId": 239631
   },
@@ -630,7 +683,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 10250,
+    "price": 9900,
     "resourceId": 50574555,
     "assetId": 242907
   },
@@ -688,7 +741,7 @@
       79
     ],
     "hasDynamicImage": true,
-    "price": 29250,
+    "price": 31750,
     "resourceId": 50578336,
     "assetId": 246688
   },
@@ -795,7 +848,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 989000,
+    "price": 957000,
     "resourceId": 50583793,
     "assetId": 252145
   },
@@ -885,7 +938,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 307000,
+    "price": 354000,
     "resourceId": 50590026,
     "assetId": 258378
   },
@@ -983,7 +1036,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 30250,
+    "price": 24000,
     "resourceId": 50603566,
     "assetId": 271918
   },
@@ -1035,6 +1088,55 @@
     "resourceId": 50604542,
     "assetId": 272894
   },
+  "50605774": {
+    "name": "Paris Brunner",
+    "cardName": "Brunner",
+    "originalVersionId": "71",
+    "clubId": 69,
+    "leagueId": 16,
+    "countryId": 21,
+    "versionId": "71",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "LM",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      21,
+      24,
+      7
+    ],
+    "playStylesPlus": [
+      20
+    ],
+    "rolesPlus": [
+      127,
+      128,
+      129,
+      130,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      86,
+      88,
+      75,
+      88,
+      39,
+      74
+    ],
+    "hasDynamicImage": true,
+    "price": 521000,
+    "resourceId": 50605774,
+    "assetId": 274126
+  },
   "67349089": {
     "name": "Matvey Safonov",
     "cardName": "Safonov",
@@ -1071,7 +1173,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 25000,
+    "price": 28000,
     "resourceId": 67349089,
     "assetId": 240225
   },
@@ -1121,7 +1223,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 138000,
+    "sbcPrice": 111600,
     "price": 0,
     "resourceId": 67350325,
     "assetId": 241461
@@ -1165,7 +1267,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 11250,
+    "price": 10750,
     "resourceId": 67361026,
     "assetId": 252162
   },
@@ -1212,9 +1314,117 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 11750,
+    "price": 11500,
     "resourceId": 67379423,
     "assetId": 270559
+  },
+  "84091050": {
+    "name": "Florian Thauvin",
+    "cardName": "Thauvin",
+    "originalVersionId": "19",
+    "clubId": 64,
+    "leagueId": 16,
+    "countryId": 18,
+    "versionId": "19",
+    "rating": 84,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "CAM",
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      12,
+      13,
+      20,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      80,
+      84,
+      86,
+      85,
+      50,
+      70
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84091050,
+    "assetId": 204970
+  },
+  "84128987": {
+    "name": "Bryan Reynolds",
+    "cardName": "Reynolds",
+    "originalVersionId": "19",
+    "clubId": 74,
+    "leagueId": 16,
+    "countryId": 95,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "RB",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      12,
+      26,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      123,
+      124,
+      125,
+      126,
+      135,
+      136,
+      137,
+      146
+    ],
+    "attributes": [
+      80,
+      55,
+      77,
+      80,
+      78,
+      82
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84128987,
+    "assetId": 242907
   },
   "100915458": {
     "name": "Ayase Ueda",

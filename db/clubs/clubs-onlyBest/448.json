@@ -1,42 +1,6 @@
 {
   "clubName": "Athletic Club",
   "players": {
-    "75263": {
-      "name": "Peio Canales",
-      "cardName": "Peio Canales",
-      "originalVersionId": "0",
-      "clubId": 448,
-      "leagueId": 53,
-      "countryId": 45,
-      "versionId": "2001",
-      "rating": 73,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CM"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        21,
-        31
-      ],
-      "attributes": [
-        68,
-        71,
-        72,
-        72,
-        64,
-        73
-      ],
-      "hasDynamicImage": false,
-      "price": 900,
-      "resourceId": 75263,
-      "assetId": 75263
-    },
     "76945": {
       "name": "Maroan",
       "cardName": "Maroan",
@@ -70,7 +34,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 76945,
       "assetId": 76945
     },
@@ -105,7 +69,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 850,
       "resourceId": 78550,
       "assetId": 78550
     },
@@ -175,7 +139,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 900,
       "resourceId": 80342,
       "assetId": 80342
     },
@@ -210,7 +174,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 81637,
       "assetId": 81637
     },
@@ -248,7 +212,7 @@
         43
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 82124,
       "assetId": 82124
     },
@@ -287,7 +251,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 750,
       "resourceId": 183512,
       "assetId": 183512
     },
@@ -369,7 +333,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 750,
       "resourceId": 212218,
       "assetId": 212218
     },
@@ -458,7 +422,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 225201,
       "assetId": 225201
     },
@@ -534,7 +498,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 4000,
+      "price": 3200,
       "resourceId": 230869,
       "assetId": 230869
     },
@@ -571,7 +535,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 231184,
       "assetId": 231184
     },
@@ -610,7 +574,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 950,
       "resourceId": 239614,
       "assetId": 239614
     },
@@ -655,7 +619,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 244675,
       "assetId": 244675
     },
@@ -740,7 +704,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 253130,
       "assetId": 253130
     },
@@ -784,7 +748,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 8700,
+      "price": 5400,
       "resourceId": 256516,
       "assetId": 256516
     },
@@ -827,7 +791,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 700,
       "resourceId": 259422,
       "assetId": 259422
     },
@@ -906,7 +870,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 900,
       "resourceId": 263617,
       "assetId": 263617
     },
@@ -940,7 +904,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 850,
       "resourceId": 271034,
       "assetId": 271034
     },
@@ -985,7 +949,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 1300,
       "resourceId": 271302,
       "assetId": 271302
     },
@@ -1022,7 +986,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 271497,
       "assetId": 271497
     },
@@ -1057,7 +1021,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 850,
       "resourceId": 278408,
       "assetId": 278408
     },
@@ -1095,9 +1059,62 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 650,
       "resourceId": 279026,
       "assetId": 279026
+    },
+    "50406911": {
+      "name": "Peio Canales",
+      "cardName": "Peio Canales",
+      "originalVersionId": "71",
+      "clubId": 448,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "71",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        11,
+        13
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        149
+      ],
+      "attributes": [
+        80,
+        81,
+        84,
+        84,
+        76,
+        85
+      ],
+      "hasDynamicImage": true,
+      "price": 35250,
+      "resourceId": 50406911,
+      "assetId": 75263
     },
     "50602950": {
       "name": "Álvaro Djaló",
@@ -1140,7 +1157,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 750,
       "resourceId": 50602950,
       "assetId": 271302
     },
@@ -1188,7 +1205,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 135000,
+      "price": 146000,
       "resourceId": 50611252,
       "assetId": 279604
     },
