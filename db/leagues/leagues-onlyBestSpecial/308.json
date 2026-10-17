@@ -38,7 +38,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 457000,
+    "price": 458000,
     "resourceId": 3622,
     "assetId": 3622
   },
@@ -87,7 +87,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 389000,
+    "price": 360000,
     "resourceId": 20775,
     "assetId": 20775
   },
@@ -186,6 +186,118 @@
     "resourceId": 189362,
     "assetId": 189362
   },
+  "50408681": {
+    "name": "William Gomes",
+    "cardName": "William Gomes",
+    "originalVersionId": "71",
+    "clubId": 236,
+    "leagueId": 308,
+    "countryId": 54,
+    "versionId": "71",
+    "rating": 84,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      0,
+      21,
+      25
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140
+    ],
+    "attributes": [
+      90,
+      79,
+      80,
+      86,
+      37,
+      63
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 17600,
+    "price": 0,
+    "resourceId": 50408681,
+    "assetId": 77033
+  },
+  "50414596": {
+    "name": "Flávio Gonçalves",
+    "cardName": "Flávio Gonçalves",
+    "originalVersionId": "71",
+    "clubId": 237,
+    "leagueId": 308,
+    "countryId": 38,
+    "versionId": "71",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      20,
+      21,
+      23
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      118,
+      119,
+      120,
+      121,
+      122,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      138,
+      139,
+      140
+    ],
+    "attributes": [
+      86,
+      77,
+      84,
+      87,
+      57,
+      66
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 17600,
+    "price": 0,
+    "resourceId": 50414596,
+    "assetId": 82948
+  },
   "50566782": {
     "name": "Pablo Rosario",
     "cardName": "Rosario",
@@ -235,7 +347,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 11500,
+    "price": 12750,
     "resourceId": 50566782,
     "assetId": 235134
   },
@@ -339,9 +451,63 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 20250,
+    "price": 20500,
     "resourceId": 50597341,
     "assetId": 265693
+  },
+  "50608090": {
+    "name": "Gilberto",
+    "cardName": "Gilberto",
+    "originalVersionId": "71",
+    "clubId": 1900,
+    "leagueId": 308,
+    "countryId": 119,
+    "versionId": "71",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB",
+      "CDM",
+      "RB"
+    ],
+    "playStyles": [
+      25,
+      26,
+      28
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      146,
+      148,
+      149
+    ],
+    "attributes": [
+      78,
+      44,
+      73,
+      77,
+      84,
+      84
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 17600,
+    "price": 0,
+    "resourceId": 50608090,
+    "assetId": 276442
   },
   "50608900": {
     "name": "Samuel Dahl",
@@ -389,6 +555,60 @@
     "price": 9900,
     "resourceId": 50608900,
     "assetId": 277252
+  },
+  "50609459": {
+    "name": "Mathias de Amorim",
+    "cardName": "Mathias de Amorim",
+    "originalVersionId": "71",
+    "clubId": 112809,
+    "leagueId": 308,
+    "countryId": 38,
+    "versionId": "71",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      10,
+      18,
+      28
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134,
+      149
+    ],
+    "attributes": [
+      80,
+      76,
+      84,
+      82,
+      77,
+      81
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 17600,
+    "price": 0,
+    "resourceId": 50609459,
+    "assetId": 277811
   },
   "67356819": {
     "name": "Ianis Stoica",
@@ -441,7 +661,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 12500,
+    "price": 12750,
     "resourceId": 67356819,
     "assetId": 247955
   },

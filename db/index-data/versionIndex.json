@@ -13,6 +13,19 @@
         "tertiaryColor": "#574e2c"
       }
     },
+    "8": {
+      "count": 6,
+      "file": "db/versions/8.json",
+      "details": {
+        "name": "Star Performer",
+        "hasStrip": true,
+        "createdAt": "2026-09-16T16:58:30.722Z",
+        "url": "https://assets.easysbc.io/fc27/cards/e_8_0.png",
+        "primaryColor": "#fffaf3",
+        "secondaryColor": "#d36f0d",
+        "tertiaryColor": "#ffc439"
+      }
+    },
     "9": {
       "count": 21,
       "file": "db/versions/9.json",
@@ -105,7 +118,7 @@
       }
     },
     "71": {
-      "count": 46,
+      "count": 51,
       "file": "db/versions/71.json",
       "details": {
         "name": "Future Stars",
@@ -262,8 +275,8 @@
     }
   },
   "meta": {
-    "totalVersions": 20,
-    "totalVersionsWithoutBase": 17,
-    "updatedAt": "2026-10-16T19:56:25.032Z"
+    "totalVersions": 21,
+    "totalVersionsWithoutBase": 18,
+    "updatedAt": "2026-10-17T19:21:32.098Z"
   }
 }
