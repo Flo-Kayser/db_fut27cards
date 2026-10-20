@@ -1,4 +1,53 @@
 {
   "clubName": "San Diego FC",
-  "players": {}
+  "players": {
+    "50409143": {
+      "name": "Manu Duah",
+      "cardName": "Duah",
+      "originalVersionId": "71",
+      "clubId": 131439,
+      "leagueId": 39,
+      "countryId": 117,
+      "versionId": "71",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM"
+      ],
+      "playStyles": [
+        10,
+        17,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        148,
+        149
+      ],
+      "attributes": [
+        80,
+        63,
+        71,
+        74,
+        82,
+        84
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 15200,
+      "price": 0,
+      "resourceId": 50409143,
+      "assetId": 77495
+    }
+  }
 }

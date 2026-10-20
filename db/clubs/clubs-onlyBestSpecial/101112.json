@@ -1,4 +1,53 @@
 {
   "clubName": "Whitecaps FC",
-  "players": {}
+  "players": {
+    "50408683": {
+      "name": "Tate Johnson",
+      "cardName": "Johnson",
+      "originalVersionId": "71",
+      "clubId": 101112,
+      "leagueId": 39,
+      "countryId": 95,
+      "versionId": "71",
+      "rating": 84,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        10,
+        12,
+        16
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        107,
+        108,
+        109,
+        110,
+        127,
+        128,
+        129,
+        130,
+        147
+      ],
+      "attributes": [
+        89,
+        55,
+        75,
+        76,
+        79,
+        79
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 15200,
+      "price": 0,
+      "resourceId": 50408683,
+      "assetId": 77035
+    }
+  }
 }

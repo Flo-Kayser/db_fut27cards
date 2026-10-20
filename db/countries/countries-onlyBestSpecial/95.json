@@ -45,7 +45,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 158000,
+    "price": 154000,
     "resourceId": 7743,
     "assetId": 7743
   },
@@ -84,7 +84,7 @@
       84
     ],
     "hasDynamicImage": false,
-    "price": 73500,
+    "price": 73000,
     "resourceId": 16254,
     "assetId": 16254
   },
@@ -129,7 +129,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 94500,
+    "price": 90500,
     "resourceId": 39386,
     "assetId": 39386
   },
@@ -176,7 +176,7 @@
       81
     ],
     "hasDynamicImage": false,
-    "price": 537000,
+    "price": 504000,
     "resourceId": 71608,
     "assetId": 71608
   },
@@ -223,7 +223,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 52500,
+    "price": 53500,
     "resourceId": 155897,
     "assetId": 155897
   },
@@ -268,7 +268,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 2520000,
+    "price": 2494000,
     "resourceId": 226301,
     "assetId": 226301
   },
@@ -318,7 +318,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 1351000,
+    "price": 1396000,
     "resourceId": 226330,
     "assetId": 226330
   },
@@ -365,7 +365,7 @@
       81
     ],
     "hasDynamicImage": false,
-    "price": 8950000,
+    "price": 8700000,
     "resourceId": 275243,
     "assetId": 275243
   },
@@ -424,9 +424,116 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 11000,
+    "price": 13250,
     "resourceId": 50405513,
     "assetId": 73865
+  },
+  "50408683": {
+    "name": "Tate Johnson",
+    "cardName": "Johnson",
+    "originalVersionId": "71",
+    "clubId": 101112,
+    "leagueId": 39,
+    "countryId": 95,
+    "versionId": "71",
+    "rating": 84,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "LB",
+      "LM"
+    ],
+    "playStyles": [
+      10,
+      12,
+      16
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      107,
+      108,
+      109,
+      110,
+      127,
+      128,
+      129,
+      130,
+      147
+    ],
+    "attributes": [
+      89,
+      55,
+      75,
+      76,
+      79,
+      79
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 15200,
+    "price": 0,
+    "resourceId": 50408683,
+    "assetId": 77035
+  },
+  "50409131": {
+    "name": "Frankie Westfield",
+    "cardName": "Westfield",
+    "originalVersionId": "71",
+    "clubId": 112134,
+    "leagueId": 39,
+    "countryId": 95,
+    "versionId": "71",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "LB",
+      "LM",
+      "RB",
+      "RM"
+    ],
+    "playStyles": [
+      14,
+      15,
+      27
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      146,
+      147
+    ],
+    "attributes": [
+      83,
+      64,
+      79,
+      79,
+      84,
+      82
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 15200,
+    "price": 0,
+    "resourceId": 50409131,
+    "assetId": 77483
   },
   "50570392": {
     "name": "Weston McKennie",
@@ -488,7 +595,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 109000,
+    "price": 114000,
     "resourceId": 50570392,
     "assetId": 238744
   },
@@ -539,7 +646,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 9900,
+    "price": 10000,
     "resourceId": 50574555,
     "assetId": 242907
   },
@@ -644,7 +751,7 @@
       66
     ],
     "hasDynamicImage": true,
-    "price": 11000,
+    "price": 12000,
     "resourceId": 50586923,
     "assetId": 255275
   },
@@ -693,9 +800,63 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 724000,
+    "price": 770000,
     "resourceId": 50595660,
     "assetId": 264012
+  },
+  "50598166": {
+    "name": "Niko Tsakiris",
+    "cardName": "Tsakiris",
+    "originalVersionId": "71",
+    "clubId": 111928,
+    "leagueId": 39,
+    "countryId": 95,
+    "versionId": "71",
+    "rating": 84,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      11,
+      13,
+      2
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134,
+      149
+    ],
+    "attributes": [
+      83,
+      80,
+      83,
+      87,
+      73,
+      77
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 15200,
+    "price": 0,
+    "resourceId": 50598166,
+    "assetId": 266518
   },
   "50606461": {
     "name": "Gisele Thompson",
@@ -743,7 +904,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 68500,
+    "price": 72500,
     "resourceId": 50606461,
     "assetId": 274813
   },
@@ -797,7 +958,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 39000,
+    "price": 39750,
     "resourceId": 50609599,
     "assetId": 277951
   },
@@ -848,7 +1009,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 34750,
+    "price": 38000,
     "resourceId": 50609822,
     "assetId": 278174
   },
@@ -957,7 +1118,7 @@
       71
     ],
     "hasDynamicImage": true,
-    "price": 12500,
+    "price": 11750,
     "resourceId": 67379904,
     "assetId": 271040
   },
