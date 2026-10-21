@@ -35,7 +35,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 1400,
       "resourceId": 70163,
       "assetId": 70163
     },
@@ -71,7 +71,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 1500,
       "resourceId": 74520,
       "assetId": 74520
     },
@@ -107,7 +107,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 1200,
       "resourceId": 74533,
       "assetId": 74533
     },
@@ -145,7 +145,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 1400,
       "resourceId": 74536,
       "assetId": 74536
     },
@@ -217,7 +217,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 1200,
       "resourceId": 225037,
       "assetId": 225037
     },
@@ -257,7 +257,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 2100,
+      "price": 2000,
       "resourceId": 228336,
       "assetId": 228336
     },
@@ -383,7 +383,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 1300,
       "resourceId": 251769,
       "assetId": 251769
     },
@@ -423,7 +423,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 1400,
       "resourceId": 252573,
       "assetId": 252573
     },
@@ -499,43 +499,9 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 1500,
       "resourceId": 266304,
       "assetId": 266304
-    },
-    "269182": {
-      "name": "Antonio Raimondo",
-      "cardName": "Raimondo",
-      "originalVersionId": "0",
-      "clubId": 111657,
-      "leagueId": 31,
-      "countryId": 27,
-      "versionId": "2001",
-      "rating": 70,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        41
-      ],
-      "attributes": [
-        68,
-        70,
-        60,
-        71,
-        32,
-        69
-      ],
-      "hasDynamicImage": false,
-      "price": 1500,
-      "resourceId": 269182,
-      "assetId": 269182
     },
     "269183": {
       "name": "Wisdom Amey",
@@ -567,7 +533,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 350,
       "resourceId": 269183,
       "assetId": 269183
     },
@@ -606,7 +572,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 1400,
       "resourceId": 270064,
       "assetId": 270064
     },
@@ -678,7 +644,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 1400,
       "resourceId": 274197,
       "assetId": 274197
     },
@@ -715,7 +681,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 1500,
       "resourceId": 276422,
       "assetId": 276422
     },
@@ -754,7 +720,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 1200,
       "resourceId": 276485,
       "assetId": 276485
     },
@@ -791,7 +757,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 1400,
       "resourceId": 276632,
       "assetId": 276632
     },
@@ -863,7 +829,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 1200,
       "resourceId": 277944,
       "assetId": 277944
     },
@@ -899,7 +865,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 1400,
       "resourceId": 278350,
       "assetId": 278350
     },
@@ -938,7 +904,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 1400,
       "resourceId": 279877,
       "assetId": 279877
     },
@@ -978,9 +944,50 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 1200,
       "resourceId": 50598376,
       "assetId": 266728
+    },
+    "50600830": {
+      "name": "Antonio Raimondo",
+      "cardName": "Raimondo",
+      "originalVersionId": "3",
+      "clubId": 111657,
+      "leagueId": 31,
+      "countryId": 27,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        22,
+        24,
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        79,
+        81,
+        73,
+        82,
+        42,
+        80
+      ],
+      "hasDynamicImage": true,
+      "price": 10500,
+      "resourceId": 50600830,
+      "assetId": 269182
     },
     "50602166": {
       "name": "Enzo Tchato",
@@ -1055,7 +1062,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 12250,
+      "price": 13750,
       "resourceId": 50608373,
       "assetId": 276725
     }

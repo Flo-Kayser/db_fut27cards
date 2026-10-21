@@ -52,7 +52,7 @@
       "leagueId": 53,
       "countryId": 108,
       "versionId": "150",
-      "rating": 84,
+      "rating": 85,
       "preferredFoot": "Right",
       "weakFoot": 4,
       "skillMoves": 4,
@@ -88,12 +88,12 @@
         140
       ],
       "attributes": [
-        93,
-        77,
-        75,
-        87,
-        47,
-        70
+        94,
+        78,
+        76,
+        88,
+        48,
+        71
       ],
       "hasDynamicImage": true,
       "price": 0,
@@ -146,7 +146,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 7151000,
+      "price": 7201000,
       "resourceId": 50563395,
       "assetId": 231747
     },
@@ -190,7 +190,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 188000,
+      "price": 198000,
       "resourceId": 50570879,
       "assetId": 239231
     },
@@ -262,9 +262,65 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 1491000,
+      "price": 1474000,
       "resourceId": 50584019,
       "assetId": 252371
+    },
+    "67186876": {
+      "name": "Yan Diomande",
+      "cardName": "Diomande",
+      "originalVersionId": "3",
+      "clubId": 243,
+      "leagueId": 53,
+      "countryId": 108,
+      "versionId": "3",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        2,
+        20,
+        25
+      ],
+      "playStylesPlus": [
+        21
+      ],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        94,
+        79,
+        77,
+        88,
+        48,
+        72
+      ],
+      "hasDynamicImage": true,
+      "price": 389000,
+      "resourceId": 67186876,
+      "assetId": 78012
     },
     "67377753": {
       "name": "Álvaro Carreras",
@@ -316,7 +372,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 681000,
+      "price": 699000,
       "resourceId": 67377753,
       "assetId": 268889
     },

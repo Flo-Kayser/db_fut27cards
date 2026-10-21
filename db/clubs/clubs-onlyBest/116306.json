@@ -35,7 +35,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 450,
       "resourceId": 70675,
       "assetId": 70675
     },
@@ -69,7 +69,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 76329,
       "assetId": 76329
     },
@@ -105,7 +105,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 500,
       "resourceId": 76690,
       "assetId": 76690
     },
@@ -142,43 +142,6 @@
       "price": 200,
       "resourceId": 79142,
       "assetId": 79142
-    },
-    "83034": {
-      "name": "Kat Rader",
-      "cardName": "Rader",
-      "originalVersionId": "0",
-      "clubId": 116306,
-      "leagueId": 2221,
-      "countryId": 95,
-      "versionId": "2002",
-      "rating": 75,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "LM",
-        "LW"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        27,
-        30,
-        39
-      ],
-      "attributes": [
-        70,
-        67,
-        74,
-        76,
-        21,
-        57
-      ],
-      "hasDynamicImage": false,
-      "price": 850,
-      "resourceId": 83034,
-      "assetId": 83034
     },
     "83154": {
       "name": "Leah Klenke",
@@ -252,7 +215,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 500,
       "resourceId": 83159,
       "assetId": 83159
     },
@@ -396,7 +359,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 227384,
       "assetId": 227384
     },
@@ -435,7 +398,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 227405,
       "assetId": 227405
     },
@@ -473,7 +436,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 231736,
       "assetId": 231736
     },
@@ -509,7 +472,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 238212,
       "assetId": 238212
     },
@@ -584,7 +547,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 600,
       "resourceId": 265862,
       "assetId": 265862
     },
@@ -621,7 +584,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 267371,
       "assetId": 267371
     },
@@ -696,7 +659,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 500,
       "resourceId": 267884,
       "assetId": 267884
     },
@@ -732,7 +695,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 550,
       "resourceId": 271403,
       "assetId": 271403
     },
@@ -771,7 +734,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 600,
       "resourceId": 273486,
       "assetId": 273486
     },
@@ -892,9 +855,60 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 50402332,
       "assetId": 70684
+    },
+    "50414682": {
+      "name": "Kat Rader",
+      "cardName": "Rader",
+      "originalVersionId": "71",
+      "clubId": 116306,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "71",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        21,
+        7,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        82,
+        80,
+        86,
+        87,
+        30,
+        73
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 16800,
+      "price": 0,
+      "resourceId": 50414682,
+      "assetId": 83034
     }
   }
 }

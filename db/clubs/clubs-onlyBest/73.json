@@ -79,7 +79,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 2100,
+      "price": 1500,
       "resourceId": 78549,
       "assetId": 78549
     },
@@ -114,7 +114,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 700,
       "resourceId": 85652,
       "assetId": 85652
     },
@@ -148,7 +148,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 1700,
+      "price": 1400,
       "resourceId": 86857,
       "assetId": 86857
     },
@@ -187,7 +187,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 1000,
       "resourceId": 200458,
       "assetId": 200458
     },
@@ -229,7 +229,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 850,
       "resourceId": 220814,
       "assetId": 220814
     },
@@ -272,7 +272,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 5300,
+      "price": 4500,
       "resourceId": 226271,
       "assetId": 226271
     },
@@ -322,7 +322,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 1612000,
+      "price": 1601000,
       "resourceId": 231443,
       "assetId": 231443
     },
@@ -367,7 +367,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 122000,
+      "price": 136000,
       "resourceId": 235212,
       "assetId": 235212
     },
@@ -416,7 +416,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 81500,
+      "price": 77500,
       "resourceId": 247635,
       "assetId": 247635
     },
@@ -452,7 +452,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 850,
       "resourceId": 251752,
       "assetId": 251752
     },
@@ -543,7 +543,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 45500,
+      "price": 53500,
       "resourceId": 255253,
       "assetId": 255253
     },
@@ -584,7 +584,7 @@
         86
       ],
       "hasDynamicImage": false,
-      "price": 171000,
+      "price": 181000,
       "resourceId": 256196,
       "assetId": 256196
     },
@@ -623,7 +623,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 1200,
       "resourceId": 258781,
       "assetId": 258781
     },
@@ -671,7 +671,7 @@
         85
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 900,
       "resourceId": 270673,
       "assetId": 270673
     },
@@ -717,7 +717,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 12500,
+      "price": 12250,
       "resourceId": 272834,
       "assetId": 272834
     },
@@ -759,7 +759,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 1600,
       "resourceId": 279709,
       "assetId": 279709
     },
@@ -812,7 +812,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 68500,
+      "price": 76500,
       "resourceId": 50412322,
       "assetId": 80674
     },
@@ -855,7 +855,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 270000,
+      "price": 287000,
       "resourceId": 50539513,
       "assetId": 207865
     },
@@ -867,7 +867,7 @@
       "leagueId": 16,
       "countryId": 45,
       "versionId": "150",
-      "rating": 85,
+      "rating": 86,
       "preferredFoot": "Right",
       "weakFoot": 4,
       "skillMoves": 4,
@@ -897,12 +897,12 @@
         144
       ],
       "attributes": [
-        89,
-        85,
-        79,
-        83,
-        41,
-        75
+        90,
+        86,
+        80,
+        84,
+        42,
+        76
       ],
       "hasDynamicImage": true,
       "price": 0,
@@ -957,7 +957,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 1025000,
+      "price": 1041000,
       "resourceId": 50583793,
       "assetId": 252145
     },
@@ -1005,7 +1005,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 313000,
+      "price": 319000,
       "resourceId": 50590026,
       "assetId": 258378
     },
@@ -1126,7 +1126,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 1700000,
+      "price": 1652000,
       "resourceId": 50603069,
       "assetId": 271421
     },
@@ -1166,60 +1166,9 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 28250,
+      "price": 28500,
       "resourceId": 67349089,
       "assetId": 240225
-    },
-    "67350325": {
-      "name": "Ferran Torres",
-      "cardName": "Ferran Torres",
-      "originalVersionId": "79",
-      "clubId": 73,
-      "leagueId": 16,
-      "countryId": 45,
-      "versionId": "79",
-      "rating": 85,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        11,
-        20
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        127,
-        128,
-        129,
-        130,
-        138,
-        139,
-        140,
-        141,
-        142,
-        143,
-        144
-      ],
-      "attributes": [
-        89,
-        85,
-        80,
-        83,
-        42,
-        76
-      ],
-      "hasDynamicImage": true,
-      "sbcPrice": 141200,
-      "price": 0,
-      "resourceId": 67350325,
-      "assetId": 241461
     }
   }
 }

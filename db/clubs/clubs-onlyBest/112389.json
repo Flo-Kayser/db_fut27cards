@@ -65,7 +65,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 86466,
       "assetId": 86466
     },
@@ -135,7 +135,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 4900,
+      "price": 0,
       "resourceId": 87418,
       "assetId": 87418
     },
@@ -207,7 +207,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 900,
       "resourceId": 209960,
       "assetId": 209960
     },
@@ -244,7 +244,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 210182,
       "assetId": 210182
     },
@@ -281,7 +281,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 210909,
       "assetId": 210909
     },
@@ -317,7 +317,7 @@
         87
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 217620,
       "assetId": 217620
     },
@@ -356,7 +356,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 950,
       "resourceId": 217877,
       "assetId": 217877
     },
@@ -393,48 +393,9 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 221648,
       "assetId": 221648
-    },
-    "223510": {
-      "name": "Alexandre Mendy",
-      "cardName": "Mendy",
-      "originalVersionId": "0",
-      "clubId": 112389,
-      "leagueId": 350,
-      "countryId": 119,
-      "versionId": "2001",
-      "rating": 70,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        19,
-        4,
-        6
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        42,
-        44
-      ],
-      "attributes": [
-        72,
-        69,
-        52,
-        65,
-        25,
-        84
-      ],
-      "hasDynamicImage": false,
-      "price": 1300,
-      "resourceId": 223510,
-      "assetId": 223510
     },
     "226515": {
       "name": "Andrei Girotto",
@@ -517,7 +478,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 900,
       "resourceId": 231138,
       "assetId": 231138
     },
@@ -707,7 +668,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 900,
       "resourceId": 247793,
       "assetId": 247793
     },
@@ -857,7 +818,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 4500,
+      "price": 3100,
       "resourceId": 253185,
       "assetId": 253185
     },
@@ -894,7 +855,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 275561,
       "assetId": 275561
     },
@@ -932,7 +893,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 276114,
       "assetId": 276114
     },
@@ -1006,6 +967,47 @@
       "price": 200,
       "resourceId": 50406351,
       "assetId": 74703
+    },
+    "50555158": {
+      "name": "Alexandre Mendy",
+      "cardName": "Mendy",
+      "originalVersionId": "3",
+      "clubId": 112389,
+      "leagueId": 350,
+      "countryId": 119,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        19,
+        4,
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        82,
+        80,
+        66,
+        78,
+        35,
+        87
+      ],
+      "hasDynamicImage": false,
+      "price": 11000,
+      "resourceId": 50555158,
+      "assetId": 223510
     }
   }
 }

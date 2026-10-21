@@ -35,7 +35,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 700,
       "resourceId": 71618,
       "assetId": 71618
     },
@@ -143,7 +143,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 79890,
       "assetId": 79890
     },
@@ -180,7 +180,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 79892,
       "assetId": 79892
     },
@@ -288,7 +288,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 83744,
       "assetId": 83744
     },
@@ -324,7 +324,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 83955,
       "assetId": 83955
     },
@@ -410,7 +410,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 203137,
       "assetId": 203137
     },
@@ -447,7 +447,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 213536,
       "assetId": 213536
     },
@@ -528,7 +528,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 700,
       "resourceId": 224921,
       "assetId": 224921
     },
@@ -568,7 +568,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 236298,
       "assetId": 236298
     },
@@ -613,7 +613,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 600,
       "resourceId": 236800,
       "assetId": 236800
     },
@@ -662,7 +662,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 750,
       "resourceId": 240744,
       "assetId": 240744
     },
@@ -699,7 +699,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 2200,
       "resourceId": 246849,
       "assetId": 246849
     },
@@ -774,7 +774,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 255043,
       "assetId": 255043
     },
@@ -817,7 +817,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 262740,
       "assetId": 262740
     },
@@ -856,7 +856,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 600,
       "resourceId": 264085,
       "assetId": 264085
     },
@@ -893,6 +893,63 @@
       "price": 200,
       "resourceId": 277189,
       "assetId": 277189
+    },
+    "50526413": {
+      "name": "Antoine Griezmann",
+      "cardName": "Griezmann",
+      "originalVersionId": "3",
+      "clubId": 112606,
+      "leagueId": 39,
+      "countryId": 18,
+      "versionId": "3",
+      "rating": 85,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        10,
+        13,
+        20,
+        6,
+        8
+      ],
+      "playStylesPlus": [
+        7
+      ],
+      "rolesPlus": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        75,
+        86,
+        86,
+        88,
+        60,
+        74
+      ],
+      "hasDynamicImage": true,
+      "price": 124000,
+      "resourceId": 50526413,
+      "assetId": 194765
     }
   }
 }
