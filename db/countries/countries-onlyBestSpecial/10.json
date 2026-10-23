@@ -1,50 +1,4 @@
 {
-  "181783": {
-    "name": "Mario Mandžukić",
-    "cardName": "Mandžukić",
-    "originalVersionId": "72",
-    "clubId": 114605,
-    "leagueId": 19,
-    "countryId": 10,
-    "versionId": "72",
-    "rating": 86,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "LW",
-      "ST"
-    ],
-    "playStyles": [
-      13,
-      22,
-      24,
-      29,
-      5,
-      6
-    ],
-    "playStylesPlus": [
-      4
-    ],
-    "rolesPlus": [
-      38,
-      42,
-      144
-    ],
-    "attributes": [
-      78,
-      84,
-      75,
-      81,
-      63,
-      88
-    ],
-    "hasDynamicImage": false,
-    "price": 77000,
-    "resourceId": 181783,
-    "assetId": 181783
-  },
   "214649": {
     "name": "Davor Šuker",
     "cardName": "Šuker",
@@ -83,7 +37,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 173000,
+    "price": 198000,
     "resourceId": 214649,
     "assetId": 214649
   },
@@ -140,7 +94,7 @@
       65
     ],
     "hasDynamicImage": true,
-    "price": 39000,
+    "price": 40500,
     "resourceId": 50508651,
     "assetId": 177003
   },
@@ -227,5 +181,55 @@
     "price": 0,
     "resourceId": 50606840,
     "assetId": 275192
+  },
+  "84067863": {
+    "name": "Mario Mandžukić",
+    "cardName": "Mandžukić",
+    "originalVersionId": "168",
+    "clubId": 114605,
+    "leagueId": 19,
+    "countryId": 10,
+    "versionId": "168",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      11,
+      12,
+      21,
+      22,
+      24,
+      6
+    ],
+    "playStylesPlus": [
+      0
+    ],
+    "rolesPlus": [
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      88,
+      87,
+      87,
+      83,
+      64,
+      89
+    ],
+    "hasDynamicImage": true,
+    "price": 1160000,
+    "resourceId": 84067863,
+    "assetId": 181783
   }
 }

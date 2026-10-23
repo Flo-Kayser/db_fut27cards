@@ -1,4 +1,53 @@
 {
   "clubName": "Charlotte FC",
-  "players": {}
+  "players": {
+    "50548036": {
+      "name": "Allan Saint-Maximin",
+      "cardName": "Saint-Maximin",
+      "originalVersionId": "103",
+      "clubId": 114640,
+      "leagueId": 39,
+      "countryId": 18,
+      "versionId": "103",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        13,
+        23,
+        24,
+        25
+      ],
+      "playStylesPlus": [
+        20
+      ],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        90,
+        76,
+        76,
+        88,
+        39,
+        72
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50548036,
+      "assetId": 216388
+    }
+  }
 }

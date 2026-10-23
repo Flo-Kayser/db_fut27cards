@@ -40,7 +40,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 265000,
+    "price": 287000,
     "resourceId": 5454,
     "assetId": 5454
   },
@@ -88,7 +88,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 69000,
+    "price": 72000,
     "resourceId": 8473,
     "assetId": 8473
   },
@@ -130,7 +130,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 120000,
+    "price": 129000,
     "resourceId": 10704,
     "assetId": 10704
   },
@@ -175,7 +175,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 44000,
+    "price": 45500,
     "resourceId": 25420,
     "assetId": 25420
   },
@@ -225,7 +225,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 608000,
+    "price": 661000,
     "resourceId": 28765,
     "assetId": 28765
   },
@@ -273,7 +273,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 304000,
+    "price": 325000,
     "resourceId": 81644,
     "assetId": 81644
   },
@@ -316,7 +316,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 65500,
+    "price": 62500,
     "resourceId": 150418,
     "assetId": 150418
   },
@@ -402,55 +402,9 @@
       85
     ],
     "hasDynamicImage": false,
-    "price": 479000,
+    "price": 509000,
     "resourceId": 166676,
     "assetId": 166676
-  },
-  "181783": {
-    "name": "Mario Mandžukić",
-    "cardName": "Mandžukić",
-    "originalVersionId": "72",
-    "clubId": 114605,
-    "leagueId": 19,
-    "countryId": 10,
-    "versionId": "72",
-    "rating": 86,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "LW",
-      "ST"
-    ],
-    "playStyles": [
-      13,
-      22,
-      24,
-      29,
-      5,
-      6
-    ],
-    "playStylesPlus": [
-      4
-    ],
-    "rolesPlus": [
-      38,
-      42,
-      144
-    ],
-    "attributes": [
-      78,
-      84,
-      75,
-      81,
-      63,
-      88
-    ],
-    "hasDynamicImage": false,
-    "price": 77000,
-    "resourceId": 181783,
-    "assetId": 181783
   },
   "261593": {
     "name": "Jürgen Kohler",
@@ -491,7 +445,7 @@
       90
     ],
     "hasDynamicImage": false,
-    "price": 161000,
+    "price": 163000,
     "resourceId": 261593,
     "assetId": 261593
   },
@@ -535,6 +489,58 @@
     "price": 0,
     "resourceId": 50408064,
     "assetId": 76416
+  },
+  "50534077": {
+    "name": "Danny da Costa",
+    "cardName": "da Costa",
+    "originalVersionId": "103",
+    "clubId": 169,
+    "leagueId": 19,
+    "countryId": 21,
+    "versionId": "103",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB",
+      "RB",
+      "RM"
+    ],
+    "playStyles": [
+      14,
+      17,
+      25
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      111,
+      112,
+      113,
+      123,
+      124,
+      125,
+      126,
+      146,
+      148
+    ],
+    "attributes": [
+      86,
+      58,
+      70,
+      73,
+      81,
+      82
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50534077,
+    "assetId": 202429
   },
   "50547923": {
     "name": "Phillipp Mwene",
@@ -590,7 +596,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 11500,
+    "price": 12000,
     "resourceId": 50547923,
     "assetId": 216275
   },
@@ -632,7 +638,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 31000,
+    "price": 34000,
     "resourceId": 50555345,
     "assetId": 223697
   },
@@ -676,7 +682,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 1020000,
+    "price": 1250000,
     "resourceId": 50561206,
     "assetId": 229558
   },
@@ -757,7 +763,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 45500,
+    "price": 32750,
     "resourceId": 50574527,
     "assetId": 242879
   },
@@ -806,9 +812,60 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 40000,
+    "price": 39250,
     "resourceId": 50575824,
     "assetId": 244176
+  },
+  "50577588": {
+    "name": "Silas",
+    "cardName": "Silas",
+    "originalVersionId": "103",
+    "clubId": 169,
+    "leagueId": 19,
+    "countryId": 110,
+    "versionId": "103",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 2,
+    "skillMoves": 5,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      23,
+      25,
+      5,
+      7
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      135,
+      136,
+      137,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      88,
+      81,
+      71,
+      85,
+      56,
+      81
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50577588,
+    "assetId": 245940
   },
   "50579475": {
     "name": "Michael Olise",
@@ -861,7 +918,7 @@
       71
     ],
     "hasDynamicImage": true,
-    "price": 978000,
+    "price": 1005000,
     "resourceId": 50579475,
     "assetId": 247827
   },
@@ -916,7 +973,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 20250,
+    "price": 23750,
     "resourceId": 50584757,
     "assetId": 253109
   },
@@ -1014,9 +1071,57 @@
       74
     ],
     "hasDynamicImage": true,
-    "price": 13500,
+    "price": 13000,
     "resourceId": 50593513,
     "assetId": 261865
+  },
+  "50593786": {
+    "name": "Castello Lukeba",
+    "cardName": "Lukeba",
+    "originalVersionId": "151",
+    "clubId": 112172,
+    "leagueId": 19,
+    "countryId": 18,
+    "versionId": "151",
+    "rating": 85,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "CB",
+      "LB"
+    ],
+    "playStyles": [
+      12,
+      14,
+      17,
+      22
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      147,
+      148
+    ],
+    "attributes": [
+      84,
+      46,
+      78,
+      84,
+      86,
+      80
+    ],
+    "hasDynamicImage": true,
+    "price": 208000,
+    "resourceId": 50593786,
+    "assetId": 262138
   },
   "50594511": {
     "name": "Antonio Nusa",
@@ -1133,7 +1238,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 79500,
+    "price": 95500,
     "resourceId": 50595413,
     "assetId": 263765
   },
@@ -1181,7 +1286,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 306000,
+    "price": 314000,
     "resourceId": 50601349,
     "assetId": 269701
   },
@@ -1295,7 +1400,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 20000,
+    "price": 21000,
     "resourceId": 50606677,
     "assetId": 275029
   },
@@ -1390,9 +1495,104 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 20000,
+    "price": 19250,
     "resourceId": 50610428,
     "assetId": 278780
+  },
+  "67180042": {
+    "name": "Saïd El Mala",
+    "cardName": "El Mala",
+    "originalVersionId": "151",
+    "clubId": 31,
+    "leagueId": 19,
+    "countryId": 21,
+    "versionId": "151",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      20,
+      21,
+      6
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      90,
+      85,
+      75,
+      85,
+      46,
+      72
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 67180042,
+    "assetId": 71178
+  },
+  "67289794": {
+    "name": "Edin Džeko",
+    "cardName": "Džeko",
+    "originalVersionId": "136",
+    "clubId": 34,
+    "leagueId": 19,
+    "countryId": 8,
+    "versionId": "136",
+    "rating": 78,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      22,
+      24,
+      6
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      44
+    ],
+    "attributes": [
+      47,
+      81,
+      73,
+      76,
+      40,
+      75
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 67289794,
+    "assetId": 180930
   },
   "67341275": {
     "name": "Christopher Nkunku",
@@ -1436,7 +1636,7 @@
       60
     ],
     "hasDynamicImage": true,
-    "price": 15250,
+    "price": 16500,
     "resourceId": 67341275,
     "assetId": 232411
   },
@@ -1491,7 +1691,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 534000,
+    "price": 317000,
     "resourceId": 67349948,
     "assetId": 241084
   },
@@ -1540,7 +1740,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 201000,
+    "price": 293000,
     "resourceId": 67355727,
     "assetId": 246863
   },
@@ -1588,9 +1788,59 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 13500,
+    "price": 12750,
     "resourceId": 67371770,
     "assetId": 262906
+  },
+  "84067863": {
+    "name": "Mario Mandžukić",
+    "cardName": "Mandžukić",
+    "originalVersionId": "168",
+    "clubId": 114605,
+    "leagueId": 19,
+    "countryId": 10,
+    "versionId": "168",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      11,
+      12,
+      21,
+      22,
+      24,
+      6
+    ],
+    "playStylesPlus": [
+      0
+    ],
+    "rolesPlus": [
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      88,
+      87,
+      87,
+      83,
+      64,
+      89
+    ],
+    "hasDynamicImage": true,
+    "price": 1160000,
+    "resourceId": 84067863,
+    "assetId": 181783
   },
   "84102355": {
     "name": "Phillipp Mwene",
@@ -1701,7 +1951,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 717250,
+    "sbcPrice": 843700,
     "price": 0,
     "resourceId": 84133907,
     "assetId": 247827
@@ -1751,5 +2001,60 @@
     "price": 0,
     "resourceId": 100895707,
     "assetId": 232411
+  },
+  "100904380": {
+    "name": "Luis Díaz",
+    "cardName": "Díaz",
+    "originalVersionId": "19",
+    "clubId": 21,
+    "leagueId": 19,
+    "countryId": 56,
+    "versionId": "19",
+    "rating": 89,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      13,
+      20,
+      21,
+      22,
+      25,
+      6
+    ],
+    "playStylesPlus": [
+      0
+    ],
+    "rolesPlus": [
+      127,
+      128,
+      129,
+      130,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      84,
+      84,
+      85,
+      88,
+      45,
+      77
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 100904380,
+    "assetId": 241084
   }
 }

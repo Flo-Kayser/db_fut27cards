@@ -1,6 +1,126 @@
 {
   "clubName": "OL Lyonnes",
   "players": {
+    "50593388": {
+      "name": "Jule Brand",
+      "cardName": "Brand",
+      "originalVersionId": "103",
+      "clubId": 116033,
+      "leagueId": 2218,
+      "countryId": 21,
+      "versionId": "103",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        12,
+        13,
+        21,
+        25,
+        7,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        92,
+        78,
+        81,
+        84,
+        56,
+        74
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50593388,
+      "assetId": 261740
+    },
+    "50601052": {
+      "name": "Salma Paralluelo",
+      "cardName": "Salma Paralluelo",
+      "originalVersionId": "151",
+      "clubId": 116033,
+      "leagueId": 2218,
+      "countryId": 45,
+      "versionId": "151",
+      "rating": 88,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        20,
+        21,
+        25
+      ],
+      "playStylesPlus": [
+        7
+      ],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        94,
+        86,
+        80,
+        86,
+        47,
+        79
+      ],
+      "hasDynamicImage": true,
+      "price": 4699000,
+      "resourceId": 50601052,
+      "assetId": 269404
+    },
     "50606401": {
       "name": "Tarciane",
       "cardName": "Tarciane",
@@ -105,7 +225,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 38500,
+      "price": 40500,
       "resourceId": 50609599,
       "assetId": 277951
     },
@@ -165,7 +285,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 2950000,
+      "price": 3187000,
       "resourceId": 67374762,
       "assetId": 265898
     }

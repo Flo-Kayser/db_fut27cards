@@ -36,7 +36,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 700,
+    "price": 950,
     "resourceId": 219683,
     "assetId": 219683,
     "originalVersionId": 0
@@ -89,10 +89,63 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 18250,
+    "price": 19250,
     "resourceId": 50551331,
     "assetId": 219683,
     "originalVersionId": 3
+  },
+  "84105763": {
+    "clubId": 66,
+    "leagueId": 16,
+    "countryId": 18,
+    "versionId": "151",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      0,
+      20,
+      22,
+      24,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134,
+      149
+    ],
+    "attributes": [
+      80,
+      87,
+      87,
+      84,
+      82,
+      85
+    ],
+    "hasDynamicImage": true,
+    "price": 236000,
+    "resourceId": 84105763,
+    "assetId": 219683,
+    "originalVersionId": 151
   },
   "cardName": "Tolisso",
   "name": "Corentin Tolisso"

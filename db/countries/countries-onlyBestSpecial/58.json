@@ -1,4 +1,52 @@
 {
+  "50551985": {
+    "name": "Junior Alonso",
+    "cardName": "Alonso",
+    "originalVersionId": "151",
+    "clubId": 112885,
+    "leagueId": 39,
+    "countryId": 58,
+    "versionId": "151",
+    "rating": 85,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "CB",
+      "LB"
+    ],
+    "playStyles": [
+      10,
+      14,
+      25,
+      28
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      147,
+      148
+    ],
+    "attributes": [
+      87,
+      66,
+      77,
+      75,
+      81,
+      83
+    ],
+    "hasDynamicImage": true,
+    "price": 202000,
+    "resourceId": 50551985,
+    "assetId": 220337
+  },
   "50587082": {
     "name": "Julio César Enciso",
     "cardName": "Enciso",
@@ -103,8 +151,70 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 12000,
+    "price": 10750,
     "resourceId": 50600926,
+    "assetId": 269278
+  },
+  "84155358": {
+    "name": "Diego Gómez",
+    "cardName": "Gómez",
+    "originalVersionId": "19",
+    "clubId": 1808,
+    "leagueId": 13,
+    "countryId": 58,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      10,
+      11,
+      26
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      149
+    ],
+    "attributes": [
+      75,
+      79,
+      78,
+      80,
+      75,
+      80
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84155358,
     "assetId": 269278
   }
 }

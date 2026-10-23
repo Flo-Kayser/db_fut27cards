@@ -33,7 +33,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 70230,
       "assetId": 70230
     },
@@ -67,7 +67,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 400,
       "resourceId": 75842,
       "assetId": 75842
     },
@@ -105,7 +105,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 550,
       "resourceId": 81539,
       "assetId": 81539
     },
@@ -142,7 +142,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 950,
       "resourceId": 193105,
       "assetId": 193105
     },
@@ -178,7 +178,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 208004,
       "assetId": 208004
     },
@@ -216,7 +216,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 550,
       "resourceId": 215798,
       "assetId": 215798
     },
@@ -296,7 +296,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 900,
       "resourceId": 227927,
       "assetId": 227927
     },
@@ -340,7 +340,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 900,
       "resourceId": 235844,
       "assetId": 235844
     },
@@ -380,7 +380,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 650,
       "resourceId": 236792,
       "assetId": 236792
     },
@@ -418,7 +418,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 237712,
       "assetId": 237712
     },
@@ -494,7 +494,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 900,
       "resourceId": 245336,
       "assetId": 245336
     },
@@ -531,7 +531,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 500,
       "resourceId": 246158,
       "assetId": 246158
     },
@@ -568,7 +568,7 @@
         41
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 246791,
       "assetId": 246791
     },
@@ -640,7 +640,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 500,
       "resourceId": 264290,
       "assetId": 264290
     },
@@ -680,7 +680,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 450,
       "resourceId": 268564,
       "assetId": 268564
     },
@@ -718,7 +718,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 500,
       "resourceId": 272874,
       "assetId": 272874
     },
@@ -752,7 +752,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 550,
       "resourceId": 274102,
       "assetId": 274102
     },
@@ -790,7 +790,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 500,
       "resourceId": 275102,
       "assetId": 275102
     },
@@ -864,7 +864,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 400,
       "resourceId": 50401992,
       "assetId": 70344
     },
@@ -916,6 +916,46 @@
       "resourceId": 50413187,
       "assetId": 81539
     },
+    "50524753": {
+      "name": "Alphonse Areola",
+      "cardName": "Areola",
+      "originalVersionId": "103",
+      "clubId": 19,
+      "leagueId": 14,
+      "countryId": 18,
+      "versionId": "103",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        30,
+        31,
+        34
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        84,
+        83,
+        81,
+        84,
+        53,
+        83
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50524753,
+      "assetId": 193105
+    },
     "50556019": {
       "name": "Jarrod Bowen",
       "cardName": "Bowen",
@@ -963,7 +1003,7 @@
         74
       ],
       "hasDynamicImage": true,
-      "price": 38750,
+      "price": 11250,
       "resourceId": 50556019,
       "assetId": 224371
     },
@@ -1004,7 +1044,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 10750,
+      "price": 9900,
       "resourceId": 50573648,
       "assetId": 242000
     },
@@ -1042,7 +1082,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 5700,
+      "price": 1000,
       "resourceId": 50587656,
       "assetId": 256008
     },
@@ -1082,9 +1122,60 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 400,
       "resourceId": 50602913,
       "assetId": 271265
+    },
+    "84110451": {
+      "name": "Jarrod Bowen",
+      "cardName": "Bowen",
+      "originalVersionId": "19",
+      "clubId": 19,
+      "leagueId": 14,
+      "countryId": 14,
+      "versionId": "19",
+      "rating": 84,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        20,
+        26,
+        6,
+        7
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        135,
+        136,
+        137,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        78,
+        83,
+        80,
+        84,
+        47,
+        74
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 84110451,
+      "assetId": 224371
     },
     "84128080": {
       "name": "Konstantinos Mavropanos",

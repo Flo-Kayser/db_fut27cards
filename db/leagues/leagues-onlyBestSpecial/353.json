@@ -1,48 +1,4 @@
 {
-  "243027": {
-    "name": "Juan Sebastián Verón",
-    "cardName": "Verón",
-    "originalVersionId": "72",
-    "clubId": 114605,
-    "leagueId": 353,
-    "countryId": 52,
-    "versionId": "72",
-    "rating": 86,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 3,
-    "preferredPosition": "CM",
-    "possiblePositions": [
-      "CAM",
-      "CM"
-    ],
-    "playStyles": [
-      10,
-      13,
-      3,
-      7
-    ],
-    "playStylesPlus": [
-      8
-    ],
-    "rolesPlus": [
-      18,
-      121,
-      131
-    ],
-    "attributes": [
-      75,
-      81,
-      86,
-      82,
-      73,
-      81
-    ],
-    "hasDynamicImage": false,
-    "price": 65500,
-    "resourceId": 243027,
-    "assetId": 243027
-  },
   "275049": {
     "name": "Enzo Francescoli",
     "cardName": "Francescoli",
@@ -85,7 +41,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 318000,
+    "price": 339000,
     "resourceId": 275049,
     "assetId": 275049
   },
@@ -136,6 +92,47 @@
     "price": 0,
     "resourceId": 50403654,
     "assetId": 72006
+  },
+  "50524014": {
+    "name": "Nicolás Otamendi",
+    "cardName": "Otamendi",
+    "originalVersionId": "136",
+    "clubId": 1876,
+    "leagueId": 353,
+    "countryId": 52,
+    "versionId": "136",
+    "rating": 78,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      10,
+      16,
+      19,
+      28,
+      4
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      12,
+      113
+    ],
+    "attributes": [
+      35,
+      57,
+      65,
+      61,
+      79,
+      84
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 50524014,
+    "assetId": 192366
   },
   "50569878": {
     "name": "Jaminton Campaz",
@@ -189,7 +186,7 @@
       65
     ],
     "hasDynamicImage": true,
-    "price": 10500,
+    "price": 9900,
     "resourceId": 50569878,
     "assetId": 238230
   },
@@ -248,5 +245,56 @@
     "price": 0,
     "resourceId": 84124310,
     "assetId": 238230
+  },
+  "84129107": {
+    "name": "Juan Sebastián Verón",
+    "cardName": "Verón",
+    "originalVersionId": "168",
+    "clubId": 114605,
+    "leagueId": 353,
+    "countryId": 52,
+    "versionId": "168",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM"
+    ],
+    "playStyles": [
+      10,
+      13,
+      3,
+      7,
+      8
+    ],
+    "playStylesPlus": [
+      11
+    ],
+    "rolesPlus": [
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134
+    ],
+    "attributes": [
+      82,
+      86,
+      88,
+      86,
+      74,
+      82
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84129107,
+    "assetId": 243027
   }
 }

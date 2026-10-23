@@ -35,7 +35,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 109000,
+    "price": 104000,
     "resourceId": 1845,
     "assetId": 1845
   },
@@ -84,7 +84,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 725000,
+    "price": 789000,
     "resourceId": 84415,
     "assetId": 84415
   },
@@ -129,7 +129,7 @@
       86
     ],
     "hasDynamicImage": false,
-    "price": 114000,
+    "price": 108000,
     "resourceId": 274967,
     "assetId": 274967
   },
@@ -179,7 +179,7 @@
       68
     ],
     "hasDynamicImage": true,
-    "price": 110000,
+    "price": 125000,
     "resourceId": 50554313,
     "assetId": 222665
   },
@@ -233,7 +233,7 @@
       79
     ],
     "hasDynamicImage": true,
-    "price": 9900,
+    "price": 10000,
     "resourceId": 50569584,
     "assetId": 237936
   },
@@ -280,7 +280,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 1320000,
+    "price": 1350000,
     "resourceId": 50570733,
     "assetId": 239085
   },
@@ -341,5 +341,59 @@
     "price": 0,
     "resourceId": 50594511,
     "assetId": 262863
+  },
+  "84124016": {
+    "name": "Aron Dønnum",
+    "cardName": "Dønnum",
+    "originalVersionId": "19",
+    "clubId": 1809,
+    "leagueId": 16,
+    "countryId": 36,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      13,
+      20,
+      25
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140
+    ],
+    "attributes": [
+      85,
+      75,
+      78,
+      82,
+      56,
+      79
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84124016,
+    "assetId": 237936
   }
 }

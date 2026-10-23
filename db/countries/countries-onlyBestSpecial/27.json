@@ -38,7 +38,7 @@
       85
     ],
     "hasDynamicImage": false,
-    "price": 391000,
+    "price": 394000,
     "resourceId": 1088,
     "assetId": 1088
   },
@@ -84,7 +84,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 906000,
+    "price": 996000,
     "resourceId": 1114,
     "assetId": 1114
   },
@@ -123,7 +123,7 @@
       90
     ],
     "hasDynamicImage": false,
-    "price": 908000,
+    "price": 899000,
     "resourceId": 1179,
     "assetId": 1179
   },
@@ -167,54 +167,9 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 756000,
+    "price": 798000,
     "resourceId": 1183,
     "assetId": 1183
-  },
-  "1201": {
-    "name": "Gianfranco Zola",
-    "cardName": "Zola",
-    "originalVersionId": "72",
-    "clubId": 114605,
-    "leagueId": 13,
-    "countryId": 27,
-    "versionId": "72",
-    "rating": 87,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "CAM",
-    "possiblePositions": [
-      "CAM",
-      "ST"
-    ],
-    "playStyles": [
-      0,
-      10,
-      20,
-      23,
-      3
-    ],
-    "playStylesPlus": [
-      7
-    ],
-    "rolesPlus": [
-      31,
-      132,
-      141
-    ],
-    "attributes": [
-      85,
-      88,
-      85,
-      89,
-      41,
-      66
-    ],
-    "hasDynamicImage": false,
-    "price": 629000,
-    "resourceId": 1201,
-    "assetId": 1201
   },
   "1238": {
     "name": "Francesco Totti",
@@ -258,7 +213,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 1371000,
+    "price": 1483000,
     "resourceId": 1238,
     "assetId": 1238
   },
@@ -304,7 +259,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 630000,
+    "price": 641000,
     "resourceId": 7763,
     "assetId": 7763
   },
@@ -350,7 +305,7 @@
       87
     ],
     "hasDynamicImage": false,
-    "price": 425000,
+    "price": 0,
     "resourceId": 53302,
     "assetId": 53302
   },
@@ -397,7 +352,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 1401000,
+    "price": 1655000,
     "resourceId": 120274,
     "assetId": 120274
   },
@@ -439,7 +394,7 @@
       85
     ],
     "hasDynamicImage": false,
-    "price": 531000,
+    "price": 585000,
     "resourceId": 137186,
     "assetId": 137186
   },
@@ -483,7 +438,7 @@
       89
     ],
     "hasDynamicImage": false,
-    "price": 830000,
+    "price": 801000,
     "resourceId": 138956,
     "assetId": 138956
   },
@@ -527,7 +482,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 429000,
+    "price": 472000,
     "resourceId": 166906,
     "assetId": 166906
   },
@@ -573,7 +528,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 389000,
+    "price": 451000,
     "resourceId": 173210,
     "assetId": 173210
   },
@@ -704,7 +659,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 120000,
+    "price": 124000,
     "resourceId": 233700,
     "assetId": 233700
   },
@@ -750,7 +705,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 1060000,
+    "price": 1198000,
     "resourceId": 238382,
     "assetId": 238382
   },
@@ -796,7 +751,7 @@
       84
     ],
     "hasDynamicImage": false,
-    "price": 3984000,
+    "price": 4501000,
     "resourceId": 238439,
     "assetId": 238439
   },
@@ -841,7 +796,7 @@
       88
     ],
     "hasDynamicImage": false,
-    "price": 328000,
+    "price": 376000,
     "resourceId": 243030,
     "assetId": 243030
   },
@@ -890,9 +845,64 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 473000,
+    "price": 490000,
     "resourceId": 250890,
     "assetId": 250890
+  },
+  "50529867": {
+    "name": "Lorenzo Insigne",
+    "cardName": "Insigne",
+    "originalVersionId": "103",
+    "clubId": 1837,
+    "leagueId": 32,
+    "countryId": 27,
+    "versionId": "103",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      20,
+      25
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      88,
+      81,
+      83,
+      88,
+      42,
+      53
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50529867,
+    "assetId": 198219
   },
   "50562269": {
     "name": "Gianluigi Donnarumma",
@@ -932,7 +942,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 213000,
+    "price": 214000,
     "resourceId": 50562269,
     "assetId": 230621
   },
@@ -1030,7 +1040,7 @@
       67
     ],
     "hasDynamicImage": true,
-    "price": 10250,
+    "price": 9900,
     "resourceId": 50600351,
     "assetId": 268703
   },
@@ -1071,7 +1081,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 10500,
+    "price": 9900,
     "resourceId": 50600830,
     "assetId": 269182
   },
@@ -1111,7 +1121,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 13750,
+    "price": 13000,
     "resourceId": 50608373,
     "assetId": 276725
   },
@@ -1160,7 +1170,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 32250,
+    "price": 32500,
     "resourceId": 50609517,
     "assetId": 277869
   },
@@ -1207,9 +1217,63 @@
       68
     ],
     "hasDynamicImage": true,
-    "price": 68500,
+    "price": 55500,
     "resourceId": 50609974,
     "assetId": 278326
+  },
+  "83887281": {
+    "name": "Gianfranco Zola",
+    "cardName": "Zola",
+    "originalVersionId": "168",
+    "clubId": 114605,
+    "leagueId": 13,
+    "countryId": 27,
+    "versionId": "168",
+    "rating": 89,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      11,
+      20,
+      25,
+      7
+    ],
+    "playStylesPlus": [
+      6
+    ],
+    "rolesPlus": [
+      131,
+      132,
+      133,
+      134,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      88,
+      89,
+      87,
+      90,
+      42,
+      67
+    ],
+    "hasDynamicImage": true,
+    "price": 2495000,
+    "resourceId": 83887281,
+    "assetId": 1201
   },
   "84116701": {
     "name": "Gianluigi Donnarumma",
@@ -1302,6 +1366,47 @@
     "price": 0,
     "resourceId": 84154783,
     "assetId": 268703
+  },
+  "84155262": {
+    "name": "Antonio Raimondo",
+    "cardName": "Raimondo",
+    "originalVersionId": "19",
+    "clubId": 111657,
+    "leagueId": 31,
+    "countryId": 27,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      22,
+      24,
+      6
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      79,
+      81,
+      73,
+      82,
+      42,
+      80
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84155262,
+    "assetId": 269182
   },
   "84163949": {
     "name": "Michael Kayode",

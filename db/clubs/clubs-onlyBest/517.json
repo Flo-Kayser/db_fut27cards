@@ -68,7 +68,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 400,
       "resourceId": 76446,
       "assetId": 76446
     },
@@ -107,7 +107,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 500,
       "resourceId": 76627,
       "assetId": 76627
     },
@@ -141,7 +141,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 400,
       "resourceId": 82277,
       "assetId": 82277
     },
@@ -214,7 +214,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 500,
       "resourceId": 87407,
       "assetId": 87407
     },
@@ -251,48 +251,9 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 450,
       "resourceId": 87971,
       "assetId": 87971
-    },
-    "199914": {
-      "name": "Allan",
-      "cardName": "Allan",
-      "originalVersionId": "0",
-      "clubId": 517,
-      "leagueId": 1014,
-      "countryId": 54,
-      "versionId": "2001",
-      "rating": 73,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "CDM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        18
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        14,
-        17,
-        18
-      ],
-      "attributes": [
-        68,
-        67,
-        70,
-        75,
-        72,
-        69
-      ],
-      "hasDynamicImage": false,
-      "price": 550,
-      "resourceId": 199914,
-      "assetId": 199914
     },
     "204032": {
       "name": "Edenilson",
@@ -334,7 +295,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 500,
       "resourceId": 204032,
       "assetId": 204032
     },
@@ -374,7 +335,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 1100,
       "resourceId": 212462,
       "assetId": 212462
     },
@@ -412,7 +373,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 800,
       "resourceId": 244661,
       "assetId": 244661
     },
@@ -452,7 +413,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 500,
       "resourceId": 245259,
       "assetId": 245259
     },
@@ -530,7 +491,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 500,
       "resourceId": 246388,
       "assetId": 246388
     },
@@ -568,7 +529,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 400,
       "resourceId": 251847,
       "assetId": 251847
     },
@@ -648,7 +609,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 500,
       "resourceId": 255754,
       "assetId": 255754
     },
@@ -690,7 +651,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 750,
       "resourceId": 261082,
       "assetId": 261082
     },
@@ -730,7 +691,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 550,
       "resourceId": 264002,
       "assetId": 264002
     },
@@ -772,7 +733,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 700,
       "resourceId": 273106,
       "assetId": 273106
     },
@@ -815,7 +776,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 400,
       "resourceId": 273458,
       "assetId": 273458
     },
@@ -856,7 +817,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 450,
       "resourceId": 273662,
       "assetId": 273662
     },
@@ -898,7 +859,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 275364,
       "assetId": 275364
     },
@@ -942,7 +903,7 @@
         51
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 650,
       "resourceId": 279836,
       "assetId": 279836
     },
@@ -977,9 +938,57 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 50406519,
       "assetId": 74871
+    },
+    "50531562": {
+      "name": "Allan",
+      "cardName": "Allan",
+      "originalVersionId": "103",
+      "clubId": 517,
+      "leagueId": 1014,
+      "countryId": 54,
+      "versionId": "103",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        16,
+        18,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        149
+      ],
+      "attributes": [
+        77,
+        70,
+        80,
+        84,
+        82,
+        81
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50531562,
+      "assetId": 199914
     }
   }
 }

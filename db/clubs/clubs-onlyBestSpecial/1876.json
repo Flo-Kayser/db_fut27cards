@@ -1,4 +1,46 @@
 {
   "clubName": "River Plate",
-  "players": {}
+  "players": {
+    "50524014": {
+      "name": "Nicolás Otamendi",
+      "cardName": "Otamendi",
+      "originalVersionId": "136",
+      "clubId": 1876,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "136",
+      "rating": 78,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        16,
+        19,
+        28,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12,
+        113
+      ],
+      "attributes": [
+        35,
+        57,
+        65,
+        61,
+        79,
+        84
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50524014,
+      "assetId": 192366
+    }
+  }
 }

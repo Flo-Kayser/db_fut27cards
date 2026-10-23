@@ -1,4 +1,65 @@
 {
   "clubName": "Rac. Louisville",
-  "players": {}
+  "players": {
+    "50599032": {
+      "name": "Taylor Flint",
+      "cardName": "Flint",
+      "originalVersionId": "151",
+      "clubId": 116308,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "151",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CAM",
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        15,
+        16,
+        19
+      ],
+      "playStylesPlus": [
+        17
+      ],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        148,
+        149
+      ],
+      "attributes": [
+        77,
+        76,
+        76,
+        81,
+        85,
+        92
+      ],
+      "hasDynamicImage": true,
+      "price": 242000,
+      "resourceId": 50599032,
+      "assetId": 267384
+    }
+  }
 }

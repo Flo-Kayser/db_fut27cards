@@ -37,7 +37,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 600,
       "resourceId": 71174,
       "assetId": 71174
     },
@@ -109,7 +109,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 750,
       "resourceId": 73286,
       "assetId": 73286
     },
@@ -143,7 +143,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 500,
       "resourceId": 73487,
       "assetId": 73487
     },
@@ -251,7 +251,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 80694,
       "assetId": 80694
     },
@@ -285,7 +285,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 600,
       "resourceId": 80695,
       "assetId": 80695
     },
@@ -321,7 +321,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 600,
       "resourceId": 80696,
       "assetId": 80696
     },
@@ -357,7 +357,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 550,
       "resourceId": 80771,
       "assetId": 80771
     },
@@ -466,7 +466,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 500,
       "resourceId": 80774,
       "assetId": 80774
     },
@@ -504,7 +504,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 650,
       "resourceId": 80775,
       "assetId": 80775
     },
@@ -574,7 +574,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 600,
       "resourceId": 85976,
       "assetId": 85976
     },
@@ -609,7 +609,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 450,
       "resourceId": 86231,
       "assetId": 86231
     },
@@ -645,7 +645,7 @@
         45
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 87666,
       "assetId": 87666
     },
@@ -685,7 +685,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 450,
       "resourceId": 235022,
       "assetId": 235022
     },
@@ -767,7 +767,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 1400,
       "resourceId": 237936,
       "assetId": 237936
     },
@@ -803,7 +803,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 1300,
       "resourceId": 242195,
       "assetId": 242195
     },
@@ -841,7 +841,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 900,
       "resourceId": 242534,
       "assetId": 242534
     },
@@ -882,7 +882,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 600,
       "resourceId": 251845,
       "assetId": 251845
     },
@@ -955,7 +955,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 550,
       "resourceId": 269719,
       "assetId": 269719
     },
@@ -1028,7 +1028,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 450,
       "resourceId": 50401668,
       "assetId": 70020
     },
@@ -1082,7 +1082,7 @@
         79
       ],
       "hasDynamicImage": true,
-      "price": 9900,
+      "price": 10000,
       "resourceId": 50569584,
       "assetId": 237936
     },
@@ -1116,7 +1116,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 500,
       "resourceId": 50589568,
       "assetId": 257920
     },
@@ -1154,9 +1154,63 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 500,
       "resourceId": 50606886,
       "assetId": 275238
+    },
+    "84124016": {
+      "name": "Aron Dønnum",
+      "cardName": "Dønnum",
+      "originalVersionId": "19",
+      "clubId": 1809,
+      "leagueId": 16,
+      "countryId": 36,
+      "versionId": "19",
+      "rating": 80,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        13,
+        20,
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        85,
+        75,
+        78,
+        82,
+        56,
+        79
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 84124016,
+      "assetId": 237936
     }
   }
 }

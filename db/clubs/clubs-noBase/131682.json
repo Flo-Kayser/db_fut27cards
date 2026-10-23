@@ -1,6 +1,50 @@
 {
   "clubName": "Lombardia FC",
   "players": {
+    "50539776": {
+      "name": "Hakan Çalhanoğlu",
+      "cardName": "Çalhanoğlu",
+      "originalVersionId": "135",
+      "clubId": 131682,
+      "leagueId": 31,
+      "countryId": 48,
+      "versionId": "135",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        26,
+        3,
+        7
+      ],
+      "playStylesPlus": [
+        11
+      ],
+      "rolesPlus": [
+        15,
+        17,
+        20,
+        116
+      ],
+      "attributes": [
+        68,
+        81,
+        85,
+        82,
+        81,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50539776,
+      "assetId": 208128
+    },
     "50573384": {
       "name": "Yann Aurel Bisseck",
       "cardName": "Bisseck",
@@ -38,7 +82,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 145000,
+      "price": 153000,
       "resourceId": 50573384,
       "assetId": 241736
     },
@@ -129,9 +173,66 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 147000,
+      "price": 152000,
       "resourceId": 50591213,
       "assetId": 259565
+    },
+    "67316992": {
+      "name": "Hakan Çalhanoğlu",
+      "cardName": "Çalhanoğlu",
+      "originalVersionId": "151",
+      "clubId": 131682,
+      "leagueId": 31,
+      "countryId": 48,
+      "versionId": "151",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        11,
+        25,
+        26,
+        3,
+        9
+      ],
+      "playStylesPlus": [
+        2
+      ],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        149
+      ],
+      "attributes": [
+        78,
+        86,
+        88,
+        85,
+        82,
+        75
+      ],
+      "hasDynamicImage": true,
+      "price": 401000,
+      "resourceId": 67316992,
+      "assetId": 208128
     },
     "67336957": {
       "name": "Marcus Thuram",
@@ -172,7 +273,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 46750,
+      "price": 47750,
       "resourceId": 67336957,
       "assetId": 228093
     }

@@ -1,6 +1,46 @@
 {
   "clubName": "ACF Fiorentina",
   "players": {
+    "50524728": {
+      "name": "De Gea",
+      "cardName": "De Gea",
+      "originalVersionId": "103",
+      "clubId": 110374,
+      "leagueId": 31,
+      "countryId": 45,
+      "versionId": "103",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        31,
+        33,
+        34
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        85,
+        81,
+        77,
+        88,
+        50,
+        85
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50524728,
+      "assetId": 193080
+    },
     "50572598": {
       "name": "Pedro Gonçalves",
       "cardName": "Pedro Gonçalves",
@@ -102,7 +142,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 13750,
+      "price": 14250,
       "resourceId": 67388037,
       "assetId": 279173
     },
@@ -154,7 +194,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 284000,
+      "price": 279000,
       "resourceId": 84165253,
       "assetId": 279173
     }

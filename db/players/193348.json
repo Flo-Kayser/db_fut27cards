@@ -41,7 +41,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 650,
+    "price": 1000,
     "resourceId": 193348,
     "assetId": 193348,
     "originalVersionId": 0
@@ -103,10 +103,57 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 13750,
+    "price": 13000,
     "resourceId": 67302212,
     "assetId": 193348,
     "originalVersionId": 3
+  },
+  "84079428": {
+    "clubId": 896,
+    "leagueId": 189,
+    "countryId": 47,
+    "versionId": "135",
+    "rating": 76,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      13,
+      3,
+      6,
+      7,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      21,
+      31,
+      32,
+      36,
+      43
+    ],
+    "attributes": [
+      67,
+      79,
+      78,
+      78,
+      40,
+      71
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 84079428,
+    "assetId": 193348,
+    "originalVersionId": 135
   },
   "cardName": "Shaqiri",
   "name": "Xherdan Shaqiri"

@@ -3,12 +3,12 @@
     "clubId": 114605,
     "leagueId": 353,
     "countryId": 52,
-    "versionId": "72",
-    "rating": 86,
+    "versionId": "168",
+    "rating": 87,
     "preferredFoot": "Right",
     "weakFoot": 4,
     "skillMoves": 3,
-    "preferredPosition": "CM",
+    "preferredPosition": "CAM",
     "possiblePositions": [
       "CAM",
       "CM"
@@ -17,27 +17,34 @@
       10,
       13,
       3,
-      7
-    ],
-    "playStylesPlus": [
+      7,
       8
     ],
+    "playStylesPlus": [
+      11
+    ],
     "rolesPlus": [
-      18,
+      118,
+      119,
+      120,
       121,
-      131
+      122,
+      131,
+      132,
+      133,
+      134
     ],
     "attributes": [
-      75,
-      81,
-      86,
       82,
-      73,
-      81
+      86,
+      88,
+      86,
+      74,
+      82
     ],
-    "hasDynamicImage": false,
-    "price": 65500,
-    "resourceId": 243027,
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84129107,
     "assetId": 243027,
     "name": "Juan Sebastián Verón",
     "cardName": "Verón"
@@ -81,7 +88,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 318000,
+    "price": 339000,
     "resourceId": 275049,
     "assetId": 275049,
     "name": "Enzo Francescoli",

@@ -30,7 +30,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 1000,
+    "price": 700,
     "resourceId": 257484,
     "assetId": 257484,
     "originalVersionId": 0
@@ -81,10 +81,61 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 11000,
+    "price": 9900,
     "resourceId": 50589132,
     "assetId": 257484,
     "originalVersionId": 3
+  },
+  "84143564": {
+    "clubId": 1914,
+    "leagueId": 10,
+    "countryId": 34,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      11,
+      2,
+      20
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134,
+      149
+    ],
+    "attributes": [
+      79,
+      81,
+      80,
+      82,
+      73,
+      80
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84143564,
+    "assetId": 257484,
+    "originalVersionId": 19
   },
   "cardName": "Oosting",
   "name": "Thijs Oosting"

@@ -72,7 +72,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 450,
       "resourceId": 77365,
       "assetId": 77365
     },
@@ -108,7 +108,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 400,
       "resourceId": 77664,
       "assetId": 77664
     },
@@ -148,7 +148,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 450,
       "resourceId": 79338,
       "assetId": 79338
     },
@@ -188,7 +188,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 450,
       "resourceId": 82333,
       "assetId": 82333
     },
@@ -298,47 +298,9 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 400,
       "resourceId": 226662,
       "assetId": 226662
-    },
-    "226853": {
-      "name": "Jeremiah St. Juste",
-      "cardName": "St. Juste",
-      "originalVersionId": "0",
-      "clubId": 246,
-      "leagueId": 10,
-      "countryId": 34,
-      "versionId": "2001",
-      "rating": 74,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [
-        10,
-        16,
-        25
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        12
-      ],
-      "attributes": [
-        89,
-        57,
-        65,
-        71,
-        74,
-        74
-      ],
-      "hasDynamicImage": false,
-      "price": 3300,
-      "resourceId": 226853,
-      "assetId": 226853
     },
     "229114": {
       "name": "Liam Bossin",
@@ -370,7 +332,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 450,
       "resourceId": 229114,
       "assetId": 229114
     },
@@ -408,7 +370,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 500,
       "resourceId": 239778,
       "assetId": 239778
     },
@@ -452,7 +414,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 244728,
       "assetId": 244728
     },
@@ -493,7 +455,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 900,
       "resourceId": 244889,
       "assetId": 244889
     },
@@ -534,7 +496,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 650,
       "resourceId": 246826,
       "assetId": 246826
     },
@@ -573,7 +535,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 500,
       "resourceId": 256097,
       "assetId": 256097
     },
@@ -617,7 +579,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 450,
       "resourceId": 257502,
       "assetId": 257502
     },
@@ -657,7 +619,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 260521,
       "assetId": 260521
     },
@@ -700,7 +662,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 850,
       "resourceId": 262221,
       "assetId": 262221
     },
@@ -773,7 +735,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 450,
       "resourceId": 262931,
       "assetId": 262931
     },
@@ -812,7 +774,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 750,
       "resourceId": 263603,
       "assetId": 263603
     },
@@ -847,7 +809,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 500,
       "resourceId": 263773,
       "assetId": 263773
     },
@@ -890,7 +852,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 450,
       "resourceId": 266453,
       "assetId": 266453
     },
@@ -929,7 +891,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 1300,
       "resourceId": 271266,
       "assetId": 271266
     },
@@ -968,7 +930,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 450,
       "resourceId": 271979,
       "assetId": 271979
     },
@@ -1009,7 +971,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 450,
       "resourceId": 277483,
       "assetId": 277483
     },
@@ -1091,9 +1053,50 @@
         65
       ],
       "hasDynamicImage": true,
-      "price": 29250,
+      "price": 0,
       "resourceId": 50402374,
       "assetId": 70726
+    },
+    "50558501": {
+      "name": "Jeremiah St. Juste",
+      "cardName": "St. Juste",
+      "originalVersionId": "103",
+      "clubId": 246,
+      "leagueId": 10,
+      "countryId": 34,
+      "versionId": "103",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        16,
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        90,
+        66,
+        70,
+        73,
+        80,
+        79
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50558501,
+      "assetId": 226853
     },
     "50563096": {
       "name": "Reiss Nelson",
@@ -1131,7 +1134,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 50563096,
       "assetId": 231448
     },

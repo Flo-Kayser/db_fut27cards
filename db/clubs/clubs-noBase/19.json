@@ -49,6 +49,46 @@
       "resourceId": 50413187,
       "assetId": 81539
     },
+    "50524753": {
+      "name": "Alphonse Areola",
+      "cardName": "Areola",
+      "originalVersionId": "103",
+      "clubId": 19,
+      "leagueId": 14,
+      "countryId": 18,
+      "versionId": "103",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        30,
+        31,
+        34
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        84,
+        83,
+        81,
+        84,
+        53,
+        83
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50524753,
+      "assetId": 193105
+    },
     "50556019": {
       "name": "Jarrod Bowen",
       "cardName": "Bowen",
@@ -96,7 +136,7 @@
         74
       ],
       "hasDynamicImage": true,
-      "price": 38750,
+      "price": 11250,
       "resourceId": 50556019,
       "assetId": 224371
     },
@@ -137,9 +177,60 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 10750,
+      "price": 9900,
       "resourceId": 50573648,
       "assetId": 242000
+    },
+    "84110451": {
+      "name": "Jarrod Bowen",
+      "cardName": "Bowen",
+      "originalVersionId": "19",
+      "clubId": 19,
+      "leagueId": 14,
+      "countryId": 14,
+      "versionId": "19",
+      "rating": 84,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        20,
+        26,
+        6,
+        7
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        135,
+        136,
+        137,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        78,
+        83,
+        80,
+        84,
+        47,
+        74
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 84110451,
+      "assetId": 224371
     },
     "84128080": {
       "name": "Konstantinos Mavropanos",

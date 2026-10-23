@@ -40,7 +40,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 214000,
+    "price": 250000,
     "resourceId": 1025,
     "assetId": 1025
   },
@@ -83,7 +83,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 442000,
+    "price": 453000,
     "resourceId": 3622,
     "assetId": 3622
   },
@@ -131,7 +131,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 669000,
+    "price": 703000,
     "resourceId": 5589,
     "assetId": 5589
   },
@@ -180,7 +180,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 356000,
+    "price": 360000,
     "resourceId": 20775,
     "assetId": 20775
   },
@@ -223,7 +223,7 @@
       89
     ],
     "hasDynamicImage": false,
-    "price": 915000,
+    "price": 897000,
     "resourceId": 120533,
     "assetId": 120533
   },
@@ -273,7 +273,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 714000,
+    "price": 812000,
     "resourceId": 214101,
     "assetId": 214101
   },
@@ -317,7 +317,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 8151000,
+    "price": 8600000,
     "resourceId": 242519,
     "assetId": 242519
   },
@@ -443,7 +443,7 @@
       66
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 18700,
+    "sbcPrice": 22000,
     "price": 0,
     "resourceId": 50414596,
     "assetId": 82948
@@ -503,7 +503,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 54000,
+    "price": 57000,
     "resourceId": 50542162,
     "assetId": 210514
   },
@@ -557,7 +557,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "price": 282000,
+    "price": 91500,
     "resourceId": 50570264,
     "assetId": 238616
   },
@@ -669,7 +669,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 290000,
+    "price": 246000,
     "resourceId": 50574092,
     "assetId": 242444
   },
@@ -721,7 +721,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 1041000,
+    "price": 1091000,
     "resourceId": 50583793,
     "assetId": 252145
   },
@@ -818,7 +818,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 847000,
+    "price": 941000,
     "resourceId": 50593503,
     "assetId": 261855
   },
@@ -871,7 +871,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 51000,
+    "price": 57000,
     "resourceId": 50602505,
     "assetId": 270857
   },
@@ -966,10 +966,60 @@
       81
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 18700,
+    "sbcPrice": 22000,
     "price": 0,
     "resourceId": 50609459,
     "assetId": 277811
+  },
+  "67129665": {
+    "name": "Cristiano Ronaldo",
+    "cardName": "Cristiano Ronaldo",
+    "originalVersionId": "151",
+    "clubId": 112139,
+    "leagueId": 350,
+    "countryId": 38,
+    "versionId": "151",
+    "rating": 89,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      2,
+      20,
+      23,
+      6,
+      7,
+      9
+    ],
+    "playStylesPlus": [
+      21
+    ],
+    "rolesPlus": [
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      90,
+      89,
+      79,
+      87,
+      37,
+      77
+    ],
+    "hasDynamicImage": true,
+    "price": 10300000,
+    "resourceId": 67129665,
+    "assetId": 20801
   },
   "67379423": {
     "name": "Tiago Santos",
@@ -1014,7 +1064,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 11750,
+    "price": 11250,
     "resourceId": 67379423,
     "assetId": 270559
   },
@@ -1076,5 +1126,59 @@
     "price": 0,
     "resourceId": 84096594,
     "assetId": 210514
+  },
+  "84124696": {
+    "name": "Pedro Neto",
+    "cardName": "Pedro Neto",
+    "originalVersionId": "19",
+    "clubId": 5,
+    "leagueId": 13,
+    "countryId": 38,
+    "versionId": "19",
+    "rating": 83,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      0,
+      21,
+      25
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140
+    ],
+    "attributes": [
+      92,
+      78,
+      79,
+      83,
+      42,
+      74
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84124696,
+    "assetId": 238616
   }
 }

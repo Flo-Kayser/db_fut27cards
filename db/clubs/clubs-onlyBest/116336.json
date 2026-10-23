@@ -31,7 +31,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 500,
       "resourceId": 70796,
       "assetId": 70796
     },
@@ -114,7 +114,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 550,
       "resourceId": 72783,
       "assetId": 72783
     },
@@ -156,7 +156,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 550,
       "resourceId": 78279,
       "assetId": 78279
     },
@@ -202,7 +202,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 900,
       "resourceId": 256302,
       "assetId": 256302
     },
@@ -246,7 +246,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 750,
       "resourceId": 259334,
       "assetId": 259334
     },
@@ -282,7 +282,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 1400,
       "resourceId": 268948,
       "assetId": 268948
     },
@@ -318,7 +318,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 268949,
       "assetId": 268949
     },
@@ -360,7 +360,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 750,
       "resourceId": 268995,
       "assetId": 268995
     },
@@ -404,7 +404,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 1000,
       "resourceId": 272007,
       "assetId": 272007
     },
@@ -440,7 +440,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 600,
       "resourceId": 272048,
       "assetId": 272048
     },
@@ -526,7 +526,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 272153,
       "assetId": 272153
     },
@@ -572,7 +572,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 450,
       "resourceId": 275588,
       "assetId": 275588
     },
@@ -607,7 +607,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 1200,
       "resourceId": 276711,
       "assetId": 276711
     },
@@ -641,7 +641,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 550,
       "resourceId": 279597,
       "assetId": 279597
     },
@@ -692,8 +692,59 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 10250,
+      "price": 10000,
       "resourceId": 50603848,
+      "assetId": 272200
+    },
+    "84158280": {
+      "name": "Cecilia Marcos",
+      "cardName": "Cecilia Marcos",
+      "originalVersionId": "19",
+      "clubId": 116336,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "19",
+      "rating": 80,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        2,
+        24,
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        107,
+        108,
+        109,
+        110,
+        127,
+        128,
+        129,
+        130,
+        138,
+        139,
+        140,
+        147
+      ],
+      "attributes": [
+        86,
+        79,
+        80,
+        83,
+        65,
+        81
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 84158280,
       "assetId": 272200
     }
   }

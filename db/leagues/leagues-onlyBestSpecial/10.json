@@ -40,7 +40,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 92500,
+    "price": 72500,
     "resourceId": 5673,
     "assetId": 5673
   },
@@ -88,7 +88,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 75500,
+    "price": 96000,
     "resourceId": 15723,
     "assetId": 15723
   },
@@ -179,7 +179,7 @@
       65
     ],
     "hasDynamicImage": true,
-    "price": 29250,
+    "price": 0,
     "resourceId": 50402374,
     "assetId": 70726
   },
@@ -228,6 +228,47 @@
     "price": 0,
     "resourceId": 50412559,
     "assetId": 80911
+  },
+  "50558501": {
+    "name": "Jeremiah St. Juste",
+    "cardName": "St. Juste",
+    "originalVersionId": "103",
+    "clubId": 246,
+    "leagueId": 10,
+    "countryId": 34,
+    "versionId": "103",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      10,
+      16,
+      25
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      111,
+      112,
+      113,
+      148
+    ],
+    "attributes": [
+      90,
+      66,
+      70,
+      73,
+      80,
+      79
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50558501,
+    "assetId": 226853
   },
   "50589132": {
     "name": "Thijs Oosting",
@@ -278,7 +319,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 11000,
+    "price": 9900,
     "resourceId": 50589132,
     "assetId": 257484
   },
@@ -332,7 +373,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 11250,
+    "price": 12000,
     "resourceId": 50589605,
     "assetId": 257957
   },
@@ -388,7 +429,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 10750,
+    "price": 10000,
     "resourceId": 50590762,
     "assetId": 259114
   },
@@ -588,7 +629,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 10750,
+    "price": 11000,
     "resourceId": 50599622,
     "assetId": 267974
   },
@@ -755,9 +796,62 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 10750,
+    "price": 11000,
     "resourceId": 67363653,
     "assetId": 254789
+  },
+  "84143564": {
+    "name": "Thijs Oosting",
+    "cardName": "Oosting",
+    "originalVersionId": "19",
+    "clubId": 1914,
+    "leagueId": 10,
+    "countryId": 34,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      11,
+      2,
+      20
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134,
+      149
+    ],
+    "attributes": [
+      79,
+      81,
+      80,
+      82,
+      73,
+      80
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84143564,
+    "assetId": 257484
   },
   "84144037": {
     "name": "Marco Rente",

@@ -1,50 +1,6 @@
 {
   "clubName": "Sampdoria",
   "players": {
-    "198219": {
-      "name": "Lorenzo Insigne",
-      "cardName": "Insigne",
-      "originalVersionId": "0",
-      "clubId": 1837,
-      "leagueId": 32,
-      "countryId": 27,
-      "versionId": "2001",
-      "rating": 74,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "LM",
-        "LW",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        20
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        30,
-        32,
-        33,
-        39,
-        43
-      ],
-      "attributes": [
-        73,
-        72,
-        75,
-        77,
-        32,
-        42
-      ],
-      "hasDynamicImage": false,
-      "price": 550,
-      "resourceId": 198219,
-      "assetId": 198219
-    },
     "219852": {
       "name": "Alex Ferrari",
       "cardName": "Ferrari",
@@ -116,7 +72,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 900,
       "resourceId": 219952,
       "assetId": 219952
     },
@@ -156,7 +112,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 550,
       "resourceId": 220528,
       "assetId": 220528
     },
@@ -201,7 +157,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 750,
       "resourceId": 229082,
       "assetId": 229082
     },
@@ -239,7 +195,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 650,
       "resourceId": 229436,
       "assetId": 229436
     },
@@ -278,7 +234,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 500,
       "resourceId": 230737,
       "assetId": 230737
     },
@@ -353,7 +309,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 400,
       "resourceId": 235834,
       "assetId": 235834
     },
@@ -390,7 +346,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 600,
       "resourceId": 245091,
       "assetId": 245091
     },
@@ -434,7 +390,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 700,
       "resourceId": 246419,
       "assetId": 246419
     },
@@ -514,7 +470,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 550,
       "resourceId": 252290,
       "assetId": 252290
     },
@@ -556,7 +512,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 500,
       "resourceId": 258626,
       "assetId": 258626
     },
@@ -592,7 +548,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 400,
       "resourceId": 261243,
       "assetId": 261243
     },
@@ -631,7 +587,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 550,
       "resourceId": 262219,
       "assetId": 262219
     },
@@ -668,7 +624,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 450,
       "resourceId": 264044,
       "assetId": 264044
     },
@@ -713,7 +669,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 500,
       "resourceId": 276736,
       "assetId": 276736
     },
@@ -751,7 +707,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 1000,
       "resourceId": 276798,
       "assetId": 276798
     },
@@ -786,9 +742,64 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 2800,
       "resourceId": 278014,
       "assetId": 278014
+    },
+    "50529867": {
+      "name": "Lorenzo Insigne",
+      "cardName": "Insigne",
+      "originalVersionId": "103",
+      "clubId": 1837,
+      "leagueId": 32,
+      "countryId": 27,
+      "versionId": "103",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        20,
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        88,
+        81,
+        83,
+        88,
+        42,
+        53
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50529867,
+      "assetId": 198219
     },
     "50560162": {
       "name": "Samuele Massolo",
@@ -854,7 +865,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 450,
       "resourceId": 50569260,
       "assetId": 237612
     },
@@ -893,7 +904,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 650,
       "resourceId": 50602245,
       "assetId": 270597
     }

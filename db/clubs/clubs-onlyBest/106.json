@@ -71,7 +71,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 74904,
       "assetId": 74904
     },
@@ -186,7 +186,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 2600,
+      "price": 3200,
       "resourceId": 199503,
       "assetId": 199503
     },
@@ -222,7 +222,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 800,
       "resourceId": 202371,
       "assetId": 202371
     },
@@ -261,7 +261,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 950,
       "resourceId": 215700,
       "assetId": 215700
     },
@@ -305,7 +305,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 216464,
       "assetId": 216464
     },
@@ -345,7 +345,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 800,
       "resourceId": 226166,
       "assetId": 226166
     },
@@ -495,54 +495,9 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 800,
       "resourceId": 243908,
       "assetId": 243908
-    },
-    "246350": {
-      "name": "Enzo Le Fée",
-      "cardName": "Le Fée",
-      "originalVersionId": "0",
-      "clubId": 106,
-      "leagueId": 13,
-      "countryId": 18,
-      "versionId": "2002",
-      "rating": 80,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "LM",
-        "LW"
-      ],
-      "playStyles": [
-        20,
-        22,
-        8,
-        9
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        22,
-        29,
-        31,
-        40
-      ],
-      "attributes": [
-        64,
-        72,
-        81,
-        82,
-        69,
-        64
-      ],
-      "hasDynamicImage": false,
-      "price": 650,
-      "resourceId": 246350,
-      "assetId": 246350
     },
     "247335": {
       "name": "Wilson Isidor",
@@ -576,7 +531,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 1300,
       "resourceId": 247335,
       "assetId": 247335
     },
@@ -615,7 +570,7 @@
         85
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 850,
       "resourceId": 251810,
       "assetId": 251810
     },
@@ -649,7 +604,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 259987,
       "assetId": 259987
     },
@@ -726,7 +681,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 750,
       "resourceId": 263798,
       "assetId": 263798
     },
@@ -767,7 +722,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 264205,
       "assetId": 264205
     },
@@ -803,7 +758,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 1100,
       "resourceId": 264293,
       "assetId": 264293
     },
@@ -920,7 +875,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 273459,
       "assetId": 273459
     },
@@ -994,7 +949,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 200,
       "resourceId": 50416784,
       "assetId": 85136
     },
@@ -1029,7 +984,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 50417073,
       "assetId": 85425
     },
@@ -1070,6 +1025,64 @@
       "price": 750,
       "resourceId": 50569633,
       "assetId": 237985
+    },
+    "50577998": {
+      "name": "Enzo Le Fée",
+      "cardName": "Le Fée",
+      "originalVersionId": "151",
+      "clubId": 106,
+      "leagueId": 13,
+      "countryId": 18,
+      "versionId": "151",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        20,
+        22,
+        25,
+        8,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        87,
+        82,
+        84,
+        88,
+        74,
+        68
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50577998,
+      "assetId": 246350
     },
     "50588068": {
       "name": "Malick Fofana",
@@ -1160,7 +1173,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 170000,
+      "price": 175000,
       "resourceId": 50600878,
       "assetId": 269230
     }

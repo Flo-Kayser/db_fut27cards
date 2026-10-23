@@ -37,7 +37,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 650,
       "resourceId": 74091,
       "assetId": 74091
     },
@@ -78,7 +78,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 500,
       "resourceId": 79189,
       "assetId": 79189
     },
@@ -125,7 +125,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 224411,
       "assetId": 224411
     },
@@ -163,7 +163,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 227127,
       "assetId": 227127
     },
@@ -272,7 +272,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 650,
       "resourceId": 234035,
       "assetId": 234035
     },
@@ -310,7 +310,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 650,
       "resourceId": 234060,
       "assetId": 234060
     },
@@ -348,7 +348,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 234153,
       "assetId": 234153
     },
@@ -434,7 +434,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 241811,
       "assetId": 241811
     },
@@ -511,7 +511,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 500,
       "resourceId": 246748,
       "assetId": 246748
     },
@@ -549,7 +549,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 700,
       "resourceId": 255854,
       "assetId": 255854
     },
@@ -628,7 +628,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 850,
       "resourceId": 259848,
       "assetId": 259848
     },
@@ -664,7 +664,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 850,
       "resourceId": 262510,
       "assetId": 262510
     },
@@ -743,7 +743,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 600,
       "resourceId": 265520,
       "assetId": 265520
     },
@@ -779,7 +779,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 750,
       "resourceId": 269186,
       "assetId": 269186
     },
@@ -821,7 +821,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 550,
       "resourceId": 272455,
       "assetId": 272455
     },
@@ -858,7 +858,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 900,
       "resourceId": 277225,
       "assetId": 277225
     },
@@ -934,7 +934,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 36000,
+      "price": 13000,
       "resourceId": 50561790,
       "assetId": 230142
     },
@@ -975,7 +975,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 14250,
+      "price": 15000,
       "resourceId": 50600834,
       "assetId": 269186
     },
@@ -1009,7 +1009,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 950,
       "resourceId": 50607155,
       "assetId": 275507
     },
@@ -1051,7 +1051,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 84000,
+      "price": 92000,
       "resourceId": 50608873,
       "assetId": 277225
     },
@@ -1093,9 +1093,50 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 550,
       "resourceId": 50610571,
       "assetId": 278923
+    },
+    "84116222": {
+      "name": "Oyarzabal",
+      "cardName": "Oyarzabal",
+      "originalVersionId": "19",
+      "clubId": 457,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "19",
+      "rating": 85,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        20,
+        6,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        78,
+        87,
+        82,
+        85,
+        46,
+        78
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 84116222,
+      "assetId": 230142
     },
     "84155266": {
       "name": "Orri Óskarsson",

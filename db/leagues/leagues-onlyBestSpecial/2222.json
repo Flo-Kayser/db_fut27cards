@@ -36,7 +36,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 12750,
+    "price": 12000,
     "resourceId": 50411878,
     "assetId": 80230
   },
@@ -82,7 +82,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 14250,
+    "price": 13500,
     "resourceId": 50416920,
     "assetId": 85272
   },
@@ -134,7 +134,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 1348000,
+    "price": 1367000,
     "resourceId": 50568937,
     "assetId": 237289
   },
@@ -195,7 +195,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 176000,
+    "price": 179000,
     "resourceId": 50572365,
     "assetId": 240717
   },
@@ -254,9 +254,64 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 981000,
+    "price": 1025000,
     "resourceId": 50573494,
     "assetId": 241846
+  },
+  "50591020": {
+    "name": "Athenea",
+    "cardName": "Athenea",
+    "originalVersionId": "103",
+    "clubId": 116326,
+    "leagueId": 2222,
+    "countryId": 45,
+    "versionId": "103",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      21,
+      22,
+      25,
+      6
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140
+    ],
+    "attributes": [
+      91,
+      80,
+      79,
+      86,
+      33,
+      78
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50591020,
+    "assetId": 259372
   },
   "50593503": {
     "name": "Kika Nazareth",
@@ -309,7 +364,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 847000,
+    "price": 941000,
     "resourceId": 50593503,
     "assetId": 261855
   },
@@ -364,7 +419,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 1152450,
+    "sbcPrice": 1355700,
     "price": 0,
     "resourceId": 50594179,
     "assetId": 262531
@@ -486,7 +541,7 @@
       66
     ],
     "hasDynamicImage": true,
-    "price": 2581000,
+    "price": 2533000,
     "resourceId": 50603094,
     "assetId": 271446
   },
@@ -607,7 +662,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 10250,
+    "price": 10000,
     "resourceId": 50603848,
     "assetId": 272200
   },
@@ -668,7 +723,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 408000,
+    "price": 493000,
     "resourceId": 50604801,
     "assetId": 273153
   },
@@ -735,7 +790,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 83500,
+    "price": 98500,
     "resourceId": 67376394,
     "assetId": 267530
   },
@@ -1026,5 +1081,56 @@
     "price": 0,
     "resourceId": 84158217,
     "assetId": 272137
+  },
+  "84158280": {
+    "name": "Cecilia Marcos",
+    "cardName": "Cecilia Marcos",
+    "originalVersionId": "19",
+    "clubId": 116336,
+    "leagueId": 2222,
+    "countryId": 45,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "LB",
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      2,
+      24,
+      25
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      107,
+      108,
+      109,
+      110,
+      127,
+      128,
+      129,
+      130,
+      138,
+      139,
+      140,
+      147
+    ],
+    "attributes": [
+      86,
+      79,
+      80,
+      83,
+      65,
+      81
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84158280,
+    "assetId": 272200
   }
 }

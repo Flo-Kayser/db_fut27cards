@@ -44,7 +44,7 @@
       90
     ],
     "hasDynamicImage": false,
-    "price": 1898000,
+    "price": 1926000,
     "resourceId": 20289,
     "assetId": 20289
   },
@@ -87,7 +87,7 @@
       90
     ],
     "hasDynamicImage": false,
-    "price": 911000,
+    "price": 951000,
     "resourceId": 31432,
     "assetId": 31432
   },
@@ -280,7 +280,7 @@
       65
     ],
     "hasDynamicImage": true,
-    "price": 11000,
+    "price": 10000,
     "resourceId": 50562620,
     "assetId": 230972
   },
@@ -323,7 +323,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 147000,
+    "price": 152000,
     "resourceId": 50591213,
     "assetId": 259565
   },
@@ -421,7 +421,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 389000,
+    "price": 264000,
     "resourceId": 67186876,
     "assetId": 78012
   },
@@ -462,7 +462,7 @@
       79
     ],
     "hasDynamicImage": true,
-    "price": 10250,
+    "price": 9900,
     "resourceId": 67386042,
     "assetId": 277178
   },
@@ -515,5 +515,102 @@
     "price": 0,
     "resourceId": 84117052,
     "assetId": 230972
+  },
+  "100741308": {
+    "name": "Yan Diomande",
+    "cardName": "Diomande",
+    "originalVersionId": "19",
+    "clubId": 243,
+    "leagueId": 53,
+    "countryId": 108,
+    "versionId": "19",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      2,
+      20,
+      25
+    ],
+    "playStylesPlus": [
+      21
+    ],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140
+    ],
+    "attributes": [
+      94,
+      79,
+      77,
+      88,
+      48,
+      72
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 100741308,
+    "assetId": 78012
+  },
+  "100940474": {
+    "name": "Oumar Diakité",
+    "cardName": "Diakité",
+    "originalVersionId": "19",
+    "clubId": 209,
+    "leagueId": 80,
+    "countryId": 108,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      24,
+      25,
+      4
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      85,
+      80,
+      67,
+      79,
+      30,
+      79
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 100940474,
+    "assetId": 277178
   }
 }

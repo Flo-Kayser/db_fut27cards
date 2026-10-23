@@ -72,7 +72,7 @@
       60
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 78160,
     "assetId": 78160
   },
@@ -184,7 +184,7 @@
       84
     ],
     "hasDynamicImage": false,
-    "price": 1300,
+    "price": 1800,
     "resourceId": 223510,
     "assetId": 223510
   },
@@ -222,7 +222,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 500,
+    "price": 400,
     "resourceId": 226866,
     "assetId": 226866
   },
@@ -258,7 +258,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 650,
+    "price": 500,
     "resourceId": 233943,
     "assetId": 233943
   },
@@ -342,7 +342,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 550,
+    "price": 500,
     "resourceId": 237960,
     "assetId": 237960
   },
@@ -381,7 +381,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 900,
+    "price": 550,
     "resourceId": 239641,
     "assetId": 239641
   },
@@ -419,7 +419,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 500,
+    "price": 700,
     "resourceId": 240258,
     "assetId": 240258
   },
@@ -459,7 +459,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 500,
+    "price": 450,
     "resourceId": 240331,
     "assetId": 240331
   },
@@ -502,7 +502,7 @@
       44
     ],
     "hasDynamicImage": false,
-    "price": 450,
+    "price": 400,
     "resourceId": 243205,
     "assetId": 243205
   },
@@ -543,7 +543,7 @@
       50
     ],
     "hasDynamicImage": false,
-    "price": 450,
+    "price": 500,
     "resourceId": 252970,
     "assetId": 252970
   },
@@ -580,7 +580,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 600,
+    "price": 400,
     "resourceId": 253193,
     "assetId": 253193
   },
@@ -620,7 +620,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 650,
+    "price": 700,
     "resourceId": 256856,
     "assetId": 256856
   },
@@ -661,7 +661,7 @@
       54
     ],
     "hasDynamicImage": false,
-    "price": 600,
+    "price": 400,
     "resourceId": 257161,
     "assetId": 257161
   },
@@ -695,7 +695,7 @@
       64
     ],
     "hasDynamicImage": false,
-    "price": 450,
+    "price": 500,
     "resourceId": 258712,
     "assetId": 258712
   },
@@ -805,7 +805,7 @@
       53
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 278978,
     "assetId": 278978
   },
@@ -880,7 +880,7 @@
       87
     ],
     "hasDynamicImage": false,
-    "price": 11000,
+    "price": 9900,
     "resourceId": 50555158,
     "assetId": 223510
   },
@@ -916,7 +916,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 800,
+    "price": 700,
     "resourceId": 50583540,
     "assetId": 251892
   },
@@ -961,7 +961,7 @@
       54
     ],
     "hasDynamicImage": false,
-    "price": 550,
+    "price": 400,
     "resourceId": 50602950,
     "assetId": 271302
   },
@@ -1014,7 +1014,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 18700,
+    "sbcPrice": 22000,
     "price": 0,
     "resourceId": 50608090,
     "assetId": 276442
@@ -1054,7 +1054,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 550,
+    "price": 400,
     "resourceId": 50608859,
     "assetId": 277211
   },
@@ -1104,5 +1104,46 @@
     "price": 0,
     "resourceId": 67386075,
     "assetId": 277211
+  },
+  "84109590": {
+    "name": "Alexandre Mendy",
+    "cardName": "Mendy",
+    "originalVersionId": "19",
+    "clubId": 112389,
+    "leagueId": 350,
+    "countryId": 119,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      19,
+      4,
+      6
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      82,
+      80,
+      66,
+      78,
+      35,
+      87
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 84109590,
+    "assetId": 223510
   }
 }

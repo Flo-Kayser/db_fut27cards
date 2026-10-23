@@ -31,7 +31,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 500,
       "resourceId": 70084,
       "assetId": 70084
     },
@@ -70,7 +70,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 400,
       "resourceId": 70160,
       "assetId": 70160
     },
@@ -107,7 +107,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 650,
       "resourceId": 72095,
       "assetId": 72095
     },
@@ -177,7 +177,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 82342,
       "assetId": 82342
     },
@@ -216,7 +216,7 @@
         51
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 87314,
       "assetId": 87314
     },
@@ -256,7 +256,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 206626,
       "assetId": 206626
     },
@@ -295,7 +295,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 500,
       "resourceId": 209417,
       "assetId": 209417
     },
@@ -372,7 +372,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 500,
       "resourceId": 227278,
       "assetId": 227278
     },
@@ -486,7 +486,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 750,
       "resourceId": 237371,
       "assetId": 237371
     },
@@ -525,7 +525,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 450,
       "resourceId": 242629,
       "assetId": 242629
     },
@@ -567,7 +567,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 500,
       "resourceId": 243551,
       "assetId": 243551
     },
@@ -647,7 +647,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 400,
       "resourceId": 251575,
       "assetId": 251575
     },
@@ -691,7 +691,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 600,
       "resourceId": 254148,
       "assetId": 254148
     },
@@ -732,7 +732,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 400,
       "resourceId": 258276,
       "assetId": 258276
     },
@@ -775,7 +775,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 1100,
       "resourceId": 259105,
       "assetId": 259105
     },
@@ -818,7 +818,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 500,
       "resourceId": 261108,
       "assetId": 261108
     },
@@ -853,7 +853,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 500,
       "resourceId": 265735,
       "assetId": 265735
     },
@@ -895,7 +895,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 400,
       "resourceId": 271326,
       "assetId": 271326
     },
@@ -934,7 +934,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 450,
       "resourceId": 274830,
       "assetId": 274830
     },
@@ -968,7 +968,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 276731,
       "assetId": 276731
     },
@@ -1013,7 +1013,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 450,
       "resourceId": 278069,
       "assetId": 278069
     },
@@ -1071,8 +1071,66 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 10750,
+      "price": 9900,
       "resourceId": 50590753,
+      "assetId": 259105
+    },
+    "84145185": {
+      "name": "Pablo Rodríguez",
+      "cardName": "Pablo Rodríguez",
+      "originalVersionId": "19",
+      "clubId": 873,
+      "leagueId": 66,
+      "countryId": 45,
+      "versionId": "19",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [
+        6,
+        7,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        141,
+        142,
+        143,
+        144,
+        149
+      ],
+      "attributes": [
+        84,
+        78,
+        78,
+        82,
+        52,
+        75
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 84145185,
       "assetId": 259105
     }
   }

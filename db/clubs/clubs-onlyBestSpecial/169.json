@@ -1,6 +1,58 @@
 {
   "clubName": "1. FSV Mainz 05",
   "players": {
+    "50534077": {
+      "name": "Danny da Costa",
+      "cardName": "da Costa",
+      "originalVersionId": "103",
+      "clubId": 169,
+      "leagueId": 19,
+      "countryId": 21,
+      "versionId": "103",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        14,
+        17,
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        103,
+        104,
+        105,
+        106,
+        111,
+        112,
+        113,
+        123,
+        124,
+        125,
+        126,
+        146,
+        148
+      ],
+      "attributes": [
+        86,
+        58,
+        70,
+        73,
+        81,
+        82
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50534077,
+      "assetId": 202429
+    },
     "50547923": {
       "name": "Phillipp Mwene",
       "cardName": "Mwene",
@@ -55,9 +107,60 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 11500,
+      "price": 12000,
       "resourceId": 50547923,
       "assetId": 216275
+    },
+    "50577588": {
+      "name": "Silas",
+      "cardName": "Silas",
+      "originalVersionId": "103",
+      "clubId": 169,
+      "leagueId": 19,
+      "countryId": 110,
+      "versionId": "103",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 5,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        23,
+        25,
+        5,
+        7
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        135,
+        136,
+        137,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        88,
+        81,
+        71,
+        85,
+        56,
+        81
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50577588,
+      "assetId": 245940
     },
     "84102355": {
       "name": "Phillipp Mwene",

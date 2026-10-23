@@ -41,7 +41,7 @@
       64
     ],
     "hasDynamicImage": false,
-    "price": 359000,
+    "price": 430000,
     "resourceId": 222000,
     "assetId": 222000
   },
@@ -80,7 +80,7 @@
       87
     ],
     "hasDynamicImage": false,
-    "price": 441000,
+    "price": 443000,
     "resourceId": 238428,
     "assetId": 238428
   },
@@ -121,9 +121,65 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 10750,
+    "price": 11250,
     "resourceId": 50404662,
     "assetId": 73014
+  },
+  "50555715": {
+    "name": "Jeppe Tverskov",
+    "cardName": "Tverskov",
+    "originalVersionId": "151",
+    "clubId": 131439,
+    "leagueId": 39,
+    "countryId": 13,
+    "versionId": "151",
+    "rating": 83,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      10,
+      14,
+      16,
+      17,
+      19,
+      28
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      148,
+      149
+    ],
+    "attributes": [
+      77,
+      57,
+      71,
+      73,
+      81,
+      84
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50555715,
+    "assetId": 224067
   },
   "50571688": {
     "name": "Carlo Holse",
@@ -184,7 +240,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "price": 11750,
+    "price": 11250,
     "resourceId": 50571688,
     "assetId": 240040
   },
@@ -242,7 +298,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 112000,
+    "price": 107000,
     "resourceId": 50590935,
     "assetId": 259287
   },
@@ -283,7 +339,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 11750,
+    "price": 9900,
     "resourceId": 50597771,
     "assetId": 266123
   },
@@ -339,7 +395,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 11250,
+    "price": 10250,
     "resourceId": 50604825,
     "assetId": 273177
   },
@@ -446,5 +502,46 @@
     "price": 0,
     "resourceId": 84126120,
     "assetId": 240040
+  },
+  "84152203": {
+    "name": "Oliver Provstgaard",
+    "cardName": "Provstgaard",
+    "originalVersionId": "19",
+    "clubId": 115841,
+    "leagueId": 31,
+    "countryId": 13,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      14,
+      19,
+      28
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      111,
+      112,
+      113,
+      148
+    ],
+    "attributes": [
+      75,
+      49,
+      65,
+      74,
+      80,
+      84
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84152203,
+    "assetId": 266123
   }
 }

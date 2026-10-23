@@ -1,6 +1,42 @@
 {
   "clubName": "Aston Villa",
   "players": {
+    "50544067": {
+      "name": "Tyrone Mings",
+      "cardName": "Mings",
+      "originalVersionId": "135",
+      "clubId": 2,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "135",
+      "rating": 77,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        28
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        57,
+        44,
+        67,
+        61,
+        76,
+        77
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50544067,
+      "assetId": 212419
+    },
     "50553308": {
       "name": "Victor Lindelöf",
       "cardName": "Lindelöf",
@@ -92,7 +128,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 51650,
+      "sbcPrice": 60650,
       "price": 0,
       "resourceId": 50608342,
       "assetId": 276694

@@ -33,7 +33,7 @@
         46
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 850,
       "resourceId": 72077,
       "assetId": 72077
     },
@@ -68,7 +68,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 1500,
       "resourceId": 76312,
       "assetId": 76312
     },
@@ -102,7 +102,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 2800,
       "resourceId": 81438,
       "assetId": 81438
     },
@@ -146,7 +146,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 2600,
+      "price": 3100,
       "resourceId": 227310,
       "assetId": 227310
     },
@@ -187,7 +187,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 1300,
       "resourceId": 227316,
       "assetId": 227316
     },
@@ -232,7 +232,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 227392,
       "assetId": 227392
     },
@@ -271,7 +271,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 900,
       "resourceId": 241491,
       "assetId": 241491
     },
@@ -360,7 +360,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 6300,
       "resourceId": 245879,
       "assetId": 245879
     },
@@ -397,7 +397,7 @@
         86
       ],
       "hasDynamicImage": false,
-      "price": 2800,
+      "price": 2900,
       "resourceId": 245956,
       "assetId": 245956
     },
@@ -442,7 +442,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 5900,
       "resourceId": 246272,
       "assetId": 246272
     },
@@ -476,7 +476,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 950,
       "resourceId": 248751,
       "assetId": 248751
     },
@@ -519,7 +519,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 1400,
       "resourceId": 261740,
       "assetId": 261740
     },
@@ -553,7 +553,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 1300,
       "resourceId": 264893,
       "assetId": 264893
     },
@@ -590,7 +590,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 1100,
       "resourceId": 264899,
       "assetId": 264899
     },
@@ -633,7 +633,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 900,
       "resourceId": 264944,
       "assetId": 264944
     },
@@ -676,7 +676,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 1200,
       "resourceId": 265536,
       "assetId": 265536
     },
@@ -723,7 +723,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 18500,
+      "price": 14500,
       "resourceId": 265674,
       "assetId": 265674
     },
@@ -773,7 +773,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 773000,
+      "price": 829000,
       "resourceId": 265898,
       "assetId": 265898
     },
@@ -819,7 +819,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 950,
       "resourceId": 265905,
       "assetId": 265905
     },
@@ -867,7 +867,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 286000,
+      "price": 317000,
       "resourceId": 269404,
       "assetId": 269404
     },
@@ -908,7 +908,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 273946,
       "assetId": 273946
     },
@@ -981,7 +981,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 1500,
       "resourceId": 277169,
       "assetId": 277169
     },
@@ -1019,7 +1019,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 1000,
       "resourceId": 277170,
       "assetId": 277170
     },
@@ -1096,7 +1096,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 1000,
       "resourceId": 277951,
       "assetId": 277951
     },
@@ -1142,9 +1142,129 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 12250,
+      "price": 12500,
       "resourceId": 278219,
       "assetId": 278219
+    },
+    "50593388": {
+      "name": "Jule Brand",
+      "cardName": "Brand",
+      "originalVersionId": "103",
+      "clubId": 116033,
+      "leagueId": 2218,
+      "countryId": 21,
+      "versionId": "103",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        12,
+        13,
+        21,
+        25,
+        7,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        92,
+        78,
+        81,
+        84,
+        56,
+        74
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50593388,
+      "assetId": 261740
+    },
+    "50601052": {
+      "name": "Salma Paralluelo",
+      "cardName": "Salma Paralluelo",
+      "originalVersionId": "151",
+      "clubId": 116033,
+      "leagueId": 2218,
+      "countryId": 45,
+      "versionId": "151",
+      "rating": 88,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        20,
+        21,
+        25
+      ],
+      "playStylesPlus": [
+        7
+      ],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        94,
+        86,
+        80,
+        86,
+        47,
+        79
+      ],
+      "hasDynamicImage": true,
+      "price": 4699000,
+      "resourceId": 50601052,
+      "assetId": 269404
     },
     "50606401": {
       "name": "Tarciane",
@@ -1250,7 +1370,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 38500,
+      "price": 40500,
       "resourceId": 50609599,
       "assetId": 277951
     },
@@ -1310,7 +1430,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 2950000,
+      "price": 3187000,
       "resourceId": 67374762,
       "assetId": 265898
     }

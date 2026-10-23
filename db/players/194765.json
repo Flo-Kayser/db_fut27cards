@@ -40,7 +40,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 1100,
+    "price": 1800,
     "resourceId": 194765,
     "assetId": 194765,
     "originalVersionId": 0
@@ -95,10 +95,65 @@
       74
     ],
     "hasDynamicImage": true,
-    "price": 124000,
+    "price": 41750,
     "resourceId": 50526413,
     "assetId": 194765,
     "originalVersionId": 3
+  },
+  "84080845": {
+    "clubId": 112606,
+    "leagueId": 39,
+    "countryId": 18,
+    "versionId": "19",
+    "rating": 85,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      10,
+      13,
+      20,
+      6,
+      8
+    ],
+    "playStylesPlus": [
+      7
+    ],
+    "rolesPlus": [
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      75,
+      86,
+      86,
+      88,
+      60,
+      74
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84080845,
+    "assetId": 194765,
+    "originalVersionId": 19
   },
   "cardName": "Griezmann",
   "name": "Antoine Griezmann"
