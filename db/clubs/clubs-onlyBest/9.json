@@ -71,7 +71,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 1100,
       "resourceId": 70994,
       "assetId": 70994
     },
@@ -162,7 +162,7 @@
         85
       ],
       "hasDynamicImage": false,
-      "price": 15000,
+      "price": 15750,
       "resourceId": 203376,
       "assetId": 203376
     },
@@ -201,7 +201,7 @@
         86
       ],
       "hasDynamicImage": false,
-      "price": 9900,
+      "price": 9700,
       "resourceId": 212831,
       "assetId": 212831
     },
@@ -235,7 +235,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 1100,
       "resourceId": 222514,
       "assetId": 222514
     },
@@ -276,7 +276,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 1400,
       "resourceId": 225100,
       "assetId": 225100
     },
@@ -313,7 +313,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 2100,
+      "price": 6200,
       "resourceId": 232223,
       "assetId": 232223
     },
@@ -351,7 +351,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 1600,
       "resourceId": 232487,
       "assetId": 232487
     },
@@ -394,50 +394,9 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 950,
       "resourceId": 235805,
       "assetId": 235805
-    },
-    "239837": {
-      "name": "Alexis Mac Allister",
-      "cardName": "Mac Allister",
-      "originalVersionId": "0",
-      "clubId": 9,
-      "leagueId": 13,
-      "countryId": 52,
-      "versionId": "2002",
-      "rating": 84,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        15,
-        2,
-        7,
-        9
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        16,
-        18
-      ],
-      "attributes": [
-        61,
-        81,
-        83,
-        82,
-        77,
-        74
-      ],
-      "hasDynamicImage": false,
-      "price": 1000,
-      "resourceId": 239837,
-      "assetId": 239837
     },
     "242516": {
       "name": "Cody Gakpo",
@@ -519,7 +478,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 3000,
+      "price": 3100,
       "resourceId": 246104,
       "assetId": 246104
     },
@@ -561,7 +520,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 900,
       "resourceId": 253149,
       "assetId": 253149
     },
@@ -683,7 +642,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 5400,
+      "price": 6400,
       "resourceId": 256630,
       "assetId": 256630
     },
@@ -723,7 +682,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 3000,
+      "price": 3300,
       "resourceId": 257289,
       "assetId": 257289
     },
@@ -759,7 +718,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 850,
       "resourceId": 262621,
       "assetId": 262621
     },
@@ -795,7 +754,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 950,
       "resourceId": 264298,
       "assetId": 264298
     },
@@ -867,7 +826,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 200,
       "resourceId": 271977,
       "assetId": 271977
     },
@@ -903,7 +862,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 1000,
       "resourceId": 278292,
       "assetId": 278292
     },
@@ -940,7 +899,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 6500,
+      "price": 6900,
       "resourceId": 278903,
       "assetId": 278903
     },
@@ -1034,7 +993,7 @@
         63
       ],
       "hasDynamicImage": true,
-      "price": 909000,
+      "price": 896000,
       "resourceId": 50412024,
       "assetId": 80376
     },
@@ -1079,7 +1038,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 603000,
+      "price": 629000,
       "resourceId": 50565379,
       "assetId": 233731
     },
@@ -1147,9 +1106,59 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 1399000,
+      "price": 1038000,
       "resourceId": 50568420,
       "assetId": 236772
+    },
+    "50571485": {
+      "name": "Alexis Mac Allister",
+      "cardName": "Mac Allister",
+      "originalVersionId": "8",
+      "clubId": 9,
+      "leagueId": 13,
+      "countryId": 52,
+      "versionId": "8",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        15,
+        2,
+        4,
+        7,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        149
+      ],
+      "attributes": [
+        77,
+        83,
+        85,
+        84,
+        80,
+        78
+      ],
+      "hasDynamicImage": false,
+      "price": 134000,
+      "resourceId": 50571485,
+      "assetId": 239837
     },
     "50592556": {
       "name": "Milos Kerkez",
@@ -1194,7 +1203,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 37500,
+      "price": 39250,
       "resourceId": 50592556,
       "assetId": 260908
     },
@@ -1250,7 +1259,7 @@
         68
       ],
       "hasDynamicImage": true,
-      "price": 604000,
+      "price": 609000,
       "resourceId": 67373516,
       "assetId": 264652
     },

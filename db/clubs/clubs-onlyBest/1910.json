@@ -102,7 +102,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 80557,
       "assetId": 80557
     },
@@ -245,7 +245,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 83413,
       "assetId": 83413
     },
@@ -286,7 +286,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 500,
       "resourceId": 86890,
       "assetId": 86890
     },
@@ -356,7 +356,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 450,
       "resourceId": 193091,
       "assetId": 193091
     },
@@ -394,7 +394,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 199386,
       "assetId": 199386
     },
@@ -442,7 +442,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 199434,
       "assetId": 199434
     },
@@ -485,7 +485,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 204060,
       "assetId": 204060
     },
@@ -524,53 +524,9 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 600,
       "resourceId": 231150,
       "assetId": 231150
-    },
-    "231240": {
-      "name": "Emre Mor",
-      "cardName": "Mor",
-      "originalVersionId": "0",
-      "clubId": 1910,
-      "leagueId": 10,
-      "countryId": 48,
-      "versionId": "2001",
-      "rating": 72,
-      "preferredFoot": "Left",
-      "weakFoot": 2,
-      "skillMoves": 4,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "RM",
-        "RW",
-        "ST"
-      ],
-      "playStyles": [
-        20,
-        7
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        25,
-        31,
-        32,
-        37,
-        43
-      ],
-      "attributes": [
-        85,
-        65,
-        65,
-        82,
-        38,
-        56
-      ],
-      "hasDynamicImage": false,
-      "price": 450,
-      "resourceId": 231240,
-      "assetId": 231240
     },
     "234679": {
       "name": "Philippe Sandler",
@@ -606,7 +562,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 450,
       "resourceId": 234679,
       "assetId": 234679
     },
@@ -678,7 +634,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 1000,
       "resourceId": 241854,
       "assetId": 241854
     },
@@ -716,7 +672,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 600,
       "resourceId": 253211,
       "assetId": 253211
     },
@@ -753,7 +709,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 350,
       "resourceId": 257497,
       "assetId": 257497
     },
@@ -795,7 +751,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 650,
       "resourceId": 262580,
       "assetId": 262580
     },
@@ -829,7 +785,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 500,
       "resourceId": 264728,
       "assetId": 264728
     },
@@ -911,7 +867,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 850,
       "resourceId": 270578,
       "assetId": 270578
     },
@@ -1038,7 +994,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 400,
       "resourceId": 278359,
       "assetId": 278359
     },
@@ -1116,6 +1072,62 @@
       "resourceId": 50415277,
       "assetId": 83629
     },
+    "50562888": {
+      "name": "Emre Mor",
+      "cardName": "Mor",
+      "originalVersionId": "151",
+      "clubId": 1910,
+      "leagueId": 10,
+      "countryId": 48,
+      "versionId": "151",
+      "rating": 85,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        20,
+        6,
+        7
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        89,
+        85,
+        71,
+        87,
+        51,
+        75
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 31900,
+      "price": 0,
+      "resourceId": 50562888,
+      "assetId": 231240
+    },
     "50567174": {
       "name": "Dennis Geiger",
       "cardName": "Geiger",
@@ -1151,7 +1163,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 400,
       "resourceId": 50567174,
       "assetId": 235526
     }

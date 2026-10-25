@@ -40,11 +40,58 @@
       64
     ],
     "hasDynamicImage": true,
-    "price": 3198000,
+    "price": 3128000,
     "resourceId": 84163723,
     "assetId": 277643,
     "cardName": "Lamine Yamal",
     "name": "Lamine Yamal"
+  },
+  {
+    "clubId": 1745,
+    "leagueId": 31,
+    "countryId": 52,
+    "versionId": 8,
+    "rating": 88,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      20,
+      26,
+      6,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      131,
+      132,
+      133,
+      134,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      88,
+      85,
+      84,
+      90,
+      58,
+      72
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 84163926,
+    "assetId": 277846,
+    "cardName": "Nico Paz",
+    "name": "Nico Paz"
   },
   {
     "clubId": 73,
@@ -102,11 +149,68 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 1611000,
+    "price": 1591000,
     "resourceId": 50603069,
     "assetId": 271421,
     "cardName": "Doué",
     "name": "Désiré Doué"
+  },
+  {
+    "clubId": 10,
+    "leagueId": 13,
+    "countryId": 14,
+    "versionId": 8,
+    "rating": 87,
+    "preferredFoot": "Left",
+    "weakFoot": 2,
+    "skillMoves": 4,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      0,
+      20,
+      22,
+      7,
+      9
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137
+    ],
+    "attributes": [
+      83,
+      87,
+      86,
+      90,
+      61,
+      57
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 50569340,
+    "assetId": 237692,
+    "cardName": "Foden",
+    "name": "Phil Foden"
   },
   {
     "clubId": 9,
@@ -157,11 +261,103 @@
       68
     ],
     "hasDynamicImage": true,
-    "price": 604000,
+    "price": 609000,
     "resourceId": 67373516,
     "assetId": 264652,
     "cardName": "Barcola",
     "name": "Bradley Barcola"
+  },
+  {
+    "clubId": 22,
+    "leagueId": 19,
+    "countryId": 118,
+    "versionId": 8,
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      1,
+      22,
+      4,
+      5,
+      6
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      78,
+      86,
+      76,
+      84,
+      46,
+      84
+    ],
+    "hasDynamicImage": false,
+    "price": 26750,
+    "resourceId": 67324305,
+    "assetId": 215441,
+    "cardName": "Guirassy",
+    "name": "Serhou Guirassy"
+  },
+  {
+    "clubId": 9,
+    "leagueId": 13,
+    "countryId": 52,
+    "versionId": 8,
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      15,
+      2,
+      4,
+      7,
+      9
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      149
+    ],
+    "attributes": [
+      77,
+      83,
+      85,
+      84,
+      80,
+      78
+    ],
+    "hasDynamicImage": false,
+    "price": 134000,
+    "resourceId": 50571485,
+    "assetId": 239837,
+    "cardName": "Mac Allister",
+    "name": "Alexis Mac Allister"
   },
   {
     "clubId": 131681,
@@ -203,7 +399,7 @@
       68
     ],
     "hasDynamicImage": true,
-    "price": 55500,
+    "price": 64000,
     "resourceId": 50609974,
     "assetId": 278326,
     "cardName": "Cissè",
@@ -255,7 +451,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 175000,
+    "price": 177000,
     "resourceId": 50600878,
     "assetId": 269230,
     "cardName": "Sadiki",
@@ -294,10 +490,67 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 32750,
+    "price": 40250,
     "resourceId": 50574527,
     "assetId": 242879,
     "cardName": "Vandevoordt",
     "name": "Maarten Vandevoordt"
+  },
+  {
+    "clubId": 231,
+    "leagueId": 4,
+    "countryId": 7,
+    "versionId": 8,
+    "rating": 85,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 2,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "LB",
+      "LM",
+      "RB",
+      "RM"
+    ],
+    "playStyles": [
+      14,
+      25,
+      9
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      146,
+      147
+    ],
+    "attributes": [
+      85,
+      65,
+      81,
+      83,
+      82,
+      80
+    ],
+    "hasDynamicImage": false,
+    "price": 20250,
+    "resourceId": 50402953,
+    "assetId": 71305,
+    "cardName": "Seys",
+    "name": "Joaquin Seys"
   }
 ]
