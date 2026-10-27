@@ -31,7 +31,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 300,
       "resourceId": 74717,
       "assetId": 74717
     },
@@ -101,45 +101,47 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 1200,
       "resourceId": 198141,
       "assetId": 198141
     },
-    "203747": {
-      "name": "Héctor Bellerín",
-      "cardName": "Héctor Bellerín",
+    "198951": {
+      "name": "Cédric Bakambu",
+      "cardName": "Bakambu",
       "originalVersionId": "0",
       "clubId": 449,
       "leagueId": 53,
-      "countryId": 45,
+      "countryId": 110,
       "versionId": "2002",
-      "rating": 76,
+      "rating": 77,
       "preferredFoot": "Right",
-      "weakFoot": 2,
+      "weakFoot": 3,
       "skillMoves": 3,
-      "preferredPosition": "RB",
+      "preferredPosition": "ST",
       "possiblePositions": [
-        "RB",
-        "RM"
+        "LM",
+        "LW",
+        "ST"
       ],
       "playStyles": [],
       "playStylesPlus": [],
       "rolesPlus": [
-        5,
-        24
+        27,
+        39,
+        42
       ],
       "attributes": [
         78,
-        54,
-        70,
-        74,
+        78,
+        68,
         72,
-        65
+        40,
+        68
       ],
       "hasDynamicImage": false,
-      "price": 3100,
-      "resourceId": 203747,
-      "assetId": 203747
+      "price": 0,
+      "resourceId": 198951,
+      "assetId": 198951
     },
     "212602": {
       "name": "Diego Llorente",
@@ -174,7 +176,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 950,
       "resourceId": 212602,
       "assetId": 212602
     },
@@ -217,7 +219,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 226226,
       "assetId": 226226
     },
@@ -259,7 +261,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 226456,
       "assetId": 226456
     },
@@ -296,7 +298,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 235945,
       "assetId": 235945
     },
@@ -372,7 +374,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 241184,
       "assetId": 241184
     },
@@ -415,7 +417,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 1300,
       "resourceId": 241867,
       "assetId": 241867
     },
@@ -496,7 +498,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 1300,
       "resourceId": 246608,
       "assetId": 246608
     },
@@ -534,7 +536,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 1500,
       "resourceId": 246657,
       "assetId": 246657
     },
@@ -579,7 +581,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 1100,
       "resourceId": 252324,
       "assetId": 252324
     },
@@ -621,7 +623,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 700,
       "resourceId": 252865,
       "assetId": 252865
     },
@@ -663,7 +665,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 255475,
       "assetId": 255475
     },
@@ -739,7 +741,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 264432,
       "assetId": 264432
     },
@@ -780,7 +782,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 1100,
       "resourceId": 267430,
       "assetId": 267430
     },
@@ -819,7 +821,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 1000,
       "resourceId": 267860,
       "assetId": 267860
     },
@@ -856,7 +858,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 450,
       "resourceId": 273849,
       "assetId": 273849
     },
@@ -893,7 +895,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 950,
       "resourceId": 277537,
       "assetId": 277537
     },
@@ -950,45 +952,9 @@
         61
       ],
       "hasDynamicImage": true,
-      "price": 14500,
+      "price": 14750,
       "resourceId": 50529429,
       "assetId": 197781
-    },
-    "50535395": {
-      "name": "Héctor Bellerín",
-      "cardName": "Héctor Bellerín",
-      "originalVersionId": "134",
-      "clubId": 449,
-      "leagueId": 53,
-      "countryId": 45,
-      "versionId": "134",
-      "rating": 76,
-      "preferredFoot": "Right",
-      "weakFoot": 2,
-      "skillMoves": 3,
-      "preferredPosition": "RB",
-      "possiblePositions": [
-        "RB",
-        "RM"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        5,
-        24
-      ],
-      "attributes": [
-        78,
-        54,
-        70,
-        74,
-        72,
-        65
-      ],
-      "hasDynamicImage": false,
-      "price": 0,
-      "resourceId": 50535395,
-      "assetId": 203747
     },
     "50577550": {
       "name": "Troy Parrott",
@@ -1032,9 +998,58 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 12250,
+      "price": 13000,
       "resourceId": 50577550,
       "assetId": 245902
+    },
+    "67312611": {
+      "name": "Héctor Bellerín",
+      "cardName": "Héctor Bellerín",
+      "originalVersionId": "151",
+      "clubId": 449,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "151",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        12,
+        20,
+        24,
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        103,
+        104,
+        105,
+        106,
+        123,
+        124,
+        125,
+        126,
+        146
+      ],
+      "attributes": [
+        90,
+        81,
+        84,
+        85,
+        78,
+        78
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 34850,
+      "price": 0,
+      "resourceId": 67312611,
+      "assetId": 203747
     },
     "84083861": {
       "name": "Isco",
