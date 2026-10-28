@@ -74,7 +74,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 1100,
       "resourceId": 77524,
       "assetId": 77524
     },
@@ -108,7 +108,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 1500,
       "resourceId": 80652,
       "assetId": 80652
     },
@@ -145,7 +145,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 1000,
       "resourceId": 82350,
       "assetId": 82350
     },
@@ -181,7 +181,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 1300,
       "resourceId": 82968,
       "assetId": 82968
     },
@@ -304,7 +304,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 900,
       "resourceId": 210881,
       "assetId": 210881
     },
@@ -340,7 +340,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 2500,
+      "price": 2600,
       "resourceId": 212419,
       "assetId": 212419
     },
@@ -382,7 +382,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 800,
       "resourceId": 226162,
       "assetId": 226162
     },
@@ -420,7 +420,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 950,
       "resourceId": 227174,
       "assetId": 227174
     },
@@ -538,7 +538,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 1100,
       "resourceId": 236987,
       "assetId": 236987
     },
@@ -575,7 +575,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 1100,
       "resourceId": 241464,
       "assetId": 241464
     },
@@ -613,7 +613,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 1000,
       "resourceId": 248465,
       "assetId": 248465
     },
@@ -650,7 +650,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 2200,
+      "price": 2000,
       "resourceId": 255981,
       "assetId": 255981
     },
@@ -691,7 +691,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 257057,
       "assetId": 257057
     },
@@ -729,7 +729,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 1300,
       "resourceId": 259584,
       "assetId": 259584
     },
@@ -767,7 +767,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 1100,
       "resourceId": 264209,
       "assetId": 264209
     },
@@ -809,7 +809,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 900,
       "resourceId": 268438,
       "assetId": 268438
     },
@@ -845,7 +845,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 900,
       "resourceId": 273463,
       "assetId": 273463
     },
@@ -888,7 +888,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 1300,
       "resourceId": 50406097,
       "assetId": 74449
     },
@@ -931,7 +931,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 50541306,
       "assetId": 209658
     },
@@ -1047,46 +1047,9 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 3800,
+      "price": 4700,
       "resourceId": 50584441,
       "assetId": 252793
-    },
-    "50590845": {
-      "name": "Nicolas Jackson",
-      "cardName": "Jackson",
-      "originalVersionId": "0",
-      "clubId": 2,
-      "leagueId": 13,
-      "countryId": 136,
-      "versionId": "2002",
-      "rating": 79,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        6,
-        7
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        42
-      ],
-      "attributes": [
-        76,
-        77,
-        69,
-        79,
-        40,
-        76
-      ],
-      "hasDynamicImage": false,
-      "price": 1500,
-      "resourceId": 50590845,
-      "assetId": 259197
     },
     "50608342": {
       "name": "Johan Manzambi",
@@ -1142,6 +1105,47 @@
       "price": 0,
       "resourceId": 50608342,
       "assetId": 276694
+    },
+    "67368061": {
+      "name": "Nicolas Jackson",
+      "cardName": "Jackson",
+      "originalVersionId": "3",
+      "clubId": 2,
+      "leagueId": 13,
+      "countryId": 136,
+      "versionId": "3",
+      "rating": 81,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        20,
+        6,
+        7
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        80,
+        80,
+        71,
+        82,
+        42,
+        78
+      ],
+      "hasDynamicImage": true,
+      "price": 13250,
+      "resourceId": 67368061,
+      "assetId": 259197
     }
   }
 }

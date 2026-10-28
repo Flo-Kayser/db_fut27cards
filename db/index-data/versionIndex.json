@@ -1,7 +1,7 @@
 {
   "versions": {
     "3": {
-      "count": 138,
+      "count": 161,
       "file": "db/versions/3.json",
       "details": {
         "name": "Team of the Week",
@@ -102,6 +102,19 @@
         "primaryColor": "#ffffff",
         "secondaryColor": "#3d195b",
         "tertiaryColor": "#00f5ff"
+      }
+    },
+    "58": {
+      "count": 2,
+      "file": "db/versions/58.json",
+      "details": {
+        "name": "Showdown",
+        "hasStrip": true,
+        "createdAt": "2026-09-16T16:58:30.722Z",
+        "url": "https://assets.easysbc.io/fc27/cards/e_58_0.png",
+        "primaryColor": "#f2f2f2",
+        "secondaryColor": "#3f3f3f",
+        "tertiaryColor": "#f2f2f2"
       }
     },
     "69": {
@@ -353,8 +366,8 @@
     }
   },
   "meta": {
-    "totalVersions": 27,
-    "totalVersionsWithoutBase": 24,
-    "updatedAt": "2026-10-27T21:17:26.428Z"
+    "totalVersions": 28,
+    "totalVersionsWithoutBase": 25,
+    "updatedAt": "2026-10-28T21:38:41.171Z"
   }
 }

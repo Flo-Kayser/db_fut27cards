@@ -32,7 +32,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 1300,
       "resourceId": 70903,
       "assetId": 70903
     },
@@ -100,7 +100,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 950,
       "resourceId": 81319,
       "assetId": 81319
     },
@@ -134,7 +134,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 950,
       "resourceId": 172203,
       "assetId": 172203
     },
@@ -170,7 +170,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 1000,
       "resourceId": 190885,
       "assetId": 190885
     },
@@ -207,7 +207,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 1200,
       "resourceId": 213884,
       "assetId": 213884
     },
@@ -244,7 +244,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 1200,
       "resourceId": 220196,
       "assetId": 220196
     },
@@ -358,7 +358,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 850,
       "resourceId": 236920,
       "assetId": 236920
     },
@@ -404,7 +404,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 237477,
       "assetId": 237477
     },
@@ -477,7 +477,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 1300,
       "resourceId": 246565,
       "assetId": 246565
     },
@@ -516,49 +516,9 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 950,
       "resourceId": 247678,
       "assetId": 247678
-    },
-    "248492": {
-      "name": "James Hill",
-      "cardName": "Hill",
-      "originalVersionId": "0",
-      "clubId": 1943,
-      "leagueId": 13,
-      "countryId": 14,
-      "versionId": "2002",
-      "rating": 78,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB",
-        "RB"
-      ],
-      "playStyles": [
-        19,
-        27
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        3,
-        11,
-        12
-      ],
-      "attributes": [
-        71,
-        40,
-        62,
-        67,
-        78,
-        75
-      ],
-      "hasDynamicImage": false,
-      "price": 1900,
-      "resourceId": 248492,
-      "assetId": 248492
     },
     "255223": {
       "name": "Amine Adli",
@@ -598,7 +558,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 800,
       "resourceId": 255223,
       "assetId": 255223
     },
@@ -673,7 +633,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 950,
       "resourceId": 256769,
       "assetId": 256769
     },
@@ -707,7 +667,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 950,
       "resourceId": 262227,
       "assetId": 262227
     },
@@ -746,7 +706,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 2400,
       "resourceId": 264174,
       "assetId": 264174
     },
@@ -785,7 +745,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 1100,
       "resourceId": 266815,
       "assetId": 266815
     },
@@ -857,7 +817,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 1200,
       "resourceId": 269796,
       "assetId": 269796
     },
@@ -896,7 +856,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 900,
       "resourceId": 270086,
       "assetId": 270086
     },
@@ -933,7 +893,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 900,
       "resourceId": 272445,
       "assetId": 272445
     },
@@ -974,7 +934,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 277909,
       "assetId": 277909
     },
@@ -1032,7 +992,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 1658000,
+      "price": 1631000,
       "resourceId": 50415142,
       "assetId": 83494
     },
@@ -1069,9 +1029,56 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 850,
       "resourceId": 50567488,
       "assetId": 235840
+    },
+    "50580140": {
+      "name": "James Hill",
+      "cardName": "Hill",
+      "originalVersionId": "3",
+      "clubId": 1943,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "RB"
+      ],
+      "playStyles": [
+        17,
+        19,
+        27
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        103,
+        104,
+        105,
+        106,
+        111,
+        112,
+        113,
+        146,
+        148
+      ],
+      "attributes": [
+        75,
+        42,
+        64,
+        70,
+        81,
+        80
+      ],
+      "hasDynamicImage": true,
+      "price": 10750,
+      "resourceId": 50580140,
+      "assetId": 248492
     },
     "50592947": {
       "name": "Alex Scott",
@@ -1123,7 +1130,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 248000,
+      "price": 263000,
       "resourceId": 50592947,
       "assetId": 261299
     }

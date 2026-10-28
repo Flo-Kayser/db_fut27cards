@@ -66,7 +66,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 500,
       "resourceId": 71504,
       "assetId": 71504
     },
@@ -137,7 +137,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 550,
       "resourceId": 79239,
       "assetId": 79239
     },
@@ -173,7 +173,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 550,
       "resourceId": 83013,
       "assetId": 83013
     },
@@ -247,7 +247,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 600,
       "resourceId": 83156,
       "assetId": 83156
     },
@@ -285,7 +285,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 750,
       "resourceId": 83283,
       "assetId": 83283
     },
@@ -319,7 +319,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 550,
       "resourceId": 83284,
       "assetId": 83284
     },
@@ -356,7 +356,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 950,
       "resourceId": 83285,
       "assetId": 83285
     },
@@ -390,7 +390,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 500,
       "resourceId": 83427,
       "assetId": 83427
     },
@@ -428,7 +428,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 1700,
+      "price": 1400,
       "resourceId": 227243,
       "assetId": 227243
     },
@@ -477,7 +477,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 5400,
+      "price": 5900,
       "resourceId": 231432,
       "assetId": 231432
     },
@@ -548,7 +548,7 @@
         49
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 600,
       "resourceId": 246286,
       "assetId": 246286
     },
@@ -588,45 +588,9 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 650,
       "resourceId": 264960,
       "assetId": 264960
-    },
-    "265231": {
-      "name": "Natasha Flint",
-      "cardName": "Flint",
-      "originalVersionId": "0",
-      "clubId": 132698,
-      "leagueId": 2221,
-      "countryId": 14,
-      "versionId": "2002",
-      "rating": 75,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "ST"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        32,
-        43
-      ],
-      "attributes": [
-        56,
-        75,
-        66,
-        75,
-        39,
-        77
-      ],
-      "hasDynamicImage": false,
-      "price": 1700,
-      "resourceId": 265231,
-      "assetId": 265231
     },
     "267213": {
       "name": "Ally Brazier",
@@ -664,7 +628,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 800,
       "resourceId": 267213,
       "assetId": 267213
     },
@@ -747,7 +711,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 1200,
       "resourceId": 267235,
       "assetId": 267235
     },
@@ -790,7 +754,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 1000,
       "resourceId": 267240,
       "assetId": 267240
     },
@@ -826,7 +790,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 600,
       "resourceId": 267251,
       "assetId": 267251
     },
@@ -863,7 +827,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 500,
       "resourceId": 267505,
       "assetId": 267505
     },
@@ -897,7 +861,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 2700,
+      "price": 1100,
       "resourceId": 268908,
       "assetId": 268908
     },
@@ -955,7 +919,7 @@
         74
       ],
       "hasDynamicImage": true,
-      "price": 11000,
+      "price": 11250,
       "resourceId": 50559029,
       "assetId": 227381
     },
@@ -996,9 +960,61 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 11250,
+      "price": 11500,
       "resourceId": 50596668,
       "assetId": 265020
+    },
+    "50596879": {
+      "name": "Natasha Flint",
+      "cardName": "Flint",
+      "originalVersionId": "3",
+      "clubId": 132698,
+      "leagueId": 2221,
+      "countryId": 14,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        22,
+        29
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        76,
+        80,
+        73,
+        82,
+        44,
+        82
+      ],
+      "hasDynamicImage": true,
+      "price": 10250,
+      "resourceId": 50596879,
+      "assetId": 265231
     },
     "84113461": {
       "name": "Janine Sonis",

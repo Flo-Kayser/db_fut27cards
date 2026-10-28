@@ -1,6 +1,61 @@
 {
   "clubName": "Spurs",
   "players": {
+    "50600069": {
+      "name": "Mathys Tel",
+      "cardName": "Tel",
+      "originalVersionId": "3",
+      "clubId": 18,
+      "leagueId": 13,
+      "countryId": 18,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        21,
+        24
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        88,
+        82,
+        74,
+        81,
+        31,
+        68
+      ],
+      "hasDynamicImage": true,
+      "price": 70500,
+      "resourceId": 50600069,
+      "assetId": 268421
+    },
     "50602057": {
       "name": "Sávio",
       "cardName": "Sávio",
@@ -104,7 +159,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 59500,
+      "price": 66000,
       "resourceId": 50602505,
       "assetId": 270857
     },
@@ -160,7 +215,7 @@
         72
       ],
       "hasDynamicImage": true,
-      "price": 49750,
+      "price": 50500,
       "resourceId": 67365539,
       "assetId": 256675
     },

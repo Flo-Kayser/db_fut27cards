@@ -1,6 +1,56 @@
 {
   "clubName": "FC Bayern München",
   "players": {
+    "50580470": {
+      "name": "Klara Bühl",
+      "cardName": "Bühl",
+      "originalVersionId": "3",
+      "clubId": 115995,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "3",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        12,
+        14,
+        24,
+        3,
+        6,
+        8
+      ],
+      "playStylesPlus": [
+        0
+      ],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        86,
+        87,
+        86,
+        87,
+        38,
+        76
+      ],
+      "hasDynamicImage": true,
+      "price": 382000,
+      "resourceId": 50580470,
+      "assetId": 248822
+    },
     "50590935": {
       "name": "Pernille Harder",
       "cardName": "Harder",
@@ -55,7 +105,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 102000,
+      "price": 112000,
       "resourceId": 50590935,
       "assetId": 259287
     }

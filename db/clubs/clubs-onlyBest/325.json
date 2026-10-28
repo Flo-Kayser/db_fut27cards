@@ -32,7 +32,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 850,
       "resourceId": 70253,
       "assetId": 70253
     },
@@ -69,7 +69,7 @@
         49
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 75892,
       "assetId": 75892
     },
@@ -105,7 +105,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 78160,
       "assetId": 78160
     },
@@ -187,7 +187,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 800,
       "resourceId": 186942,
       "assetId": 186942
     },
@@ -263,7 +263,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 500,
       "resourceId": 211908,
       "assetId": 211908
     },
@@ -307,7 +307,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 1100,
       "resourceId": 212811,
       "assetId": 212811
     },
@@ -348,7 +348,7 @@
         86
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 900,
       "resourceId": 220793,
       "assetId": 220793
     },
@@ -395,7 +395,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 222492,
       "assetId": 222492
     },
@@ -438,7 +438,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 223959,
       "assetId": 223959
     },
@@ -476,7 +476,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 226300,
       "assetId": 226300
     },
@@ -517,50 +517,9 @@
         85
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 900,
       "resourceId": 229905,
       "assetId": 229905
-    },
-    "232293": {
-      "name": "Victor Osimhen",
-      "cardName": "Osimhen",
-      "originalVersionId": "0",
-      "clubId": 325,
-      "leagueId": 68,
-      "countryId": 133,
-      "versionId": "2002",
-      "rating": 85,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        1,
-        21,
-        4,
-        5,
-        7
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        42,
-        144
-      ],
-      "attributes": [
-        89,
-        84,
-        65,
-        78,
-        51,
-        86
-      ],
-      "hasDynamicImage": false,
-      "price": 2800,
-      "resourceId": 232293,
-      "assetId": 232293
     },
     "234171": {
       "name": "Roland Sallai",
@@ -600,7 +559,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 1500,
       "resourceId": 234171,
       "assetId": 234171
     },
@@ -648,7 +607,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 850,
       "resourceId": 239892,
       "assetId": 239892
     },
@@ -688,7 +647,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 1800,
+      "price": 2000,
       "resourceId": 252293,
       "assetId": 252293
     },
@@ -729,7 +688,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 1600,
       "resourceId": 252802,
       "assetId": 252802
     },
@@ -809,7 +768,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 2800,
       "resourceId": 259754,
       "assetId": 259754
     },
@@ -849,7 +808,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 1000,
       "resourceId": 262607,
       "assetId": 262607
     },
@@ -899,7 +858,7 @@
         86
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 850,
       "resourceId": 263205,
       "assetId": 263205
     },
@@ -976,7 +935,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 600,
       "resourceId": 271211,
       "assetId": 271211
     },
@@ -1014,9 +973,52 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 278168,
       "assetId": 278168
+    },
+    "50563941": {
+      "name": "Victor Osimhen",
+      "cardName": "Osimhen",
+      "originalVersionId": "3",
+      "clubId": 325,
+      "leagueId": 68,
+      "countryId": 133,
+      "versionId": "3",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        1,
+        21,
+        4,
+        5,
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        90,
+        86,
+        68,
+        81,
+        52,
+        87
+      ],
+      "hasDynamicImage": true,
+      "price": 195000,
+      "resourceId": 50563941,
+      "assetId": 232293
     },
     "50573369": {
       "name": "Rafael Leão",
@@ -1059,7 +1061,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 1700,
       "resourceId": 50573369,
       "assetId": 241721
     },
@@ -1095,7 +1097,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 1500,
       "resourceId": 50594841,
       "assetId": 263193
     },
@@ -1129,7 +1131,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 600,
       "resourceId": 50610235,
       "assetId": 278587
     }
