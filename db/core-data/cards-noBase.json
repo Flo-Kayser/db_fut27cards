@@ -1,5 +1,150 @@
 [
   {
+    "resourceId": 50586866,
+    "assetId": 255218,
+    "eaPlayerId": null,
+    "playerRoleId": 11,
+    "name": "Víctor Guzmán",
+    "rating": 82,
+    "metaRatingZeroChem": 79.02126743037749,
+    "positions": [
+      "CB"
+    ],
+    "possiblePositions": [
+      "CB"
+    ],
+    "metaRating": 79.02126743037749,
+    "owned": false,
+    "sbcStorage": false,
+    "attributes": [
+      78,
+      44,
+      64,
+      68,
+      82,
+      82
+    ],
+    "countryId": 83,
+    "leagueId": 341,
+    "clubId": 1032,
+    "price": 0,
+    "sbcPrice": 5300,
+    "priceInfo": {
+      "displayPrice": 5300,
+      "source": "sbc"
+    },
+    "isObjectivePlayer": false,
+    "isSbcPlayer": false,
+    "skillMoves": 2,
+    "weakFoot": 3,
+    "preferredFoot": "Right",
+    "untradeable": false,
+    "firstOwner": false,
+    "versionId": 58,
+    "preferredPosition": "CB",
+    "metalId": 3,
+    "hasDynamicImage": true,
+    "playerUrl": "https://assets.easysbc.io/fc27/players/50586866.png",
+    "playStylesPlus": [],
+    "cardName": "Guzmán",
+    "cardFont": "cruyff",
+    "rolesPlus": [
+      111,
+      112,
+      113,
+      148
+    ],
+    "playStyles": [
+      15,
+      18,
+      19
+    ],
+    "canEvolve": true,
+    "evoPopularity": 7,
+    "newPlayer": true,
+    "itemScore": 340
+  },
+  {
+    "resourceId": 50417481,
+    "assetId": 85833,
+    "eaPlayerId": null,
+    "playerRoleId": 26,
+    "name": "Ramiro Árciga",
+    "rating": 82,
+    "metaRatingZeroChem": 78.93655429815865,
+    "positions": [
+      "LM",
+      "LW",
+      "RM",
+      "RW"
+    ],
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RM",
+      "RW"
+    ],
+    "metaRating": 78.93655429815865,
+    "owned": false,
+    "sbcStorage": false,
+    "attributes": [
+      85,
+      80,
+      82,
+      82,
+      46,
+      73
+    ],
+    "countryId": 83,
+    "leagueId": 341,
+    "clubId": 111678,
+    "price": 0,
+    "sbcPrice": 5300,
+    "priceInfo": {
+      "displayPrice": 5300,
+      "source": "sbc"
+    },
+    "isObjectivePlayer": false,
+    "isSbcPlayer": false,
+    "skillMoves": 3,
+    "weakFoot": 3,
+    "preferredFoot": "Right",
+    "untradeable": false,
+    "firstOwner": false,
+    "versionId": 58,
+    "preferredPosition": "RW",
+    "metalId": 3,
+    "hasDynamicImage": true,
+    "playerUrl": "https://assets.easysbc.io/fc27/players/50417481.png",
+    "playStylesPlus": [],
+    "cardName": "Árciga",
+    "cardFont": "cruyff",
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140
+    ],
+    "playStyles": [
+      21,
+      24,
+      8
+    ],
+    "canEvolve": true,
+    "newPlayer": true,
+    "itemScore": 340
+  },
+  {
     "resourceId": 50409660,
     "assetId": 78012,
     "eaPlayerId": null,
@@ -81,7 +226,7 @@
       21
     ],
     "canEvolve": true,
-    "evoPopularity": 2,
+    "evoPopularity": 9,
     "newPlayer": false,
     "itemScore": 5125
   },
@@ -157,7 +302,7 @@
       9
     ],
     "canEvolve": true,
-    "evoPopularity": 6,
+    "evoPopularity": 1,
     "newPlayer": false,
     "itemScore": 1038
   },
@@ -309,7 +454,6 @@
       8
     ],
     "canEvolve": true,
-    "evoPopularity": 4,
     "newPlayer": false,
     "itemScore": 1038
   },
@@ -343,9 +487,9 @@
     "countryId": 18,
     "leagueId": 53,
     "clubId": 243,
-    "price": 15000000,
+    "price": 7299000,
     "priceInfo": {
-      "displayPrice": 15000000,
+      "displayPrice": 7299000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -383,8 +527,7 @@
       7
     ],
     "canEvolve": true,
-    "evoPopularity": 1,
-    "newPlayer": true,
+    "newPlayer": false,
     "itemScore": 25000
   },
   {
@@ -417,9 +560,9 @@
     "countryId": 14,
     "leagueId": 2216,
     "clubId": 116009,
-    "price": 0,
+    "price": 910000,
     "priceInfo": {
-      "displayPrice": 0,
+      "displayPrice": 910000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -458,8 +601,8 @@
       22
     ],
     "canEvolve": true,
-    "evoPopularity": 1,
-    "newPlayer": true,
+    "evoPopularity": 2,
+    "newPlayer": false,
     "itemScore": 6875
   },
   {
@@ -490,9 +633,9 @@
     "countryId": 54,
     "leagueId": 13,
     "clubId": 1,
-    "price": 0,
+    "price": 625000,
     "priceInfo": {
-      "displayPrice": 0,
+      "displayPrice": 625000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -526,7 +669,7 @@
       4
     ],
     "canEvolve": true,
-    "newPlayer": true,
+    "newPlayer": false,
     "itemScore": 17500
   },
   {
@@ -559,9 +702,9 @@
     "countryId": 21,
     "leagueId": 2215,
     "clubId": 115995,
-    "price": 382000,
+    "price": 229000,
     "priceInfo": {
-      "displayPrice": 382000,
+      "displayPrice": 229000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -599,7 +742,7 @@
       8
     ],
     "canEvolve": true,
-    "newPlayer": true,
+    "newPlayer": false,
     "itemScore": 13750
   },
   {
@@ -635,9 +778,9 @@
     "leagueId": 31,
     "clubId": 131682,
     "price": 0,
-    "sbcPrice": 25650,
+    "sbcPrice": 21900,
     "priceInfo": {
-      "displayPrice": 25650,
+      "displayPrice": 21900,
       "source": "sbc"
     },
     "isObjectivePlayer": false,
@@ -676,8 +819,7 @@
       19
     ],
     "canEvolve": true,
-    "evoPopularity": 18,
-    "newPlayer": true,
+    "newPlayer": false,
     "itemScore": 410
   },
   {
@@ -714,9 +856,9 @@
     "countryId": 51,
     "leagueId": 350,
     "clubId": 605,
-    "price": 77500,
+    "price": 15500,
     "priceInfo": {
-      "displayPrice": 77500,
+      "displayPrice": 15500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -763,7 +905,7 @@
       9
     ],
     "canEvolve": true,
-    "newPlayer": true,
+    "newPlayer": false,
     "itemScore": 2625
   },
   {
@@ -794,9 +936,9 @@
     "countryId": 52,
     "leagueId": 31,
     "clubId": 52,
-    "price": 56000,
+    "price": 14250,
     "priceInfo": {
-      "displayPrice": 56000,
+      "displayPrice": 14250,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -826,8 +968,7 @@
       19
     ],
     "canEvolve": true,
-    "evoPopularity": 1,
-    "newPlayer": true,
+    "newPlayer": false,
     "itemScore": 513
   },
   {
@@ -861,9 +1002,9 @@
     "leagueId": 31,
     "clubId": 131681,
     "price": 0,
-    "sbcPrice": 25650,
+    "sbcPrice": 21900,
     "priceInfo": {
-      "displayPrice": 25650,
+      "displayPrice": 21900,
       "source": "sbc"
     },
     "isObjectivePlayer": false,
@@ -898,8 +1039,8 @@
       29
     ],
     "canEvolve": true,
-    "evoPopularity": 10,
-    "newPlayer": true,
+    "evoPopularity": 4,
+    "newPlayer": false,
     "itemScore": 410
   },
   {
@@ -934,9 +1075,9 @@
     "countryId": 10,
     "leagueId": 19,
     "clubId": 10029,
-    "price": 16500,
+    "price": 11000,
     "priceInfo": {
-      "displayPrice": 16500,
+      "displayPrice": 11000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -978,7 +1119,7 @@
       8
     ],
     "canEvolve": true,
-    "newPlayer": true,
+    "newPlayer": false,
     "itemScore": 513
   },
   {
@@ -1009,9 +1150,9 @@
     "countryId": 60,
     "leagueId": 353,
     "clubId": 101083,
-    "price": 10000,
+    "price": 9900,
     "priceInfo": {
-      "displayPrice": 10000,
+      "displayPrice": 9900,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -1041,7 +1182,7 @@
       33
     ],
     "canEvolve": true,
-    "newPlayer": true,
+    "newPlayer": false,
     "itemScore": 225
   },
   {
@@ -1072,9 +1213,9 @@
     "countryId": 133,
     "leagueId": 68,
     "clubId": 325,
-    "price": 195000,
+    "price": 72500,
     "priceInfo": {
-      "displayPrice": 195000,
+      "displayPrice": 72500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -1106,7 +1247,7 @@
       6
     ],
     "canEvolve": true,
-    "newPlayer": true,
+    "newPlayer": false,
     "itemScore": 5125
   },
   {
@@ -1195,8 +1336,7 @@
       8
     ],
     "canEvolve": true,
-    "evoPopularity": 2,
-    "newPlayer": true,
+    "newPlayer": false,
     "itemScore": 225
   },
   {
@@ -1229,9 +1369,9 @@
     "countryId": 21,
     "leagueId": 19,
     "clubId": 23,
-    "price": 10750,
+    "price": 10250,
     "priceInfo": {
-      "displayPrice": 10750,
+      "displayPrice": 10250,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -1265,8 +1405,8 @@
       9
     ],
     "canEvolve": true,
-    "evoPopularity": 8,
-    "newPlayer": true,
+    "evoPopularity": 5,
+    "newPlayer": false,
     "itemScore": 225
   },
   {
@@ -1305,9 +1445,9 @@
     "countryId": 45,
     "leagueId": 53,
     "clubId": 448,
-    "price": 10500,
+    "price": 10000,
     "priceInfo": {
-      "displayPrice": 10500,
+      "displayPrice": 10000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -1351,8 +1491,7 @@
       21
     ],
     "canEvolve": true,
-    "evoPopularity": 1,
-    "newPlayer": true,
+    "newPlayer": false,
     "itemScore": 350
   },
   {
@@ -1385,9 +1524,9 @@
     "countryId": 14,
     "leagueId": 13,
     "clubId": 1943,
-    "price": 10750,
+    "price": 9900,
     "priceInfo": {
-      "displayPrice": 10750,
+      "displayPrice": 9900,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -1422,8 +1561,7 @@
       27
     ],
     "canEvolve": true,
-    "evoPopularity": 6,
-    "newPlayer": true,
+    "newPlayer": false,
     "itemScore": 225
   },
   {
@@ -1460,9 +1598,9 @@
     "countryId": 18,
     "leagueId": 13,
     "clubId": 18,
-    "price": 70500,
+    "price": 38750,
     "priceInfo": {
-      "displayPrice": 70500,
+      "displayPrice": 38750,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -1503,8 +1641,8 @@
       24
     ],
     "canEvolve": true,
-    "evoPopularity": 19,
-    "newPlayer": true,
+    "evoPopularity": 3,
+    "newPlayer": false,
     "itemScore": 225
   },
   {
@@ -1541,9 +1679,9 @@
     "countryId": 54,
     "leagueId": 308,
     "clubId": 112587,
-    "price": 10000,
+    "price": 9900,
     "priceInfo": {
-      "displayPrice": 10000,
+      "displayPrice": 9900,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -1583,8 +1721,7 @@
       6
     ],
     "canEvolve": true,
-    "evoPopularity": 6,
-    "newPlayer": true,
+    "newPlayer": false,
     "itemScore": 225
   },
   {
@@ -1658,7 +1795,7 @@
       25
     ],
     "canEvolve": true,
-    "newPlayer": true,
+    "newPlayer": false,
     "itemScore": 425
   },
   {
@@ -1689,9 +1826,9 @@
     "countryId": 49,
     "leagueId": 54,
     "clubId": 110062,
-    "price": 10250,
+    "price": 9900,
     "priceInfo": {
-      "displayPrice": 10250,
+      "displayPrice": 9900,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -1721,8 +1858,7 @@
       9
     ],
     "canEvolve": true,
-    "evoPopularity": 2,
-    "newPlayer": true,
+    "newPlayer": false,
     "itemScore": 225
   },
   {
@@ -1755,9 +1891,9 @@
     "countryId": 36,
     "leagueId": 41,
     "clubId": 417,
-    "price": 10000,
+    "price": 9900,
     "priceInfo": {
-      "displayPrice": 10000,
+      "displayPrice": 9900,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -1791,7 +1927,7 @@
       25
     ],
     "canEvolve": true,
-    "newPlayer": true,
+    "newPlayer": false,
     "itemScore": 225
   },
   {
@@ -1824,9 +1960,9 @@
     "countryId": 108,
     "leagueId": 14,
     "clubId": 15,
-    "price": 10500,
+    "price": 9900,
     "priceInfo": {
-      "displayPrice": 10500,
+      "displayPrice": 9900,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -1860,7 +1996,7 @@
       6
     ],
     "canEvolve": true,
-    "newPlayer": true,
+    "newPlayer": false,
     "itemScore": 225
   },
   {
@@ -1891,9 +2027,9 @@
     "countryId": 136,
     "leagueId": 13,
     "clubId": 2,
-    "price": 13250,
+    "price": 10000,
     "priceInfo": {
-      "displayPrice": 13250,
+      "displayPrice": 10000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -1923,8 +2059,8 @@
       7
     ],
     "canEvolve": true,
-    "evoPopularity": 9,
-    "newPlayer": true,
+    "evoPopularity": 2,
+    "newPlayer": false,
     "itemScore": 350
   },
   {
@@ -1955,9 +2091,9 @@
     "countryId": 22,
     "leagueId": 31,
     "clubId": 1745,
-    "price": 10000,
+    "price": 9900,
     "priceInfo": {
-      "displayPrice": 10000,
+      "displayPrice": 9900,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -1987,7 +2123,7 @@
       6
     ],
     "canEvolve": true,
-    "newPlayer": true,
+    "newPlayer": false,
     "itemScore": 225
   },
   {
@@ -2018,9 +2154,9 @@
     "countryId": 37,
     "leagueId": 2218,
     "clubId": 116034,
-    "price": 13500,
+    "price": 10750,
     "priceInfo": {
-      "displayPrice": 13500,
+      "displayPrice": 10750,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -2051,7 +2187,7 @@
       19
     ],
     "canEvolve": true,
-    "newPlayer": true,
+    "newPlayer": false,
     "itemScore": 513
   },
   {
@@ -2086,9 +2222,9 @@
     "countryId": 14,
     "leagueId": 2221,
     "clubId": 132698,
-    "price": 10250,
+    "price": 9900,
     "priceInfo": {
-      "displayPrice": 10250,
+      "displayPrice": 9900,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -2127,8 +2263,7 @@
       29
     ],
     "canEvolve": true,
-    "evoPopularity": 1,
-    "newPlayer": true,
+    "newPlayer": false,
     "itemScore": 225
   },
   {
@@ -2161,9 +2296,9 @@
     "countryId": 18,
     "leagueId": 53,
     "clubId": 243,
-    "price": 7795000,
+    "price": 8080000,
     "priceInfo": {
-      "displayPrice": 7795000,
+      "displayPrice": 8080000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -2232,9 +2367,9 @@
     "countryId": 14,
     "leagueId": 13,
     "clubId": 1,
-    "price": 199000,
+    "price": 197000,
     "priceInfo": {
-      "displayPrice": 199000,
+      "displayPrice": 197000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -2381,9 +2516,9 @@
     "leagueId": 53,
     "clubId": 449,
     "price": 0,
-    "sbcPrice": 36650,
+    "sbcPrice": 31250,
     "priceInfo": {
-      "displayPrice": 36650,
+      "displayPrice": 31250,
       "source": "sbc"
     },
     "isObjectivePlayer": false,
@@ -2419,7 +2554,7 @@
       25
     ],
     "canEvolve": true,
-    "evoPopularity": 4,
+    "evoPopularity": 2,
     "newPlayer": false,
     "itemScore": 3150
   },
@@ -2457,9 +2592,9 @@
     "countryId": 14,
     "leagueId": 13,
     "clubId": 10,
-    "price": 860000,
+    "price": 887000,
     "priceInfo": {
-      "displayPrice": 860000,
+      "displayPrice": 887000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -2503,7 +2638,6 @@
       9
     ],
     "canEvolve": true,
-    "evoPopularity": 7,
     "newPlayer": false,
     "itemScore": 5500
   },
@@ -2537,9 +2671,9 @@
     "countryId": 52,
     "leagueId": 31,
     "clubId": 1745,
-    "price": 1129000,
+    "price": 1099000,
     "priceInfo": {
-      "displayPrice": 1129000,
+      "displayPrice": 1099000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -2612,9 +2746,9 @@
     "countryId": 7,
     "leagueId": 4,
     "clubId": 231,
-    "price": 28250,
+    "price": 30500,
     "priceInfo": {
-      "displayPrice": 28250,
+      "displayPrice": 30500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -2658,7 +2792,7 @@
       9
     ],
     "canEvolve": true,
-    "evoPopularity": 7,
+    "evoPopularity": 4,
     "newPlayer": false,
     "itemScore": 2100
   },
@@ -2692,9 +2826,9 @@
     "countryId": 52,
     "leagueId": 13,
     "clubId": 9,
-    "price": 184000,
+    "price": 195000,
     "priceInfo": {
-      "displayPrice": 184000,
+      "displayPrice": 195000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -2732,7 +2866,7 @@
       9
     ],
     "canEvolve": true,
-    "evoPopularity": 5,
+    "evoPopularity": 6,
     "newPlayer": false,
     "itemScore": 4100
   },
@@ -2771,9 +2905,9 @@
     "leagueId": 10,
     "clubId": 1910,
     "price": 0,
-    "sbcPrice": 29000,
+    "sbcPrice": 24650,
     "priceInfo": {
-      "displayPrice": 29000,
+      "displayPrice": 24650,
       "source": "sbc"
     },
     "isObjectivePlayer": false,
@@ -2814,7 +2948,6 @@
       7
     ],
     "canEvolve": true,
-    "evoPopularity": 1,
     "newPlayer": false,
     "itemScore": 3150
   },
@@ -2846,9 +2979,9 @@
     "countryId": 118,
     "leagueId": 19,
     "clubId": 22,
-    "price": 37750,
+    "price": 41250,
     "priceInfo": {
-      "displayPrice": 37750,
+      "displayPrice": 41250,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -2881,6 +3014,7 @@
       6
     ],
     "canEvolve": true,
+    "evoPopularity": 5,
     "newPlayer": false,
     "itemScore": 4100
   },
@@ -4644,9 +4778,9 @@
     "countryId": 34,
     "leagueId": 13,
     "clubId": 114605,
-    "price": 2599000,
+    "price": 2504000,
     "priceInfo": {
-      "displayPrice": 2599000,
+      "displayPrice": 2504000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -4726,9 +4860,9 @@
     "countryId": 54,
     "leagueId": 53,
     "clubId": 241,
-    "price": 6733000,
+    "price": 6850000,
     "priceInfo": {
-      "displayPrice": 6733000,
+      "displayPrice": 6850000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -4863,6 +4997,7 @@
       9
     ],
     "canEvolve": true,
+    "evoPopularity": 4,
     "newPlayer": false,
     "itemScore": 9625
   },
@@ -4902,9 +5037,9 @@
     "countryId": 23,
     "leagueId": 13,
     "clubId": 9,
-    "price": 1021000,
+    "price": 1018000,
     "priceInfo": {
-      "displayPrice": 1021000,
+      "displayPrice": 1018000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -4992,9 +5127,9 @@
     "countryId": 27,
     "leagueId": 13,
     "clubId": 114605,
-    "price": 2370000,
+    "price": 2356000,
     "priceInfo": {
-      "displayPrice": 2370000,
+      "displayPrice": 2356000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -5068,9 +5203,9 @@
     "countryId": 38,
     "leagueId": 350,
     "clubId": 112139,
-    "price": 7051000,
+    "price": 6960000,
     "priceInfo": {
-      "displayPrice": 7051000,
+      "displayPrice": 6960000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -5143,9 +5278,9 @@
     "countryId": 48,
     "leagueId": 31,
     "clubId": 131682,
-    "price": 253000,
+    "price": 262000,
     "priceInfo": {
-      "displayPrice": 253000,
+      "displayPrice": 262000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -5226,9 +5361,9 @@
     "countryId": 95,
     "leagueId": 2221,
     "clubId": 116308,
-    "price": 81000,
+    "price": 80500,
     "priceInfo": {
-      "displayPrice": 81000,
+      "displayPrice": 80500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -5315,9 +5450,9 @@
     "countryId": 45,
     "leagueId": 2218,
     "clubId": 116033,
-    "price": 2864000,
+    "price": 2891000,
     "priceInfo": {
-      "displayPrice": 2864000,
+      "displayPrice": 2891000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -5405,9 +5540,9 @@
     "countryId": 14,
     "leagueId": 13,
     "clubId": 5,
-    "price": 834000,
+    "price": 831000,
     "priceInfo": {
-      "displayPrice": 834000,
+      "displayPrice": 831000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -5486,9 +5621,9 @@
     "countryId": 58,
     "leagueId": 39,
     "clubId": 112885,
-    "price": 27250,
+    "price": 23250,
     "priceInfo": {
-      "displayPrice": 27250,
+      "displayPrice": 23250,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -5524,7 +5659,6 @@
       28
     ],
     "canEvolve": true,
-    "evoPopularity": 1,
     "newPlayer": false,
     "itemScore": 3150
   },
@@ -5635,9 +5769,9 @@
     "countryId": 54,
     "leagueId": 68,
     "clubId": 436,
-    "price": 70000,
+    "price": 79500,
     "priceInfo": {
-      "displayPrice": 70000,
+      "displayPrice": 79500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -5712,12 +5846,12 @@
     "countryId": 18,
     "leagueId": 19,
     "clubId": 112172,
-    "price": 60500,
+    "price": 64500,
     "priceInfo": {
-      "displayPrice": 60500,
+      "displayPrice": 64500,
       "source": "market"
     },
-    "isObjectivePlayer": true,
+    "isObjectivePlayer": false,
     "isSbcPlayer": false,
     "skillMoves": 2,
     "weakFoot": 3,
@@ -5835,6 +5969,7 @@
       9
     ],
     "canEvolve": true,
+    "evoPopularity": 1,
     "newPlayer": false,
     "itemScore": 6150
   },
@@ -5870,9 +6005,9 @@
     "countryId": 105,
     "leagueId": 16,
     "clubId": 219,
-    "price": 43000,
+    "price": 45750,
     "priceInfo": {
-      "displayPrice": 43000,
+      "displayPrice": 45750,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -5992,7 +6127,6 @@
       8
     ],
     "canEvolve": true,
-    "evoPopularity": 1,
     "newPlayer": false,
     "itemScore": 6150
   },
@@ -6026,9 +6160,9 @@
     "countryId": 10,
     "leagueId": 19,
     "clubId": 114605,
-    "price": 811000,
+    "price": 781000,
     "priceInfo": {
-      "displayPrice": 811000,
+      "displayPrice": 781000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -6107,12 +6241,12 @@
     "countryId": 21,
     "leagueId": 2215,
     "clubId": 116002,
-    "price": 27250,
+    "price": 23500,
     "priceInfo": {
-      "displayPrice": 27250,
+      "displayPrice": 23500,
       "source": "market"
     },
-    "isObjectivePlayer": true,
+    "isObjectivePlayer": false,
     "isSbcPlayer": false,
     "skillMoves": 3,
     "weakFoot": 4,
@@ -6193,9 +6327,9 @@
     "leagueId": 31,
     "clubId": 45,
     "price": 0,
-    "sbcPrice": 60650,
+    "sbcPrice": 51650,
     "priceInfo": {
-      "displayPrice": 60650,
+      "displayPrice": 51650,
       "source": "sbc"
     },
     "isObjectivePlayer": false,
@@ -6231,7 +6365,6 @@
       8
     ],
     "canEvolve": true,
-    "evoPopularity": 1,
     "newPlayer": false,
     "itemScore": 3150
   },
@@ -6313,6 +6446,7 @@
       28
     ],
     "canEvolve": true,
+    "evoPopularity": 1,
     "newPlayer": false,
     "itemScore": 615
   },
@@ -6350,12 +6484,12 @@
     "countryId": 85,
     "leagueId": 14,
     "clubId": 1794,
-    "price": 27250,
+    "price": 22250,
     "priceInfo": {
-      "displayPrice": 27250,
+      "displayPrice": 22250,
       "source": "market"
     },
-    "isObjectivePlayer": true,
+    "isObjectivePlayer": false,
     "isSbcPlayer": false,
     "skillMoves": 4,
     "weakFoot": 3,
@@ -6477,6 +6611,7 @@
       6
     ],
     "canEvolve": true,
+    "evoPopularity": 2,
     "newPlayer": false,
     "itemScore": 3150
   },
@@ -6691,7 +6826,6 @@
       25
     ],
     "canEvolve": true,
-    "evoPopularity": 1,
     "newPlayer": false,
     "itemScore": 830
   },
@@ -6764,6 +6898,7 @@
       28
     ],
     "canEvolve": true,
+    "evoPopularity": 5,
     "newPlayer": false,
     "itemScore": 2100
   },
@@ -6827,6 +6962,7 @@
       25
     ],
     "canEvolve": true,
+    "evoPopularity": 3,
     "newPlayer": false,
     "itemScore": 830
   },
@@ -7142,6 +7278,7 @@
       25
     ],
     "canEvolve": true,
+    "evoPopularity": 1,
     "newPlayer": false,
     "itemScore": 2100
   },
@@ -7208,6 +7345,7 @@
       34
     ],
     "canEvolve": true,
+    "evoPopularity": 2,
     "newPlayer": false,
     "itemScore": 830
   },
@@ -7707,6 +7845,7 @@
       9
     ],
     "canEvolve": true,
+    "evoPopularity": 3,
     "newPlayer": false,
     "itemScore": 830
   },
@@ -8031,7 +8170,6 @@
       22
     ],
     "canEvolve": true,
-    "evoPopularity": 6,
     "newPlayer": false,
     "itemScore": 2100
   },
@@ -8178,7 +8316,6 @@
       7
     ],
     "canEvolve": true,
-    "evoPopularity": 2,
     "newPlayer": false,
     "itemScore": 2100
   },
@@ -8700,6 +8837,7 @@
       18
     ],
     "canEvolve": true,
+    "evoPopularity": 2,
     "newPlayer": false,
     "itemScore": 1038
   },
@@ -8797,7 +8935,7 @@
       22
     ],
     "canEvolve": true,
-    "evoPopularity": 2,
+    "evoPopularity": 9,
     "newPlayer": false,
     "itemScore": 1038
   },
@@ -8876,7 +9014,7 @@
       21
     ],
     "canEvolve": true,
-    "evoPopularity": 2,
+    "evoPopularity": 3,
     "newPlayer": false,
     "itemScore": 5125
   },
@@ -9300,9 +9438,9 @@
     "countryId": 56,
     "leagueId": 19,
     "clubId": 21,
-    "price": 386000,
+    "price": 418000,
     "priceInfo": {
-      "displayPrice": 386000,
+      "displayPrice": 418000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -9381,9 +9519,9 @@
     "countryId": 108,
     "leagueId": 53,
     "clubId": 243,
-    "price": 286000,
+    "price": 300000,
     "priceInfo": {
-      "displayPrice": 286000,
+      "displayPrice": 300000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -9464,9 +9602,9 @@
     "countryId": 14,
     "leagueId": 2216,
     "clubId": 116010,
-    "price": 938000,
+    "price": 924000,
     "priceInfo": {
-      "displayPrice": 938000,
+      "displayPrice": 924000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -9550,9 +9688,9 @@
     "countryId": 18,
     "leagueId": 39,
     "clubId": 112606,
-    "price": 46000,
+    "price": 49250,
     "priceInfo": {
-      "displayPrice": 46000,
+      "displayPrice": 49250,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -9633,9 +9771,9 @@
     "countryId": 38,
     "leagueId": 13,
     "clubId": 5,
-    "price": 113000,
+    "price": 119000,
     "priceInfo": {
-      "displayPrice": 113000,
+      "displayPrice": 119000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -9675,7 +9813,6 @@
       25
     ],
     "canEvolve": true,
-    "evoPopularity": 1,
     "newPlayer": false,
     "itemScore": 513
   },
@@ -9864,9 +10001,9 @@
     "countryId": 97,
     "leagueId": 19,
     "clubId": 32,
-    "price": 11750,
+    "price": 11500,
     "priceInfo": {
-      "displayPrice": 11750,
+      "displayPrice": 11500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -10012,9 +10149,9 @@
     "countryId": 45,
     "leagueId": 53,
     "clubId": 450,
-    "price": 11750,
+    "price": 11250,
     "priceInfo": {
-      "displayPrice": 11750,
+      "displayPrice": 11250,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -10165,9 +10302,9 @@
     "countryId": 14,
     "leagueId": 14,
     "clubId": 19,
-    "price": 12000,
+    "price": 12500,
     "priceInfo": {
-      "displayPrice": 12000,
+      "displayPrice": 12500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -10244,9 +10381,9 @@
     "countryId": 58,
     "leagueId": 13,
     "clubId": 1808,
-    "price": 11000,
+    "price": 10500,
     "priceInfo": {
-      "displayPrice": 11000,
+      "displayPrice": 10500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -10324,9 +10461,9 @@
     "countryId": 13,
     "leagueId": 31,
     "clubId": 115841,
-    "price": 10750,
+    "price": 9900,
     "priceInfo": {
-      "displayPrice": 10750,
+      "displayPrice": 9900,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -10387,9 +10524,9 @@
     "countryId": 145,
     "leagueId": 68,
     "clubId": 111339,
-    "price": 10250,
+    "price": 9900,
     "priceInfo": {
-      "displayPrice": 10250,
+      "displayPrice": 9900,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -10454,9 +10591,9 @@
     "countryId": 34,
     "leagueId": 10,
     "clubId": 1914,
-    "price": 10500,
+    "price": 9900,
     "priceInfo": {
-      "displayPrice": 10500,
+      "displayPrice": 9900,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -10531,9 +10668,9 @@
     "countryId": 45,
     "leagueId": 2222,
     "clubId": 116336,
-    "price": 10500,
+    "price": 9900,
     "priceInfo": {
-      "displayPrice": 10500,
+      "displayPrice": 9900,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -10608,9 +10745,9 @@
     "countryId": 45,
     "leagueId": 66,
     "clubId": 873,
-    "price": 10750,
+    "price": 10000,
     "priceInfo": {
-      "displayPrice": 10750,
+      "displayPrice": 10000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -10695,9 +10832,9 @@
     "countryId": 46,
     "leagueId": 50,
     "clubId": 78,
-    "price": 10250,
+    "price": 9900,
     "priceInfo": {
-      "displayPrice": 10250,
+      "displayPrice": 9900,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -10785,9 +10922,9 @@
     "countryId": 36,
     "leagueId": 16,
     "clubId": 1809,
-    "price": 10500,
+    "price": 11250,
     "priceInfo": {
-      "displayPrice": 10500,
+      "displayPrice": 11250,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -10858,9 +10995,9 @@
     "countryId": 51,
     "leagueId": 31,
     "clubId": 205,
-    "price": 10500,
+    "price": 10750,
     "priceInfo": {
-      "displayPrice": 10500,
+      "displayPrice": 10750,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -10920,9 +11057,9 @@
     "countryId": 45,
     "leagueId": 53,
     "clubId": 457,
-    "price": 15250,
+    "price": 15500,
     "priceInfo": {
-      "displayPrice": 15250,
+      "displayPrice": 15500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -10989,9 +11126,9 @@
     "countryId": 21,
     "leagueId": 2215,
     "clubId": 116003,
-    "price": 10500,
+    "price": 11000,
     "priceInfo": {
-      "displayPrice": 10500,
+      "displayPrice": 11000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -11069,9 +11206,9 @@
     "countryId": 126,
     "leagueId": 16,
     "clubId": 111817,
-    "price": 10500,
+    "price": 9900,
     "priceInfo": {
-      "displayPrice": 10500,
+      "displayPrice": 9900,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -11143,9 +11280,9 @@
     "countryId": 108,
     "leagueId": 80,
     "clubId": 209,
-    "price": 10000,
+    "price": 9900,
     "priceInfo": {
-      "displayPrice": 10000,
+      "displayPrice": 9900,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -11332,9 +11469,9 @@
     "countryId": 36,
     "leagueId": 13,
     "clubId": 10,
-    "price": 1543000,
+    "price": 1591000,
     "priceInfo": {
-      "displayPrice": 1543000,
+      "displayPrice": 1591000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -11407,9 +11544,9 @@
     "countryId": 13,
     "leagueId": 2215,
     "clubId": 115995,
-    "price": 112000,
+    "price": 121000,
     "priceInfo": {
-      "displayPrice": 112000,
+      "displayPrice": 121000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -11870,9 +12007,9 @@
     "countryId": 45,
     "leagueId": 53,
     "clubId": 241,
-    "price": 3058000,
+    "price": 2949000,
     "priceInfo": {
-      "displayPrice": 3058000,
+      "displayPrice": 2949000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -11947,9 +12084,9 @@
     "countryId": 18,
     "leagueId": 16,
     "clubId": 73,
-    "price": 1826000,
+    "price": 2149000,
     "priceInfo": {
-      "displayPrice": 1826000,
+      "displayPrice": 2149000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -12028,9 +12165,9 @@
     "countryId": 7,
     "leagueId": 19,
     "clubId": 112172,
-    "price": 48500,
+    "price": 47750,
     "priceInfo": {
-      "displayPrice": 48500,
+      "displayPrice": 47750,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -12059,7 +12196,7 @@
       32
     ],
     "canEvolve": true,
-    "evoPopularity": 6,
+    "evoPopularity": 5,
     "newPlayer": false,
     "itemScore": 2100
   },
@@ -12095,9 +12232,9 @@
     "countryId": 110,
     "leagueId": 13,
     "clubId": 106,
-    "price": 208000,
+    "price": 244000,
     "priceInfo": {
-      "displayPrice": 208000,
+      "displayPrice": 244000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -12174,9 +12311,9 @@
     "countryId": 18,
     "leagueId": 13,
     "clubId": 9,
-    "price": 681000,
+    "price": 714000,
     "priceInfo": {
-      "displayPrice": 681000,
+      "displayPrice": 714000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -12478,9 +12615,9 @@
     "countryId": 27,
     "leagueId": 31,
     "clubId": 131681,
-    "price": 82500,
+    "price": 90500,
     "priceInfo": {
-      "displayPrice": 82500,
+      "displayPrice": 90500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -12515,7 +12652,7 @@
       4
     ],
     "canEvolve": true,
-    "evoPopularity": 4,
+    "evoPopularity": 2,
     "newPlayer": false,
     "itemScore": 2100
   },
@@ -14383,9 +14520,9 @@
     "countryId": 14,
     "leagueId": 13,
     "clubId": 11,
-    "price": 2399000,
+    "price": 2319000,
     "priceInfo": {
-      "displayPrice": 2399000,
+      "displayPrice": 2319000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -14461,9 +14598,9 @@
     "countryId": 45,
     "leagueId": 53,
     "clubId": 240,
-    "price": 1225000,
+    "price": 1277000,
     "priceInfo": {
-      "displayPrice": 1225000,
+      "displayPrice": 1277000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -14534,9 +14671,9 @@
     "countryId": 21,
     "leagueId": 19,
     "clubId": 21,
-    "price": 290000,
+    "price": 355000,
     "priceInfo": {
-      "displayPrice": 290000,
+      "displayPrice": 355000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -14609,9 +14746,9 @@
     "countryId": 54,
     "leagueId": 13,
     "clubId": 1943,
-    "price": 1631000,
+    "price": 1751000,
     "priceInfo": {
-      "displayPrice": 1631000,
+      "displayPrice": 1751000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -14688,9 +14825,9 @@
     "countryId": 95,
     "leagueId": 2221,
     "clubId": 116311,
-    "price": 81500,
+    "price": 82500,
     "priceInfo": {
-      "displayPrice": 81500,
+      "displayPrice": 82500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -14763,9 +14900,9 @@
     "countryId": 34,
     "leagueId": 13,
     "clubId": 5,
-    "price": 244000,
+    "price": 243000,
     "priceInfo": {
-      "displayPrice": 244000,
+      "displayPrice": 243000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -14840,9 +14977,9 @@
     "countryId": 14,
     "leagueId": 13,
     "clubId": 1943,
-    "price": 263000,
+    "price": 292000,
     "priceInfo": {
-      "displayPrice": 263000,
+      "displayPrice": 292000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -14918,9 +15055,9 @@
     "countryId": 52,
     "leagueId": 31,
     "clubId": 110374,
-    "price": 278000,
+    "price": 300000,
     "priceInfo": {
-      "displayPrice": 278000,
+      "displayPrice": 300000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -14992,9 +15129,9 @@
     "countryId": 21,
     "leagueId": 16,
     "clubId": 69,
-    "price": 284000,
+    "price": 295000,
     "priceInfo": {
-      "displayPrice": 284000,
+      "displayPrice": 295000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -15031,7 +15168,6 @@
       7
     ],
     "canEvolve": true,
-    "evoPopularity": 2,
     "newPlayer": false,
     "itemScore": 12450
   },
@@ -15142,9 +15278,9 @@
     "countryId": 21,
     "leagueId": 19,
     "clubId": 36,
-    "price": 21750,
+    "price": 23500,
     "priceInfo": {
-      "displayPrice": 21750,
+      "displayPrice": 23500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -15210,9 +15346,9 @@
     "countryId": 45,
     "leagueId": 16,
     "clubId": 73,
-    "price": 59500,
+    "price": 64500,
     "priceInfo": {
-      "displayPrice": 59500,
+      "displayPrice": 64500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -15289,9 +15425,9 @@
     "countryId": 8,
     "leagueId": 31,
     "clubId": 45,
-    "price": 50000,
+    "price": 56500,
     "priceInfo": {
-      "displayPrice": 50000,
+      "displayPrice": 56500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -15333,7 +15469,7 @@
       7
     ],
     "canEvolve": true,
-    "evoPopularity": 3,
+    "evoPopularity": 1,
     "newPlayer": false,
     "itemScore": 6150
   },
@@ -15369,9 +15505,9 @@
     "countryId": 45,
     "leagueId": 53,
     "clubId": 448,
-    "price": 22250,
+    "price": 23000,
     "priceInfo": {
-      "displayPrice": 22250,
+      "displayPrice": 23000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -15601,9 +15737,9 @@
     "countryId": 110,
     "leagueId": 2218,
     "clubId": 116034,
-    "price": 49250,
+    "price": 51500,
     "priceInfo": {
-      "displayPrice": 49250,
+      "displayPrice": 51500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -15644,6 +15780,7 @@
       29
     ],
     "canEvolve": true,
+    "evoPopularity": 2,
     "newPlayer": false,
     "itemScore": 3150
   },
@@ -15675,9 +15812,9 @@
     "countryId": 21,
     "leagueId": 4,
     "clubId": 231,
-    "price": 41500,
+    "price": 40750,
     "priceInfo": {
-      "displayPrice": 41500,
+      "displayPrice": 40750,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -15812,9 +15949,9 @@
     "countryId": 45,
     "leagueId": 2222,
     "clubId": 116325,
-    "price": 1526000,
+    "price": 1508000,
     "priceInfo": {
-      "displayPrice": 1526000,
+      "displayPrice": 1508000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -15893,9 +16030,9 @@
     "countryId": 34,
     "leagueId": 2222,
     "clubId": 116326,
-    "price": 189000,
+    "price": 196000,
     "priceInfo": {
-      "displayPrice": 189000,
+      "displayPrice": 196000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -15974,9 +16111,9 @@
     "countryId": 14,
     "leagueId": 2216,
     "clubId": 116009,
-    "price": 314000,
+    "price": 344000,
     "priceInfo": {
-      "displayPrice": 314000,
+      "displayPrice": 344000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -16048,9 +16185,9 @@
     "countryId": 46,
     "leagueId": 308,
     "clubId": 234,
-    "price": 11500,
+    "price": 11750,
     "priceInfo": {
-      "displayPrice": 11500,
+      "displayPrice": 11750,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -16118,9 +16255,9 @@
     "countryId": 14,
     "leagueId": 13,
     "clubId": 10,
-    "price": 22500,
+    "price": 21250,
     "priceInfo": {
-      "displayPrice": 22500,
+      "displayPrice": 21250,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -16194,9 +16331,9 @@
     "countryId": 21,
     "leagueId": 10,
     "clubId": 1915,
-    "price": 19250,
+    "price": 17250,
     "priceInfo": {
-      "displayPrice": 19250,
+      "displayPrice": 17250,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -16274,9 +16411,9 @@
     "countryId": 18,
     "leagueId": 16,
     "clubId": 64,
-    "price": 13750,
+    "price": 13250,
     "priceInfo": {
-      "displayPrice": 13750,
+      "displayPrice": 13250,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -16354,9 +16491,9 @@
     "countryId": 45,
     "leagueId": 53,
     "clubId": 449,
-    "price": 14750,
+    "price": 14250,
     "priceInfo": {
-      "displayPrice": 14750,
+      "displayPrice": 14250,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -16489,7 +16626,6 @@
       6
     ],
     "canEvolve": true,
-    "evoPopularity": 11,
     "newPlayer": false,
     "itemScore": 225
   },
@@ -16600,9 +16736,9 @@
     "countryId": 117,
     "leagueId": 2012,
     "clubId": 132305,
-    "price": 12750,
+    "price": 12250,
     "priceInfo": {
-      "displayPrice": 12750,
+      "displayPrice": 12250,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -16672,9 +16808,9 @@
     "countryId": 14,
     "leagueId": 13,
     "clubId": 5,
-    "price": 13000,
+    "price": 12250,
     "priceInfo": {
-      "displayPrice": 13000,
+      "displayPrice": 12250,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -16743,9 +16879,9 @@
     "countryId": 18,
     "leagueId": 19,
     "clubId": 112172,
-    "price": 20000,
+    "price": 18750,
     "priceInfo": {
-      "displayPrice": 20000,
+      "displayPrice": 18750,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -16810,9 +16946,9 @@
     "countryId": 35,
     "leagueId": 14,
     "clubId": 15,
-    "price": 10750,
+    "price": 11250,
     "priceInfo": {
-      "displayPrice": 10750,
+      "displayPrice": 11250,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -16872,9 +17008,9 @@
     "countryId": 52,
     "leagueId": 53,
     "clubId": 240,
-    "price": 15500,
+    "price": 14750,
     "priceInfo": {
-      "displayPrice": 15500,
+      "displayPrice": 14750,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -16937,9 +17073,9 @@
     "countryId": 34,
     "leagueId": 31,
     "clubId": 115841,
-    "price": 12750,
+    "price": 12000,
     "priceInfo": {
-      "displayPrice": 12750,
+      "displayPrice": 12000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -17229,9 +17365,9 @@
     "countryId": 14,
     "leagueId": 350,
     "clubId": 605,
-    "price": 15250,
+    "price": 17250,
     "priceInfo": {
-      "displayPrice": 15250,
+      "displayPrice": 17250,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -17292,9 +17428,9 @@
     "countryId": 21,
     "leagueId": 2221,
     "clubId": 132698,
-    "price": 11500,
+    "price": 12000,
     "priceInfo": {
-      "displayPrice": 11500,
+      "displayPrice": 12000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -17355,9 +17491,9 @@
     "countryId": 18,
     "leagueId": 13,
     "clubId": 1800,
-    "price": 12250,
+    "price": 11750,
     "priceInfo": {
-      "displayPrice": 12250,
+      "displayPrice": 11750,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -17450,7 +17586,6 @@
       4
     ],
     "canEvolve": true,
-    "evoPopularity": 11,
     "newPlayer": false,
     "itemScore": 225
   },
@@ -17537,7 +17672,7 @@
       25
     ],
     "canEvolve": true,
-    "evoPopularity": 3,
+    "evoPopularity": 6,
     "newPlayer": false,
     "itemScore": 3150
   },
@@ -17574,9 +17709,9 @@
     "leagueId": 16,
     "clubId": 73,
     "price": 0,
-    "sbcPrice": 148650,
+    "sbcPrice": 126450,
     "priceInfo": {
-      "displayPrice": 148650,
+      "displayPrice": 126450,
       "source": "sbc"
     },
     "isObjectivePlayer": false,
@@ -18139,6 +18274,7 @@
       8
     ],
     "canEvolve": true,
+    "evoPopularity": 2,
     "newPlayer": false,
     "itemScore": 1245
   },
@@ -20056,9 +20192,9 @@
     "countryId": 14,
     "leagueId": 13,
     "clubId": 1,
-    "price": 783000,
+    "price": 848000,
     "priceInfo": {
-      "displayPrice": 783000,
+      "displayPrice": 848000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -20143,9 +20279,9 @@
     "countryId": 45,
     "leagueId": 2222,
     "clubId": 116325,
-    "price": 2599000,
+    "price": 2676000,
     "priceInfo": {
-      "displayPrice": 2599000,
+      "displayPrice": 2676000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -20234,9 +20370,9 @@
     "countryId": 83,
     "leagueId": 341,
     "clubId": 111678,
-    "price": 94000,
+    "price": 104000,
     "priceInfo": {
-      "displayPrice": 94000,
+      "displayPrice": 104000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -20314,9 +20450,9 @@
     "countryId": 7,
     "leagueId": 16,
     "clubId": 73,
-    "price": 376000,
+    "price": 396000,
     "priceInfo": {
-      "displayPrice": 376000,
+      "displayPrice": 396000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -20352,6 +20488,7 @@
       7
     ],
     "canEvolve": true,
+    "evoPopularity": 2,
     "newPlayer": false,
     "itemScore": 12450
   },
@@ -20383,9 +20520,9 @@
     "countryId": 14,
     "leagueId": 13,
     "clubId": 13,
-    "price": 115000,
+    "price": 117000,
     "priceInfo": {
-      "displayPrice": 115000,
+      "displayPrice": 117000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -20451,9 +20588,9 @@
     "countryId": 14,
     "leagueId": 2216,
     "clubId": 116017,
-    "price": 54000,
+    "price": 58500,
     "priceInfo": {
-      "displayPrice": 54000,
+      "displayPrice": 58500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -20490,7 +20627,6 @@
       9
     ],
     "canEvolve": true,
-    "evoPopularity": 2,
     "newPlayer": false,
     "itemScore": 3150
   },
@@ -20526,9 +20662,9 @@
     "countryId": 95,
     "leagueId": 2218,
     "clubId": 116033,
-    "price": 43500,
+    "price": 45000,
     "priceInfo": {
-      "displayPrice": 43500,
+      "displayPrice": 45000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -20606,9 +20742,9 @@
     "countryId": 14,
     "leagueId": 13,
     "clubId": 9,
-    "price": 969000,
+    "price": 945000,
     "priceInfo": {
-      "displayPrice": 969000,
+      "displayPrice": 945000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -20682,9 +20818,9 @@
     "countryId": 45,
     "leagueId": 31,
     "clubId": 1745,
-    "price": 265000,
+    "price": 274000,
     "priceInfo": {
-      "displayPrice": 265000,
+      "displayPrice": 274000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -20749,9 +20885,9 @@
     "countryId": 14,
     "leagueId": 13,
     "clubId": 144,
-    "price": 62000,
+    "price": 63500,
     "priceInfo": {
-      "displayPrice": 62000,
+      "displayPrice": 63500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -20829,9 +20965,9 @@
     "countryId": 21,
     "leagueId": 19,
     "clubId": 21,
-    "price": 106000,
+    "price": 108000,
     "priceInfo": {
-      "displayPrice": 106000,
+      "displayPrice": 108000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -20909,9 +21045,9 @@
     "countryId": 45,
     "leagueId": 53,
     "clubId": 457,
-    "price": 92500,
+    "price": 99000,
     "priceInfo": {
-      "displayPrice": 92500,
+      "displayPrice": 99000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -21112,9 +21248,9 @@
     "countryId": 108,
     "leagueId": 31,
     "clubId": 131682,
-    "price": 182000,
+    "price": 188000,
     "priceInfo": {
-      "displayPrice": 182000,
+      "displayPrice": 188000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -21181,9 +21317,9 @@
     "countryId": 95,
     "leagueId": 39,
     "clubId": 689,
-    "price": 42750,
+    "price": 43000,
     "priceInfo": {
-      "displayPrice": 42750,
+      "displayPrice": 43000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -21390,9 +21526,9 @@
     "countryId": 45,
     "leagueId": 2216,
     "clubId": 132176,
-    "price": 2686000,
+    "price": 2786000,
     "priceInfo": {
-      "displayPrice": 2686000,
+      "displayPrice": 2786000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -21477,9 +21613,9 @@
     "countryId": 14,
     "leagueId": 53,
     "clubId": 243,
-    "price": 1699000,
+    "price": 1891000,
     "priceInfo": {
-      "displayPrice": 1699000,
+      "displayPrice": 1891000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -21566,9 +21702,9 @@
     "countryId": 27,
     "leagueId": 13,
     "clubId": 10,
-    "price": 205000,
+    "price": 189000,
     "priceInfo": {
-      "displayPrice": 205000,
+      "displayPrice": 189000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -21632,9 +21768,9 @@
     "countryId": 54,
     "leagueId": 2221,
     "clubId": 116309,
-    "price": 301000,
+    "price": 332000,
     "priceInfo": {
-      "displayPrice": 301000,
+      "displayPrice": 332000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -21710,9 +21846,9 @@
     "countryId": 37,
     "leagueId": 2222,
     "clubId": 116325,
-    "price": 1007000,
+    "price": 1100000,
     "priceInfo": {
-      "displayPrice": 1007000,
+      "displayPrice": 1100000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -21790,9 +21926,9 @@
     "countryId": 14,
     "leagueId": 2216,
     "clubId": 116017,
-    "price": 117000,
+    "price": 130000,
     "priceInfo": {
-      "displayPrice": 117000,
+      "displayPrice": 130000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -21827,7 +21963,6 @@
       25
     ],
     "canEvolve": true,
-    "evoPopularity": 1,
     "newPlayer": false,
     "itemScore": 10375
   },
@@ -21865,9 +22000,9 @@
     "countryId": 38,
     "leagueId": 53,
     "clubId": 241,
-    "price": 48000,
+    "price": 50500,
     "priceInfo": {
-      "displayPrice": 48000,
+      "displayPrice": 50500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -21945,9 +22080,9 @@
     "countryId": 7,
     "leagueId": 31,
     "clubId": 48,
-    "price": 56500,
+    "price": 62000,
     "priceInfo": {
-      "displayPrice": 56500,
+      "displayPrice": 62000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -22018,9 +22153,9 @@
     "countryId": 23,
     "leagueId": 13,
     "clubId": 9,
-    "price": 38250,
+    "price": 37250,
     "priceInfo": {
-      "displayPrice": 38250,
+      "displayPrice": 37250,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -22176,9 +22311,9 @@
     "countryId": 111,
     "leagueId": 13,
     "clubId": 18,
-    "price": 50500,
+    "price": 52000,
     "priceInfo": {
-      "displayPrice": 50500,
+      "displayPrice": 52000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -22255,9 +22390,9 @@
     "countryId": 4,
     "leagueId": 2215,
     "clubId": 116021,
-    "price": 12000,
+    "price": 11000,
     "priceInfo": {
-      "displayPrice": 12000,
+      "displayPrice": 11000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -22334,9 +22469,9 @@
     "countryId": 70,
     "leagueId": 2221,
     "clubId": 132698,
-    "price": 11250,
+    "price": 11000,
     "priceInfo": {
-      "displayPrice": 11250,
+      "displayPrice": 11000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -22413,9 +22548,9 @@
     "countryId": 35,
     "leagueId": 60,
     "clubId": 1951,
-    "price": 11000,
+    "price": 10500,
     "priceInfo": {
-      "displayPrice": 11000,
+      "displayPrice": 10500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -22535,7 +22670,7 @@
       25
     ],
     "canEvolve": true,
-    "evoPopularity": 4,
+    "evoPopularity": 2,
     "newPlayer": false,
     "itemScore": 225
   },
@@ -22567,9 +22702,9 @@
     "countryId": 37,
     "leagueId": 39,
     "clubId": 693,
-    "price": 18000,
+    "price": 18750,
     "priceInfo": {
-      "displayPrice": 18000,
+      "displayPrice": 18750,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -22640,9 +22775,9 @@
     "countryId": 160,
     "leagueId": 10,
     "clubId": 634,
-    "price": 11000,
+    "price": 10500,
     "priceInfo": {
-      "displayPrice": 11000,
+      "displayPrice": 10500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -22715,9 +22850,9 @@
     "countryId": 47,
     "leagueId": 13,
     "clubId": 8,
-    "price": 11250,
+    "price": 10500,
     "priceInfo": {
-      "displayPrice": 11250,
+      "displayPrice": 10500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -22779,9 +22914,9 @@
     "countryId": 22,
     "leagueId": 14,
     "clubId": 19,
-    "price": 11000,
+    "price": 10500,
     "priceInfo": {
-      "displayPrice": 11000,
+      "displayPrice": 10500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -22811,7 +22946,6 @@
       28
     ],
     "canEvolve": true,
-    "evoPopularity": 3,
     "newPlayer": false,
     "itemScore": 225
   },
@@ -22845,9 +22979,9 @@
     "countryId": 25,
     "leagueId": 53,
     "clubId": 449,
-    "price": 13000,
+    "price": 13250,
     "priceInfo": {
-      "displayPrice": 13000,
+      "displayPrice": 13250,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -22912,9 +23046,9 @@
     "countryId": 24,
     "leagueId": 53,
     "clubId": 457,
-    "price": 13250,
+    "price": 12000,
     "priceInfo": {
-      "displayPrice": 13250,
+      "displayPrice": 12000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -22975,9 +23109,9 @@
     "countryId": 13,
     "leagueId": 2215,
     "clubId": 115996,
-    "price": 11000,
+    "price": 11250,
     "priceInfo": {
-      "displayPrice": 11000,
+      "displayPrice": 11250,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -23042,9 +23176,9 @@
     "countryId": 7,
     "leagueId": 2218,
     "clubId": 116035,
-    "price": 11250,
+    "price": 11500,
     "priceInfo": {
-      "displayPrice": 11250,
+      "displayPrice": 11500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -23114,9 +23248,9 @@
     "countryId": 18,
     "leagueId": 2216,
     "clubId": 132176,
-    "price": 741000,
+    "price": 839000,
     "priceInfo": {
-      "displayPrice": 741000,
+      "displayPrice": 839000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -23275,9 +23409,9 @@
     "leagueId": 2222,
     "clubId": 116325,
     "price": 0,
-    "sbcPrice": 1355700,
+    "sbcPrice": 1152450,
     "priceInfo": {
-      "displayPrice": 1355700,
+      "displayPrice": 1152450,
       "source": "sbc"
     },
     "isObjectivePlayer": false,
@@ -23354,9 +23488,9 @@
     "countryId": 18,
     "leagueId": 2218,
     "clubId": 114605,
-    "price": 424000,
+    "price": 449000,
     "priceInfo": {
-      "displayPrice": 424000,
+      "displayPrice": 449000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -24774,9 +24908,9 @@
     "countryId": 18,
     "leagueId": 19,
     "clubId": 21,
-    "price": 1252000,
+    "price": 1300000,
     "priceInfo": {
-      "displayPrice": 1252000,
+      "displayPrice": 1300000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -24846,9 +24980,9 @@
     "countryId": 56,
     "leagueId": 2222,
     "clubId": 116326,
-    "price": 501000,
+    "price": 536000,
     "priceInfo": {
-      "displayPrice": 501000,
+      "displayPrice": 536000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -24930,9 +25064,9 @@
     "countryId": 103,
     "leagueId": 13,
     "clubId": 11,
-    "price": 629000,
+    "price": 693000,
     "priceInfo": {
-      "displayPrice": 629000,
+      "displayPrice": 693000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -25012,9 +25146,9 @@
     "countryId": 95,
     "leagueId": 31,
     "clubId": 45,
-    "price": 140000,
+    "price": 149000,
     "priceInfo": {
-      "displayPrice": 140000,
+      "displayPrice": 149000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -25094,9 +25228,9 @@
     "countryId": 45,
     "leagueId": 53,
     "clubId": 243,
-    "price": 245000,
+    "price": 259000,
     "priceInfo": {
-      "displayPrice": 245000,
+      "displayPrice": 259000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -25160,9 +25294,9 @@
     "countryId": 21,
     "leagueId": 19,
     "clubId": 34,
-    "price": 40250,
+    "price": 39500,
     "priceInfo": {
-      "displayPrice": 40250,
+      "displayPrice": 39500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -25193,6 +25327,7 @@
       16
     ],
     "canEvolve": true,
+    "evoPopularity": 2,
     "newPlayer": false,
     "itemScore": 2625
   },
@@ -25228,9 +25363,9 @@
     "countryId": 38,
     "leagueId": 13,
     "clubId": 18,
-    "price": 66000,
+    "price": 66500,
     "priceInfo": {
-      "displayPrice": 66000,
+      "displayPrice": 66500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -25307,9 +25442,9 @@
     "countryId": 133,
     "leagueId": 53,
     "clubId": 240,
-    "price": 366000,
+    "price": 394000,
     "priceInfo": {
-      "displayPrice": 366000,
+      "displayPrice": 394000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -25386,9 +25521,9 @@
     "countryId": 97,
     "leagueId": 19,
     "clubId": 32,
-    "price": 27250,
+    "price": 27500,
     "priceInfo": {
-      "displayPrice": 27250,
+      "displayPrice": 27500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -25463,9 +25598,9 @@
     "countryId": 37,
     "leagueId": 308,
     "clubId": 236,
-    "price": 25500,
+    "price": 26500,
     "priceInfo": {
-      "displayPrice": 25500,
+      "displayPrice": 26500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -25537,9 +25672,9 @@
     "countryId": 52,
     "leagueId": 31,
     "clubId": 1745,
-    "price": 149000,
+    "price": 175000,
     "priceInfo": {
-      "displayPrice": 149000,
+      "displayPrice": 175000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -25580,7 +25715,6 @@
       8
     ],
     "canEvolve": true,
-    "evoPopularity": 4,
     "newPlayer": false,
     "itemScore": 6875
   },
@@ -25699,9 +25833,9 @@
     "countryId": 14,
     "leagueId": 53,
     "clubId": 241,
-    "price": 275000,
+    "price": 300000,
     "priceInfo": {
-      "displayPrice": 275000,
+      "displayPrice": 300000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -25770,9 +25904,9 @@
     "countryId": 14,
     "leagueId": 16,
     "clubId": 74,
-    "price": 23250,
+    "price": 23500,
     "priceInfo": {
-      "displayPrice": 23250,
+      "displayPrice": 23500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -25909,9 +26043,9 @@
     "leagueId": 53,
     "clubId": 241,
     "price": 0,
-    "sbcPrice": 1566650,
+    "sbcPrice": 1331750,
     "priceInfo": {
-      "displayPrice": 1566650,
+      "displayPrice": 1331750,
       "source": "sbc"
     },
     "isObjectivePlayer": false,
@@ -25998,9 +26132,9 @@
     "leagueId": 13,
     "clubId": 1808,
     "price": 0,
-    "sbcPrice": 23000,
+    "sbcPrice": 19550,
     "priceInfo": {
-      "displayPrice": 23000,
+      "displayPrice": 19550,
       "source": "sbc"
     },
     "isObjectivePlayer": false,
@@ -26039,7 +26173,6 @@
       8
     ],
     "canEvolve": true,
-    "evoPopularity": 1,
     "newPlayer": false,
     "itemScore": 1038
   },
@@ -26076,9 +26209,9 @@
     "leagueId": 19,
     "clubId": 21,
     "price": 0,
-    "sbcPrice": 843700,
+    "sbcPrice": 801550,
     "priceInfo": {
-      "displayPrice": 843700,
+      "displayPrice": 801550,
       "source": "sbc"
     },
     "isObjectivePlayer": false,
@@ -26120,7 +26253,6 @@
       8
     ],
     "canEvolve": true,
-    "evoPopularity": 1,
     "newPlayer": false,
     "itemScore": 23750
   },
@@ -26153,9 +26285,9 @@
     "leagueId": 31,
     "clubId": 52,
     "price": 0,
-    "sbcPrice": 108700,
+    "sbcPrice": 97900,
     "priceInfo": {
-      "displayPrice": 108700,
+      "displayPrice": 97900,
       "source": "sbc"
     },
     "isObjectivePlayer": false,
@@ -26219,9 +26351,9 @@
     "countryId": 125,
     "leagueId": 2221,
     "clubId": 116309,
-    "price": 263000,
+    "price": 275000,
     "priceInfo": {
-      "displayPrice": 263000,
+      "displayPrice": 275000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -26291,9 +26423,9 @@
     "countryId": 27,
     "leagueId": 13,
     "clubId": 1925,
-    "price": 30750,
+    "price": 32000,
     "priceInfo": {
-      "displayPrice": 30750,
+      "displayPrice": 32000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -26363,9 +26495,9 @@
     "countryId": 36,
     "leagueId": 13,
     "clubId": 1,
-    "price": 119000,
+    "price": 127000,
     "priceInfo": {
-      "displayPrice": 119000,
+      "displayPrice": 127000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -26434,9 +26566,9 @@
     "countryId": 22,
     "leagueId": 13,
     "clubId": 1952,
-    "price": 14500,
+    "price": 15000,
     "priceInfo": {
-      "displayPrice": 14500,
+      "displayPrice": 15000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -26500,9 +26632,9 @@
     "countryId": 10,
     "leagueId": 31,
     "clubId": 131681,
-    "price": 52500,
+    "price": 57500,
     "priceInfo": {
-      "displayPrice": 52500,
+      "displayPrice": 57500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -26579,9 +26711,9 @@
     "countryId": 195,
     "leagueId": 2216,
     "clubId": 116010,
-    "price": 25500,
+    "price": 24750,
     "priceInfo": {
-      "displayPrice": 25500,
+      "displayPrice": 24750,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -26653,9 +26785,9 @@
     "countryId": 38,
     "leagueId": 350,
     "clubId": 112139,
-    "price": 216000,
+    "price": 224000,
     "priceInfo": {
-      "displayPrice": 216000,
+      "displayPrice": 224000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -26735,9 +26867,9 @@
     "countryId": 4,
     "leagueId": 19,
     "clubId": 169,
-    "price": 12500,
+    "price": 11750,
     "priceInfo": {
-      "displayPrice": 12500,
+      "displayPrice": 11750,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -26781,7 +26913,6 @@
       9
     ],
     "canEvolve": true,
-    "evoPopularity": 2,
     "newPlayer": false,
     "itemScore": 225
   },
@@ -26819,9 +26950,9 @@
     "countryId": 167,
     "leagueId": 39,
     "clubId": 112996,
-    "price": 60500,
+    "price": 65500,
     "priceInfo": {
-      "displayPrice": 60500,
+      "displayPrice": 65500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -26896,9 +27027,9 @@
     "countryId": 95,
     "leagueId": 14,
     "clubId": 12,
-    "price": 11000,
+    "price": 11750,
     "priceInfo": {
-      "displayPrice": 11000,
+      "displayPrice": 11750,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -26973,9 +27104,9 @@
     "countryId": 45,
     "leagueId": 53,
     "clubId": 240,
-    "price": 18750,
+    "price": 18500,
     "priceInfo": {
-      "displayPrice": 18750,
+      "displayPrice": 18500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -27053,9 +27184,9 @@
     "countryId": 35,
     "leagueId": 13,
     "clubId": 144,
-    "price": 12250,
+    "price": 12000,
     "priceInfo": {
-      "displayPrice": 12250,
+      "displayPrice": 12000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -27123,9 +27254,9 @@
     "countryId": 46,
     "leagueId": 13,
     "clubId": 1,
-    "price": 67000,
+    "price": 66000,
     "priceInfo": {
-      "displayPrice": 67000,
+      "displayPrice": 66000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -27195,9 +27326,9 @@
     "countryId": 95,
     "leagueId": 2221,
     "clubId": 116310,
-    "price": 13750,
+    "price": 14250,
     "priceInfo": {
-      "displayPrice": 13750,
+      "displayPrice": 14250,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -27280,9 +27411,9 @@
     "countryId": 45,
     "leagueId": 2222,
     "clubId": 116328,
-    "price": 12750,
+    "price": 12250,
     "priceInfo": {
-      "displayPrice": 12750,
+      "displayPrice": 12250,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -27432,9 +27563,9 @@
     "countryId": 47,
     "leagueId": 14,
     "clubId": 1796,
-    "price": 11250,
+    "price": 10750,
     "priceInfo": {
-      "displayPrice": 11250,
+      "displayPrice": 10750,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -27505,9 +27636,9 @@
     "countryId": 95,
     "leagueId": 39,
     "clubId": 112134,
-    "price": 12000,
+    "price": 12250,
     "priceInfo": {
-      "displayPrice": 12000,
+      "displayPrice": 12250,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -27585,9 +27716,9 @@
     "countryId": 103,
     "leagueId": 16,
     "clubId": 57,
-    "price": 12250,
+    "price": 13000,
     "priceInfo": {
-      "displayPrice": 12250,
+      "displayPrice": 13000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -27728,9 +27859,9 @@
     "countryId": 34,
     "leagueId": 10,
     "clubId": 1906,
-    "price": 10750,
+    "price": 11250,
     "priceInfo": {
-      "displayPrice": 10750,
+      "displayPrice": 11250,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -27793,9 +27924,9 @@
     "countryId": 83,
     "leagueId": 341,
     "clubId": 1879,
-    "price": 10500,
+    "price": 11000,
     "priceInfo": {
-      "displayPrice": 10500,
+      "displayPrice": 11000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -27856,9 +27987,9 @@
     "countryId": 163,
     "leagueId": 16,
     "clubId": 65,
-    "price": 11250,
+    "price": 11750,
     "priceInfo": {
-      "displayPrice": 11250,
+      "displayPrice": 11750,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -28137,9 +28268,9 @@
     "countryId": 38,
     "leagueId": 16,
     "clubId": 73,
-    "price": 1436000,
+    "price": 1375000,
     "priceInfo": {
-      "displayPrice": 1436000,
+      "displayPrice": 1375000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -28214,9 +28345,9 @@
     "countryId": 39,
     "leagueId": 53,
     "clubId": 480,
-    "price": 134000,
+    "price": 135000,
     "priceInfo": {
-      "displayPrice": 134000,
+      "displayPrice": 135000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -28290,9 +28421,9 @@
     "countryId": 38,
     "leagueId": 2222,
     "clubId": 116325,
-    "price": 1046000,
+    "price": 1030000,
     "priceInfo": {
-      "displayPrice": 1046000,
+      "displayPrice": 1030000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -28367,9 +28498,9 @@
     "countryId": 45,
     "leagueId": 53,
     "clubId": 448,
-    "price": 153000,
+    "price": 154000,
     "priceInfo": {
-      "displayPrice": 153000,
+      "displayPrice": 154000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -28442,9 +28573,9 @@
     "countryId": 183,
     "leagueId": 16,
     "clubId": 64,
-    "price": 32750,
+    "price": 34750,
     "priceInfo": {
-      "displayPrice": 32750,
+      "displayPrice": 34750,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -28519,9 +28650,9 @@
     "countryId": 21,
     "leagueId": 31,
     "clubId": 131682,
-    "price": 178000,
+    "price": 188000,
     "priceInfo": {
-      "displayPrice": 178000,
+      "displayPrice": 188000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -28588,9 +28719,9 @@
     "countryId": 14,
     "leagueId": 13,
     "clubId": 5,
-    "price": 452000,
+    "price": 448000,
     "priceInfo": {
-      "displayPrice": 452000,
+      "displayPrice": 448000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -28669,9 +28800,9 @@
     "countryId": 48,
     "leagueId": 68,
     "clubId": 327,
-    "price": 52000,
+    "price": 57000,
     "priceInfo": {
-      "displayPrice": 52000,
+      "displayPrice": 57000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -28744,9 +28875,9 @@
     "countryId": 46,
     "leagueId": 13,
     "clubId": 9,
-    "price": 708000,
+    "price": 777000,
     "priceInfo": {
-      "displayPrice": 708000,
+      "displayPrice": 777000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -28813,9 +28944,9 @@
     "countryId": 21,
     "leagueId": 19,
     "clubId": 36,
-    "price": 41750,
+    "price": 43500,
     "priceInfo": {
-      "displayPrice": 41750,
+      "displayPrice": 43500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -28887,9 +29018,9 @@
     "countryId": 34,
     "leagueId": 19,
     "clubId": 22,
-    "price": 31000,
+    "price": 32000,
     "priceInfo": {
-      "displayPrice": 31000,
+      "displayPrice": 32000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -28931,6 +29062,7 @@
       8
     ],
     "canEvolve": true,
+    "evoPopularity": 2,
     "newPlayer": false,
     "itemScore": 2625
   },
@@ -29033,9 +29165,9 @@
     "countryId": 115,
     "leagueId": 53,
     "clubId": 242,
-    "price": 95500,
+    "price": 100000,
     "priceInfo": {
-      "displayPrice": 95500,
+      "displayPrice": 100000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -29105,9 +29237,9 @@
     "leagueId": 39,
     "clubId": 114162,
     "price": 0,
-    "sbcPrice": 5000,
+    "sbcPrice": 4250,
     "priceInfo": {
-      "displayPrice": 5000,
+      "displayPrice": 4250,
       "source": "sbc"
     },
     "isObjectivePlayer": false,
@@ -29190,9 +29322,9 @@
     "countryId": 54,
     "leagueId": 53,
     "clubId": 241,
-    "price": 1973000,
+    "price": 0,
     "priceInfo": {
-      "displayPrice": 1973000,
+      "displayPrice": 0,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -29278,9 +29410,9 @@
     "countryId": 95,
     "leagueId": 2221,
     "clubId": 116302,
-    "price": 862000,
+    "price": 901000,
     "priceInfo": {
-      "displayPrice": 862000,
+      "displayPrice": 901000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -29317,7 +29449,6 @@
       23
     ],
     "canEvolve": true,
-    "evoPopularity": 3,
     "newPlayer": false,
     "itemScore": 13750
   },
@@ -29353,9 +29484,9 @@
     "countryId": 18,
     "leagueId": 19,
     "clubId": 21,
-    "price": 1154000,
+    "price": 1181000,
     "priceInfo": {
-      "displayPrice": 1154000,
+      "displayPrice": 1181000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -29434,9 +29565,9 @@
     "countryId": 111,
     "leagueId": 68,
     "clubId": 436,
-    "price": 431000,
+    "price": 428000,
     "priceInfo": {
-      "displayPrice": 431000,
+      "displayPrice": 428000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -29512,9 +29643,9 @@
     "countryId": 54,
     "leagueId": 16,
     "clubId": 73,
-    "price": 291000,
+    "price": 312000,
     "priceInfo": {
-      "displayPrice": 291000,
+      "displayPrice": 312000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -29583,9 +29714,9 @@
     "countryId": 45,
     "leagueId": 53,
     "clubId": 483,
-    "price": 63500,
+    "price": 66500,
     "priceInfo": {
-      "displayPrice": 63500,
+      "displayPrice": 66500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -29662,9 +29793,9 @@
     "countryId": 45,
     "leagueId": 19,
     "clubId": 32,
-    "price": 13500,
+    "price": 14250,
     "priceInfo": {
-      "displayPrice": 13500,
+      "displayPrice": 14250,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -29738,9 +29869,9 @@
     "countryId": 14,
     "leagueId": 50,
     "clubId": 86,
-    "price": 16750,
+    "price": 18750,
     "priceInfo": {
-      "displayPrice": 16750,
+      "displayPrice": 18750,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -29821,9 +29952,9 @@
     "countryId": 97,
     "leagueId": 10,
     "clubId": 246,
-    "price": 50000,
+    "price": 58000,
     "priceInfo": {
-      "displayPrice": 50000,
+      "displayPrice": 58000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -29896,9 +30027,9 @@
     "countryId": 117,
     "leagueId": 13,
     "clubId": 10,
-    "price": 96500,
+    "price": 90500,
     "priceInfo": {
-      "displayPrice": 96500,
+      "displayPrice": 90500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -29975,9 +30106,9 @@
     "countryId": 18,
     "leagueId": 16,
     "clubId": 66,
-    "price": 18250,
+    "price": 17250,
     "priceInfo": {
-      "displayPrice": 18250,
+      "displayPrice": 17250,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -30054,9 +30185,9 @@
     "countryId": 80,
     "leagueId": 189,
     "clubId": 10032,
-    "price": 11000,
+    "price": 10750,
     "priceInfo": {
-      "displayPrice": 11000,
+      "displayPrice": 10750,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -30131,9 +30262,9 @@
     "countryId": 207,
     "leagueId": 308,
     "clubId": 236,
-    "price": 11500,
+    "price": 12000,
     "priceInfo": {
-      "displayPrice": 11500,
+      "displayPrice": 12000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -30210,9 +30341,9 @@
     "countryId": 21,
     "leagueId": 2215,
     "clubId": 115999,
-    "price": 11500,
+    "price": 11750,
     "priceInfo": {
-      "displayPrice": 11500,
+      "displayPrice": 11750,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -30257,7 +30388,6 @@
       9
     ],
     "canEvolve": true,
-    "evoPopularity": 10,
     "newPlayer": false,
     "itemScore": 225
   },
@@ -30289,9 +30419,9 @@
     "countryId": 27,
     "leagueId": 31,
     "clubId": 111657,
-    "price": 13500,
+    "price": 12000,
     "priceInfo": {
-      "displayPrice": 13500,
+      "displayPrice": 12000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -30353,9 +30483,9 @@
     "countryId": 21,
     "leagueId": 13,
     "clubId": 1808,
-    "price": 12250,
+    "price": 13000,
     "priceInfo": {
-      "displayPrice": 12250,
+      "displayPrice": 13000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -30423,9 +30553,9 @@
     "countryId": 70,
     "leagueId": 53,
     "clubId": 240,
-    "price": 17500,
+    "price": 15750,
     "priceInfo": {
-      "displayPrice": 17500,
+      "displayPrice": 15750,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -30494,9 +30624,9 @@
     "countryId": 25,
     "leagueId": 14,
     "clubId": 1961,
-    "price": 11000,
+    "price": 10500,
     "priceInfo": {
-      "displayPrice": 11000,
+      "displayPrice": 10500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -30578,9 +30708,9 @@
     "countryId": 21,
     "leagueId": 39,
     "clubId": 697,
-    "price": 22500,
+    "price": 23500,
     "priceInfo": {
-      "displayPrice": 22500,
+      "displayPrice": 23500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -30652,9 +30782,9 @@
     "countryId": 46,
     "leagueId": 2222,
     "clubId": 116326,
-    "price": 12250,
+    "price": 12750,
     "priceInfo": {
-      "displayPrice": 12250,
+      "displayPrice": 12750,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -30684,7 +30814,6 @@
       9
     ],
     "canEvolve": true,
-    "evoPopularity": 2,
     "newPlayer": false,
     "itemScore": 225
   },
@@ -30722,9 +30851,9 @@
     "countryId": 13,
     "leagueId": 2216,
     "clubId": 116011,
-    "price": 10750,
+    "price": 11250,
     "priceInfo": {
-      "displayPrice": 10750,
+      "displayPrice": 11250,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -30797,9 +30926,9 @@
     "countryId": 219,
     "leagueId": 68,
     "clubId": 326,
-    "price": 12000,
+    "price": 11750,
     "priceInfo": {
-      "displayPrice": 12000,
+      "displayPrice": 11750,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -30860,9 +30989,9 @@
     "countryId": 60,
     "leagueId": 1014,
     "clubId": 113143,
-    "price": 10750,
+    "price": 10500,
     "priceInfo": {
-      "displayPrice": 10750,
+      "displayPrice": 10500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -31296,7 +31425,7 @@
       27
     ],
     "canEvolve": true,
-    "evoPopularity": 126,
+    "evoPopularity": 136,
     "newPlayer": false,
     "itemScore": 2100
   },
@@ -31368,7 +31497,7 @@
       29
     ],
     "canEvolve": true,
-    "evoPopularity": 79,
+    "evoPopularity": 58,
     "newPlayer": false,
     "itemScore": 2100
   },
@@ -31440,7 +31569,7 @@
       6
     ],
     "canEvolve": true,
-    "evoPopularity": 4,
+    "evoPopularity": 23,
     "newPlayer": false,
     "itemScore": 2100
   },
@@ -31504,6 +31633,7 @@
       6
     ],
     "canEvolve": true,
+    "evoPopularity": 1,
     "newPlayer": false,
     "itemScore": 830
   },
@@ -31574,7 +31704,7 @@
       9
     ],
     "canEvolve": true,
-    "evoPopularity": 16,
+    "evoPopularity": 7,
     "newPlayer": false,
     "itemScore": 830
   },
@@ -31788,7 +31918,7 @@
       6
     ],
     "canEvolve": true,
-    "evoPopularity": 5,
+    "evoPopularity": 2,
     "newPlayer": false,
     "itemScore": 2100
   },
@@ -32078,6 +32208,7 @@
       8
     ],
     "canEvolve": true,
+    "evoPopularity": 8,
     "newPlayer": false,
     "itemScore": 830
   },
@@ -32287,6 +32418,7 @@
       6
     ],
     "canEvolve": true,
+    "evoPopularity": 1,
     "newPlayer": false,
     "itemScore": 830
   },
@@ -32642,9 +32774,9 @@
     "countryId": 21,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 5751000,
+    "price": 5555000,
     "priceInfo": {
-      "displayPrice": 5751000,
+      "displayPrice": 5555000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -32713,9 +32845,9 @@
     "countryId": 18,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 0,
+    "price": 3940000,
     "priceInfo": {
-      "displayPrice": 0,
+      "displayPrice": 3940000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -32780,9 +32912,9 @@
     "countryId": 27,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 4549000,
+    "price": 4694000,
     "priceInfo": {
-      "displayPrice": 4549000,
+      "displayPrice": 4694000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -32849,9 +32981,9 @@
     "countryId": 18,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 4550000,
+    "price": 9799000,
     "priceInfo": {
-      "displayPrice": 4550000,
+      "displayPrice": 9799000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -32920,9 +33052,9 @@
     "countryId": 95,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 9832000,
+    "price": 9981000,
     "priceInfo": {
-      "displayPrice": 9832000,
+      "displayPrice": 9981000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -32989,9 +33121,9 @@
     "countryId": 54,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 2445000,
+    "price": 2498000,
     "priceInfo": {
-      "displayPrice": 2445000,
+      "displayPrice": 2498000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -33058,9 +33190,9 @@
     "countryId": 54,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 7998000,
+    "price": 8479000,
     "priceInfo": {
-      "displayPrice": 7998000,
+      "displayPrice": 8479000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -33125,9 +33257,9 @@
     "countryId": 14,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 2248000,
+    "price": 2298000,
     "priceInfo": {
-      "displayPrice": 2248000,
+      "displayPrice": 2298000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -33196,9 +33328,9 @@
     "countryId": 14,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 3000000,
+    "price": 3119000,
     "priceInfo": {
-      "displayPrice": 3000000,
+      "displayPrice": 3119000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -33267,9 +33399,9 @@
     "countryId": 54,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 2458000,
+    "price": 2397000,
     "priceInfo": {
-      "displayPrice": 2458000,
+      "displayPrice": 2397000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -33336,9 +33468,9 @@
     "countryId": 163,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 1785000,
+    "price": 1851000,
     "priceInfo": {
-      "displayPrice": 1785000,
+      "displayPrice": 1851000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -33405,9 +33537,9 @@
     "countryId": 54,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 3796000,
+    "price": 4958000,
     "priceInfo": {
-      "displayPrice": 3796000,
+      "displayPrice": 4958000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -33473,9 +33605,9 @@
     "countryId": 18,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 2849000,
+    "price": 2549000,
     "priceInfo": {
-      "displayPrice": 2849000,
+      "displayPrice": 2549000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -33539,9 +33671,9 @@
     "countryId": 52,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 6591000,
+    "price": 6950000,
     "priceInfo": {
-      "displayPrice": 6591000,
+      "displayPrice": 6950000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -33609,9 +33741,9 @@
     "countryId": 54,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 5945000,
+    "price": 5854000,
     "priceInfo": {
-      "displayPrice": 5945000,
+      "displayPrice": 5854000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -33646,6 +33778,7 @@
       5
     ],
     "canEvolve": true,
+    "evoPopularity": 1,
     "newPlayer": false,
     "itemScore": 28500
   },
@@ -33685,9 +33818,9 @@
     "countryId": 34,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 8386000,
+    "price": 8748000,
     "priceInfo": {
-      "displayPrice": 8386000,
+      "displayPrice": 8748000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -33758,9 +33891,9 @@
     "countryId": 18,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 4147000,
+    "price": 4297000,
     "priceInfo": {
-      "displayPrice": 4147000,
+      "displayPrice": 4297000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -33825,9 +33958,9 @@
     "countryId": 38,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 0,
+    "price": 9251000,
     "priceInfo": {
-      "displayPrice": 0,
+      "displayPrice": 9251000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -33895,9 +34028,9 @@
     "countryId": 21,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 2549000,
+    "price": 2665000,
     "priceInfo": {
-      "displayPrice": 2549000,
+      "displayPrice": 2665000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -33963,9 +34096,9 @@
     "countryId": 45,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 790000,
+    "price": 810000,
     "priceInfo": {
-      "displayPrice": 790000,
+      "displayPrice": 810000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -34024,9 +34157,9 @@
     "countryId": 13,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 487000,
+    "price": 494000,
     "priceInfo": {
-      "displayPrice": 487000,
+      "displayPrice": 494000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -34085,9 +34218,9 @@
     "countryId": 27,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 999000,
+    "price": 1059000,
     "priceInfo": {
-      "displayPrice": 999000,
+      "displayPrice": 1059000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -34150,9 +34283,9 @@
     "countryId": 54,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 7000000,
+    "price": 6400000,
     "priceInfo": {
-      "displayPrice": 7000000,
+      "displayPrice": 6400000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -34220,9 +34353,9 @@
     "countryId": 34,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 6147000,
+    "price": 6299000,
     "priceInfo": {
-      "displayPrice": 6147000,
+      "displayPrice": 6299000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -34289,9 +34422,9 @@
     "countryId": 18,
     "leagueId": 16,
     "clubId": 114605,
-    "price": 2685000,
+    "price": 3099000,
     "priceInfo": {
-      "displayPrice": 2685000,
+      "displayPrice": 3099000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -34359,9 +34492,9 @@
     "countryId": 54,
     "leagueId": 13,
     "clubId": 114605,
-    "price": 1795000,
+    "price": 1950000,
     "priceInfo": {
-      "displayPrice": 1795000,
+      "displayPrice": 1950000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -34433,9 +34566,9 @@
     "countryId": 80,
     "leagueId": 2218,
     "clubId": 116033,
-    "price": 3261000,
+    "price": 3243000,
     "priceInfo": {
-      "displayPrice": 3261000,
+      "displayPrice": 3243000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -34512,9 +34645,9 @@
     "countryId": 34,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 727000,
+    "price": 731000,
     "priceInfo": {
-      "displayPrice": 727000,
+      "displayPrice": 731000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -34575,9 +34708,9 @@
     "countryId": 18,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 1139000,
+    "price": 1245000,
     "priceInfo": {
-      "displayPrice": 1139000,
+      "displayPrice": 1245000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -34645,9 +34778,9 @@
     "countryId": 54,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 3789000,
+    "price": 3855000,
     "priceInfo": {
-      "displayPrice": 3789000,
+      "displayPrice": 3855000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -34715,9 +34848,9 @@
     "countryId": 45,
     "leagueId": 53,
     "clubId": 241,
-    "price": 1600000,
+    "price": 1669000,
     "priceInfo": {
-      "displayPrice": 1600000,
+      "displayPrice": 1669000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -34788,9 +34921,9 @@
     "countryId": 54,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 1056000,
+    "price": 1086000,
     "priceInfo": {
-      "displayPrice": 1056000,
+      "displayPrice": 1086000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -34860,9 +34993,9 @@
     "countryId": 18,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 1330000,
+    "price": 1340000,
     "priceInfo": {
-      "displayPrice": 1330000,
+      "displayPrice": 1340000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -34930,9 +35063,9 @@
     "countryId": 25,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 895000,
+    "price": 901000,
     "priceInfo": {
-      "displayPrice": 895000,
+      "displayPrice": 901000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -34996,9 +35129,9 @@
     "countryId": 21,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 634000,
+    "price": 677000,
     "priceInfo": {
-      "displayPrice": 634000,
+      "displayPrice": 677000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -35057,9 +35190,9 @@
     "countryId": 23,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 2934000,
+    "price": 2919000,
     "priceInfo": {
-      "displayPrice": 2934000,
+      "displayPrice": 2919000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -35127,9 +35260,9 @@
     "countryId": 7,
     "leagueId": 13,
     "clubId": 114605,
-    "price": 0,
+    "price": 1891000,
     "priceInfo": {
-      "displayPrice": 0,
+      "displayPrice": 1891000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -35194,9 +35327,9 @@
     "countryId": 34,
     "leagueId": 13,
     "clubId": 114605,
-    "price": 1398000,
+    "price": 1450000,
     "priceInfo": {
-      "displayPrice": 1398000,
+      "displayPrice": 1450000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -35262,9 +35395,9 @@
     "countryId": 45,
     "leagueId": 53,
     "clubId": 243,
-    "price": 771000,
+    "price": 870000,
     "priceInfo": {
-      "displayPrice": 771000,
+      "displayPrice": 870000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -35305,7 +35438,6 @@
       26
     ],
     "canEvolve": true,
-    "evoPopularity": 6,
     "newPlayer": false,
     "itemScore": 513
   },
@@ -35345,9 +35477,9 @@
     "countryId": 35,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 2100000,
+    "price": 2290000,
     "priceInfo": {
-      "displayPrice": 2100000,
+      "displayPrice": 2290000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -35420,9 +35552,9 @@
     "countryId": 45,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 1839000,
+    "price": 1929000,
     "priceInfo": {
-      "displayPrice": 1839000,
+      "displayPrice": 1929000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -35491,9 +35623,9 @@
     "countryId": 42,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 2248000,
+    "price": 2318000,
     "priceInfo": {
-      "displayPrice": 2248000,
+      "displayPrice": 2318000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -35564,9 +35696,9 @@
     "countryId": 95,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 1619000,
+    "price": 1729000,
     "priceInfo": {
-      "displayPrice": 1619000,
+      "displayPrice": 1729000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -35633,9 +35765,9 @@
     "countryId": 27,
     "leagueId": 31,
     "clubId": 114605,
-    "price": 594000,
+    "price": 584000,
     "priceInfo": {
-      "displayPrice": 594000,
+      "displayPrice": 584000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -35703,9 +35835,9 @@
     "countryId": 18,
     "leagueId": 16,
     "clubId": 114605,
-    "price": 3318000,
+    "price": 3342000,
     "priceInfo": {
-      "displayPrice": 3318000,
+      "displayPrice": 3342000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -35776,9 +35908,9 @@
     "countryId": 27,
     "leagueId": 31,
     "clubId": 114605,
-    "price": 1529000,
+    "price": 1621000,
     "priceInfo": {
-      "displayPrice": 1529000,
+      "displayPrice": 1621000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -35845,9 +35977,9 @@
     "countryId": 18,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 2269000,
+    "price": 2550000,
     "priceInfo": {
-      "displayPrice": 2269000,
+      "displayPrice": 2550000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -35915,9 +36047,9 @@
     "countryId": 117,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 1019000,
+    "price": 1093000,
     "priceInfo": {
-      "displayPrice": 1019000,
+      "displayPrice": 1093000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -35986,9 +36118,9 @@
     "countryId": 36,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 799000,
+    "price": 841000,
     "priceInfo": {
-      "displayPrice": 799000,
+      "displayPrice": 841000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -36059,9 +36191,9 @@
     "countryId": 21,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 2259000,
+    "price": 2206000,
     "priceInfo": {
-      "displayPrice": 2259000,
+      "displayPrice": 2206000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -36127,9 +36259,9 @@
     "countryId": 27,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 858000,
+    "price": 851000,
     "priceInfo": {
-      "displayPrice": 858000,
+      "displayPrice": 851000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -36193,9 +36325,9 @@
     "countryId": 14,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 781000,
+    "price": 817000,
     "priceInfo": {
-      "displayPrice": 781000,
+      "displayPrice": 817000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -36260,9 +36392,9 @@
     "countryId": 27,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 1557000,
+    "price": 1613000,
     "priceInfo": {
-      "displayPrice": 1557000,
+      "displayPrice": 1613000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -36331,9 +36463,9 @@
     "countryId": 54,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 1737000,
+    "price": 1826000,
     "priceInfo": {
-      "displayPrice": 1737000,
+      "displayPrice": 1826000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -36400,9 +36532,9 @@
     "countryId": 103,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 2288000,
+    "price": 2402000,
     "priceInfo": {
-      "displayPrice": 2288000,
+      "displayPrice": 2402000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -36465,9 +36597,9 @@
     "countryId": 54,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 2574000,
+    "price": 2381000,
     "priceInfo": {
-      "displayPrice": 2574000,
+      "displayPrice": 2381000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -36531,9 +36663,9 @@
     "countryId": 12,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 421000,
+    "price": 441000,
     "priceInfo": {
-      "displayPrice": 421000,
+      "displayPrice": 441000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -36592,9 +36724,9 @@
     "countryId": 14,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 570000,
+    "price": 572000,
     "priceInfo": {
-      "displayPrice": 570000,
+      "displayPrice": 572000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -36656,9 +36788,9 @@
     "countryId": 56,
     "leagueId": 31,
     "clubId": 114605,
-    "price": 919000,
+    "price": 935000,
     "priceInfo": {
-      "displayPrice": 919000,
+      "displayPrice": 935000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -36720,9 +36852,9 @@
     "countryId": 38,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 959000,
+    "price": 993000,
     "priceInfo": {
-      "displayPrice": 959000,
+      "displayPrice": 993000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -36754,6 +36886,7 @@
       26
     ],
     "canEvolve": true,
+    "evoPopularity": 2,
     "newPlayer": false,
     "itemScore": 16500
   },
@@ -36785,9 +36918,9 @@
     "countryId": 95,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 2800000,
+    "price": 3088000,
     "priceInfo": {
-      "displayPrice": 2800000,
+      "displayPrice": 3088000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -36856,9 +36989,9 @@
     "countryId": 34,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 638000,
+    "price": 716000,
     "priceInfo": {
-      "displayPrice": 638000,
+      "displayPrice": 716000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -36926,9 +37059,9 @@
     "countryId": 54,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 898000,
+    "price": 998000,
     "priceInfo": {
-      "displayPrice": 898000,
+      "displayPrice": 998000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -36997,9 +37130,9 @@
     "countryId": 34,
     "leagueId": 31,
     "clubId": 114605,
-    "price": 769000,
+    "price": 796000,
     "priceInfo": {
-      "displayPrice": 769000,
+      "displayPrice": 796000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -37066,9 +37199,9 @@
     "countryId": 37,
     "leagueId": 13,
     "clubId": 114605,
-    "price": 89500,
+    "price": 86500,
     "priceInfo": {
-      "displayPrice": 89500,
+      "displayPrice": 86500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -37134,9 +37267,9 @@
     "countryId": 38,
     "leagueId": 53,
     "clubId": 114605,
-    "price": 798000,
+    "price": 816000,
     "priceInfo": {
-      "displayPrice": 798000,
+      "displayPrice": 816000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -37171,6 +37304,7 @@
       8
     ],
     "canEvolve": true,
+    "evoPopularity": 2,
     "newPlayer": false,
     "itemScore": 10375
   },
@@ -37202,9 +37336,9 @@
     "countryId": 54,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 1820000,
+    "price": 1791000,
     "priceInfo": {
-      "displayPrice": 1820000,
+      "displayPrice": 1791000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -37271,9 +37405,9 @@
     "countryId": 21,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 705000,
+    "price": 733000,
     "priceInfo": {
-      "displayPrice": 705000,
+      "displayPrice": 733000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -37346,9 +37480,9 @@
     "countryId": 50,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 2689000,
+    "price": 2800000,
     "priceInfo": {
-      "displayPrice": 2689000,
+      "displayPrice": 2800000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -37495,9 +37629,9 @@
     "countryId": 108,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 2006000,
+    "price": 2049000,
     "priceInfo": {
-      "displayPrice": 2006000,
+      "displayPrice": 2049000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -37568,9 +37702,9 @@
     "countryId": 45,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 1034000,
+    "price": 1121000,
     "priceInfo": {
-      "displayPrice": 1034000,
+      "displayPrice": 1121000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -37642,9 +37776,9 @@
     "countryId": 18,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 897000,
+    "price": 929000,
     "priceInfo": {
-      "displayPrice": 897000,
+      "displayPrice": 929000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -37712,9 +37846,9 @@
     "countryId": 46,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 1008000,
+    "price": 951000,
     "priceInfo": {
-      "displayPrice": 1008000,
+      "displayPrice": 951000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -37785,9 +37919,9 @@
     "countryId": 54,
     "leagueId": 19,
     "clubId": 114605,
-    "price": 710000,
+    "price": 687000,
     "priceInfo": {
-      "displayPrice": 710000,
+      "displayPrice": 687000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -37854,9 +37988,9 @@
     "countryId": 18,
     "leagueId": 2218,
     "clubId": 114605,
-    "price": 476000,
+    "price": 490000,
     "priceInfo": {
-      "displayPrice": 476000,
+      "displayPrice": 490000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -37886,6 +38020,7 @@
       28
     ],
     "canEvolve": true,
+    "evoPopularity": 2,
     "newPlayer": false,
     "itemScore": 6875
   },
@@ -37923,9 +38058,9 @@
     "countryId": 27,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 551000,
+    "price": 503000,
     "priceInfo": {
-      "displayPrice": 551000,
+      "displayPrice": 503000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -37993,9 +38128,9 @@
     "countryId": 27,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 1079000,
+    "price": 1084000,
     "priceInfo": {
-      "displayPrice": 1079000,
+      "displayPrice": 1084000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -38060,9 +38195,9 @@
     "countryId": 38,
     "leagueId": 308,
     "clubId": 114605,
-    "price": 454000,
+    "price": 483000,
     "priceInfo": {
-      "displayPrice": 454000,
+      "displayPrice": 483000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -38094,7 +38229,6 @@
       19
     ],
     "canEvolve": true,
-    "evoPopularity": 4,
     "newPlayer": false,
     "itemScore": 10375
   },
@@ -38128,9 +38262,9 @@
     "countryId": 43,
     "leagueId": 31,
     "clubId": 114605,
-    "price": 649000,
+    "price": 735000,
     "priceInfo": {
-      "displayPrice": 649000,
+      "displayPrice": 735000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -38197,9 +38331,9 @@
     "countryId": 46,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 1170000,
+    "price": 1248000,
     "priceInfo": {
-      "displayPrice": 1170000,
+      "displayPrice": 1248000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -38265,9 +38399,9 @@
     "countryId": 21,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 480000,
+    "price": 520000,
     "priceInfo": {
-      "displayPrice": 480000,
+      "displayPrice": 520000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -38332,9 +38466,9 @@
     "countryId": 18,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 974000,
+    "price": 996000,
     "priceInfo": {
-      "displayPrice": 974000,
+      "displayPrice": 996000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -38401,9 +38535,9 @@
     "countryId": 18,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 1135000,
+    "price": 1174000,
     "priceInfo": {
-      "displayPrice": 1135000,
+      "displayPrice": 1174000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -38471,9 +38605,9 @@
     "countryId": 117,
     "leagueId": 16,
     "clubId": 114605,
-    "price": 780000,
+    "price": 817000,
     "priceInfo": {
-      "displayPrice": 780000,
+      "displayPrice": 817000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -38538,9 +38672,9 @@
     "countryId": 45,
     "leagueId": 13,
     "clubId": 1,
-    "price": 300000,
+    "price": 299000,
     "priceInfo": {
-      "displayPrice": 300000,
+      "displayPrice": 299000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -38673,9 +38807,9 @@
     "countryId": 9,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 1453000,
+    "price": 1536000,
     "priceInfo": {
-      "displayPrice": 1453000,
+      "displayPrice": 1536000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -38922,9 +39056,9 @@
     "countryId": 70,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 944000,
+    "price": 999000,
     "priceInfo": {
-      "displayPrice": 944000,
+      "displayPrice": 999000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -38994,9 +39128,9 @@
     "countryId": 14,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 700000,
+    "price": 711000,
     "priceInfo": {
-      "displayPrice": 700000,
+      "displayPrice": 711000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -39064,9 +39198,9 @@
     "countryId": 54,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 634000,
+    "price": 650000,
     "priceInfo": {
-      "displayPrice": 634000,
+      "displayPrice": 650000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -39136,9 +39270,9 @@
     "countryId": 163,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 960000,
+    "price": 1043000,
     "priceInfo": {
-      "displayPrice": 960000,
+      "displayPrice": 1043000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -39207,9 +39341,9 @@
     "countryId": 95,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 529000,
+    "price": 577000,
     "priceInfo": {
-      "displayPrice": 529000,
+      "displayPrice": 577000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -39275,9 +39409,9 @@
     "countryId": 52,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 2951000,
+    "price": 3074000,
     "priceInfo": {
-      "displayPrice": 2951000,
+      "displayPrice": 3074000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -39342,9 +39476,9 @@
     "countryId": 7,
     "leagueId": 13,
     "clubId": 114605,
-    "price": 658000,
+    "price": 669000,
     "priceInfo": {
-      "displayPrice": 658000,
+      "displayPrice": 669000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -39412,9 +39546,9 @@
     "countryId": 14,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 1727000,
+    "price": 1770000,
     "priceInfo": {
-      "displayPrice": 1727000,
+      "displayPrice": 1770000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -39485,9 +39619,9 @@
     "countryId": 21,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 570000,
+    "price": 613000,
     "priceInfo": {
-      "displayPrice": 570000,
+      "displayPrice": 613000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -39555,9 +39689,9 @@
     "countryId": 21,
     "leagueId": 19,
     "clubId": 22,
-    "price": 306000,
+    "price": 294000,
     "priceInfo": {
-      "displayPrice": 306000,
+      "displayPrice": 294000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -39629,9 +39763,9 @@
     "countryId": 38,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 739000,
+    "price": 772000,
     "priceInfo": {
-      "displayPrice": 739000,
+      "displayPrice": 772000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -39697,9 +39831,9 @@
     "countryId": 51,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 719000,
+    "price": 801000,
     "priceInfo": {
-      "displayPrice": 719000,
+      "displayPrice": 801000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -39765,9 +39899,9 @@
     "countryId": 21,
     "leagueId": 2215,
     "clubId": 114605,
-    "price": 195000,
+    "price": 198000,
     "priceInfo": {
-      "displayPrice": 195000,
+      "displayPrice": 198000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -39800,7 +39934,7 @@
       9
     ],
     "canEvolve": true,
-    "evoPopularity": 2,
+    "evoPopularity": 4,
     "newPlayer": false,
     "itemScore": 10375
   },
@@ -39840,9 +39974,9 @@
     "countryId": 21,
     "leagueId": 19,
     "clubId": 114605,
-    "price": 352000,
+    "price": 410000,
     "priceInfo": {
-      "displayPrice": 352000,
+      "displayPrice": 410000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -39875,7 +40009,7 @@
       6
     ],
     "canEvolve": true,
-    "evoPopularity": 3,
+    "evoPopularity": 2,
     "newPlayer": false,
     "itemScore": 5125
   },
@@ -39909,9 +40043,9 @@
     "countryId": 52,
     "leagueId": 53,
     "clubId": 114605,
-    "price": 273000,
+    "price": 284000,
     "priceInfo": {
-      "displayPrice": 273000,
+      "displayPrice": 284000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -39979,9 +40113,9 @@
     "countryId": 27,
     "leagueId": 31,
     "clubId": 114605,
-    "price": 426000,
+    "price": 512000,
     "priceInfo": {
-      "displayPrice": 426000,
+      "displayPrice": 512000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -40045,9 +40179,9 @@
     "countryId": 14,
     "leagueId": 13,
     "clubId": 114605,
-    "price": 538000,
+    "price": 533000,
     "priceInfo": {
-      "displayPrice": 538000,
+      "displayPrice": 533000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -40110,9 +40244,9 @@
     "countryId": 27,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 1250000,
+    "price": 1307000,
     "priceInfo": {
-      "displayPrice": 1250000,
+      "displayPrice": 1307000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -40179,9 +40313,9 @@
     "countryId": 27,
     "leagueId": 31,
     "clubId": 114605,
-    "price": 498000,
+    "price": 534000,
     "priceInfo": {
-      "displayPrice": 498000,
+      "displayPrice": 534000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -40246,9 +40380,9 @@
     "countryId": 54,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 969000,
+    "price": 999000,
     "priceInfo": {
-      "displayPrice": 969000,
+      "displayPrice": 999000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -40313,9 +40447,9 @@
     "countryId": 54,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 1424000,
+    "price": 1450000,
     "priceInfo": {
-      "displayPrice": 1424000,
+      "displayPrice": 1450000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -40384,9 +40518,9 @@
     "countryId": 54,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 701000,
+    "price": 765000,
     "priceInfo": {
-      "displayPrice": 701000,
+      "displayPrice": 765000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -40452,9 +40586,9 @@
     "countryId": 21,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 1341000,
+    "price": 1379000,
     "priceInfo": {
-      "displayPrice": 1341000,
+      "displayPrice": 1379000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -40520,9 +40654,9 @@
     "countryId": 18,
     "leagueId": 19,
     "clubId": 114605,
-    "price": 296000,
+    "price": 299000,
     "priceInfo": {
-      "displayPrice": 296000,
+      "displayPrice": 299000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -40588,9 +40722,9 @@
     "countryId": 21,
     "leagueId": 2215,
     "clubId": 114605,
-    "price": 159000,
+    "price": 183000,
     "priceInfo": {
-      "displayPrice": 159000,
+      "displayPrice": 183000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -40655,9 +40789,10 @@
     "countryId": 38,
     "leagueId": 31,
     "clubId": 114605,
-    "price": 240000,
+    "price": 234000,
+    "sbcPrice": 204850,
     "priceInfo": {
-      "displayPrice": 240000,
+      "displayPrice": 234000,
       "source": "market"
     },
     "objectiveDisplay": {
@@ -40694,7 +40829,7 @@
       8
     ],
     "canEvolve": true,
-    "evoPopularity": 4,
+    "evoPopularity": 8,
     "newPlayer": false,
     "itemScore": 6875
   },
@@ -40730,9 +40865,9 @@
     "countryId": 54,
     "leagueId": 13,
     "clubId": 114605,
-    "price": 450000,
+    "price": 479000,
     "priceInfo": {
-      "displayPrice": 450000,
+      "displayPrice": 479000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -40802,9 +40937,10 @@
     "countryId": 167,
     "leagueId": 13,
     "clubId": 114605,
-    "price": 235000,
+    "price": 233000,
+    "sbcPrice": 204850,
     "priceInfo": {
-      "displayPrice": 235000,
+      "displayPrice": 233000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -40837,7 +40973,7 @@
       8
     ],
     "canEvolve": true,
-    "evoPopularity": 3,
+    "evoPopularity": 1,
     "newPlayer": false,
     "itemScore": 5125
   },
@@ -40951,9 +41087,9 @@
     "countryId": 45,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 2498000,
+    "price": 2658000,
     "priceInfo": {
-      "displayPrice": 2498000,
+      "displayPrice": 2658000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -41022,9 +41158,9 @@
     "countryId": 163,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 687000,
+    "price": 732000,
     "priceInfo": {
-      "displayPrice": 687000,
+      "displayPrice": 732000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -41098,9 +41234,9 @@
     "countryId": 14,
     "leagueId": 13,
     "clubId": 114605,
-    "price": 358000,
+    "price": 379000,
     "priceInfo": {
-      "displayPrice": 358000,
+      "displayPrice": 379000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -41170,9 +41306,9 @@
     "countryId": 14,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 505000,
+    "price": 498000,
     "priceInfo": {
-      "displayPrice": 505000,
+      "displayPrice": 498000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -41239,9 +41375,9 @@
     "countryId": 54,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 657000,
+    "price": 675000,
     "priceInfo": {
-      "displayPrice": 657000,
+      "displayPrice": 675000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -41308,9 +41444,9 @@
     "countryId": 14,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 596000,
+    "price": 590000,
     "priceInfo": {
-      "displayPrice": 596000,
+      "displayPrice": 590000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -41470,9 +41606,9 @@
     "countryId": 52,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 468000,
+    "price": 478000,
     "priceInfo": {
-      "displayPrice": 468000,
+      "displayPrice": 478000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -41507,7 +41643,6 @@
       24
     ],
     "canEvolve": true,
-    "evoPopularity": 3,
     "newPlayer": false,
     "itemScore": 16500
   },
@@ -41543,9 +41678,9 @@
     "countryId": 14,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 517000,
+    "price": 592000,
     "priceInfo": {
-      "displayPrice": 517000,
+      "displayPrice": 592000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -41616,9 +41751,9 @@
     "countryId": 133,
     "leagueId": 16,
     "clubId": 114605,
-    "price": 728000,
+    "price": 797000,
     "priceInfo": {
-      "displayPrice": 728000,
+      "displayPrice": 797000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -41653,7 +41788,6 @@
       7
     ],
     "canEvolve": true,
-    "evoPopularity": 1,
     "newPlayer": false,
     "itemScore": 10375
   },
@@ -41689,9 +41823,9 @@
     "countryId": 13,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 383000,
+    "price": 424000,
     "priceInfo": {
-      "displayPrice": 383000,
+      "displayPrice": 424000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -41759,9 +41893,9 @@
     "countryId": 167,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 802000,
+    "price": 889000,
     "priceInfo": {
-      "displayPrice": 802000,
+      "displayPrice": 889000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -41828,9 +41962,9 @@
     "countryId": 52,
     "leagueId": 31,
     "clubId": 114605,
-    "price": 295000,
+    "price": 290000,
     "priceInfo": {
-      "displayPrice": 295000,
+      "displayPrice": 290000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -41864,7 +41998,6 @@
       26
     ],
     "canEvolve": true,
-    "evoPopularity": 3,
     "newPlayer": false,
     "itemScore": 5125
   },
@@ -41900,9 +42033,9 @@
     "countryId": 21,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 684000,
+    "price": 707000,
     "priceInfo": {
-      "displayPrice": 684000,
+      "displayPrice": 707000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -41968,9 +42101,9 @@
     "countryId": 27,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 387000,
+    "price": 411000,
     "priceInfo": {
-      "displayPrice": 387000,
+      "displayPrice": 411000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -42035,9 +42168,9 @@
     "countryId": 45,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 1051000,
+    "price": 1064000,
     "priceInfo": {
-      "displayPrice": 1051000,
+      "displayPrice": 1064000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -42178,9 +42311,9 @@
     "countryId": 14,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 381000,
+    "price": 388000,
     "priceInfo": {
-      "displayPrice": 381000,
+      "displayPrice": 388000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -42244,9 +42377,9 @@
     "countryId": 27,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 811000,
+    "price": 898000,
     "priceInfo": {
-      "displayPrice": 811000,
+      "displayPrice": 898000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -42312,9 +42445,9 @@
     "countryId": 45,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 311000,
+    "price": 343000,
     "priceInfo": {
-      "displayPrice": 311000,
+      "displayPrice": 343000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -42379,9 +42512,9 @@
     "countryId": 45,
     "leagueId": 53,
     "clubId": 114605,
-    "price": 139000,
+    "price": 137000,
     "priceInfo": {
-      "displayPrice": 139000,
+      "displayPrice": 137000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -42443,9 +42576,9 @@
     "countryId": 27,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 681000,
+    "price": 706000,
     "priceInfo": {
-      "displayPrice": 681000,
+      "displayPrice": 706000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -42510,9 +42643,9 @@
     "countryId": 46,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 3451000,
+    "price": 3501000,
     "priceInfo": {
-      "displayPrice": 3451000,
+      "displayPrice": 3501000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -42578,9 +42711,9 @@
     "countryId": 54,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 562000,
+    "price": 571000,
     "priceInfo": {
-      "displayPrice": 562000,
+      "displayPrice": 571000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -42645,9 +42778,9 @@
     "countryId": 14,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 669000,
+    "price": 679000,
     "priceInfo": {
-      "displayPrice": 669000,
+      "displayPrice": 679000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -42714,9 +42847,9 @@
     "countryId": 18,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 546000,
+    "price": 549000,
     "priceInfo": {
-      "displayPrice": 546000,
+      "displayPrice": 549000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -42788,9 +42921,9 @@
     "countryId": 183,
     "leagueId": 350,
     "clubId": 114605,
-    "price": 600000,
+    "price": 646000,
     "priceInfo": {
-      "displayPrice": 600000,
+      "displayPrice": 646000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -42935,9 +43068,9 @@
     "countryId": 21,
     "leagueId": 19,
     "clubId": 114605,
-    "price": 163000,
+    "price": 160000,
     "priceInfo": {
-      "displayPrice": 163000,
+      "displayPrice": 160000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -43000,9 +43133,9 @@
     "countryId": 95,
     "leagueId": 13,
     "clubId": 114605,
-    "price": 87000,
+    "price": 82500,
     "priceInfo": {
-      "displayPrice": 87000,
+      "displayPrice": 82500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -43150,9 +43283,9 @@
     "countryId": 34,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 539000,
+    "price": 543000,
     "priceInfo": {
-      "displayPrice": 539000,
+      "displayPrice": 543000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -43218,9 +43351,9 @@
     "countryId": 27,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 351000,
+    "price": 365000,
     "priceInfo": {
-      "displayPrice": 351000,
+      "displayPrice": 365000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -43288,9 +43421,9 @@
     "countryId": 18,
     "leagueId": 2118,
     "clubId": 114605,
-    "price": 423000,
+    "price": 450000,
     "priceInfo": {
-      "displayPrice": 423000,
+      "displayPrice": 450000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -43423,9 +43556,9 @@
     "countryId": 108,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 976000,
+    "price": 1029000,
     "priceInfo": {
-      "displayPrice": 976000,
+      "displayPrice": 1029000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -43488,9 +43621,9 @@
     "countryId": 45,
     "leagueId": 53,
     "clubId": 114605,
-    "price": 184000,
+    "price": 196000,
     "priceInfo": {
-      "displayPrice": 184000,
+      "displayPrice": 196000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -43520,7 +43653,6 @@
       26
     ],
     "canEvolve": true,
-    "evoPopularity": 2,
     "newPlayer": false,
     "itemScore": 5125
   },
@@ -43552,9 +43684,9 @@
     "countryId": 45,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 1315000,
+    "price": 1401000,
     "priceInfo": {
-      "displayPrice": 1315000,
+      "displayPrice": 1401000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -43622,9 +43754,9 @@
     "countryId": 12,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 489000,
+    "price": 539000,
     "priceInfo": {
-      "displayPrice": 489000,
+      "displayPrice": 539000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -43696,9 +43828,9 @@
     "countryId": 45,
     "leagueId": 13,
     "clubId": 114605,
-    "price": 350000,
+    "price": 352000,
     "priceInfo": {
-      "displayPrice": 350000,
+      "displayPrice": 352000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -43767,9 +43899,9 @@
     "countryId": 34,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 659000,
+    "price": 656000,
     "priceInfo": {
-      "displayPrice": 659000,
+      "displayPrice": 656000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -43836,9 +43968,9 @@
     "countryId": 14,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 773000,
+    "price": 795000,
     "priceInfo": {
-      "displayPrice": 773000,
+      "displayPrice": 795000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -43908,9 +44040,9 @@
     "countryId": 39,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 470000,
+    "price": 475000,
     "priceInfo": {
-      "displayPrice": 470000,
+      "displayPrice": 475000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -44042,9 +44174,9 @@
     "countryId": 27,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 455000,
+    "price": 477000,
     "priceInfo": {
-      "displayPrice": 455000,
+      "displayPrice": 477000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -44110,9 +44242,9 @@
     "countryId": 27,
     "leagueId": 13,
     "clubId": 114605,
-    "price": 707000,
+    "price": 722000,
     "priceInfo": {
-      "displayPrice": 707000,
+      "displayPrice": 722000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -44145,6 +44277,7 @@
       3
     ],
     "canEvolve": true,
+    "evoPopularity": 4,
     "newPlayer": false,
     "itemScore": 6875
   },
@@ -44178,9 +44311,9 @@
     "countryId": 60,
     "leagueId": 353,
     "clubId": 114605,
-    "price": 339000,
+    "price": 364000,
     "priceInfo": {
-      "displayPrice": 339000,
+      "displayPrice": 364000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -44214,7 +44347,6 @@
       8
     ],
     "canEvolve": true,
-    "evoPopularity": 2,
     "newPlayer": false,
     "itemScore": 10375
   },
@@ -44248,9 +44380,9 @@
     "countryId": 45,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 400000,
+    "price": 405000,
     "priceInfo": {
-      "displayPrice": 400000,
+      "displayPrice": 405000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -44316,9 +44448,9 @@
     "countryId": 163,
     "leagueId": 31,
     "clubId": 114605,
-    "price": 109000,
+    "price": 103000,
     "priceInfo": {
-      "displayPrice": 109000,
+      "displayPrice": 103000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -44379,9 +44511,9 @@
     "countryId": 18,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 609000,
+    "price": 651000,
     "priceInfo": {
-      "displayPrice": 609000,
+      "displayPrice": 651000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -44450,9 +44582,9 @@
     "countryId": 52,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 526000,
+    "price": 0,
     "priceInfo": {
-      "displayPrice": 526000,
+      "displayPrice": 0,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -44517,9 +44649,9 @@
     "countryId": 21,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 257000,
+    "price": 261000,
     "priceInfo": {
-      "displayPrice": 257000,
+      "displayPrice": 261000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -44577,9 +44709,9 @@
     "countryId": 18,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 1470000,
+    "price": 1452000,
     "priceInfo": {
-      "displayPrice": 1470000,
+      "displayPrice": 1452000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -44643,9 +44775,9 @@
     "countryId": 52,
     "leagueId": 53,
     "clubId": 114605,
-    "price": 132000,
+    "price": 137000,
     "priceInfo": {
-      "displayPrice": 132000,
+      "displayPrice": 137000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -44713,9 +44845,9 @@
     "countryId": 14,
     "leagueId": 2216,
     "clubId": 114605,
-    "price": 150000,
+    "price": 157000,
     "priceInfo": {
-      "displayPrice": 150000,
+      "displayPrice": 157000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -44748,7 +44880,6 @@
       9
     ],
     "canEvolve": true,
-    "evoPopularity": 4,
     "newPlayer": false,
     "itemScore": 2625
   },
@@ -44826,7 +44957,6 @@
       6
     ],
     "canEvolve": true,
-    "evoPopularity": 3,
     "newPlayer": false,
     "itemScore": 830
   },
@@ -44860,9 +44990,9 @@
     "countryId": 52,
     "leagueId": 31,
     "clubId": 114605,
-    "price": 584000,
+    "price": 721000,
     "priceInfo": {
-      "displayPrice": 584000,
+      "displayPrice": 721000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -44930,9 +45060,9 @@
     "countryId": 195,
     "leagueId": 13,
     "clubId": 114605,
-    "price": 354000,
+    "price": 362000,
     "priceInfo": {
-      "displayPrice": 354000,
+      "displayPrice": 362000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -44964,7 +45094,6 @@
       6
     ],
     "canEvolve": true,
-    "evoPopularity": 3,
     "newPlayer": false,
     "itemScore": 6875
   },
@@ -45072,9 +45201,9 @@
     "countryId": 52,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 324000,
+    "price": 304000,
     "priceInfo": {
-      "displayPrice": 324000,
+      "displayPrice": 304000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -45224,9 +45353,9 @@
     "countryId": 45,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 389000,
+    "price": 404000,
     "priceInfo": {
-      "displayPrice": 389000,
+      "displayPrice": 404000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -45291,9 +45420,9 @@
     "countryId": 83,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 603000,
+    "price": 625000,
     "priceInfo": {
-      "displayPrice": 603000,
+      "displayPrice": 625000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -45363,9 +45492,9 @@
     "countryId": 12,
     "leagueId": 19,
     "clubId": 114605,
-    "price": 80000,
+    "price": 88500,
     "priceInfo": {
-      "displayPrice": 80000,
+      "displayPrice": 88500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -45430,9 +45559,9 @@
     "countryId": 34,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 573000,
+    "price": 598000,
     "priceInfo": {
-      "displayPrice": 573000,
+      "displayPrice": 598000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -45496,9 +45625,9 @@
     "countryId": 10,
     "leagueId": 53,
     "clubId": 114605,
-    "price": 191000,
+    "price": 202000,
     "priceInfo": {
-      "displayPrice": 191000,
+      "displayPrice": 202000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -45562,9 +45691,9 @@
     "countryId": 18,
     "leagueId": 16,
     "clubId": 114605,
-    "price": 100000,
+    "price": 105000,
     "priceInfo": {
-      "displayPrice": 100000,
+      "displayPrice": 105000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -45630,9 +45759,9 @@
     "countryId": 14,
     "leagueId": 2216,
     "clubId": 114605,
-    "price": 87500,
+    "price": 90500,
     "priceInfo": {
-      "displayPrice": 87500,
+      "displayPrice": 90500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -45697,9 +45826,9 @@
     "countryId": 83,
     "leagueId": 53,
     "clubId": 114605,
-    "price": 233000,
+    "price": 261000,
     "priceInfo": {
-      "displayPrice": 233000,
+      "displayPrice": 261000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -45732,7 +45861,6 @@
       4
     ],
     "canEvolve": true,
-    "evoPopularity": 11,
     "newPlayer": false,
     "itemScore": 10375
   },
@@ -45836,9 +45964,9 @@
     "countryId": 40,
     "leagueId": 16,
     "clubId": 73,
-    "price": 26750,
+    "price": 27750,
     "priceInfo": {
-      "displayPrice": 26750,
+      "displayPrice": 27750,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -45900,9 +46028,9 @@
     "countryId": 49,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 534000,
+    "price": 530000,
     "priceInfo": {
-      "displayPrice": 534000,
+      "displayPrice": 530000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -45975,9 +46103,9 @@
     "countryId": 34,
     "leagueId": 2222,
     "clubId": 116325,
-    "price": 99000,
+    "price": 101000,
     "priceInfo": {
-      "displayPrice": 99000,
+      "displayPrice": 101000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -46067,9 +46195,9 @@
     "countryId": 18,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 317000,
+    "price": 344000,
     "priceInfo": {
-      "displayPrice": 317000,
+      "displayPrice": 344000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -46135,9 +46263,9 @@
     "countryId": 34,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 629000,
+    "price": 669000,
     "priceInfo": {
-      "displayPrice": 629000,
+      "displayPrice": 669000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -46203,9 +46331,9 @@
     "countryId": 45,
     "leagueId": 53,
     "clubId": 114605,
-    "price": 166000,
+    "price": 172000,
     "priceInfo": {
-      "displayPrice": 166000,
+      "displayPrice": 172000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -46270,9 +46398,9 @@
     "countryId": 14,
     "leagueId": 2216,
     "clubId": 114605,
-    "price": 90500,
+    "price": 88500,
     "priceInfo": {
-      "displayPrice": 90500,
+      "displayPrice": 88500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -46336,9 +46464,9 @@
     "countryId": 38,
     "leagueId": 16,
     "clubId": 65,
-    "price": 11750,
+    "price": 11000,
     "priceInfo": {
-      "displayPrice": 11750,
+      "displayPrice": 11000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -46442,7 +46570,7 @@
       4
     ],
     "canEvolve": true,
-    "evoPopularity": 12,
+    "evoPopularity": 6,
     "newPlayer": false,
     "itemScore": 2100
   },
@@ -46480,9 +46608,9 @@
     "countryId": 38,
     "leagueId": 308,
     "clubId": 114605,
-    "price": 378000,
+    "price": 400000,
     "priceInfo": {
-      "displayPrice": 378000,
+      "displayPrice": 400000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -46550,9 +46678,9 @@
     "countryId": 60,
     "leagueId": 53,
     "clubId": 114605,
-    "price": 358000,
+    "price": 388000,
     "priceInfo": {
-      "displayPrice": 358000,
+      "displayPrice": 388000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -46690,9 +46818,9 @@
     "countryId": 18,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 379000,
+    "price": 415000,
     "priceInfo": {
-      "displayPrice": 379000,
+      "displayPrice": 415000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -46755,9 +46883,9 @@
     "countryId": 25,
     "leagueId": 13,
     "clubId": 114605,
-    "price": 400000,
+    "price": 399000,
     "priceInfo": {
-      "displayPrice": 400000,
+      "displayPrice": 399000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -46818,9 +46946,10 @@
     "countryId": 46,
     "leagueId": 50,
     "clubId": 114605,
-    "price": 237000,
+    "price": 230000,
+    "sbcPrice": 204850,
     "priceInfo": {
-      "displayPrice": 237000,
+      "displayPrice": 230000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -46884,9 +47013,9 @@
     "countryId": 17,
     "leagueId": 10,
     "clubId": 114605,
-    "price": 93500,
+    "price": 91500,
     "priceInfo": {
-      "displayPrice": 93500,
+      "displayPrice": 91500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -46950,9 +47079,9 @@
     "countryId": 21,
     "leagueId": 19,
     "clubId": 114605,
-    "price": 564000,
+    "price": 584000,
     "priceInfo": {
-      "displayPrice": 564000,
+      "displayPrice": 584000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -47016,9 +47145,9 @@
     "countryId": 14,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 296000,
+    "price": 326000,
     "priceInfo": {
-      "displayPrice": 296000,
+      "displayPrice": 326000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -47158,9 +47287,9 @@
     "countryId": 219,
     "leagueId": 2215,
     "clubId": 115997,
-    "price": 16500,
+    "price": 17000,
     "priceInfo": {
-      "displayPrice": 16500,
+      "displayPrice": 17000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -47254,9 +47383,9 @@
     "countryId": 95,
     "leagueId": 39,
     "clubId": 114605,
-    "price": 159000,
+    "price": 165000,
     "priceInfo": {
-      "displayPrice": 159000,
+      "displayPrice": 165000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -47323,9 +47452,9 @@
     "countryId": 36,
     "leagueId": 13,
     "clubId": 114605,
-    "price": 133000,
+    "price": 123000,
     "priceInfo": {
-      "displayPrice": 133000,
+      "displayPrice": 123000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -47395,9 +47524,9 @@
     "countryId": 46,
     "leagueId": 13,
     "clubId": 114605,
-    "price": 104000,
+    "price": 107000,
     "priceInfo": {
-      "displayPrice": 104000,
+      "displayPrice": 107000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -47462,9 +47591,9 @@
     "countryId": 14,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 340000,
+    "price": 359000,
     "priceInfo": {
-      "displayPrice": 340000,
+      "displayPrice": 359000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -47531,9 +47660,9 @@
     "countryId": 14,
     "leagueId": 13,
     "clubId": 114605,
-    "price": 87500,
+    "price": 89000,
     "priceInfo": {
-      "displayPrice": 87500,
+      "displayPrice": 89000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -47600,9 +47729,9 @@
     "countryId": 95,
     "leagueId": 39,
     "clubId": 114605,
-    "price": 99000,
+    "price": 98500,
     "priceInfo": {
-      "displayPrice": 99000,
+      "displayPrice": 98500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -47735,9 +47864,9 @@
     "countryId": 21,
     "leagueId": 19,
     "clubId": 25,
-    "price": 14500,
+    "price": 15000,
     "priceInfo": {
-      "displayPrice": 14500,
+      "displayPrice": 15000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -47773,7 +47902,6 @@
       9
     ],
     "canEvolve": true,
-    "evoPopularity": 2,
     "newPlayer": false,
     "itemScore": 225
   },
@@ -47805,9 +47933,9 @@
     "countryId": 14,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 475000,
+    "price": 539000,
     "priceInfo": {
-      "displayPrice": 475000,
+      "displayPrice": 539000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -47872,9 +48000,9 @@
     "countryId": 52,
     "leagueId": 353,
     "clubId": 114605,
-    "price": 67500,
+    "price": 63000,
     "priceInfo": {
-      "displayPrice": 67500,
+      "displayPrice": 63000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -47945,9 +48073,9 @@
     "countryId": 14,
     "leagueId": 13,
     "clubId": 114605,
-    "price": 145000,
+    "price": 146000,
     "priceInfo": {
-      "displayPrice": 145000,
+      "displayPrice": 146000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -48012,9 +48140,9 @@
     "countryId": 34,
     "leagueId": 19,
     "clubId": 114605,
-    "price": 135000,
+    "price": 138000,
     "priceInfo": {
-      "displayPrice": 135000,
+      "displayPrice": 138000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -48080,9 +48208,9 @@
     "countryId": 14,
     "leagueId": 2216,
     "clubId": 116010,
-    "price": 25000,
+    "price": 25250,
     "priceInfo": {
-      "displayPrice": 25000,
+      "displayPrice": 25250,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -48239,9 +48367,9 @@
     "countryId": 14,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 556000,
+    "price": 574000,
     "priceInfo": {
-      "displayPrice": 556000,
+      "displayPrice": 574000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -48307,9 +48435,9 @@
     "countryId": 34,
     "leagueId": 53,
     "clubId": 114605,
-    "price": 94000,
+    "price": 101000,
     "priceInfo": {
-      "displayPrice": 94000,
+      "displayPrice": 101000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -48340,7 +48468,6 @@
       4
     ],
     "canEvolve": true,
-    "evoPopularity": 4,
     "newPlayer": false,
     "itemScore": 6875
   },
@@ -48378,9 +48505,9 @@
     "countryId": 34,
     "leagueId": 10,
     "clubId": 114605,
-    "price": 114000,
+    "price": 111000,
     "priceInfo": {
-      "displayPrice": 114000,
+      "displayPrice": 111000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -48414,7 +48541,6 @@
       4
     ],
     "canEvolve": true,
-    "evoPopularity": 5,
     "newPlayer": false,
     "itemScore": 5125
   },
@@ -48446,9 +48572,9 @@
     "countryId": 52,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 486000,
+    "price": 665000,
     "priceInfo": {
-      "displayPrice": 486000,
+      "displayPrice": 665000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -48511,9 +48637,9 @@
     "countryId": 183,
     "leagueId": 350,
     "clubId": 114605,
-    "price": 72000,
+    "price": 68000,
     "priceInfo": {
-      "displayPrice": 72000,
+      "displayPrice": 68000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -48579,9 +48705,9 @@
     "countryId": 54,
     "leagueId": 350,
     "clubId": 605,
-    "price": 16000,
+    "price": 15750,
     "priceInfo": {
-      "displayPrice": 16000,
+      "displayPrice": 15750,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -48652,9 +48778,9 @@
     "countryId": 14,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 279000,
+    "price": 303000,
     "priceInfo": {
-      "displayPrice": 279000,
+      "displayPrice": 303000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -48783,9 +48909,9 @@
     "countryId": 21,
     "leagueId": 19,
     "clubId": 114605,
-    "price": 69000,
+    "price": 70000,
     "priceInfo": {
-      "displayPrice": 69000,
+      "displayPrice": 70000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -48848,9 +48974,9 @@
     "countryId": 52,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 389000,
+    "price": 400000,
     "priceInfo": {
-      "displayPrice": 389000,
+      "displayPrice": 400000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -48913,9 +49039,9 @@
     "countryId": 52,
     "leagueId": 31,
     "clubId": 114605,
-    "price": 95500,
+    "price": 103000,
     "priceInfo": {
-      "displayPrice": 95500,
+      "displayPrice": 103000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -48984,9 +49110,9 @@
     "countryId": 95,
     "leagueId": 39,
     "clubId": 114605,
-    "price": 58000,
+    "price": 58500,
     "priceInfo": {
-      "displayPrice": 58000,
+      "displayPrice": 58500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -49056,9 +49182,9 @@
     "countryId": 39,
     "leagueId": 308,
     "clubId": 718,
-    "price": 14250,
+    "price": 13750,
     "priceInfo": {
-      "displayPrice": 14250,
+      "displayPrice": 13750,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -49130,9 +49256,10 @@
     "countryId": 83,
     "leagueId": 341,
     "clubId": 114605,
-    "price": 198000,
+    "price": 201000,
+    "sbcPrice": 204850,
     "priceInfo": {
-      "displayPrice": 198000,
+      "displayPrice": 201000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -49264,9 +49391,9 @@
     "countryId": 36,
     "leagueId": 13,
     "clubId": 114605,
-    "price": 120000,
+    "price": 118000,
     "priceInfo": {
-      "displayPrice": 120000,
+      "displayPrice": 118000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -49326,9 +49453,9 @@
     "countryId": 21,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 310000,
+    "price": 326000,
     "priceInfo": {
-      "displayPrice": 310000,
+      "displayPrice": 326000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -49459,9 +49586,9 @@
     "countryId": 27,
     "leagueId": 31,
     "clubId": 114605,
-    "price": 127000,
+    "price": 134000,
     "priceInfo": {
-      "displayPrice": 127000,
+      "displayPrice": 134000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -49587,9 +49714,9 @@
     "countryId": 9,
     "leagueId": 13,
     "clubId": 114605,
-    "price": 95500,
+    "price": 98000,
     "priceInfo": {
-      "displayPrice": 95500,
+      "displayPrice": 98000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -49621,6 +49748,7 @@
       7
     ],
     "canEvolve": true,
+    "evoPopularity": 1,
     "newPlayer": false,
     "itemScore": 6875
   },
@@ -49652,9 +49780,9 @@
     "countryId": 18,
     "leagueId": 31,
     "clubId": 131682,
-    "price": 57500,
+    "price": 59500,
     "priceInfo": {
-      "displayPrice": 57500,
+      "displayPrice": 59500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -49717,9 +49845,9 @@
     "countryId": 50,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 271000,
+    "price": 278000,
     "priceInfo": {
-      "displayPrice": 271000,
+      "displayPrice": 278000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -49750,7 +49878,6 @@
       6
     ],
     "canEvolve": true,
-    "evoPopularity": 7,
     "newPlayer": false,
     "itemScore": 12450
   },
@@ -49782,9 +49909,9 @@
     "countryId": 83,
     "leagueId": 341,
     "clubId": 114605,
-    "price": 60000,
+    "price": 58000,
     "priceInfo": {
-      "displayPrice": 60000,
+      "displayPrice": 58000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -49852,9 +49979,9 @@
     "countryId": 47,
     "leagueId": 189,
     "clubId": 896,
-    "price": 13750,
+    "price": 12000,
     "priceInfo": {
-      "displayPrice": 13750,
+      "displayPrice": 12000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -49903,7 +50030,6 @@
       8
     ],
     "canEvolve": true,
-    "evoPopularity": 1,
     "newPlayer": false,
     "itemScore": 225
   },
@@ -49935,9 +50061,9 @@
     "countryId": 14,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 260000,
+    "price": 266000,
     "priceInfo": {
-      "displayPrice": 260000,
+      "displayPrice": 266000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -50006,9 +50132,9 @@
     "countryId": 25,
     "leagueId": 41,
     "clubId": 417,
-    "price": 11500,
+    "price": 11000,
     "priceInfo": {
-      "displayPrice": 11500,
+      "displayPrice": 11000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -50081,9 +50207,9 @@
     "countryId": 10,
     "leagueId": 19,
     "clubId": 114605,
-    "price": 63000,
+    "price": 64500,
     "priceInfo": {
-      "displayPrice": 63000,
+      "displayPrice": 64500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -50150,9 +50276,9 @@
     "countryId": 59,
     "leagueId": 19,
     "clubId": 114605,
-    "price": 47500,
+    "price": 48250,
     "priceInfo": {
-      "displayPrice": 47500,
+      "displayPrice": 48250,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -50216,9 +50342,9 @@
     "countryId": 21,
     "leagueId": 31,
     "clubId": 114605,
-    "price": 42250,
+    "price": 41250,
     "priceInfo": {
-      "displayPrice": 42250,
+      "displayPrice": 41250,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -50355,9 +50481,9 @@
     "countryId": 55,
     "leagueId": 53,
     "clubId": 114605,
-    "price": 99500,
+    "price": 98500,
     "priceInfo": {
-      "displayPrice": 99500,
+      "displayPrice": 98500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -50419,9 +50545,9 @@
     "countryId": 34,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 271000,
+    "price": 280000,
     "priceInfo": {
-      "displayPrice": 271000,
+      "displayPrice": 280000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -50484,9 +50610,9 @@
     "countryId": 21,
     "leagueId": 2118,
     "clubId": 112658,
-    "price": 281000,
+    "price": 289000,
     "priceInfo": {
-      "displayPrice": 281000,
+      "displayPrice": 289000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -50548,9 +50674,9 @@
     "countryId": 133,
     "leagueId": 68,
     "clubId": 132392,
-    "price": 11500,
+    "price": 10750,
     "priceInfo": {
-      "displayPrice": 11500,
+      "displayPrice": 10750,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -50615,9 +50741,9 @@
     "countryId": 195,
     "leagueId": 13,
     "clubId": 114605,
-    "price": 50000,
+    "price": 49000,
     "priceInfo": {
-      "displayPrice": 50000,
+      "displayPrice": 49000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -50767,9 +50893,9 @@
     "countryId": 34,
     "leagueId": 10,
     "clubId": 247,
-    "price": 11750,
+    "price": 10750,
     "priceInfo": {
-      "displayPrice": 11750,
+      "displayPrice": 10750,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -50814,6 +50940,7 @@
       8
     ],
     "canEvolve": true,
+    "evoPopularity": 4,
     "newPlayer": false,
     "itemScore": 225
   },
@@ -50849,9 +50976,9 @@
     "countryId": 52,
     "leagueId": 31,
     "clubId": 110374,
-    "price": 13750,
+    "price": 14500,
     "priceInfo": {
-      "displayPrice": 13750,
+      "displayPrice": 14500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -50919,9 +51046,9 @@
     "countryId": 21,
     "leagueId": 2215,
     "clubId": 114605,
-    "price": 70500,
+    "price": 71000,
     "priceInfo": {
-      "displayPrice": 70500,
+      "displayPrice": 71000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -50983,9 +51110,9 @@
     "countryId": 133,
     "leagueId": 13,
     "clubId": 114605,
-    "price": 49500,
+    "price": 48500,
     "priceInfo": {
-      "displayPrice": 49500,
+      "displayPrice": 48500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -51046,9 +51173,9 @@
     "countryId": 54,
     "leagueId": 2221,
     "clubId": 132697,
-    "price": 14250,
+    "price": 12750,
     "priceInfo": {
-      "displayPrice": 14250,
+      "displayPrice": 12750,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -51111,9 +51238,9 @@
     "countryId": 60,
     "leagueId": 39,
     "clubId": 112134,
-    "price": 11750,
+    "price": 12250,
     "priceInfo": {
-      "displayPrice": 11750,
+      "displayPrice": 12250,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -51178,9 +51305,9 @@
     "countryId": 14,
     "leagueId": 13,
     "clubId": 114605,
-    "price": 93500,
+    "price": 95500,
     "priceInfo": {
-      "displayPrice": 93500,
+      "displayPrice": 95500,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -51240,9 +51367,9 @@
     "countryId": 14,
     "leagueId": 13,
     "clubId": 1808,
-    "price": 11750,
+    "price": 12000,
     "priceInfo": {
-      "displayPrice": 11750,
+      "displayPrice": 12000,
       "source": "market"
     },
     "isObjectivePlayer": false,
@@ -51404,7 +51531,7 @@
       19
     ],
     "canEvolve": true,
-    "evoPopularity": 3,
+    "evoPopularity": 7,
     "newPlayer": false,
     "itemScore": 513
   },
@@ -51469,7 +51596,6 @@
       28
     ],
     "canEvolve": true,
-    "evoPopularity": 1,
     "newPlayer": false,
     "itemScore": 513
   },
@@ -51730,7 +51856,6 @@
       22
     ],
     "canEvolve": true,
-    "evoPopularity": 1,
     "newPlayer": false,
     "itemScore": 513
   },
@@ -51965,6 +52090,7 @@
       26
     ],
     "canEvolve": true,
+    "evoPopularity": 1,
     "newPlayer": false,
     "itemScore": 280
   },

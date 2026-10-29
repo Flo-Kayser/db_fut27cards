@@ -1,4 +1,59 @@
 {
+  "50417481": {
+    "name": "Ramiro Árciga",
+    "cardName": "Árciga",
+    "originalVersionId": "58",
+    "clubId": 111678,
+    "leagueId": 341,
+    "countryId": 83,
+    "versionId": "58",
+    "rating": 82,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      21,
+      24,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140
+    ],
+    "attributes": [
+      85,
+      80,
+      82,
+      82,
+      46,
+      73
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 5300,
+    "price": 0,
+    "resourceId": 50417481,
+    "assetId": 85833
+  },
   "50545314": {
     "name": "Ruben Loftus-Cheek",
     "cardName": "Loftus-Cheek",
@@ -42,10 +97,52 @@
       83
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 25650,
+    "sbcPrice": 21900,
     "price": 0,
     "resourceId": 50545314,
     "assetId": 213666
+  },
+  "50586866": {
+    "name": "Víctor Guzmán",
+    "cardName": "Guzmán",
+    "originalVersionId": "58",
+    "clubId": 1032,
+    "leagueId": 341,
+    "countryId": 83,
+    "versionId": "58",
+    "rating": 82,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      15,
+      18,
+      19
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      111,
+      112,
+      113,
+      148
+    ],
+    "attributes": [
+      78,
+      44,
+      64,
+      68,
+      82,
+      82
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 5300,
+    "price": 0,
+    "resourceId": 50586866,
+    "assetId": 255218
   },
   "50590296": {
     "name": "Carlos Augusto",
@@ -95,7 +192,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 25650,
+    "sbcPrice": 21900,
     "price": 0,
     "resourceId": 50590296,
     "assetId": 258648

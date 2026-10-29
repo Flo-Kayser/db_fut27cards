@@ -40,7 +40,7 @@
       88
     ],
     "hasDynamicImage": false,
-    "price": 233000,
+    "price": 261000,
     "resourceId": 26709,
     "assetId": 26709
   },
@@ -82,7 +82,8 @@
       67
     ],
     "hasDynamicImage": false,
-    "price": 198000,
+    "sbcPrice": 204850,
+    "price": 201000,
     "resourceId": 156353,
     "assetId": 156353
   },
@@ -126,7 +127,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 603000,
+    "price": 625000,
     "resourceId": 166149,
     "assetId": 166149
   },
@@ -263,7 +264,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 60000,
+    "price": 58000,
     "resourceId": 191694,
     "assetId": 191694
   },
@@ -322,9 +323,64 @@
       62
     ],
     "hasDynamicImage": true,
-    "price": 94000,
+    "price": 104000,
     "resourceId": 50411047,
     "assetId": 79399
+  },
+  "50417481": {
+    "name": "Ramiro Árciga",
+    "cardName": "Árciga",
+    "originalVersionId": "58",
+    "clubId": 111678,
+    "leagueId": 341,
+    "countryId": 83,
+    "versionId": "58",
+    "rating": 82,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      21,
+      24,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140
+    ],
+    "attributes": [
+      85,
+      80,
+      82,
+      82,
+      46,
+      73
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 5300,
+    "price": 0,
+    "resourceId": 50417481,
+    "assetId": 85833
   },
   "50524813": {
     "name": "Jesús Corona",
@@ -429,9 +485,51 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 10500,
+    "price": 11000,
     "resourceId": 50555799,
     "assetId": 224151
+  },
+  "50586866": {
+    "name": "Víctor Guzmán",
+    "cardName": "Guzmán",
+    "originalVersionId": "58",
+    "clubId": 1032,
+    "leagueId": 341,
+    "countryId": 83,
+    "versionId": "58",
+    "rating": 82,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      15,
+      18,
+      19
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      111,
+      112,
+      113,
+      148
+    ],
+    "attributes": [
+      78,
+      44,
+      64,
+      68,
+      82,
+      82
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 5300,
+    "price": 0,
+    "resourceId": 50586866,
+    "assetId": 255218
   },
   "84110231": {
     "name": "Henry Martín",

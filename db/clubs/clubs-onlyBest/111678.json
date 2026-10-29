@@ -67,7 +67,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 81884,
       "assetId": 81884
     },
@@ -102,7 +102,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 800,
       "resourceId": 83640,
       "assetId": 83640
     },
@@ -136,7 +136,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 600,
       "resourceId": 85705,
       "assetId": 85705
     },
@@ -177,7 +177,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 500,
       "resourceId": 85711,
       "assetId": 85711
     },
@@ -213,49 +213,9 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 600,
       "resourceId": 85832,
       "assetId": 85832
-    },
-    "85833": {
-      "name": "Ramiro Árciga",
-      "cardName": "Árciga",
-      "originalVersionId": "0",
-      "clubId": 111678,
-      "leagueId": 341,
-      "countryId": 83,
-      "versionId": "2001",
-      "rating": 70,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "RW",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "RM",
-        "RW"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        23,
-        30,
-        35,
-        39
-      ],
-      "attributes": [
-        69,
-        61,
-        70,
-        73,
-        37,
-        63
-      ],
-      "hasDynamicImage": false,
-      "price": 550,
-      "resourceId": 85833,
-      "assetId": 85833
     },
     "85834": {
       "name": "Pablo Ortíz",
@@ -394,7 +354,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 500,
       "resourceId": 192009,
       "assetId": 192009
     },
@@ -439,7 +399,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 600,
       "resourceId": 228892,
       "assetId": 228892
     },
@@ -478,7 +438,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 600,
       "resourceId": 229360,
       "assetId": 229360
     },
@@ -517,7 +477,7 @@
         87
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 550,
       "resourceId": 237077,
       "assetId": 237077
     },
@@ -558,7 +518,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 650,
       "resourceId": 246747,
       "assetId": 246747
     },
@@ -633,7 +593,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 550,
       "resourceId": 255155,
       "assetId": 255155
     },
@@ -669,7 +629,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 650,
       "resourceId": 257927,
       "assetId": 257927
     },
@@ -712,7 +672,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 500,
       "resourceId": 258286,
       "assetId": 258286
     },
@@ -753,7 +713,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 650,
       "resourceId": 259533,
       "assetId": 259533
     },
@@ -791,7 +751,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 550,
       "resourceId": 260740,
       "assetId": 260740
     },
@@ -827,7 +787,7 @@
         42
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 266300,
       "assetId": 266300
     },
@@ -924,9 +884,64 @@
         62
       ],
       "hasDynamicImage": true,
-      "price": 94000,
+      "price": 104000,
       "resourceId": 50411047,
       "assetId": 79399
+    },
+    "50417481": {
+      "name": "Ramiro Árciga",
+      "cardName": "Árciga",
+      "originalVersionId": "58",
+      "clubId": 111678,
+      "leagueId": 341,
+      "countryId": 83,
+      "versionId": "58",
+      "rating": 82,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        21,
+        24,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        85,
+        80,
+        82,
+        82,
+        46,
+        73
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 5300,
+      "price": 0,
+      "resourceId": 50417481,
+      "assetId": 85833
     }
   }
 }
