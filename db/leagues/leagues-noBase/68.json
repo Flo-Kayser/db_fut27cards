@@ -139,7 +139,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 9900,
+    "price": 10500,
     "resourceId": 50413058,
     "assetId": 81410
   },
@@ -229,7 +229,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 10750,
+    "price": 11000,
     "resourceId": 50418277,
     "assetId": 86629
   },
@@ -288,7 +288,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "price": 428000,
+    "price": 411000,
     "resourceId": 50540979,
     "assetId": 209331
   },
@@ -343,7 +343,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 79500,
+    "price": 77500,
     "resourceId": 50541147,
     "assetId": 209499
   },
@@ -384,7 +384,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 11750,
+    "price": 11250,
     "resourceId": 50555358,
     "assetId": 223710
   },
@@ -427,7 +427,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 72500,
+    "price": 49250,
     "resourceId": 50563941,
     "assetId": 232293
   },
@@ -482,7 +482,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 57000,
+    "price": 59000,
     "resourceId": 50574893,
     "assetId": 243245
   },
@@ -575,7 +575,7 @@
       68
     ],
     "hasDynamicImage": true,
-    "price": 10750,
+    "price": 11500,
     "resourceId": 67382428,
     "assetId": 273564
   },
@@ -755,5 +755,48 @@
     "price": 0,
     "resourceId": 84095411,
     "assetId": 209331
+  },
+  "84118373": {
+    "name": "Victor Osimhen",
+    "cardName": "Osimhen",
+    "originalVersionId": "19",
+    "clubId": 325,
+    "leagueId": 68,
+    "countryId": 133,
+    "versionId": "19",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      1,
+      21,
+      4,
+      5,
+      6
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      90,
+      86,
+      68,
+      81,
+      52,
+      87
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 84118373,
+    "assetId": 232293
   }
 }

@@ -70,7 +70,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 1100,
       "resourceId": 80283,
       "assetId": 80283
     },
@@ -110,7 +110,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 1100,
       "resourceId": 202884,
       "assetId": 202884
     },
@@ -151,7 +151,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 650,
       "resourceId": 216409,
       "assetId": 216409
     },
@@ -264,7 +264,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 1300,
       "resourceId": 220532,
       "assetId": 220532
     },
@@ -335,7 +335,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 1000,
       "resourceId": 225116,
       "assetId": 225116
     },
@@ -419,47 +419,6 @@
       "resourceId": 236632,
       "assetId": 236632
     },
-    "237238": {
-      "name": "Scott McTominay",
-      "cardName": "McTominay",
-      "originalVersionId": "0",
-      "clubId": 48,
-      "leagueId": 31,
-      "countryId": 42,
-      "versionId": "2002",
-      "rating": 86,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        29,
-        4
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        31,
-        49,
-        118
-      ],
-      "attributes": [
-        80,
-        83,
-        77,
-        82,
-        80,
-        86
-      ],
-      "hasDynamicImage": false,
-      "price": 5700,
-      "resourceId": 237238,
-      "assetId": 237238
-    },
     "239380": {
       "name": "Noa Lang",
       "cardName": "Lang",
@@ -499,7 +458,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 239380,
       "assetId": 239380
     },
@@ -539,7 +498,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 1800,
+      "price": 1400,
       "resourceId": 240716,
       "assetId": 240716
     },
@@ -573,7 +532,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 2100,
       "resourceId": 242578,
       "assetId": 242578
     },
@@ -648,7 +607,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 244263,
       "assetId": 244263
     },
@@ -686,7 +645,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 2200,
       "resourceId": 245992,
       "assetId": 245992
     },
@@ -724,7 +683,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 1200,
       "resourceId": 259399,
       "assetId": 259399
     },
@@ -762,7 +721,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 1000,
       "resourceId": 262394,
       "assetId": 262394
     },
@@ -801,7 +760,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 3000,
+      "price": 2900,
       "resourceId": 268474,
       "assetId": 268474
     },
@@ -837,7 +796,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 1300,
       "resourceId": 276706,
       "assetId": 276706
     },
@@ -871,7 +830,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 2400,
+      "price": 2900,
       "resourceId": 277244,
       "assetId": 277244
     },
@@ -942,7 +901,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 1200,
       "resourceId": 278319,
       "assetId": 278319
     },
@@ -992,9 +951,65 @@
         71
       ],
       "hasDynamicImage": true,
-      "price": 62000,
+      "price": 60500,
       "resourceId": 50524633,
       "assetId": 192985
+    },
+    "50568886": {
+      "name": "Scott McTominay",
+      "cardName": "McTominay",
+      "originalVersionId": "151",
+      "clubId": 48,
+      "leagueId": 31,
+      "countryId": 42,
+      "versionId": "151",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        14,
+        24,
+        29,
+        9
+      ],
+      "playStylesPlus": [
+        16
+      ],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        149
+      ],
+      "attributes": [
+        82,
+        84,
+        82,
+        84,
+        85,
+        88
+      ],
+      "hasDynamicImage": true,
+      "price": 705000,
+      "resourceId": 50568886,
+      "assetId": 237238
     },
     "84079065": {
       "name": "Kevin De Bruyne",

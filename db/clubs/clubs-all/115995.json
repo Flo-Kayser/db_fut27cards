@@ -40,7 +40,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 950,
       "resourceId": 70145,
       "assetId": 70145
     },
@@ -82,7 +82,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 1100,
       "resourceId": 70546,
       "assetId": 70546
     },
@@ -161,7 +161,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 950,
       "resourceId": 86396,
       "assetId": 86396
     },
@@ -237,7 +237,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 900,
       "resourceId": 226998,
       "assetId": 226998
     },
@@ -282,7 +282,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 1100,
       "resourceId": 239345,
       "assetId": 239345
     },
@@ -366,7 +366,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 1300,
       "resourceId": 247788,
       "assetId": 247788
     },
@@ -458,7 +458,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 13000,
+      "price": 12250,
       "resourceId": 248822,
       "assetId": 248822
     },
@@ -506,7 +506,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 6800,
+      "price": 7300,
       "resourceId": 259287,
       "assetId": 259287
     },
@@ -545,7 +545,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 1200,
       "resourceId": 264886,
       "assetId": 264886
     },
@@ -663,7 +663,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 1100,
       "resourceId": 264908,
       "assetId": 264908
     },
@@ -706,7 +706,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 264933,
       "assetId": 264933
     },
@@ -749,7 +749,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 950,
       "resourceId": 264994,
       "assetId": 264994
     },
@@ -790,7 +790,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 950,
       "resourceId": 270525,
       "assetId": 270525
     },
@@ -827,7 +827,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 950,
       "resourceId": 271860,
       "assetId": 271860
     },
@@ -862,7 +862,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 950,
       "resourceId": 273168,
       "assetId": 273168
     },
@@ -896,7 +896,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 1000,
       "resourceId": 275968,
       "assetId": 275968
     },
@@ -938,7 +938,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 950,
       "resourceId": 276519,
       "assetId": 276519
     },
@@ -981,7 +981,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 1200,
       "resourceId": 277039,
       "assetId": 277039
     },
@@ -1022,7 +1022,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 850,
       "resourceId": 277452,
       "assetId": 277452
     },
@@ -1072,7 +1072,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 229000,
+      "price": 195000,
       "resourceId": 50580470,
       "assetId": 248822
     },
@@ -1130,9 +1130,59 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 121000,
+      "price": 128000,
       "resourceId": 50590935,
       "assetId": 259287
+    },
+    "84134902": {
+      "name": "Klara Bühl",
+      "cardName": "Bühl",
+      "originalVersionId": "19",
+      "clubId": 115995,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "19",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        12,
+        14,
+        24,
+        3,
+        6,
+        8
+      ],
+      "playStylesPlus": [
+        0
+      ],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        86,
+        87,
+        86,
+        87,
+        38,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 84134902,
+      "assetId": 248822
     }
   }
 }

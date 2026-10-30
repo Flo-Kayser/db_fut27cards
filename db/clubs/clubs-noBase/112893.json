@@ -1,4 +1,65 @@
 {
   "clubName": "Inter Miami CF",
-  "players": {}
+  "players": {
+    "50489671": {
+      "name": "Lionel Messi",
+      "cardName": "Messi",
+      "originalVersionId": "151",
+      "clubId": 112893,
+      "leagueId": 39,
+      "countryId": 52,
+      "versionId": "151",
+      "rating": 90,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        11,
+        25,
+        3,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        20
+      ],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        85,
+        88,
+        90,
+        91,
+        34,
+        64
+      ],
+      "hasDynamicImage": true,
+      "price": 7950000,
+      "resourceId": 50489671,
+      "assetId": 158023
+    }
+  }
 }

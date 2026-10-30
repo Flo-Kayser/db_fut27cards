@@ -55,7 +55,7 @@
         74
       ],
       "hasDynamicImage": true,
-      "price": 11000,
+      "price": 10750,
       "resourceId": 50559029,
       "assetId": 227381
     },
@@ -96,7 +96,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 12000,
+      "price": 11500,
       "resourceId": 50596668,
       "assetId": 265020
     },
@@ -250,6 +250,58 @@
       "price": 0,
       "resourceId": 84151100,
       "assetId": 265020
+    },
+    "84151311": {
+      "name": "Natasha Flint",
+      "cardName": "Flint",
+      "originalVersionId": "19",
+      "clubId": 132698,
+      "leagueId": 2221,
+      "countryId": 14,
+      "versionId": "19",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        22,
+        29
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        76,
+        80,
+        73,
+        82,
+        44,
+        82
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 84151311,
+      "assetId": 265231
     }
   }
 }

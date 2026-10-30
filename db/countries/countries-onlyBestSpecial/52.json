@@ -46,7 +46,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 478000,
+    "price": 518000,
     "resourceId": 1041,
     "assetId": 1041
   },
@@ -89,7 +89,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 400000,
+    "price": 410000,
     "resourceId": 7512,
     "assetId": 7512
   },
@@ -133,7 +133,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 137000,
+    "price": 131000,
     "resourceId": 10959,
     "assetId": 10959
   },
@@ -177,7 +177,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 304000,
+    "price": 307000,
     "resourceId": 23174,
     "assetId": 23174
   },
@@ -225,7 +225,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 0,
+    "price": 599000,
     "resourceId": 82092,
     "assetId": 82092
   },
@@ -271,7 +271,7 @@
       81
     ],
     "hasDynamicImage": false,
-    "price": 290000,
+    "price": 303000,
     "resourceId": 138123,
     "assetId": 138123
   },
@@ -316,7 +316,7 @@
       86
     ],
     "hasDynamicImage": false,
-    "price": 284000,
+    "price": 287000,
     "resourceId": 142754,
     "assetId": 142754
   },
@@ -359,7 +359,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 3074000,
+    "price": 3010000,
     "resourceId": 153079,
     "assetId": 153079
   },
@@ -406,7 +406,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 6950000,
+    "price": 6600000,
     "resourceId": 190042,
     "assetId": 190042
   },
@@ -449,7 +449,7 @@
       81
     ],
     "hasDynamicImage": false,
-    "price": 665000,
+    "price": 499000,
     "resourceId": 221162,
     "assetId": 221162
   },
@@ -492,7 +492,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 103000,
+    "price": 104000,
     "resourceId": 262271,
     "assetId": 262271
   },
@@ -537,7 +537,7 @@
       89
     ],
     "hasDynamicImage": false,
-    "price": 721000,
+    "price": 626000,
     "resourceId": 274966,
     "assetId": 274966
   },
@@ -588,6 +588,66 @@
     "price": 0,
     "resourceId": 50403654,
     "assetId": 72006
+  },
+  "50489671": {
+    "name": "Lionel Messi",
+    "cardName": "Messi",
+    "originalVersionId": "151",
+    "clubId": 112893,
+    "leagueId": 39,
+    "countryId": 52,
+    "versionId": "151",
+    "rating": 90,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "CAM",
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      11,
+      25,
+      3,
+      7,
+      8
+    ],
+    "playStylesPlus": [
+      20
+    ],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      85,
+      88,
+      90,
+      91,
+      34,
+      64
+    ],
+    "hasDynamicImage": true,
+    "price": 7950000,
+    "resourceId": 50489671,
+    "assetId": 158023
   },
   "50524014": {
     "name": "Nicolás Otamendi",
@@ -729,7 +789,7 @@
       71
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 4250,
+    "sbcPrice": 4750,
     "price": 0,
     "resourceId": 50558033,
     "assetId": 226385
@@ -773,7 +833,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 14750,
+    "price": 15000,
     "resourceId": 50564136,
     "assetId": 232488
   },
@@ -823,7 +883,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 195000,
+    "price": 189000,
     "resourceId": 50571485,
     "assetId": 239837
   },
@@ -864,7 +924,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 14250,
+    "price": 13250,
     "resourceId": 67351699,
     "assetId": 242835
   },
@@ -920,7 +980,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 11000,
+    "price": 10500,
     "resourceId": 67354218,
     "assetId": 245354
   },
@@ -1062,7 +1122,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 1099000,
+    "price": 1169000,
     "resourceId": 84163926,
     "assetId": 277846
   },
@@ -1114,8 +1174,49 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 300000,
+    "price": 311000,
     "resourceId": 84165253,
     "assetId": 279173
+  },
+  "100906131": {
+    "name": "Leonardo Balerdi",
+    "cardName": "Balerdi",
+    "originalVersionId": "19",
+    "clubId": 52,
+    "leagueId": 31,
+    "countryId": 52,
+    "versionId": "19",
+    "rating": 83,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      16,
+      17,
+      19
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      111,
+      112,
+      113,
+      148
+    ],
+    "attributes": [
+      78,
+      50,
+      70,
+      74,
+      85,
+      83
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 100906131,
+    "assetId": 242835
   }
 }

@@ -35,7 +35,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 118000,
+    "price": 127000,
     "resourceId": 1845,
     "assetId": 1845
   },
@@ -84,7 +84,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 841000,
+    "price": 833000,
     "resourceId": 84415,
     "assetId": 84415
   },
@@ -129,7 +129,7 @@
       86
     ],
     "hasDynamicImage": false,
-    "price": 123000,
+    "price": 118000,
     "resourceId": 274967,
     "assetId": 274967
   },
@@ -179,9 +179,71 @@
       68
     ],
     "hasDynamicImage": true,
-    "price": 127000,
+    "price": 137000,
     "resourceId": 50554313,
     "assetId": 222665
+  },
+  "50561539": {
+    "name": "Julian Ryerson",
+    "cardName": "Ryerson",
+    "originalVersionId": "151",
+    "clubId": 22,
+    "leagueId": 19,
+    "countryId": 36,
+    "versionId": "151",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "LB",
+      "LM",
+      "RB",
+      "RM"
+    ],
+    "playStyles": [
+      12,
+      14,
+      20,
+      28,
+      8
+    ],
+    "playStylesPlus": [
+      21
+    ],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      146,
+      147
+    ],
+    "attributes": [
+      86,
+      82,
+      85,
+      86,
+      80,
+      83
+    ],
+    "hasDynamicImage": true,
+    "price": 142000,
+    "resourceId": 50561539,
+    "assetId": 229891
   },
   "50569584": {
     "name": "Aron Dønnum",
@@ -233,7 +295,7 @@
       79
     ],
     "hasDynamicImage": true,
-    "price": 11250,
+    "price": 10250,
     "resourceId": 50569584,
     "assetId": 237936
   },
@@ -280,7 +342,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 1591000,
+    "price": 1647000,
     "resourceId": 50570733,
     "assetId": 239085
   },
@@ -499,5 +561,51 @@
     "price": 0,
     "resourceId": 84124016,
     "assetId": 237936
+  },
+  "100746806": {
+    "name": "Kristian Lonebu",
+    "cardName": "Lonebu",
+    "originalVersionId": "19",
+    "clubId": 417,
+    "leagueId": 41,
+    "countryId": 36,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      1,
+      25
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      131,
+      132,
+      133,
+      134,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      86,
+      79,
+      72,
+      79,
+      40,
+      83
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 100746806,
+    "assetId": 83510
   }
 }

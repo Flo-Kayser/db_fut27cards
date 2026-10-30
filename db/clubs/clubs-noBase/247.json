@@ -1,6 +1,67 @@
 {
   "clubName": "PSV",
   "players": {
+    "50513106": {
+      "name": "Ivan Perišić",
+      "cardName": "Perišić",
+      "originalVersionId": "151",
+      "clubId": 247,
+      "leagueId": 10,
+      "countryId": 10,
+      "versionId": "151",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        11,
+        20,
+        7,
+        8,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        82,
+        85,
+        87,
+        84,
+        72,
+        81
+      ],
+      "hasDynamicImage": true,
+      "price": 66000,
+      "resourceId": 50513106,
+      "assetId": 181458
+    },
     "67363653": {
       "name": "Sven Mijnans",
       "cardName": "Mijnans",
@@ -56,7 +117,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 10750,
+      "price": 10500,
       "resourceId": 67363653,
       "assetId": 254789
     }

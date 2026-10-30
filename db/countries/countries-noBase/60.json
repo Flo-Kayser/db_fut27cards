@@ -40,7 +40,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 388000,
+    "price": 401000,
     "resourceId": 266691,
     "assetId": 266691
   },
@@ -86,7 +86,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 364000,
+    "price": 373000,
     "resourceId": 275049,
     "assetId": 275049
   },
@@ -130,6 +130,73 @@
     "price": 9900,
     "resourceId": 50514142,
     "assetId": 182494
+  },
+  "50570701": {
+    "name": "Federico Valverde",
+    "cardName": "Valverde",
+    "originalVersionId": "151",
+    "clubId": 243,
+    "leagueId": 53,
+    "countryId": 60,
+    "versionId": "151",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "CDM",
+      "CM",
+      "RB",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      12,
+      16,
+      2,
+      21,
+      25
+    ],
+    "playStylesPlus": [
+      14
+    ],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      135,
+      136,
+      137,
+      146,
+      149
+    ],
+    "attributes": [
+      91,
+      85,
+      85,
+      82,
+      85,
+      86
+    ],
+    "hasDynamicImage": true,
+    "price": 3369000,
+    "resourceId": 50570701,
+    "assetId": 239053
   },
   "50583025": {
     "name": "Rodrigo Zalazar",
@@ -223,7 +290,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 10500,
+    "price": 11000,
     "resourceId": 50591227,
     "assetId": 259579
   },
@@ -269,8 +336,49 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 12250,
+    "price": 11750,
     "resourceId": 67383910,
     "assetId": 275046
+  },
+  "84068574": {
+    "name": "Fernando Muslera",
+    "cardName": "Muslera",
+    "originalVersionId": "19",
+    "clubId": 101083,
+    "leagueId": 353,
+    "countryId": 60,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Right",
+    "weakFoot": 2,
+    "skillMoves": 1,
+    "preferredPosition": "GK",
+    "possiblePositions": [
+      "GK"
+    ],
+    "playStyles": [
+      10,
+      30,
+      32,
+      33
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      101,
+      102,
+      145
+    ],
+    "attributes": [
+      81,
+      78,
+      75,
+      81,
+      47,
+      82
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 84068574,
+    "assetId": 182494
   }
 }

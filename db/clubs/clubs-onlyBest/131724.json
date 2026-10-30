@@ -34,7 +34,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 950,
       "resourceId": 71691,
       "assetId": 71691
     },
@@ -70,7 +70,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 900,
       "resourceId": 71703,
       "assetId": 71703
     },
@@ -114,7 +114,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 800,
       "resourceId": 71706,
       "assetId": 71706
     },
@@ -190,7 +190,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 850,
       "resourceId": 75390,
       "assetId": 75390
     },
@@ -226,7 +226,7 @@
         35
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 250,
       "resourceId": 79537,
       "assetId": 79537
     },
@@ -260,7 +260,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 850,
       "resourceId": 83108,
       "assetId": 83108
     },
@@ -406,7 +406,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 1100,
       "resourceId": 265096,
       "assetId": 265096
     },
@@ -449,7 +449,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 900,
       "resourceId": 265878,
       "assetId": 265878
     },
@@ -493,7 +493,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 950,
       "resourceId": 265956,
       "assetId": 265956
     },
@@ -534,52 +534,9 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 1100,
       "resourceId": 265969,
       "assetId": 265969
-    },
-    "268940": {
-      "name": "Ana-Maria Crnogorčević",
-      "cardName": "Crnogorčević",
-      "originalVersionId": "0",
-      "clubId": 131724,
-      "leagueId": 2218,
-      "countryId": 47,
-      "versionId": "2002",
-      "rating": 78,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "RW",
-      "possiblePositions": [
-        "RB",
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        20,
-        28
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        6,
-        23,
-        35,
-        36,
-        37
-      ],
-      "attributes": [
-        78,
-        76,
-        75,
-        79,
-        73,
-        81
-      ],
-      "hasDynamicImage": false,
-      "price": 900,
-      "resourceId": 268940,
-      "assetId": 268940
     },
     "270967": {
       "name": "Marion Haelewyn",
@@ -651,7 +608,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 750,
       "resourceId": 272607,
       "assetId": 272607
     },
@@ -685,7 +642,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 800,
       "resourceId": 273365,
       "assetId": 273365
     },
@@ -723,7 +680,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 950,
       "resourceId": 275525,
       "assetId": 275525
     },
@@ -769,6 +726,58 @@
       "price": 1400,
       "resourceId": 275888,
       "assetId": 275888
+    },
+    "50600588": {
+      "name": "Ana-Maria Crnogorčević",
+      "cardName": "Crnogorčević",
+      "originalVersionId": "151",
+      "clubId": 131724,
+      "leagueId": 2218,
+      "countryId": 47,
+      "versionId": "151",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        14,
+        17,
+        20,
+        28
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        103,
+        104,
+        105,
+        106,
+        123,
+        124,
+        125,
+        126,
+        135,
+        136,
+        137,
+        146
+      ],
+      "attributes": [
+        85,
+        80,
+        80,
+        86,
+        84,
+        87
+      ],
+      "hasDynamicImage": true,
+      "price": 42000,
+      "resourceId": 50600588,
+      "assetId": 268940
     }
   }
 }

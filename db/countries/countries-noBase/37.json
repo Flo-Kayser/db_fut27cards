@@ -33,7 +33,7 @@
       85
     ],
     "hasDynamicImage": false,
-    "price": 86500,
+    "price": 81000,
     "resourceId": 44897,
     "assetId": 44897
   },
@@ -120,7 +120,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 18750,
+    "price": 18250,
     "resourceId": 50520193,
     "assetId": 188545
   },
@@ -242,7 +242,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 1100000,
+    "price": 1156000,
     "resourceId": 50573494,
     "assetId": 241846
   },
@@ -284,7 +284,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 10750,
+    "price": 10500,
     "resourceId": 50596532,
     "assetId": 264884
   },
@@ -333,7 +333,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 26500,
+    "price": 24750,
     "resourceId": 50597341,
     "assetId": 265693
   },
@@ -381,6 +381,69 @@
     "price": 0,
     "resourceId": 84074625,
     "assetId": 188545
+  },
+  "84122053": {
+    "name": "Sebastian Szymański",
+    "cardName": "Szymański",
+    "originalVersionId": "19",
+    "clubId": 74,
+    "leagueId": 16,
+    "countryId": 37,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      0,
+      2,
+      20,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      149
+    ],
+    "attributes": [
+      80,
+      79,
+      82,
+      80,
+      64,
+      70
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 84122053,
+    "assetId": 235973
   },
   "84127926": {
     "name": "Ewa Pajor",
@@ -440,5 +503,47 @@
     "price": 0,
     "resourceId": 84127926,
     "assetId": 241846
+  },
+  "84150964": {
+    "name": "Paulina Dudek",
+    "cardName": "Dudek",
+    "originalVersionId": "19",
+    "clubId": 116034,
+    "leagueId": 2218,
+    "countryId": 37,
+    "versionId": "19",
+    "rating": 83,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      10,
+      16,
+      17,
+      19
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      111,
+      112,
+      113,
+      148
+    ],
+    "attributes": [
+      75,
+      50,
+      66,
+      70,
+      87,
+      80
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 84150964,
+    "assetId": 264884
   }
 }

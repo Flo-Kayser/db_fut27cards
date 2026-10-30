@@ -67,7 +67,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 7200,
+      "price": 7700,
       "resourceId": 75087,
       "assetId": 75087
     },
@@ -140,7 +140,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 1300,
       "resourceId": 82899,
       "assetId": 82899
     },
@@ -174,7 +174,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 1900,
       "resourceId": 163264,
       "assetId": 163264
     },
@@ -208,7 +208,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 2400,
       "resourceId": 193331,
       "assetId": 193331
     },
@@ -283,7 +283,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 2600,
       "resourceId": 205988,
       "assetId": 205988
     },
@@ -373,7 +373,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 3000,
+      "price": 2800,
       "resourceId": 216393,
       "assetId": 216393
     },
@@ -415,7 +415,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 950,
       "resourceId": 233064,
       "assetId": 233064
     },
@@ -459,7 +459,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 1400,
       "resourceId": 234574,
       "assetId": 234574
     },
@@ -538,7 +538,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 1100,
       "resourceId": 236401,
       "assetId": 236401
     },
@@ -576,57 +576,9 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 900,
       "resourceId": 239301,
       "assetId": 239301
-    },
-    "240243": {
-      "name": "Matheus Cunha",
-      "cardName": "Matheus Cunha",
-      "originalVersionId": "0",
-      "clubId": 11,
-      "leagueId": 13,
-      "countryId": 54,
-      "versionId": "2002",
-      "rating": 84,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "CAM",
-        "LM",
-        "LW",
-        "ST"
-      ],
-      "playStyles": [
-        13,
-        2,
-        22,
-        23,
-        3,
-        6
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        29,
-        30,
-        32,
-        39,
-        43
-      ],
-      "attributes": [
-        77,
-        86,
-        79,
-        84,
-        44,
-        73
-      ],
-      "hasDynamicImage": false,
-      "price": 1000,
-      "resourceId": 240243,
-      "assetId": 240243
     },
     "250961": {
       "name": "Joshua Zirkzee",
@@ -661,7 +613,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 950,
       "resourceId": 250961,
       "assetId": 250961
     },
@@ -699,7 +651,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 1000,
       "resourceId": 253306,
       "assetId": 253306
     },
@@ -739,7 +691,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 254088,
       "assetId": 254088
     },
@@ -817,7 +769,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 750,
       "resourceId": 260592,
       "assetId": 260592
     },
@@ -851,7 +803,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 850,
       "resourceId": 268415,
       "assetId": 268415
     },
@@ -888,7 +840,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 1800,
+      "price": 2000,
       "resourceId": 269087,
       "assetId": 269087
     },
@@ -927,7 +879,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 950,
       "resourceId": 273018,
       "assetId": 273018
     },
@@ -1003,7 +955,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 1500,
       "resourceId": 277432,
       "assetId": 277432
     },
@@ -1040,7 +992,7 @@
         41
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 1400,
       "resourceId": 278124,
       "assetId": 278124
     },
@@ -1153,6 +1105,64 @@
       "resourceId": 50563325,
       "assetId": 231677
     },
+    "50571891": {
+      "name": "Matheus Cunha",
+      "cardName": "Matheus Cunha",
+      "originalVersionId": "151",
+      "clubId": 11,
+      "leagueId": 13,
+      "countryId": 54,
+      "versionId": "151",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        13,
+        2,
+        22,
+        23,
+        6,
+        7
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        84,
+        90,
+        81,
+        87,
+        46,
+        77
+      ],
+      "hasDynamicImage": true,
+      "price": 431000,
+      "resourceId": 50571891,
+      "assetId": 240243
+    },
     "50574662": {
       "name": "Bryan Mbeumo",
       "cardName": "Mbeumo",
@@ -1203,7 +1213,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 693000,
+      "price": 686000,
       "resourceId": 50574662,
       "assetId": 243014
     },
@@ -1259,7 +1269,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 2319000,
+      "price": 3099000,
       "resourceId": 50600784,
       "assetId": 269136
     },
@@ -1300,7 +1310,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 1100,
       "resourceId": 50604148,
       "assetId": 272500
     }

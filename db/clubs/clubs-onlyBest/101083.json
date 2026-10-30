@@ -31,7 +31,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 350,
       "resourceId": 70698,
       "assetId": 70698
     },
@@ -99,7 +99,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 450,
       "resourceId": 74812,
       "assetId": 74812
     },
@@ -142,7 +142,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 75073,
       "assetId": 75073
     },
@@ -185,7 +185,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 650,
       "resourceId": 75343,
       "assetId": 75343
     },
@@ -301,7 +301,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 600,
       "resourceId": 199667,
       "assetId": 199667
     },
@@ -342,7 +342,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 1600,
       "resourceId": 199669,
       "assetId": 199669
     },
@@ -381,7 +381,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 750,
       "resourceId": 215330,
       "assetId": 215330
     },
@@ -421,7 +421,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 850,
       "resourceId": 215334,
       "assetId": 215334
     },
@@ -501,7 +501,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 700,
       "resourceId": 228179,
       "assetId": 228179
     },
@@ -542,7 +542,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 242426,
       "assetId": 242426
     },
@@ -578,7 +578,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 650,
       "resourceId": 245437,
       "assetId": 245437
     },
@@ -658,7 +658,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 600,
       "resourceId": 251132,
       "assetId": 251132
     },
@@ -697,7 +697,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 750,
       "resourceId": 253287,
       "assetId": 253287
     },
@@ -736,7 +736,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 1100,
       "resourceId": 258090,
       "assetId": 258090
     },
@@ -783,7 +783,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 261015,
       "assetId": 261015
     },
@@ -821,7 +821,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 650,
       "resourceId": 263501,
       "assetId": 263501
     },
@@ -862,7 +862,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 2400,
       "resourceId": 263690,
       "assetId": 263690
     },
@@ -898,7 +898,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 900,
       "resourceId": 267602,
       "assetId": 267602
     },
@@ -933,7 +933,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 650,
       "resourceId": 268558,
       "assetId": 268558
     },
@@ -970,7 +970,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 269934,
       "assetId": 269934
     },
@@ -1050,7 +1050,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 600,
       "resourceId": 275343,
       "assetId": 275343
     },
@@ -1084,7 +1084,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 800,
       "resourceId": 276829,
       "assetId": 276829
     },
@@ -1167,9 +1167,50 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 550,
       "resourceId": 50563008,
       "assetId": 231360
+    },
+    "84068574": {
+      "name": "Fernando Muslera",
+      "cardName": "Muslera",
+      "originalVersionId": "19",
+      "clubId": 101083,
+      "leagueId": 353,
+      "countryId": 60,
+      "versionId": "19",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        10,
+        30,
+        32,
+        33
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        81,
+        78,
+        75,
+        81,
+        47,
+        82
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 84068574,
+      "assetId": 182494
     }
   }
 }

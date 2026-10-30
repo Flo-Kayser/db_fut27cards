@@ -38,7 +38,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 88500,
+    "price": 84500,
     "resourceId": 227261,
     "assetId": 227261
   },
@@ -84,7 +84,7 @@
       89
     ],
     "hasDynamicImage": false,
-    "price": 157000,
+    "price": 150000,
     "resourceId": 227262,
     "assetId": 227262
   },
@@ -128,7 +128,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 90500,
+    "price": 92500,
     "resourceId": 227271,
     "assetId": 227271
   },
@@ -256,7 +256,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 2786000,
+    "price": 2888000,
     "resourceId": 50558851,
     "assetId": 227203
   },
@@ -305,7 +305,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 839000,
+    "price": 829000,
     "resourceId": 50559009,
     "assetId": 227361
   },
@@ -403,7 +403,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 910000,
+    "price": 777000,
     "resourceId": 50575052,
     "assetId": 243404
   },
@@ -450,7 +450,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 130000,
+    "price": 131000,
     "resourceId": 50588656,
     "assetId": 257008
   },
@@ -501,7 +501,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 344000,
+    "price": 371000,
     "resourceId": 50590628,
     "assetId": 258980
   },
@@ -668,7 +668,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 924000,
+    "price": 961000,
     "resourceId": 50596897,
     "assetId": 265249
   },
@@ -717,7 +717,7 @@
       65
     ],
     "hasDynamicImage": true,
-    "price": 58500,
+    "price": 56500,
     "resourceId": 50596965,
     "assetId": 265317
   },
@@ -932,7 +932,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 25250,
+    "price": 23750,
     "resourceId": 67336110,
     "assetId": 227246
   },
@@ -1097,6 +1097,57 @@
     "resourceId": 84126110,
     "assetId": 240030
   },
+  "84129484": {
+    "name": "Georgia Stanway",
+    "cardName": "Stanway",
+    "originalVersionId": "19",
+    "clubId": 116009,
+    "leagueId": 2216,
+    "countryId": 14,
+    "versionId": "19",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      10,
+      14,
+      20,
+      22
+    ],
+    "playStylesPlus": [
+      9
+    ],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      149
+    ],
+    "attributes": [
+      83,
+      81,
+      82,
+      87,
+      80,
+      80
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 84129484,
+    "assetId": 243404
+  },
   "84143088": {
     "name": "Lauren Hemp",
     "cardName": "Hemp",
@@ -1258,5 +1309,55 @@
     "price": 0,
     "resourceId": 84151329,
     "assetId": 265249
+  },
+  "84159179": {
+    "name": "Amalie Vangsgaard",
+    "cardName": "Vangsgaard",
+    "originalVersionId": "19",
+    "clubId": 116015,
+    "leagueId": 2216,
+    "countryId": 13,
+    "versionId": "19",
+    "rating": 82,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      1,
+      25
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      135,
+      136,
+      137,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      84,
+      83,
+      75,
+      80,
+      55,
+      75
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 84159179,
+    "assetId": 273099
   }
 }

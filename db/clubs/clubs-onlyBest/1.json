@@ -31,7 +31,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 3200,
       "resourceId": 206585,
       "assetId": 206585
     },
@@ -72,7 +72,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 1200,
       "resourceId": 225193,
       "assetId": 225193
     },
@@ -110,7 +110,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 1500,
       "resourceId": 231936,
       "assetId": 231936
     },
@@ -153,7 +153,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 12750,
+      "price": 12500,
       "resourceId": 234378,
       "assetId": 234378
     },
@@ -246,7 +246,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 1100,
       "resourceId": 235794,
       "assetId": 235794
     },
@@ -282,7 +282,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 2100,
       "resourceId": 242656,
       "assetId": 242656
     },
@@ -322,7 +322,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 28250,
+      "price": 29250,
       "resourceId": 243715,
       "assetId": 243715
     },
@@ -365,7 +365,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 7000,
+      "price": 7100,
       "resourceId": 246669,
       "assetId": 246669
     },
@@ -409,7 +409,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 5300,
+      "price": 4900,
       "resourceId": 247851,
       "assetId": 247851
     },
@@ -448,7 +448,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 1200,
       "resourceId": 248148,
       "assetId": 248148
     },
@@ -492,7 +492,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 1300,
       "resourceId": 251805,
       "assetId": 251805
     },
@@ -532,7 +532,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 850,
       "resourceId": 254796,
       "assetId": 254796
     },
@@ -574,7 +574,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 1400,
       "resourceId": 256197,
       "assetId": 256197
     },
@@ -615,7 +615,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 1200,
       "resourceId": 257711,
       "assetId": 257711
     },
@@ -651,7 +651,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 2800,
+      "price": 7200,
       "resourceId": 264846,
       "assetId": 264846
     },
@@ -701,7 +701,7 @@
         68
       ],
       "hasDynamicImage": true,
-      "price": 127000,
+      "price": 137000,
       "resourceId": 50554313,
       "assetId": 222665
     },
@@ -742,7 +742,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 197000,
+      "price": 203000,
       "resourceId": 50559326,
       "assetId": 227678
     },
@@ -787,7 +787,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 625000,
+      "price": 585000,
       "resourceId": 50564228,
       "assetId": 232580
     },
@@ -831,7 +831,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 66000,
+      "price": 65500,
       "resourceId": 50573299,
       "assetId": 241651
     },
@@ -933,7 +933,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 848000,
+      "price": 797000,
       "resourceId": 50610421,
       "assetId": 278773
     },
@@ -975,9 +975,54 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 299000,
+      "price": 285000,
       "resourceId": 67329765,
       "assetId": 220901
+    },
+    "84118660": {
+      "name": "Gabriel",
+      "cardName": "Gabriel",
+      "originalVersionId": "19",
+      "clubId": 1,
+      "leagueId": 13,
+      "countryId": 54,
+      "versionId": "19",
+      "rating": 90,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        14,
+        15,
+        18,
+        28,
+        4
+      ],
+      "playStylesPlus": [
+        19
+      ],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        76,
+        45,
+        66,
+        70,
+        92,
+        85
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 84118660,
+      "assetId": 232580
     }
   }
 }
