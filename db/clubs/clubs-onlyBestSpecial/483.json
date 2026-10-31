@@ -1,6 +1,64 @@
 {
   "clubName": "Villarreal CF",
   "players": {
+    "50557758": {
+      "name": "Nicolas Pépé",
+      "cardName": "Pépé",
+      "originalVersionId": "151",
+      "clubId": 483,
+      "leagueId": 53,
+      "countryId": 108,
+      "versionId": "151",
+      "rating": 84,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        1,
+        13,
+        20,
+        22,
+        5
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        91,
+        83,
+        78,
+        87,
+        40,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50557758,
+      "assetId": 226110
+    },
     "50596036": {
       "name": "Moleiro",
       "cardName": "Moleiro",
@@ -55,7 +113,7 @@
         72
       ],
       "hasDynamicImage": true,
-      "price": 67500,
+      "price": 60500,
       "resourceId": 50596036,
       "assetId": 264388
     },
