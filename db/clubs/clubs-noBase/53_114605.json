@@ -42,55 +42,11 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 852000,
+    "price": 815000,
     "resourceId": 214101,
     "assetId": 214101,
     "name": "Paulo Futre",
     "cardName": "Paulo Futre"
-  },
-  {
-    "clubId": 114605,
-    "leagueId": 53,
-    "countryId": 52,
-    "versionId": "72",
-    "rating": 88,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "CB",
-    "possiblePositions": [
-      "CB",
-      "CDM"
-    ],
-    "playStyles": [
-      10,
-      15,
-      17,
-      18,
-      9
-    ],
-    "playStylesPlus": [
-      16
-    ],
-    "rolesPlus": [
-      12,
-      113,
-      115
-    ],
-    "attributes": [
-      77,
-      55,
-      76,
-      75,
-      89,
-      86
-    ],
-    "hasDynamicImage": false,
-    "price": 266000,
-    "resourceId": 142754,
-    "assetId": 142754,
-    "name": "Javier Mascherano",
-    "cardName": "Mascherano"
   },
   {
     "clubId": 114605,
@@ -125,7 +81,7 @@
       87
     ],
     "hasDynamicImage": false,
-    "price": 119000,
+    "price": 112000,
     "resourceId": 8348,
     "assetId": 8348,
     "name": "Míchel Salgado",
@@ -165,11 +121,55 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 170000,
+    "price": 166000,
     "resourceId": 25924,
     "assetId": 25924,
     "name": "Capdevila",
     "cardName": "Capdevila"
+  },
+  {
+    "clubId": 114605,
+    "leagueId": 53,
+    "countryId": 52,
+    "versionId": "72",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB",
+      "CDM"
+    ],
+    "playStyles": [
+      10,
+      15,
+      17,
+      18,
+      9
+    ],
+    "playStylesPlus": [
+      16
+    ],
+    "rolesPlus": [
+      12,
+      113,
+      115
+    ],
+    "attributes": [
+      77,
+      55,
+      76,
+      75,
+      89,
+      86
+    ],
+    "hasDynamicImage": false,
+    "price": 269000,
+    "resourceId": 142754,
+    "assetId": 142754,
+    "name": "Javier Mascherano",
+    "cardName": "Mascherano"
   },
   {
     "clubId": 114605,
@@ -208,11 +208,180 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 127000,
+    "price": 110000,
     "resourceId": 10959,
     "assetId": 10959,
     "name": "Pablo Aimar",
     "cardName": "Aimar"
+  },
+  {
+    "clubId": 114605,
+    "leagueId": 53,
+    "countryId": 45,
+    "versionId": "72",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      1,
+      2,
+      22,
+      29
+    ],
+    "playStylesPlus": [
+      4
+    ],
+    "rolesPlus": [
+      42,
+      144
+    ],
+    "attributes": [
+      84,
+      88,
+      77,
+      83,
+      45,
+      85
+    ],
+    "hasDynamicImage": false,
+    "price": 85000,
+    "resourceId": 5661,
+    "assetId": 5661,
+    "name": "Fernando Morientes",
+    "cardName": "Fernando Morientes"
+  },
+  {
+    "clubId": 114605,
+    "leagueId": 53,
+    "countryId": 45,
+    "versionId": "72",
+    "rating": 86,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CM"
+    ],
+    "playStyles": [
+      0,
+      13,
+      24,
+      9
+    ],
+    "playStylesPlus": [
+      8
+    ],
+    "rolesPlus": [
+      22,
+      121,
+      131
+    ],
+    "attributes": [
+      77,
+      82,
+      88,
+      85,
+      63,
+      73
+    ],
+    "hasDynamicImage": false,
+    "price": 139000,
+    "resourceId": 262285,
+    "assetId": 262285,
+    "name": "Guti",
+    "cardName": "Guti"
+  },
+  {
+    "clubId": 114605,
+    "leagueId": 53,
+    "countryId": 34,
+    "versionId": "72",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      22,
+      24,
+      29,
+      4
+    ],
+    "playStylesPlus": [
+      6
+    ],
+    "rolesPlus": [
+      42,
+      141
+    ],
+    "attributes": [
+      84,
+      86,
+      76,
+      81,
+      40,
+      80
+    ],
+    "hasDynamicImage": false,
+    "price": 80500,
+    "resourceId": 238424,
+    "assetId": 238424,
+    "name": "Patrick Kluivert",
+    "cardName": "Kluivert"
+  },
+  {
+    "clubId": 114605,
+    "leagueId": 53,
+    "countryId": 60,
+    "versionId": "72",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      1,
+      22,
+      24,
+      6
+    ],
+    "playStylesPlus": [
+      2
+    ],
+    "rolesPlus": [
+      39,
+      43,
+      141
+    ],
+    "attributes": [
+      86,
+      90,
+      79,
+      85,
+      55,
+      76
+    ],
+    "hasDynamicImage": false,
+    "price": 336000,
+    "resourceId": 266691,
+    "assetId": 266691,
+    "name": "Diego Forlán",
+    "cardName": "Forlán"
   },
   {
     "clubId": 114605,
@@ -249,7 +418,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 200000,
+    "price": 185000,
     "resourceId": 214649,
     "assetId": 214649,
     "name": "Davor Šuker",
@@ -302,175 +471,6 @@
   {
     "clubId": 114605,
     "leagueId": 53,
-    "countryId": 45,
-    "versionId": "72",
-    "rating": 86,
-    "preferredFoot": "Left",
-    "weakFoot": 3,
-    "skillMoves": 4,
-    "preferredPosition": "CM",
-    "possiblePositions": [
-      "CAM",
-      "CM"
-    ],
-    "playStyles": [
-      0,
-      13,
-      24,
-      9
-    ],
-    "playStylesPlus": [
-      8
-    ],
-    "rolesPlus": [
-      22,
-      121,
-      131
-    ],
-    "attributes": [
-      77,
-      82,
-      88,
-      85,
-      63,
-      73
-    ],
-    "hasDynamicImage": false,
-    "price": 132000,
-    "resourceId": 262285,
-    "assetId": 262285,
-    "name": "Guti",
-    "cardName": "Guti"
-  },
-  {
-    "clubId": 114605,
-    "leagueId": 53,
-    "countryId": 60,
-    "versionId": "72",
-    "rating": 88,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "LW",
-      "ST"
-    ],
-    "playStyles": [
-      0,
-      1,
-      22,
-      24,
-      6
-    ],
-    "playStylesPlus": [
-      2
-    ],
-    "rolesPlus": [
-      39,
-      43,
-      141
-    ],
-    "attributes": [
-      86,
-      90,
-      79,
-      85,
-      55,
-      76
-    ],
-    "hasDynamicImage": false,
-    "price": 357000,
-    "resourceId": 266691,
-    "assetId": 266691,
-    "name": "Diego Forlán",
-    "cardName": "Forlán"
-  },
-  {
-    "clubId": 114605,
-    "leagueId": 53,
-    "countryId": 34,
-    "versionId": "72",
-    "rating": 87,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "ST"
-    ],
-    "playStyles": [
-      22,
-      24,
-      29,
-      4
-    ],
-    "playStylesPlus": [
-      6
-    ],
-    "rolesPlus": [
-      42,
-      141
-    ],
-    "attributes": [
-      84,
-      86,
-      76,
-      81,
-      40,
-      80
-    ],
-    "hasDynamicImage": false,
-    "price": 90500,
-    "resourceId": 238424,
-    "assetId": 238424,
-    "name": "Patrick Kluivert",
-    "cardName": "Kluivert"
-  },
-  {
-    "clubId": 114605,
-    "leagueId": 53,
-    "countryId": 45,
-    "versionId": "72",
-    "rating": 87,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "ST"
-    ],
-    "playStyles": [
-      1,
-      2,
-      22,
-      29
-    ],
-    "playStylesPlus": [
-      4
-    ],
-    "rolesPlus": [
-      42,
-      144
-    ],
-    "attributes": [
-      84,
-      88,
-      77,
-      83,
-      45,
-      85
-    ],
-    "hasDynamicImage": false,
-    "price": 89500,
-    "resourceId": 5661,
-    "assetId": 5661,
-    "name": "Fernando Morientes",
-    "cardName": "Fernando Morientes"
-  },
-  {
-    "clubId": 114605,
-    "leagueId": 53,
     "countryId": 55,
     "versionId": "72",
     "rating": 88,
@@ -503,7 +503,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 93000,
+    "price": 94500,
     "resourceId": 77787,
     "assetId": 77787,
     "name": "Iván Zamorano",

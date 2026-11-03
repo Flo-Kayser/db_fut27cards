@@ -29,7 +29,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 83206,
     "assetId": 83206
   },
@@ -153,7 +153,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 750,
+    "price": 650,
     "resourceId": 238363,
     "assetId": 238363
   },
@@ -196,7 +196,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 950,
+    "price": 900,
     "resourceId": 265319,
     "assetId": 265319
   },
@@ -240,7 +240,7 @@
       62
     ],
     "hasDynamicImage": false,
-    "price": 700,
+    "price": 650,
     "resourceId": 270037,
     "assetId": 270037
   },
@@ -283,5 +283,154 @@
     "price": 200,
     "resourceId": 271533,
     "assetId": 271533
+  },
+  "50403129": {
+    "name": "Cole Mrowka",
+    "cardName": "Mrowka",
+    "originalVersionId": "0",
+    "clubId": 687,
+    "leagueId": 39,
+    "countryId": 181,
+    "versionId": "2000",
+    "rating": 53,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      31
+    ],
+    "attributes": [
+      54,
+      36,
+      54,
+      57,
+      39,
+      47
+    ],
+    "hasDynamicImage": false,
+    "price": 200,
+    "resourceId": 50403129,
+    "assetId": 71481
+  },
+  "50409543": {
+    "name": "Nya Harrison",
+    "cardName": "Harrison",
+    "originalVersionId": "0",
+    "clubId": 116312,
+    "leagueId": 2221,
+    "countryId": 181,
+    "versionId": "2000",
+    "rating": 60,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "RB"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      3
+    ],
+    "attributes": [
+      56,
+      28,
+      51,
+      52,
+      60,
+      59
+    ],
+    "hasDynamicImage": false,
+    "price": 200,
+    "resourceId": 50409543,
+    "assetId": 77895
+  },
+  "50418590": {
+    "name": "Katana Norman",
+    "cardName": "Norman",
+    "originalVersionId": "0",
+    "clubId": 132865,
+    "leagueId": 2215,
+    "countryId": 181,
+    "versionId": "2000",
+    "rating": 64,
+    "preferredFoot": "Left",
+    "weakFoot": 2,
+    "skillMoves": 2,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "LB",
+      "LM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      9,
+      28
+    ],
+    "attributes": [
+      76,
+      47,
+      60,
+      56,
+      61,
+      53
+    ],
+    "hasDynamicImage": false,
+    "price": 200,
+    "resourceId": 50418590,
+    "assetId": 86942
+  },
+  "50597804": {
+    "name": "André Leipold",
+    "cardName": "Leipold",
+    "originalVersionId": "0",
+    "clubId": 110501,
+    "leagueId": 2076,
+    "countryId": 181,
+    "versionId": "2000",
+    "rating": 64,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      21
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      26,
+      30,
+      36,
+      39,
+      41
+    ],
+    "attributes": [
+      83,
+      58,
+      49,
+      67,
+      23,
+      50
+    ],
+    "hasDynamicImage": false,
+    "price": 200,
+    "resourceId": 50597804,
+    "assetId": 266156
   }
 }

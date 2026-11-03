@@ -30,7 +30,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 650,
+    "price": 600,
     "resourceId": 70851,
     "assetId": 70851
   },
@@ -66,7 +66,7 @@
       63
     ],
     "hasDynamicImage": false,
-    "price": 700,
+    "price": 800,
     "resourceId": 73230,
     "assetId": 73230
   },
@@ -135,7 +135,7 @@
       59
     ],
     "hasDynamicImage": false,
-    "price": 700,
+    "price": 600,
     "resourceId": 75229,
     "assetId": 75229
   },
@@ -206,7 +206,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 600,
+    "price": 800,
     "resourceId": 77246,
     "assetId": 77246
   },
@@ -242,7 +242,7 @@
       48
     ],
     "hasDynamicImage": false,
-    "price": 1400,
+    "price": 3600,
     "resourceId": 80898,
     "assetId": 80898
   },
@@ -311,7 +311,7 @@
       67
     ],
     "hasDynamicImage": false,
-    "price": 650,
+    "price": 700,
     "resourceId": 87893,
     "assetId": 87893
   },
@@ -345,7 +345,7 @@
       59
     ],
     "hasDynamicImage": false,
-    "price": 750,
+    "price": 300,
     "resourceId": 87894,
     "assetId": 87894
   },
@@ -379,7 +379,7 @@
       46
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 1000,
     "resourceId": 87896,
     "assetId": 87896
   },
@@ -448,7 +448,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 2400,
+    "price": 2000,
     "resourceId": 261831,
     "assetId": 261831
   },
@@ -482,7 +482,7 @@
       60
     ],
     "hasDynamicImage": false,
-    "price": 3400,
+    "price": 2000,
     "resourceId": 261837,
     "assetId": 261837
   },
@@ -520,7 +520,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 9500,
+    "price": 4800,
     "resourceId": 261838,
     "assetId": 261838
   },
@@ -557,7 +557,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 600,
+    "price": 950,
     "resourceId": 261853,
     "assetId": 261853
   },
@@ -596,7 +596,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 1700,
+    "price": 950,
     "resourceId": 261858,
     "assetId": 261858
   },
@@ -630,7 +630,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 600,
+    "price": 700,
     "resourceId": 265115,
     "assetId": 265115
   },
@@ -670,7 +670,7 @@
       62
     ],
     "hasDynamicImage": false,
-    "price": 1000,
+    "price": 1100,
     "resourceId": 268470,
     "assetId": 268470
   },
@@ -711,7 +711,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 950,
+    "price": 850,
     "resourceId": 268992,
     "assetId": 268992
   },
@@ -746,7 +746,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 600,
+    "price": 800,
     "resourceId": 273280,
     "assetId": 273280
   },
@@ -792,7 +792,7 @@
       67
     ],
     "hasDynamicImage": false,
-    "price": 7000,
+    "price": 4400,
     "resourceId": 275927,
     "assetId": 275927
   },
@@ -829,7 +829,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 700,
+    "price": 850,
     "resourceId": 275932,
     "assetId": 275932
   },
@@ -899,8 +899,45 @@
       63
     ],
     "hasDynamicImage": false,
-    "price": 600,
+    "price": 650,
     "resourceId": 50406834,
     "assetId": 75186
+  },
+  "50607580": {
+    "name": "Pauleta",
+    "cardName": "Pauleta",
+    "originalVersionId": "0",
+    "clubId": 131358,
+    "leagueId": 2228,
+    "countryId": 38,
+    "versionId": "2001",
+    "rating": 73,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      2
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      14
+    ],
+    "attributes": [
+      67,
+      72,
+      74,
+      71,
+      70,
+      66
+    ],
+    "hasDynamicImage": false,
+    "price": 650,
+    "resourceId": 50607580,
+    "assetId": 275932
   }
 }

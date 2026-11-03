@@ -33,7 +33,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 1300,
       "resourceId": 71586,
       "assetId": 71586
     },
@@ -73,7 +73,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 1000,
       "resourceId": 71809,
       "assetId": 71809
     },
@@ -109,7 +109,7 @@
         51
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 75719,
       "assetId": 75719
     },
@@ -143,7 +143,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 700,
       "resourceId": 75791,
       "assetId": 75791
     },
@@ -177,7 +177,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 650,
       "resourceId": 76217,
       "assetId": 76217
     },
@@ -211,7 +211,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 750,
       "resourceId": 76518,
       "assetId": 76518
     },
@@ -281,7 +281,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 4300,
+      "price": 0,
       "resourceId": 77896,
       "assetId": 77896
     },
@@ -320,7 +320,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 900,
       "resourceId": 80028,
       "assetId": 80028
     },
@@ -356,7 +356,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 950,
       "resourceId": 83026,
       "assetId": 83026
     },
@@ -390,7 +390,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 83535,
       "assetId": 83535
     },
@@ -435,7 +435,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 2400,
+      "price": 2800,
       "resourceId": 227353,
       "assetId": 227353
     },
@@ -473,7 +473,7 @@
         50
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 850,
       "resourceId": 227397,
       "assetId": 227397
     },
@@ -509,7 +509,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 750,
       "resourceId": 227776,
       "assetId": 227776
     },
@@ -592,7 +592,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 750,
       "resourceId": 241023,
       "assetId": 241023
     },
@@ -678,7 +678,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 262330,
       "assetId": 262330
     },
@@ -715,7 +715,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 650,
       "resourceId": 264900,
       "assetId": 264900
     },
@@ -756,7 +756,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 850,
       "resourceId": 264989,
       "assetId": 264989
     },
@@ -794,7 +794,7 @@
         45
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 267241,
       "assetId": 267241
     },
@@ -830,7 +830,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 650,
       "resourceId": 267368,
       "assetId": 267368
     },
@@ -864,7 +864,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 950,
       "resourceId": 267386,
       "assetId": 267386
     },
@@ -902,9 +902,77 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 700,
       "resourceId": 277927,
       "assetId": 277927
+    },
+    "50407865": {
+      "name": "Brooklyn Courtnall",
+      "cardName": "Courtnall",
+      "originalVersionId": "0",
+      "clubId": 116312,
+      "leagueId": 2221,
+      "countryId": 70,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        63,
+        41,
+        51,
+        62,
+        69,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 650,
+      "resourceId": 50407865,
+      "assetId": 76217
+    },
+    "50409543": {
+      "name": "Nya Harrison",
+      "cardName": "Harrison",
+      "originalVersionId": "0",
+      "clubId": 116312,
+      "leagueId": 2221,
+      "countryId": 181,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "attributes": [
+        56,
+        28,
+        51,
+        52,
+        60,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 50409543,
+      "assetId": 77895
     },
     "50414677": {
       "name": "Mimi Van Zanten",
@@ -989,7 +1057,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 50558720,
       "assetId": 227072
     }

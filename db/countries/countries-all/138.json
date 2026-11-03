@@ -30,7 +30,7 @@
       44
     ],
     "hasDynamicImage": false,
-    "price": 400,
+    "price": 200,
     "resourceId": 70444,
     "assetId": 70444
   },
@@ -66,7 +66,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 76444,
     "assetId": 76444
   },
@@ -152,7 +152,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 650,
+    "price": 600,
     "resourceId": 233565,
     "assetId": 233565
   },
@@ -197,7 +197,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 650,
+    "price": 600,
     "resourceId": 236474,
     "assetId": 236474
   },
@@ -435,7 +435,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 276438,
     "assetId": 276438
   },
@@ -471,9 +471,50 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 750,
+    "price": 650,
     "resourceId": 50406796,
     "assetId": 75148
+  },
+  "50597951": {
+    "name": "Azeem Abdulai",
+    "cardName": "Abdulai",
+    "originalVersionId": "0",
+    "clubId": 81,
+    "leagueId": 50,
+    "countryId": 138,
+    "versionId": "2000",
+    "rating": 63,
+    "preferredFoot": "Right",
+    "weakFoot": 2,
+    "skillMoves": 3,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CDM",
+      "CM",
+      "LB",
+      "LM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      10,
+      16,
+      19,
+      20,
+      28
+    ],
+    "attributes": [
+      72,
+      57,
+      61,
+      62,
+      59,
+      69
+    ],
+    "hasDynamicImage": false,
+    "price": 200,
+    "resourceId": 50597951,
+    "assetId": 266303
   },
   "50599589": {
     "name": "Daniel Kanu",
@@ -508,5 +549,80 @@
     "price": 200,
     "resourceId": 50599589,
     "assetId": 267941
+  },
+  "67185060": {
+    "name": "Ra'ees Bangura-Williams",
+    "cardName": "Bangura-Williams",
+    "originalVersionId": "0",
+    "clubId": 1944,
+    "leagueId": 60,
+    "countryId": 138,
+    "versionId": "2001",
+    "rating": 66,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      22,
+      23,
+      24,
+      33,
+      35
+    ],
+    "attributes": [
+      80,
+      60,
+      62,
+      67,
+      34,
+      51
+    ],
+    "hasDynamicImage": false,
+    "price": 800,
+    "resourceId": 67185060,
+    "assetId": 76196
+  },
+  "67383793": {
+    "name": "MJ Kamson-Kamara",
+    "cardName": "Kamson-Kamara",
+    "originalVersionId": "0",
+    "clubId": 82,
+    "leagueId": 50,
+    "countryId": 138,
+    "versionId": "2000",
+    "rating": 59,
+    "preferredFoot": "Right",
+    "weakFoot": 2,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      11
+    ],
+    "attributes": [
+      61,
+      24,
+      38,
+      48,
+      58,
+      64
+    ],
+    "hasDynamicImage": false,
+    "price": 200,
+    "resourceId": 67383793,
+    "assetId": 274929
   }
 }

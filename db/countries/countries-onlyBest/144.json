@@ -70,7 +70,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 650,
+    "price": 600,
     "resourceId": 73294,
     "assetId": 73294
   },
@@ -146,7 +146,7 @@
       51
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 77344,
     "assetId": 77344
   },
@@ -217,7 +217,7 @@
       64
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 83140,
     "assetId": 83140
   },
@@ -257,7 +257,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 1000,
+    "price": 950,
     "resourceId": 217940,
     "assetId": 217940
   },
@@ -296,7 +296,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 6300,
+    "price": 2400,
     "resourceId": 237254,
     "assetId": 237254
   },
@@ -372,7 +372,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 650,
+    "price": 750,
     "resourceId": 239011,
     "assetId": 239011
   },
@@ -409,7 +409,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 700,
+    "price": 600,
     "resourceId": 258457,
     "assetId": 258457
   },
@@ -445,7 +445,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 750,
+    "price": 650,
     "resourceId": 263949,
     "assetId": 263949
   },
@@ -482,7 +482,7 @@
       63
     ],
     "hasDynamicImage": false,
-    "price": 700,
+    "price": 600,
     "resourceId": 265754,
     "assetId": 265754
   },
@@ -517,7 +517,7 @@
       64
     ],
     "hasDynamicImage": false,
-    "price": 750,
+    "price": 600,
     "resourceId": 268273,
     "assetId": 268273
   },
@@ -561,5 +561,81 @@
     "price": 700,
     "resourceId": 275274,
     "assetId": 275274
+  },
+  "50588823": {
+    "name": "Nikell Touglo",
+    "cardName": "Touglo",
+    "originalVersionId": "0",
+    "clubId": 110597,
+    "leagueId": 2076,
+    "countryId": 144,
+    "versionId": "2000",
+    "rating": 61,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      11
+    ],
+    "attributes": [
+      73,
+      42,
+      52,
+      60,
+      58,
+      62
+    ],
+    "hasDynamicImage": false,
+    "price": 200,
+    "resourceId": 50588823,
+    "assetId": 257175
+  },
+  "50601660": {
+    "name": "Henri Koudossou",
+    "cardName": "Koudossou",
+    "originalVersionId": "0",
+    "clubId": 159,
+    "leagueId": 20,
+    "countryId": 144,
+    "versionId": "2001",
+    "rating": 69,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "LB",
+      "LM",
+      "RB",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      5,
+      9,
+      23,
+      28,
+      35
+    ],
+    "attributes": [
+      76,
+      53,
+      64,
+      65,
+      65,
+      66
+    ],
+    "hasDynamicImage": false,
+    "price": 650,
+    "resourceId": 50601660,
+    "assetId": 270012
   }
 }

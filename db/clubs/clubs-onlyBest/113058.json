@@ -139,7 +139,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 2900,
+      "price": 200,
       "resourceId": 83665,
       "assetId": 83665
     },
@@ -175,7 +175,7 @@
         45
       ],
       "hasDynamicImage": false,
-      "price": 2800,
+      "price": 200,
       "resourceId": 85723,
       "assetId": 85723
     },
@@ -245,7 +245,7 @@
         50
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 250,
       "resourceId": 86882,
       "assetId": 86882
     },
@@ -318,7 +318,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 750,
       "resourceId": 204529,
       "assetId": 204529
     },
@@ -356,7 +356,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 1600,
       "resourceId": 205377,
       "assetId": 205377
     },
@@ -464,7 +464,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 800,
       "resourceId": 225711,
       "assetId": 225711
     },
@@ -508,7 +508,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 1300,
       "resourceId": 234158,
       "assetId": 234158
     },
@@ -579,7 +579,7 @@
         46
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 250,
       "resourceId": 247220,
       "assetId": 247220
     },
@@ -616,7 +616,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 300,
       "resourceId": 248203,
       "assetId": 248203
     },
@@ -655,7 +655,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 250917,
       "assetId": 250917
     },
@@ -765,7 +765,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 750,
       "resourceId": 262412,
       "assetId": 262412
     },
@@ -908,7 +908,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 277487,
       "assetId": 277487
     },
@@ -988,7 +988,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 279785,
       "assetId": 279785
     },
@@ -1023,7 +1023,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 50407355,
       "assetId": 75707
     },
@@ -1117,9 +1117,53 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 50551380,
       "assetId": 219732
+    },
+    "50565806": {
+      "name": "Alimami Gory",
+      "cardName": "Gory",
+      "originalVersionId": "0",
+      "clubId": 113058,
+      "leagueId": 350,
+      "countryId": 126,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        27,
+        35,
+        38,
+        41
+      ],
+      "attributes": [
+        90,
+        66,
+        61,
+        74,
+        37,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 1000,
+      "resourceId": 50565806,
+      "assetId": 234158
     }
   }
 }

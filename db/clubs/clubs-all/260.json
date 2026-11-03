@@ -35,7 +35,7 @@
         49
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 350,
       "resourceId": 72427,
       "assetId": 72427
     },
@@ -69,7 +69,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 1500,
       "resourceId": 73318,
       "assetId": 73318
     },
@@ -107,7 +107,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 850,
       "resourceId": 83386,
       "assetId": 83386
     },
@@ -260,7 +260,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 228961,
       "assetId": 228961
     },
@@ -370,7 +370,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 243993,
       "assetId": 243993
     },
@@ -406,7 +406,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 650,
       "resourceId": 250992,
       "assetId": 250992
     },
@@ -447,7 +447,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 253348,
       "assetId": 253348
     },
@@ -484,7 +484,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 750,
       "resourceId": 259600,
       "assetId": 259600
     },
@@ -520,7 +520,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 263038,
       "assetId": 263038
     },
@@ -563,7 +563,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 750,
       "resourceId": 263941,
       "assetId": 263941
     },
@@ -601,7 +601,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 264270,
       "assetId": 264270
     },
@@ -641,7 +641,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 650,
       "resourceId": 264490,
       "assetId": 264490
     },
@@ -676,7 +676,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 270855,
       "assetId": 270855
     },
@@ -716,7 +716,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 400,
       "resourceId": 272469,
       "assetId": 272469
     },
@@ -785,7 +785,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 276358,
       "assetId": 276358
     },
@@ -822,7 +822,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 650,
       "resourceId": 277683,
       "assetId": 277683
     },
@@ -856,7 +856,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 250,
       "resourceId": 279033,
       "assetId": 279033
     },
@@ -892,7 +892,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 700,
       "resourceId": 279233,
       "assetId": 279233
     },
@@ -936,6 +936,46 @@
       "price": 600,
       "resourceId": 50404883,
       "assetId": 73235
+    },
+    "50604117": {
+      "name": "Alassan",
+      "cardName": "Alassan",
+      "originalVersionId": "0",
+      "clubId": 260,
+      "leagueId": 54,
+      "countryId": 119,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM"
+      ],
+      "playStyles": [
+        21,
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        38
+      ],
+      "attributes": [
+        85,
+        58,
+        57,
+        65,
+        35,
+        53
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 50604117,
+      "assetId": 272469
     }
   }
 }

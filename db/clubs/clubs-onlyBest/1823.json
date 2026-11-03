@@ -32,7 +32,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 400,
       "resourceId": 74033,
       "assetId": 74033
     },
@@ -67,7 +67,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 250,
       "resourceId": 74077,
       "assetId": 74077
     },
@@ -141,7 +141,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 250,
       "resourceId": 78649,
       "assetId": 78649
     },
@@ -221,7 +221,7 @@
         44
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 78660,
       "assetId": 78660
     },
@@ -258,7 +258,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 500,
       "resourceId": 79249,
       "assetId": 79249
     },
@@ -293,7 +293,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 80553,
       "assetId": 80553
     },
@@ -328,7 +328,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 80554,
       "assetId": 80554
     },
@@ -396,7 +396,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 600,
       "resourceId": 80901,
       "assetId": 80901
     },
@@ -470,7 +470,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 82772,
       "assetId": 82772
     },
@@ -506,7 +506,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 87089,
       "assetId": 87089
     },
@@ -576,7 +576,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 188881,
       "assetId": 188881
     },
@@ -613,7 +613,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 950,
       "resourceId": 209320,
       "assetId": 209320
     },
@@ -650,7 +650,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 650,
       "resourceId": 212735,
       "assetId": 212735
     },
@@ -724,7 +724,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 231263,
       "assetId": 231263
     },
@@ -761,7 +761,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 600,
       "resourceId": 239269,
       "assetId": 239269
     },
@@ -914,7 +914,7 @@
         45
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 265397,
       "assetId": 265397
     },
@@ -982,9 +982,43 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 278034,
       "assetId": 278034
+    },
+    "50412549": {
+      "name": "Elydjah Mendy",
+      "cardName": "Mendy",
+      "originalVersionId": "0",
+      "clubId": 1823,
+      "leagueId": 17,
+      "countryId": 119,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        52,
+        25,
+        43,
+        45,
+        63,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 50412549,
+      "assetId": 80901
     },
     "50586149": {
       "name": "Pape Meïssa Ba",
@@ -1016,9 +1050,46 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 50586149,
       "assetId": 254501
+    },
+    "50590621": {
+      "name": "Mamadou Fofana",
+      "cardName": "Fofana",
+      "originalVersionId": "0",
+      "clubId": 1823,
+      "leagueId": 17,
+      "countryId": 127,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        18,
+        22
+      ],
+      "attributes": [
+        85,
+        52,
+        62,
+        68,
+        63,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 900,
+      "resourceId": 50590621,
+      "assetId": 258973
     }
   }
 }

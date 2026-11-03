@@ -72,7 +72,7 @@
       60
     ],
     "hasDynamicImage": false,
-    "price": 500,
+    "price": 1700,
     "resourceId": 78160,
     "assetId": 78160
   },
@@ -184,7 +184,7 @@
       84
     ],
     "hasDynamicImage": false,
-    "price": 1000,
+    "price": 800,
     "resourceId": 223510,
     "assetId": 223510
   },
@@ -222,7 +222,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 700,
+    "price": 1800,
     "resourceId": 226866,
     "assetId": 226866
   },
@@ -258,7 +258,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 700,
+    "price": 650,
     "resourceId": 233943,
     "assetId": 233943
   },
@@ -301,7 +301,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 600,
+    "price": 650,
     "resourceId": 234856,
     "assetId": 234856
   },
@@ -342,7 +342,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 650,
+    "price": 750,
     "resourceId": 237960,
     "assetId": 237960
   },
@@ -381,7 +381,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 600,
+    "price": 650,
     "resourceId": 239641,
     "assetId": 239641
   },
@@ -419,7 +419,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 600,
+    "price": 700,
     "resourceId": 240258,
     "assetId": 240258
   },
@@ -459,7 +459,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 600,
+    "price": 700,
     "resourceId": 240331,
     "assetId": 240331
   },
@@ -502,7 +502,7 @@
       44
     ],
     "hasDynamicImage": false,
-    "price": 600,
+    "price": 700,
     "resourceId": 243205,
     "assetId": 243205
   },
@@ -543,7 +543,7 @@
       50
     ],
     "hasDynamicImage": false,
-    "price": 650,
+    "price": 700,
     "resourceId": 252970,
     "assetId": 252970
   },
@@ -580,7 +580,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 550,
+    "price": 700,
     "resourceId": 253193,
     "assetId": 253193
   },
@@ -620,7 +620,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 800,
+    "price": 700,
     "resourceId": 256856,
     "assetId": 256856
   },
@@ -661,7 +661,7 @@
       54
     ],
     "hasDynamicImage": false,
-    "price": 600,
+    "price": 650,
     "resourceId": 257161,
     "assetId": 257161
   },
@@ -695,7 +695,7 @@
       64
     ],
     "hasDynamicImage": false,
-    "price": 750,
+    "price": 700,
     "resourceId": 258712,
     "assetId": 258712
   },
@@ -769,7 +769,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 750,
+    "price": 700,
     "resourceId": 276442,
     "assetId": 276442
   },
@@ -805,7 +805,7 @@
       53
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 250,
     "resourceId": 278978,
     "assetId": 278978
   },
@@ -839,9 +839,130 @@
       64
     ],
     "hasDynamicImage": false,
-    "price": 700,
+    "price": 750,
     "resourceId": 279909,
     "assetId": 279909
+  },
+  "50406051": {
+    "name": "Coba da Costa",
+    "cardName": "Coba da Costa",
+    "originalVersionId": "0",
+    "clubId": 131735,
+    "leagueId": 350,
+    "countryId": 119,
+    "versionId": "2001",
+    "rating": 69,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      23,
+      27,
+      35,
+      38,
+      39
+    ],
+    "attributes": [
+      78,
+      64,
+      65,
+      70,
+      32,
+      43
+    ],
+    "hasDynamicImage": false,
+    "price": 700,
+    "resourceId": 50406051,
+    "assetId": 74403
+  },
+  "50412549": {
+    "name": "Elydjah Mendy",
+    "cardName": "Mendy",
+    "originalVersionId": "0",
+    "clubId": 1823,
+    "leagueId": 17,
+    "countryId": 119,
+    "versionId": "2000",
+    "rating": 64,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      11
+    ],
+    "attributes": [
+      52,
+      25,
+      43,
+      45,
+      63,
+      75
+    ],
+    "hasDynamicImage": false,
+    "price": 200,
+    "resourceId": 50412549,
+    "assetId": 80901
+  },
+  "50541097": {
+    "name": "Gerso",
+    "cardName": "Gerso",
+    "originalVersionId": "0",
+    "clubId": 110765,
+    "leagueId": 83,
+    "countryId": 119,
+    "versionId": "2001",
+    "rating": 70,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      0,
+      21,
+      25,
+      7
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      23,
+      26,
+      30,
+      36,
+      39
+    ],
+    "attributes": [
+      94,
+      66,
+      59,
+      73,
+      41,
+      77
+    ],
+    "hasDynamicImage": false,
+    "price": 3800,
+    "resourceId": 50541097,
+    "assetId": 209449
   },
   "50555158": {
     "name": "Alexandre Mendy",
@@ -880,7 +1001,7 @@
       87
     ],
     "hasDynamicImage": false,
-    "price": 11250,
+    "price": 10000,
     "resourceId": 50555158,
     "assetId": 223510
   },
@@ -916,7 +1037,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 4000,
+    "price": 2000,
     "resourceId": 50583540,
     "assetId": 251892
   },
@@ -961,9 +1082,49 @@
       54
     ],
     "hasDynamicImage": false,
-    "price": 750,
+    "price": 600,
     "resourceId": 50602950,
     "assetId": 271302
+  },
+  "50604117": {
+    "name": "Alassan",
+    "cardName": "Alassan",
+    "originalVersionId": "0",
+    "clubId": 260,
+    "leagueId": 54,
+    "countryId": 119,
+    "versionId": "2000",
+    "rating": 63,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RM"
+    ],
+    "playStyles": [
+      21,
+      25
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      27,
+      38
+    ],
+    "attributes": [
+      85,
+      58,
+      57,
+      65,
+      35,
+      53
+    ],
+    "hasDynamicImage": false,
+    "price": 200,
+    "resourceId": 50604117,
+    "assetId": 272469
   },
   "50608090": {
     "name": "Gilberto",
@@ -1054,7 +1215,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 2800,
+    "price": 2300,
     "resourceId": 50608859,
     "assetId": 277211
   },

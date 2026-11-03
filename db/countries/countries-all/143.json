@@ -29,7 +29,7 @@
       46
     ],
     "hasDynamicImage": false,
-    "price": 1800,
+    "price": 250,
     "resourceId": 74729,
     "assetId": 74729
   },
@@ -99,7 +99,7 @@
       45
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 87536,
     "assetId": 87536
   },
@@ -178,5 +178,87 @@
     "price": 700,
     "resourceId": 269899,
     "assetId": 269899
+  },
+  "50556522": {
+    "name": "Amahl Pellegrino",
+    "cardName": "Pellegrino",
+    "originalVersionId": "0",
+    "clubId": 131439,
+    "leagueId": 39,
+    "countryId": 143,
+    "versionId": "2001",
+    "rating": 71,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      0,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      27,
+      28,
+      39
+    ],
+    "attributes": [
+      82,
+      72,
+      64,
+      70,
+      38,
+      64
+    ],
+    "hasDynamicImage": false,
+    "price": 750,
+    "resourceId": 50556522,
+    "assetId": 224874
+  },
+  "50606749": {
+    "name": "Bernard Kamungo",
+    "cardName": "Kamungo",
+    "originalVersionId": "0",
+    "clubId": 695,
+    "leagueId": 39,
+    "countryId": 143,
+    "versionId": "2001",
+    "rating": 66,
+    "preferredFoot": "Left",
+    "weakFoot": 2,
+    "skillMoves": 3,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "LB",
+      "LM",
+      "RB",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      6,
+      10,
+      24,
+      27,
+      28
+    ],
+    "attributes": [
+      77,
+      59,
+      57,
+      68,
+      45,
+      56
+    ],
+    "hasDynamicImage": false,
+    "price": 700,
+    "resourceId": 50606749,
+    "assetId": 275101
   }
 }

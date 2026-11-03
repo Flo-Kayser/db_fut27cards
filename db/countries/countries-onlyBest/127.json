@@ -34,7 +34,7 @@
       64
     ],
     "hasDynamicImage": false,
-    "price": 700,
+    "price": 800,
     "resourceId": 77114,
     "assetId": 77114
   },
@@ -70,7 +70,7 @@
       52
     ],
     "hasDynamicImage": false,
-    "price": 3900,
+    "price": 0,
     "resourceId": 80022,
     "assetId": 80022
   },
@@ -144,7 +144,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 1000,
+    "price": 850,
     "resourceId": 234515,
     "assetId": 234515
   },
@@ -186,7 +186,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 900,
+    "price": 800,
     "resourceId": 239028,
     "assetId": 239028
   },
@@ -225,7 +225,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 650,
+    "price": 700,
     "resourceId": 266848,
     "assetId": 266848
   },
@@ -269,7 +269,7 @@
       62
     ],
     "hasDynamicImage": false,
-    "price": 600,
+    "price": 700,
     "resourceId": 271716,
     "assetId": 271716
   },
@@ -303,7 +303,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 650,
+    "price": 700,
     "resourceId": 276761,
     "assetId": 276761
   },
@@ -338,9 +338,85 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 650,
+    "price": 700,
     "resourceId": 50411161,
     "assetId": 79513
+  },
+  "50590621": {
+    "name": "Mamadou Fofana",
+    "cardName": "Fofana",
+    "originalVersionId": "0",
+    "clubId": 1823,
+    "leagueId": 17,
+    "countryId": 127,
+    "versionId": "2001",
+    "rating": 66,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      16,
+      18,
+      22
+    ],
+    "attributes": [
+      85,
+      52,
+      62,
+      68,
+      63,
+      74
+    ],
+    "hasDynamicImage": false,
+    "price": 900,
+    "resourceId": 50590621,
+    "assetId": 258973
+  },
+  "50592801": {
+    "name": "Baïla Diallo",
+    "cardName": "Diallo",
+    "originalVersionId": "0",
+    "clubId": 110832,
+    "leagueId": 54,
+    "countryId": 127,
+    "versionId": "2001",
+    "rating": 69,
+    "preferredFoot": "Left",
+    "weakFoot": 2,
+    "skillMoves": 2,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "LB",
+      "LM"
+    ],
+    "playStyles": [
+      12
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      9,
+      10,
+      27
+    ],
+    "attributes": [
+      89,
+      38,
+      58,
+      67,
+      62,
+      67
+    ],
+    "hasDynamicImage": false,
+    "price": 950,
+    "resourceId": 50592801,
+    "assetId": 261153
   },
   "50597381": {
     "name": "Dawda Camara",
@@ -375,7 +451,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 600,
+    "price": 650,
     "resourceId": 50597381,
     "assetId": 265733
   }

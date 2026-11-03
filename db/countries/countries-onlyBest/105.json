@@ -29,7 +29,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 700,
+    "price": 650,
     "resourceId": 188881,
     "assetId": 188881
   },
@@ -64,7 +64,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 700,
+    "price": 600,
     "resourceId": 240209,
     "assetId": 240209
   },
@@ -175,6 +175,86 @@
     "resourceId": 266586,
     "assetId": 266586
   },
+  "50404730": {
+    "name": "Julien Kouadio",
+    "cardName": "Kouadio",
+    "originalVersionId": "0",
+    "clubId": 131447,
+    "leagueId": 17,
+    "countryId": 105,
+    "versionId": "2001",
+    "rating": 67,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB",
+      "CDM",
+      "LB",
+      "RB"
+    ],
+    "playStyles": [
+      19
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      4,
+      8,
+      11,
+      17,
+      48
+    ],
+    "attributes": [
+      67,
+      29,
+      48,
+      59,
+      66,
+      74
+    ],
+    "hasDynamicImage": false,
+    "price": 2000,
+    "resourceId": 50404730,
+    "assetId": 73082
+  },
+  "50410412": {
+    "name": "Edwin Quarshie",
+    "cardName": "Quarshie",
+    "originalVersionId": "0",
+    "clubId": 1739,
+    "leagueId": 16,
+    "countryId": 105,
+    "versionId": "2001",
+    "rating": 68,
+    "preferredFoot": "Right",
+    "weakFoot": 2,
+    "skillMoves": 2,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      14,
+      17,
+      18
+    ],
+    "attributes": [
+      45,
+      57,
+      56,
+      64,
+      66,
+      71
+    ],
+    "hasDynamicImage": false,
+    "price": 650,
+    "resourceId": 50410412,
+    "assetId": 78764
+  },
   "50533103": {
     "name": "Geoffrey Kondogbia",
     "cardName": "Kondogbia",
@@ -225,9 +305,49 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 30250,
+    "price": 33000,
     "resourceId": 50533103,
     "assetId": 201455
+  },
+  "50555218": {
+    "name": "Junior Sambia",
+    "cardName": "Sambia",
+    "originalVersionId": "0",
+    "clubId": 1815,
+    "leagueId": 17,
+    "countryId": 105,
+    "versionId": "2001",
+    "rating": 68,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "RB",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      18
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      5,
+      23,
+      35
+    ],
+    "attributes": [
+      66,
+      66,
+      69,
+      68,
+      66,
+      60
+    ],
+    "hasDynamicImage": false,
+    "price": 750,
+    "resourceId": 50555218,
+    "assetId": 223570
   },
   "50588667": {
     "name": "Hugo Gambor",
