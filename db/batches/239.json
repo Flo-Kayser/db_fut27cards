@@ -40,7 +40,7 @@
       64
     ],
     "hasDynamicImage": true,
-    "price": 3000000,
+    "price": 2699000,
     "resourceId": 84163723,
     "assetId": 277643,
     "cardName": "Lamine Yamal",
@@ -87,7 +87,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 1099000,
+    "price": 1055000,
     "resourceId": 84163926,
     "assetId": 277846,
     "cardName": "Nico Paz",
@@ -149,7 +149,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 2277000,
+    "price": 1994000,
     "resourceId": 50603069,
     "assetId": 271421,
     "cardName": "Doué",
@@ -206,11 +206,64 @@
       57
     ],
     "hasDynamicImage": true,
-    "price": 731000,
+    "price": 763000,
     "resourceId": 50569340,
     "assetId": 237692,
     "cardName": "Foden",
     "name": "Phil Foden"
+  },
+  {
+    "clubId": 22,
+    "leagueId": 19,
+    "countryId": 4,
+    "versionId": 8,
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      2,
+      24,
+      3,
+      9
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134,
+      149
+    ],
+    "attributes": [
+      81,
+      84,
+      86,
+      87,
+      83,
+      83
+    ],
+    "hasDynamicImage": true,
+    "price": 710000,
+    "resourceId": 50536571,
+    "assetId": 204923,
+    "cardName": "Sabitzer",
+    "name": "Marcel Sabitzer"
   },
   {
     "clubId": 9,
@@ -261,7 +314,7 @@
       68
     ],
     "hasDynamicImage": true,
-    "price": 731000,
+    "price": 756000,
     "resourceId": 67373516,
     "assetId": 264652,
     "cardName": "Barcola",
@@ -304,11 +357,64 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 41750,
+    "price": 47000,
     "resourceId": 67324305,
     "assetId": 215441,
     "cardName": "Guirassy",
     "name": "Serhou Guirassy"
+  },
+  {
+    "clubId": 9,
+    "leagueId": 13,
+    "countryId": 14,
+    "versionId": 8,
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      16,
+      20,
+      24,
+      9
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134,
+      149
+    ],
+    "attributes": [
+      85,
+      80,
+      86,
+      87,
+      80,
+      78
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50610776,
+    "assetId": 279128,
+    "cardName": "Nyoni",
+    "name": "Trey Nyoni"
   },
   {
     "clubId": 9,
@@ -353,7 +459,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 184000,
+    "price": 183000,
     "resourceId": 50571485,
     "assetId": 239837,
     "cardName": "Mac Allister",
@@ -451,7 +557,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 262000,
+    "price": 290000,
     "resourceId": 50600878,
     "assetId": 269230,
     "cardName": "Sadiki",
@@ -490,11 +596,135 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 38500,
+    "price": 41000,
     "resourceId": 50574527,
     "assetId": 242879,
     "cardName": "Vandevoordt",
     "name": "Maarten Vandevoordt"
+  },
+  {
+    "clubId": 113018,
+    "leagueId": 39,
+    "countryId": 21,
+    "versionId": 8,
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      15,
+      16,
+      26
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      111,
+      112,
+      113,
+      148
+    ],
+    "attributes": [
+      80,
+      55,
+      70,
+      70,
+      85,
+      86
+    ],
+    "hasDynamicImage": true,
+    "price": 62000,
+    "resourceId": 50555289,
+    "assetId": 223641,
+    "cardName": "Baumgartl",
+    "name": "Timo Baumgartl"
+  },
+  {
+    "clubId": 112260,
+    "leagueId": 61,
+    "countryId": 14,
+    "versionId": 8,
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 1,
+    "preferredPosition": "GK",
+    "possiblePositions": [
+      "GK"
+    ],
+    "playStyles": [
+      31,
+      34,
+      35
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      101,
+      102,
+      145
+    ],
+    "attributes": [
+      85,
+      84,
+      81,
+      83,
+      65,
+      82
+    ],
+    "hasDynamicImage": true,
+    "price": 21000,
+    "resourceId": 50539254,
+    "assetId": 207606,
+    "cardName": "Lynch",
+    "name": "Jay Lynch"
+  },
+  {
+    "clubId": 106,
+    "leagueId": 13,
+    "countryId": 108,
+    "versionId": 8,
+    "rating": 85,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      13,
+      20,
+      25,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      135,
+      136,
+      137
+    ],
+    "attributes": [
+      90,
+      85,
+      80,
+      86,
+      55,
+      70
+    ],
+    "hasDynamicImage": true,
+    "price": 385000,
+    "resourceId": 50414884,
+    "assetId": 83236,
+    "cardName": "Ta Bi",
+    "name": "Jocelin Ta Bi"
   },
   {
     "clubId": 231,
@@ -547,7 +777,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 30750,
+    "price": 31250,
     "resourceId": 50402953,
     "assetId": 71305,
     "cardName": "Seys",

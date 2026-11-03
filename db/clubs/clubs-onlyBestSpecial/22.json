@@ -1,6 +1,60 @@
 {
   "clubName": "Borussia Dortmund",
   "players": {
+    "50536571": {
+      "name": "Marcel Sabitzer",
+      "cardName": "Sabitzer",
+      "originalVersionId": "8",
+      "clubId": 22,
+      "leagueId": 19,
+      "countryId": 4,
+      "versionId": "8",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        2,
+        24,
+        3,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        149
+      ],
+      "attributes": [
+        81,
+        84,
+        86,
+        87,
+        83,
+        83
+      ],
+      "hasDynamicImage": true,
+      "price": 710000,
+      "resourceId": 50536571,
+      "assetId": 204923
+    },
     "50561539": {
       "name": "Julian Ryerson",
       "cardName": "Ryerson",
@@ -59,7 +113,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 49250,
+      "price": 50000,
       "resourceId": 50561539,
       "assetId": 229891
     },
@@ -114,7 +168,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 32500,
+      "price": 31750,
       "resourceId": 50584757,
       "assetId": 253109
     },
@@ -209,7 +263,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 41750,
+      "price": 47000,
       "resourceId": 67324305,
       "assetId": 215441
     },
@@ -258,7 +312,7 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 266000,
+      "price": 260000,
       "resourceId": 67355727,
       "assetId": 246863
     }

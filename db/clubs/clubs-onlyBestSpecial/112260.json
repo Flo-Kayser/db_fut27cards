@@ -1,4 +1,45 @@
 {
   "clubName": "Fleetwood Town",
-  "players": {}
+  "players": {
+    "50539254": {
+      "name": "Jay Lynch",
+      "cardName": "Lynch",
+      "originalVersionId": "8",
+      "clubId": 112260,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "8",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        31,
+        34,
+        35
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        85,
+        84,
+        81,
+        83,
+        65,
+        82
+      ],
+      "hasDynamicImage": true,
+      "price": 21000,
+      "resourceId": 50539254,
+      "assetId": 207606
+    }
+  }
 }

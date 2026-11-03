@@ -1,6 +1,47 @@
 {
   "clubName": "St. Louis CITY SC",
   "players": {
+    "50555289": {
+      "name": "Timo Baumgartl",
+      "cardName": "Baumgartl",
+      "originalVersionId": "8",
+      "clubId": 113018,
+      "leagueId": 39,
+      "countryId": 21,
+      "versionId": "8",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        15,
+        16,
+        26
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        80,
+        55,
+        70,
+        70,
+        85,
+        86
+      ],
+      "hasDynamicImage": true,
+      "price": 62000,
+      "resourceId": 50555289,
+      "assetId": 223641
+    },
     "50571688": {
       "name": "Carlo Holse",
       "cardName": "Holse",
@@ -60,7 +101,7 @@
         74
       ],
       "hasDynamicImage": true,
-      "price": 11000,
+      "price": 12000,
       "resourceId": 50571688,
       "assetId": 240040
     },
