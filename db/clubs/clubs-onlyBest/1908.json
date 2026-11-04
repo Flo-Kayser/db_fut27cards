@@ -32,7 +32,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 250,
       "resourceId": 70539,
       "assetId": 70539
     },
@@ -72,7 +72,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 600,
       "resourceId": 70801,
       "assetId": 70801
     },
@@ -109,7 +109,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 77415,
       "assetId": 77415
     },
@@ -216,7 +216,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 900,
       "resourceId": 199833,
       "assetId": 199833
     },
@@ -255,45 +255,9 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 850,
       "resourceId": 208462,
       "assetId": 208462
-    },
-    "223689": {
-      "name": "Wout Weghorst",
-      "cardName": "Weghorst",
-      "originalVersionId": "0",
-      "clubId": 1908,
-      "leagueId": 10,
-      "countryId": 34,
-      "versionId": "2002",
-      "rating": 77,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 2,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        29
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        41
-      ],
-      "attributes": [
-        54,
-        78,
-        61,
-        62,
-        57,
-        85
-      ],
-      "hasDynamicImage": false,
-      "price": 1900,
-      "resourceId": 223689,
-      "assetId": 223689
     },
     "228279": {
       "name": "Joël Drommel",
@@ -329,7 +293,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 228279,
       "assetId": 228279
     },
@@ -372,7 +336,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 500,
       "resourceId": 229593,
       "assetId": 229593
     },
@@ -409,7 +373,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 600,
       "resourceId": 245338,
       "assetId": 245338
     },
@@ -447,7 +411,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 550,
       "resourceId": 252383,
       "assetId": 252383
     },
@@ -488,7 +452,7 @@
         41
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 550,
       "resourceId": 255010,
       "assetId": 255010
     },
@@ -527,7 +491,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 600,
       "resourceId": 259563,
       "assetId": 259563
     },
@@ -605,7 +569,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 1800,
+      "price": 2600,
       "resourceId": 262311,
       "assetId": 262311
     },
@@ -641,7 +605,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 650,
       "resourceId": 271080,
       "assetId": 271080
     },
@@ -681,7 +645,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 500,
       "resourceId": 274927,
       "assetId": 274927
     },
@@ -773,7 +737,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 500,
       "resourceId": 275418,
       "assetId": 275418
     },
@@ -809,7 +773,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 276991,
       "assetId": 276991
     },
@@ -843,7 +807,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 600,
       "resourceId": 277447,
       "assetId": 277447
     },
@@ -881,7 +845,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 600,
       "resourceId": 277542,
       "assetId": 277542
     },
@@ -918,7 +882,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 550,
       "resourceId": 277968,
       "assetId": 277968
     },
@@ -954,9 +918,50 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 50504652,
       "assetId": 173004
+    },
+    "50555337": {
+      "name": "Wout Weghorst",
+      "cardName": "Weghorst",
+      "originalVersionId": "3",
+      "clubId": 1908,
+      "leagueId": 10,
+      "countryId": 34,
+      "versionId": "3",
+      "rating": 82,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        2,
+        29
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        80,
+        83,
+        70,
+        75,
+        62,
+        88
+      ],
+      "hasDynamicImage": true,
+      "price": 13750,
+      "resourceId": 50555337,
+      "assetId": 223689
     }
   }
 }

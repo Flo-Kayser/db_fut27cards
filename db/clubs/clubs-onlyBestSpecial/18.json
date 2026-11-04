@@ -1,6 +1,47 @@
 {
   "clubName": "Spurs",
   "players": {
+    "50590556": {
+      "name": "Jan Paul van Hecke",
+      "cardName": "van Hecke",
+      "originalVersionId": "3",
+      "clubId": 18,
+      "leagueId": 13,
+      "countryId": 34,
+      "versionId": "3",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        16,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        76,
+        49,
+        78,
+        74,
+        84,
+        83
+      ],
+      "hasDynamicImage": true,
+      "price": 34000,
+      "resourceId": 50590556,
+      "assetId": 258908
+    },
     "50600069": {
       "name": "Mathys Tel",
       "cardName": "Tel",
@@ -52,7 +93,7 @@
         68
       ],
       "hasDynamicImage": true,
-      "price": 39000,
+      "price": 37250,
       "resourceId": 50600069,
       "assetId": 268421
     },
@@ -64,7 +105,7 @@
       "leagueId": 13,
       "countryId": 54,
       "versionId": "150",
-      "rating": 83,
+      "rating": 84,
       "preferredFoot": "Left",
       "weakFoot": 2,
       "skillMoves": 4,
@@ -98,12 +139,12 @@
         140
       ],
       "attributes": [
-        90,
-        76,
-        79,
-        87,
-        37,
-        56
+        91,
+        77,
+        80,
+        88,
+        38,
+        57
       ],
       "hasDynamicImage": true,
       "price": 0,
@@ -159,7 +200,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 60000,
+      "price": 58500,
       "resourceId": 50602505,
       "assetId": 270857
     },
@@ -215,7 +256,7 @@
         72
       ],
       "hasDynamicImage": true,
-      "price": 43750,
+      "price": 44000,
       "resourceId": 67365539,
       "assetId": 256675
     },

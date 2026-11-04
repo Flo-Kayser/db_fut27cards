@@ -1,6 +1,54 @@
 {
   "clubName": "Spurs",
   "players": {
+    "50575712": {
+      "name": "Victoria Pelova",
+      "cardName": "Pelova",
+      "originalVersionId": "3",
+      "clubId": 116011,
+      "leagueId": 2216,
+      "countryId": 34,
+      "versionId": "3",
+      "rating": 82,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        0,
+        24,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        149
+      ],
+      "attributes": [
+        81,
+        78,
+        80,
+        84,
+        74,
+        70
+      ],
+      "hasDynamicImage": true,
+      "price": 10500,
+      "resourceId": 50575712,
+      "assetId": 244064
+    },
     "50604825": {
       "name": "Olivia Holdt",
       "cardName": "Holdt",
@@ -53,7 +101,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 11000,
+      "price": 11250,
       "resourceId": 50604825,
       "assetId": 273177
     }

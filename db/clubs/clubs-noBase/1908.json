@@ -1,4 +1,46 @@
 {
   "clubName": "FC Twente",
-  "players": {}
+  "players": {
+    "50555337": {
+      "name": "Wout Weghorst",
+      "cardName": "Weghorst",
+      "originalVersionId": "3",
+      "clubId": 1908,
+      "leagueId": 10,
+      "countryId": 34,
+      "versionId": "3",
+      "rating": 82,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        2,
+        29
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        80,
+        83,
+        70,
+        75,
+        62,
+        88
+      ],
+      "hasDynamicImage": true,
+      "price": 13750,
+      "resourceId": 50555337,
+      "assetId": 223689
+    }
+  }
 }

@@ -46,7 +46,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 470000,
+    "price": 480000,
     "resourceId": 1041,
     "assetId": 1041
   },
@@ -89,7 +89,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 363000,
+    "price": 374000,
     "resourceId": 7512,
     "assetId": 7512
   },
@@ -133,7 +133,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 105000,
+    "price": 115000,
     "resourceId": 10959,
     "assetId": 10959
   },
@@ -177,7 +177,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 295000,
+    "price": 293000,
     "resourceId": 23174,
     "assetId": 23174
   },
@@ -225,7 +225,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 538000,
+    "price": 540000,
     "resourceId": 82092,
     "assetId": 82092
   },
@@ -271,7 +271,7 @@
       81
     ],
     "hasDynamicImage": false,
-    "price": 251000,
+    "price": 260000,
     "resourceId": 138123,
     "assetId": 138123
   },
@@ -316,7 +316,7 @@
       86
     ],
     "hasDynamicImage": false,
-    "price": 253000,
+    "price": 261000,
     "resourceId": 142754,
     "assetId": 142754
   },
@@ -359,7 +359,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 2929000,
+    "price": 2950000,
     "resourceId": 153079,
     "assetId": 153079
   },
@@ -406,7 +406,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 6681000,
+    "price": 6948000,
     "resourceId": 190042,
     "assetId": 190042
   },
@@ -449,7 +449,7 @@
       81
     ],
     "hasDynamicImage": false,
-    "price": 459000,
+    "price": 468000,
     "resourceId": 221162,
     "assetId": 221162
   },
@@ -492,7 +492,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 88000,
+    "price": 90000,
     "resourceId": 262271,
     "assetId": 262271
   },
@@ -537,7 +537,7 @@
       89
     ],
     "hasDynamicImage": false,
-    "price": 620000,
+    "price": 625000,
     "resourceId": 274966,
     "assetId": 274966
   },
@@ -645,7 +645,7 @@
       64
     ],
     "hasDynamicImage": true,
-    "price": 3519000,
+    "price": 3459000,
     "resourceId": 50489671,
     "assetId": 158023
   },
@@ -789,7 +789,7 @@
       71
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 5000,
+    "sbcPrice": 4250,
     "price": 0,
     "resourceId": 50558033,
     "assetId": 226385
@@ -833,7 +833,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 14000,
+    "price": 12750,
     "resourceId": 50564136,
     "assetId": 232488
   },
@@ -883,9 +883,115 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 183000,
+    "price": 189000,
     "resourceId": 50571485,
     "assetId": 239837
+  },
+  "50572392": {
+    "name": "Martín Ojeda",
+    "cardName": "Ojeda",
+    "originalVersionId": "151",
+    "clubId": 112606,
+    "leagueId": 39,
+    "countryId": 52,
+    "versionId": "151",
+    "rating": 84,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      13,
+      2,
+      3,
+      6,
+      7,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      118,
+      119,
+      120,
+      121,
+      122,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      87,
+      85,
+      81,
+      82,
+      42,
+      76
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 24650,
+    "price": 0,
+    "resourceId": 50572392,
+    "assetId": 240744
+  },
+  "50604371": {
+    "name": "Lautaro Di Lollo",
+    "cardName": "Di Lollo",
+    "originalVersionId": "3",
+    "clubId": 1877,
+    "leagueId": 353,
+    "countryId": 52,
+    "versionId": "3",
+    "rating": 80,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      15,
+      19,
+      4
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      111,
+      112,
+      113,
+      148
+    ],
+    "attributes": [
+      81,
+      35,
+      57,
+      60,
+      80,
+      87
+    ],
+    "hasDynamicImage": true,
+    "price": 59000,
+    "resourceId": 50604371,
+    "assetId": 272723
   },
   "67351699": {
     "name": "Leonardo Balerdi",
@@ -924,7 +1030,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 12000,
+    "price": 12500,
     "resourceId": 67351699,
     "assetId": 242835
   },
@@ -980,7 +1086,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 11250,
+    "price": 10750,
     "resourceId": 67354218,
     "assetId": 245354
   },
@@ -1122,7 +1228,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 1055000,
+    "price": 1089000,
     "resourceId": 84163926,
     "assetId": 277846
   },
@@ -1174,7 +1280,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 308000,
+    "price": 309000,
     "resourceId": 84165253,
     "assetId": 279173
   },

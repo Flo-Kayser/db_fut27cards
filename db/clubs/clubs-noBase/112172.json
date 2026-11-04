@@ -37,7 +37,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 41000,
+      "price": 44750,
       "resourceId": 50574527,
       "assetId": 242879
     },
@@ -85,7 +85,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 60500,
+      "price": 59500,
       "resourceId": 50593786,
       "assetId": 262138
     },
@@ -109,6 +109,7 @@
         "LW"
       ],
       "playStyles": [
+        0,
         13,
         20,
         21,
@@ -301,9 +302,66 @@
         60
       ],
       "hasDynamicImage": true,
-      "price": 17250,
+      "price": 17750,
       "resourceId": 67341275,
       "assetId": 232411
+    },
+    "67371727": {
+      "name": "Antonio Nusa",
+      "cardName": "Nusa",
+      "originalVersionId": "3",
+      "clubId": 112172,
+      "leagueId": 19,
+      "countryId": 36,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 5,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        13,
+        20,
+        21,
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        87,
+        77,
+        73,
+        86,
+        45,
+        67
+      ],
+      "hasDynamicImage": true,
+      "price": 27000,
+      "resourceId": 67371727,
+      "assetId": 262863
     },
     "100895707": {
       "name": "Christopher Nkunku",
