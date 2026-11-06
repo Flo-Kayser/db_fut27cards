@@ -53,7 +53,7 @@
       }
     },
     "19": {
-      "count": 108,
+      "count": 131,
       "file": "db/versions/19.json",
       "details": {
         "name": "FUT Champions",
@@ -76,6 +76,19 @@
         "primaryColor": "#fff3cf",
         "secondaryColor": "#005256",
         "tertiaryColor": "#1ad9a9"
+      }
+    },
+    "31": {
+      "count": 7,
+      "file": "db/versions/31.json",
+      "details": {
+        "name": "UEFA Women's Champions League RTTK",
+        "hasStrip": true,
+        "createdAt": "2026-11-04T22:30:01.590Z",
+        "url": "https://assets.easysbc.io/fc27/cards/e_31_0.png",
+        "primaryColor": "#ffffff",
+        "secondaryColor": "#003d77",
+        "tertiaryColor": "#ff6d4f"
       }
     },
     "42": {
@@ -102,6 +115,32 @@
         "primaryColor": "#ffffff",
         "secondaryColor": "#3d195b",
         "tertiaryColor": "#00f5ff"
+      }
+    },
+    "46": {
+      "count": 5,
+      "file": "db/versions/46.json",
+      "details": {
+        "name": "UEFA Europa League RTTK",
+        "hasStrip": true,
+        "createdAt": "2026-11-04T22:30:01.592Z",
+        "url": "https://assets.easysbc.io/fc27/cards/e_46_0.png",
+        "primaryColor": "#ffffff",
+        "secondaryColor": "#3b1904",
+        "tertiaryColor": "#ff6900"
+      }
+    },
+    "50": {
+      "count": 15,
+      "file": "db/versions/50.json",
+      "details": {
+        "name": "UEFA Champions League RTTK",
+        "hasStrip": true,
+        "createdAt": "2026-11-04T22:30:01.592Z",
+        "url": "https://assets.easysbc.io/fc27/cards/e_50_0.png",
+        "primaryColor": "#ffffff",
+        "secondaryColor": "#010056",
+        "tertiaryColor": "#00eeff"
       }
     },
     "57": {
@@ -219,6 +258,19 @@
         "primaryColor": "#ffe9ca",
         "secondaryColor": "#4e2611",
         "tertiaryColor": "#a39964"
+      }
+    },
+    "105": {
+      "count": 6,
+      "file": "db/versions/105.json",
+      "details": {
+        "name": "UEFA Conference League RTTK",
+        "hasStrip": true,
+        "createdAt": "2026-11-04T22:30:01.592Z",
+        "url": "https://assets.easysbc.io/fc27/cards/e_105_0.png",
+        "primaryColor": "#ffffff",
+        "secondaryColor": "#002d08",
+        "tertiaryColor": "#00be14"
       }
     },
     "114": {
@@ -379,8 +431,8 @@
     }
   },
   "meta": {
-    "totalVersions": 29,
-    "totalVersionsWithoutBase": 26,
-    "updatedAt": "2026-11-05T23:34:08.279Z"
+    "totalVersions": 33,
+    "totalVersionsWithoutBase": 30,
+    "updatedAt": "2026-11-06T23:00:31.436Z"
   }
 }

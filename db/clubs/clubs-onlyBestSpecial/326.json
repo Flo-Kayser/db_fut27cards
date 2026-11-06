@@ -1,6 +1,50 @@
 {
   "clubName": "Fenerbahçe",
   "players": {
+    "50524153": {
+      "name": "Romelu Lukaku",
+      "cardName": "Lukaku",
+      "originalVersionId": "50",
+      "clubId": 326,
+      "leagueId": 68,
+      "countryId": 7,
+      "versionId": "50",
+      "rating": 87,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        29,
+        6,
+        7
+      ],
+      "playStylesPlus": [
+        2
+      ],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        84,
+        88,
+        80,
+        82,
+        46,
+        87
+      ],
+      "hasDynamicImage": true,
+      "price": 181000,
+      "resourceId": 50524153,
+      "assetId": 192505
+    },
     "50555358": {
       "name": "Vedat Muriqi",
       "cardName": "Muriqi",
@@ -38,7 +82,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 11500,
+      "price": 11250,
       "resourceId": 50555358,
       "assetId": 223710
     }

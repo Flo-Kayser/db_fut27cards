@@ -41,6 +41,114 @@
       "price": 10500,
       "resourceId": 50555337,
       "assetId": 223689
+    },
+    "50607066": {
+      "name": "Younes Taha",
+      "cardName": "Taha",
+      "originalVersionId": "105",
+      "clubId": 1908,
+      "leagueId": 10,
+      "countryId": 129,
+      "versionId": "105",
+      "rating": 85,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        11,
+        12,
+        13,
+        2,
+        3
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        86,
+        85,
+        85,
+        85,
+        50,
+        75
+      ],
+      "hasDynamicImage": true,
+      "price": 33500,
+      "resourceId": 50607066,
+      "assetId": 275418
+    },
+    "84109769": {
+      "name": "Wout Weghorst",
+      "cardName": "Weghorst",
+      "originalVersionId": "19",
+      "clubId": 1908,
+      "leagueId": 10,
+      "countryId": 34,
+      "versionId": "19",
+      "rating": 82,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        2,
+        29
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        80,
+        83,
+        70,
+        75,
+        62,
+        88
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 84109769,
+      "assetId": 223689
     }
   }
 }

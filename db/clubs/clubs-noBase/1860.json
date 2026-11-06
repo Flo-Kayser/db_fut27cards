@@ -1,4 +1,53 @@
 {
   "clubName": "Getafe CF",
-  "players": {}
+  "players": {
+    "50592052": {
+      "name": "Zaid Romero",
+      "cardName": "Romero",
+      "originalVersionId": "105",
+      "clubId": 1860,
+      "leagueId": 53,
+      "countryId": 52,
+      "versionId": "105",
+      "rating": 85,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "LB"
+      ],
+      "playStyles": [
+        14,
+        15,
+        16,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        147,
+        148
+      ],
+      "attributes": [
+        82,
+        37,
+        60,
+        70,
+        85,
+        89
+      ],
+      "hasDynamicImage": true,
+      "price": 45750,
+      "resourceId": 50592052,
+      "assetId": 260404
+    }
+  }
 }

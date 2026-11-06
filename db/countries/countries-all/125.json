@@ -33,7 +33,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 750,
+    "price": 550,
     "resourceId": 75368,
     "assetId": 75368
   },
@@ -70,7 +70,7 @@
       48
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 81817,
     "assetId": 81817
   },
@@ -105,7 +105,7 @@
       62
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 250,
     "resourceId": 86410,
     "assetId": 86410
   },
@@ -228,7 +228,7 @@
       81
     ],
     "hasDynamicImage": false,
-    "price": 12000,
+    "price": 13250,
     "resourceId": 278219,
     "assetId": 278219
   },
@@ -273,9 +273,67 @@
       84
     ],
     "hasDynamicImage": false,
-    "price": 22000,
+    "price": 21250,
     "resourceId": 279799,
     "assetId": 279799
+  },
+  "50609867": {
+    "name": "Tabitha Chawinga",
+    "cardName": "Chawinga",
+    "originalVersionId": "31",
+    "clubId": 116033,
+    "leagueId": 2218,
+    "countryId": 125,
+    "versionId": "31",
+    "rating": 89,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      21,
+      25,
+      6
+    ],
+    "playStylesPlus": [
+      7
+    ],
+    "rolesPlus": [
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      95,
+      84,
+      80,
+      88,
+      37,
+      84
+    ],
+    "hasDynamicImage": true,
+    "price": 2000000,
+    "resourceId": 50609867,
+    "assetId": 278219
   },
   "50611447": {
     "name": "Temwa Chawinga",
@@ -322,7 +380,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 242000,
+    "price": 245000,
     "resourceId": 50611447,
     "assetId": 279799
   },

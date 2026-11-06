@@ -36,7 +36,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 192883,
       "assetId": 192883
     },
@@ -73,7 +73,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 203574,
       "assetId": 203574
     },
@@ -148,7 +148,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 600,
       "resourceId": 219715,
       "assetId": 219715
     },
@@ -190,7 +190,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 7400,
+      "price": 6800,
       "resourceId": 224232,
       "assetId": 224232
     },
@@ -228,7 +228,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 224987,
       "assetId": 224987
     },
@@ -270,7 +270,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 5200,
+      "price": 4900,
       "resourceId": 226268,
       "assetId": 226268
     },
@@ -307,7 +307,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 226851,
       "assetId": 226851
     },
@@ -344,7 +344,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 229237,
       "assetId": 229237
     },
@@ -385,50 +385,9 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 7600,
+      "price": 7200,
       "resourceId": 231478,
       "assetId": 231478
-    },
-    "237383": {
-      "name": "Alessandro Bastoni",
-      "cardName": "Bastoni",
-      "originalVersionId": "0",
-      "clubId": 131682,
-      "leagueId": 31,
-      "countryId": 27,
-      "versionId": "2002",
-      "rating": 86,
-      "preferredFoot": "Left",
-      "weakFoot": 2,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [
-        10,
-        19,
-        26,
-        27,
-        9
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        48,
-        113
-      ],
-      "attributes": [
-        74,
-        47,
-        76,
-        78,
-        86,
-        82
-      ],
-      "hasDynamicImage": false,
-      "price": 5300,
-      "resourceId": 237383,
-      "assetId": 237383
     },
     "242434": {
       "name": "Curtis Jones",
@@ -466,7 +425,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 650,
       "resourceId": 242434,
       "assetId": 242434
     },
@@ -500,7 +459,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 2100,
+      "price": 1700,
       "resourceId": 243311,
       "assetId": 243311
     },
@@ -540,7 +499,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 2700,
+      "price": 1400,
       "resourceId": 256632,
       "assetId": 256632
     },
@@ -577,7 +536,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 3600,
+      "price": 2700,
       "resourceId": 268534,
       "assetId": 268534
     },
@@ -617,7 +576,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 650,
       "resourceId": 276278,
       "assetId": 276278
     },
@@ -654,7 +613,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 2500,
+      "price": 1600,
       "resourceId": 277327,
       "assetId": 277327
     },
@@ -695,7 +654,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 2100,
       "resourceId": 278318,
       "assetId": 278318
     },
@@ -736,7 +695,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 125000,
+      "price": 105000,
       "resourceId": 50573384,
       "assetId": 241736
     },
@@ -880,7 +839,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 166000,
+      "price": 152000,
       "resourceId": 50591213,
       "assetId": 259565
     },
@@ -937,7 +896,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 201000,
+      "price": 191000,
       "resourceId": 67316992,
       "assetId": 208128
     },
@@ -980,9 +939,55 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 49500,
+      "price": 43750,
       "resourceId": 67336957,
       "assetId": 228093
+    },
+    "67346247": {
+      "name": "Alessandro Bastoni",
+      "cardName": "Bastoni",
+      "originalVersionId": "50",
+      "clubId": 131682,
+      "leagueId": 31,
+      "countryId": 27,
+      "versionId": "50",
+      "rating": 88,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        17,
+        19,
+        26,
+        27,
+        9
+      ],
+      "playStylesPlus": [
+        14
+      ],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        82,
+        48,
+        81,
+        80,
+        88,
+        84
+      ],
+      "hasDynamicImage": true,
+      "price": 410000,
+      "resourceId": 67346247,
+      "assetId": 237383
     }
   }
 }

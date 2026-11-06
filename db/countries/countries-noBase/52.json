@@ -46,7 +46,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 522000,
+    "price": 486000,
     "resourceId": 1041,
     "assetId": 1041
   },
@@ -89,7 +89,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 399000,
+    "price": 381000,
     "resourceId": 7512,
     "assetId": 7512
   },
@@ -133,7 +133,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 107000,
+    "price": 102000,
     "resourceId": 10959,
     "assetId": 10959
   },
@@ -177,7 +177,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 289000,
+    "price": 308000,
     "resourceId": 23174,
     "assetId": 23174
   },
@@ -225,7 +225,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 533000,
+    "price": 537000,
     "resourceId": 82092,
     "assetId": 82092
   },
@@ -271,7 +271,7 @@
       81
     ],
     "hasDynamicImage": false,
-    "price": 264000,
+    "price": 284000,
     "resourceId": 138123,
     "assetId": 138123
   },
@@ -316,7 +316,7 @@
       86
     ],
     "hasDynamicImage": false,
-    "price": 262000,
+    "price": 277000,
     "resourceId": 142754,
     "assetId": 142754
   },
@@ -359,7 +359,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 2899000,
+    "price": 2798000,
     "resourceId": 153079,
     "assetId": 153079
   },
@@ -406,7 +406,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 6801000,
+    "price": 6891000,
     "resourceId": 190042,
     "assetId": 190042
   },
@@ -449,7 +449,7 @@
       81
     ],
     "hasDynamicImage": false,
-    "price": 469000,
+    "price": 485000,
     "resourceId": 221162,
     "assetId": 221162
   },
@@ -493,7 +493,7 @@
       81
     ],
     "hasDynamicImage": false,
-    "price": 48000,
+    "price": 44000,
     "resourceId": 243027,
     "assetId": 243027
   },
@@ -536,7 +536,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 87500,
+    "price": 77500,
     "resourceId": 262271,
     "assetId": 262271
   },
@@ -581,7 +581,7 @@
       89
     ],
     "hasDynamicImage": false,
-    "price": 669000,
+    "price": 640000,
     "resourceId": 274966,
     "assetId": 274966
   },
@@ -689,7 +689,7 @@
       64
     ],
     "hasDynamicImage": true,
-    "price": 3065000,
+    "price": 2890000,
     "resourceId": 50489671,
     "assetId": 158023
   },
@@ -781,6 +781,64 @@
     "resourceId": 50542904,
     "assetId": 211256
   },
+  "50557810": {
+    "name": "Emiliano Buendía",
+    "cardName": "Buendía",
+    "originalVersionId": "50",
+    "clubId": 2,
+    "leagueId": 13,
+    "countryId": 52,
+    "versionId": "50",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      0,
+      12,
+      20,
+      24,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      118,
+      119,
+      120,
+      121,
+      122,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      138,
+      139,
+      140
+    ],
+    "attributes": [
+      82,
+      84,
+      84,
+      86,
+      70,
+      74
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50557810,
+    "assetId": 226162
+  },
   "50558033": {
     "name": "Cristian Espinoza",
     "cardName": "Espinoza",
@@ -833,7 +891,7 @@
       71
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 4000,
+    "sbcPrice": 3750,
     "price": 0,
     "resourceId": 50558033,
     "assetId": 226385
@@ -877,7 +935,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 13500,
+    "price": 12500,
     "resourceId": 50564136,
     "assetId": 232488
   },
@@ -927,7 +985,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 209000,
+    "price": 198000,
     "resourceId": 50571485,
     "assetId": 239837
   },
@@ -991,10 +1049,116 @@
       76
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 23200,
+    "sbcPrice": 21750,
     "price": 0,
     "resourceId": 50572392,
     "assetId": 240744
+  },
+  "50592052": {
+    "name": "Zaid Romero",
+    "cardName": "Romero",
+    "originalVersionId": "105",
+    "clubId": 1860,
+    "leagueId": 53,
+    "countryId": 52,
+    "versionId": "105",
+    "rating": 85,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB",
+      "LB"
+    ],
+    "playStyles": [
+      14,
+      15,
+      16,
+      19
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      147,
+      148
+    ],
+    "attributes": [
+      82,
+      37,
+      60,
+      70,
+      85,
+      89
+    ],
+    "hasDynamicImage": true,
+    "price": 45750,
+    "resourceId": 50592052,
+    "assetId": 260404
+  },
+  "50597343": {
+    "name": "Matías Soulé",
+    "cardName": "Soulé",
+    "originalVersionId": "50",
+    "clubId": 52,
+    "leagueId": 31,
+    "countryId": 52,
+    "versionId": "50",
+    "rating": 85,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "CAM",
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      20,
+      21,
+      6
+    ],
+    "playStylesPlus": [
+      24
+    ],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      87,
+      81,
+      85,
+      86,
+      53,
+      71
+    ],
+    "hasDynamicImage": true,
+    "price": 128000,
+    "resourceId": 50597343,
+    "assetId": 265695
   },
   "50604371": {
     "name": "Lautaro Di Lollo",
@@ -1033,7 +1197,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 10250,
     "resourceId": 50604371,
     "assetId": 272723
   },
@@ -1087,7 +1251,7 @@
       71
     ],
     "hasDynamicImage": true,
-    "price": 182000,
+    "price": 199000,
     "resourceId": 50609494,
     "assetId": 277846
   },
@@ -1173,7 +1337,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 11750,
+    "price": 13000,
     "resourceId": 67351699,
     "assetId": 242835
   },
@@ -1229,7 +1393,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 11000,
+    "price": 10750,
     "resourceId": 67354218,
     "assetId": 245354
   },
@@ -1279,7 +1443,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 11750,
+    "price": 10750,
     "resourceId": 67388037,
     "assetId": 279173
   },
@@ -1377,6 +1541,47 @@
     "resourceId": 84129107,
     "assetId": 243027
   },
+  "84158803": {
+    "name": "Lautaro Di Lollo",
+    "cardName": "Di Lollo",
+    "originalVersionId": "19",
+    "clubId": 1877,
+    "leagueId": 353,
+    "countryId": 52,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      15,
+      19,
+      4
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      111,
+      112,
+      113,
+      148
+    ],
+    "attributes": [
+      81,
+      35,
+      57,
+      60,
+      80,
+      87
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84158803,
+    "assetId": 272723
+  },
   "84163926": {
     "name": "Nico Paz",
     "cardName": "Nico Paz",
@@ -1421,7 +1626,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 1221000,
+    "price": 1476000,
     "resourceId": 84163926,
     "assetId": 277846
   },
@@ -1473,7 +1678,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 343000,
+    "price": 309000,
     "resourceId": 84165253,
     "assetId": 279173
   },

@@ -34,7 +34,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 700,
+    "price": 800,
     "resourceId": 208418,
     "assetId": 208418,
     "originalVersionId": 0
@@ -82,10 +82,58 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 11250,
+    "price": 11000,
     "resourceId": 50540066,
     "assetId": 208418,
     "originalVersionId": 3
+  },
+  "84094498": {
+    "clubId": 111674,
+    "leagueId": 350,
+    "countryId": 7,
+    "versionId": "19",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      20,
+      3,
+      7
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      127,
+      128,
+      129,
+      130,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      89,
+      83,
+      81,
+      86,
+      60,
+      75
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84094498,
+    "assetId": 208418,
+    "originalVersionId": 19
   },
   "cardName": "Carrasco",
   "name": "Yannick Carrasco"

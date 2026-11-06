@@ -45,7 +45,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 124000,
+    "price": 119000,
     "resourceId": 7743,
     "assetId": 7743
   },
@@ -90,7 +90,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 85000,
+    "price": 77500,
     "resourceId": 39386,
     "assetId": 39386
   },
@@ -137,7 +137,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 37250,
+    "price": 36000,
     "resourceId": 155897,
     "assetId": 155897
   },
@@ -411,7 +411,7 @@
       64
     ],
     "hasDynamicImage": true,
-    "price": 3065000,
+    "price": 2890000,
     "resourceId": 50489671,
     "assetId": 158023
   },
@@ -518,7 +518,7 @@
       65
     ],
     "hasDynamicImage": true,
-    "price": 16250,
+    "price": 15000,
     "resourceId": 50519998,
     "assetId": 188350
   },
@@ -664,7 +664,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "price": 42000,
+    "price": 38000,
     "resourceId": 50526413,
     "assetId": 194765
   },
@@ -720,7 +720,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 54500,
+    "price": 54000,
     "resourceId": 50531752,
     "assetId": 200104
   },
@@ -871,7 +871,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 15000,
+    "price": 16250,
     "resourceId": 50551985,
     "assetId": 220337
   },
@@ -912,7 +912,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 30250,
+    "price": 33000,
     "resourceId": 50555289,
     "assetId": 223641
   },
@@ -1024,7 +1024,7 @@
       71
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 4000,
+    "sbcPrice": 3750,
     "price": 0,
     "resourceId": 50558033,
     "assetId": 226385
@@ -1088,7 +1088,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "price": 12250,
+    "price": 10750,
     "resourceId": 50571688,
     "assetId": 240040
   },
@@ -1152,7 +1152,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 23200,
+    "sbcPrice": 21750,
     "price": 0,
     "resourceId": 50572392,
     "assetId": 240744
@@ -1208,7 +1208,7 @@
       66
     ],
     "hasDynamicImage": true,
-    "price": 11750,
+    "price": 11500,
     "resourceId": 50586923,
     "assetId": 255275
   },
@@ -1262,7 +1262,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 9900,
+    "price": 10000,
     "resourceId": 50595025,
     "assetId": 263377
   },
@@ -1367,7 +1367,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 33250,
+    "price": 32000,
     "resourceId": 50609822,
     "assetId": 278174
   },
@@ -1751,5 +1751,59 @@
     "price": 0,
     "resourceId": 84141355,
     "assetId": 255275
+  },
+  "84149457": {
+    "name": "Liel Abada",
+    "cardName": "Abada",
+    "originalVersionId": "19",
+    "clubId": 114640,
+    "leagueId": 39,
+    "countryId": 26,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      21,
+      5,
+      6
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140
+    ],
+    "attributes": [
+      89,
+      78,
+      75,
+      80,
+      51,
+      70
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84149457,
+    "assetId": 263377
   }
 }

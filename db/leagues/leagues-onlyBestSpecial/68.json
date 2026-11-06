@@ -139,7 +139,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 10250,
+    "price": 9900,
     "resourceId": 50413058,
     "assetId": 81410
   },
@@ -229,9 +229,53 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 10750,
+    "price": 11000,
     "resourceId": 50418277,
     "assetId": 86629
+  },
+  "50524153": {
+    "name": "Romelu Lukaku",
+    "cardName": "Lukaku",
+    "originalVersionId": "50",
+    "clubId": 326,
+    "leagueId": 68,
+    "countryId": 7,
+    "versionId": "50",
+    "rating": 87,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      29,
+      6,
+      7
+    ],
+    "playStylesPlus": [
+      2
+    ],
+    "rolesPlus": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      84,
+      88,
+      80,
+      82,
+      46,
+      87
+    ],
+    "hasDynamicImage": true,
+    "price": 181000,
+    "resourceId": 50524153,
+    "assetId": 192505
   },
   "50540979": {
     "name": "Mohamed Salah",
@@ -343,7 +387,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 71000,
+    "price": 67500,
     "resourceId": 50541147,
     "assetId": 209499
   },
@@ -384,7 +428,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 11500,
+    "price": 11250,
     "resourceId": 50555358,
     "assetId": 223710
   },
@@ -427,7 +471,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 40000,
+    "price": 40250,
     "resourceId": 50563941,
     "assetId": 232293
   },
@@ -482,7 +526,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 52000,
+    "price": 48500,
     "resourceId": 50574893,
     "assetId": 243245
   },
@@ -598,6 +642,64 @@
     "resourceId": 50600885,
     "assetId": 269237
   },
+  "67350585": {
+    "name": "Rafael Leão",
+    "cardName": "Rafael Leão",
+    "originalVersionId": "50",
+    "clubId": 325,
+    "leagueId": 68,
+    "countryId": 38,
+    "versionId": "50",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      21,
+      22,
+      25,
+      8
+    ],
+    "playStylesPlus": [
+      23
+    ],
+    "rolesPlus": [
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      94,
+      83,
+      83,
+      88,
+      34,
+      77
+    ],
+    "hasDynamicImage": true,
+    "price": 795000,
+    "resourceId": 67350585,
+    "assetId": 241721
+  },
   "67382428": {
     "name": "Gift Orban",
     "cardName": "Orban",
@@ -635,7 +737,7 @@
       68
     ],
     "hasDynamicImage": true,
-    "price": 11500,
+    "price": 12000,
     "resourceId": 67382428,
     "assetId": 273564
   },
@@ -810,5 +912,65 @@
     "price": 0,
     "resourceId": 84118373,
     "assetId": 232293
+  },
+  "84139794": {
+    "name": "Samuel Ballet",
+    "cardName": "Ballet",
+    "originalVersionId": "19",
+    "clubId": 132392,
+    "leagueId": 68,
+    "countryId": 47,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "LB",
+      "LM",
+      "LW",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      20,
+      25,
+      6
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      107,
+      108,
+      109,
+      110,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      147
+    ],
+    "attributes": [
+      87,
+      78,
+      75,
+      83,
+      40,
+      83
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84139794,
+    "assetId": 253714
   }
 }

@@ -39,7 +39,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 1500,
       "resourceId": 70004,
       "assetId": 70004
     },
@@ -79,7 +79,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 850,
       "resourceId": 78549,
       "assetId": 78549
     },
@@ -148,7 +148,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 700,
       "resourceId": 86857,
       "assetId": 86857
     },
@@ -187,7 +187,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 750,
       "resourceId": 200458,
       "assetId": 200458
     },
@@ -229,7 +229,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 900,
       "resourceId": 220814,
       "assetId": 220814
     },
@@ -272,59 +272,9 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 5200,
+      "price": 4900,
       "resourceId": 226271,
       "assetId": 226271
-    },
-    "231443": {
-      "name": "Ousmane Dembélé",
-      "cardName": "Dembélé",
-      "originalVersionId": "0",
-      "clubId": 73,
-      "leagueId": 16,
-      "countryId": 18,
-      "versionId": "2002",
-      "rating": 90,
-      "preferredFoot": "Left",
-      "weakFoot": 5,
-      "skillMoves": 5,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "CAM",
-        "RM",
-        "RW",
-        "ST"
-      ],
-      "playStyles": [
-        13,
-        21,
-        23,
-        25,
-        6,
-        7
-      ],
-      "playStylesPlus": [
-        0
-      ],
-      "rolesPlus": [
-        26,
-        32,
-        41,
-        136,
-        143
-      ],
-      "attributes": [
-        90,
-        89,
-        83,
-        93,
-        55,
-        70
-      ],
-      "hasDynamicImage": false,
-      "price": 1945000,
-      "resourceId": 231443,
-      "assetId": 231443
     },
     "235212": {
       "name": "Achraf Hakimi",
@@ -367,7 +317,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 90500,
+      "price": 94000,
       "resourceId": 235212,
       "assetId": 235212
     },
@@ -416,7 +366,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 81500,
+      "price": 67500,
       "resourceId": 247635,
       "assetId": 247635
     },
@@ -497,7 +447,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 266000,
+      "price": 257000,
       "resourceId": 252145,
       "assetId": 252145
     },
@@ -543,7 +493,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 33750,
+      "price": 36250,
       "resourceId": 255253,
       "assetId": 255253
     },
@@ -584,7 +534,7 @@
         86
       ],
       "hasDynamicImage": false,
-      "price": 129000,
+      "price": 125000,
       "resourceId": 256196,
       "assetId": 256196
     },
@@ -623,7 +573,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 850,
       "resourceId": 258781,
       "assetId": 258781
     },
@@ -671,7 +621,7 @@
         85
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 1700,
       "resourceId": 270673,
       "assetId": 270673
     },
@@ -717,7 +667,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 12750,
+      "price": 12500,
       "resourceId": 272834,
       "assetId": 272834
     },
@@ -759,7 +709,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 650,
       "resourceId": 279709,
       "assetId": 279709
     },
@@ -812,7 +762,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 58500,
+      "price": 63500,
       "resourceId": 50412322,
       "assetId": 80674
     },
@@ -855,9 +805,69 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 289000,
+      "price": 290000,
       "resourceId": 50539513,
       "assetId": 207865
+    },
+    "50563091": {
+      "name": "Ousmane Dembélé",
+      "cardName": "Dembélé",
+      "originalVersionId": "50",
+      "clubId": 73,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "50",
+      "rating": 91,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        13,
+        21,
+        23,
+        25,
+        7
+      ],
+      "playStylesPlus": [
+        6
+      ],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        91,
+        90,
+        85,
+        94,
+        56,
+        71
+      ],
+      "hasDynamicImage": true,
+      "price": 8052000,
+      "resourceId": 50563091,
+      "assetId": 231443
     },
     "50573109": {
       "name": "Ferran Torres",
@@ -969,7 +979,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 2298000,
+      "price": 2186000,
       "resourceId": 50579283,
       "assetId": 247635
     },
@@ -1021,7 +1031,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 1349000,
+      "price": 1467000,
       "resourceId": 50583793,
       "assetId": 252145
     },
@@ -1069,7 +1079,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 419000,
+      "price": 420000,
       "resourceId": 50590026,
       "assetId": 258378
     },
@@ -1190,7 +1200,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 2150000,
+      "price": 1971000,
       "resourceId": 50603069,
       "assetId": 271421
     },
@@ -1230,7 +1240,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 23500,
+      "price": 24500,
       "resourceId": 67349089,
       "assetId": 240225
     }

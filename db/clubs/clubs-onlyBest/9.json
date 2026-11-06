@@ -31,7 +31,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 2100,
+      "price": 1400,
       "resourceId": 70824,
       "assetId": 70824
     },
@@ -71,7 +71,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 800,
       "resourceId": 70994,
       "assetId": 70994
     },
@@ -117,7 +117,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 750,
       "resourceId": 76042,
       "assetId": 76042
     },
@@ -162,7 +162,7 @@
         85
       ],
       "hasDynamicImage": false,
-      "price": 13250,
+      "price": 13500,
       "resourceId": 203376,
       "assetId": 203376
     },
@@ -235,7 +235,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 700,
       "resourceId": 222514,
       "assetId": 222514
     },
@@ -276,7 +276,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 1100,
       "resourceId": 225100,
       "assetId": 225100
     },
@@ -313,7 +313,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 2400,
+      "price": 1400,
       "resourceId": 232223,
       "assetId": 232223
     },
@@ -351,7 +351,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 950,
       "resourceId": 232487,
       "assetId": 232487
     },
@@ -394,7 +394,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 1400,
       "resourceId": 235805,
       "assetId": 235805
     },
@@ -441,47 +441,6 @@
       "resourceId": 242516,
       "assetId": 242516
     },
-    "246104": {
-      "name": "Ryan Gravenberch",
-      "cardName": "Gravenberch",
-      "originalVersionId": "0",
-      "clubId": 9,
-      "leagueId": 13,
-      "countryId": 34,
-      "versionId": "2002",
-      "rating": 85,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "CDM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        16,
-        22,
-        24
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        16,
-        18,
-        149
-      ],
-      "attributes": [
-        79,
-        76,
-        81,
-        83,
-        80,
-        80
-      ],
-      "hasDynamicImage": false,
-      "price": 2900,
-      "resourceId": 246104,
-      "assetId": 246104
-    },
     "253149": {
       "name": "Jeremie Frimpong",
       "cardName": "Frimpong",
@@ -520,7 +479,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 800,
       "resourceId": 253149,
       "assetId": 253149
     },
@@ -560,7 +519,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 800,
       "resourceId": 253163,
       "assetId": 253163
     },
@@ -594,7 +553,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 750,
       "resourceId": 253428,
       "assetId": 253428
     },
@@ -642,7 +601,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 5000,
       "resourceId": 256630,
       "assetId": 256630
     },
@@ -754,7 +713,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 800,
       "resourceId": 264298,
       "assetId": 264298
     },
@@ -826,7 +785,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 271977,
       "assetId": 271977
     },
@@ -862,7 +821,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 800,
       "resourceId": 278292,
       "assetId": 278292
     },
@@ -899,7 +858,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 9900,
+      "price": 0,
       "resourceId": 278903,
       "assetId": 278903
     },
@@ -956,7 +915,7 @@
         63
       ],
       "hasDynamicImage": true,
-      "price": 1003000,
+      "price": 954000,
       "resourceId": 50412024,
       "assetId": 80376
     },
@@ -1001,7 +960,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 777000,
+      "price": 749000,
       "resourceId": 50565379,
       "assetId": 233731
     },
@@ -1069,7 +1028,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 979000,
+      "price": 964000,
       "resourceId": 50568420,
       "assetId": 236772
     },
@@ -1119,9 +1078,60 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 209000,
+      "price": 198000,
       "resourceId": 50571485,
       "assetId": 239837
+    },
+    "50577752": {
+      "name": "Ryan Gravenberch",
+      "cardName": "Gravenberch",
+      "originalVersionId": "50",
+      "clubId": 9,
+      "leagueId": 13,
+      "countryId": 34,
+      "versionId": "50",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        20,
+        22,
+        24,
+        9
+      ],
+      "playStylesPlus": [
+        16
+      ],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        149
+      ],
+      "attributes": [
+        83,
+        81,
+        85,
+        88,
+        83,
+        83
+      ],
+      "hasDynamicImage": true,
+      "price": 724000,
+      "resourceId": 50577752,
+      "assetId": 246104
     },
     "50592556": {
       "name": "Milos Kerkez",
@@ -1166,7 +1176,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 38250,
+      "price": 41750,
       "resourceId": 50592556,
       "assetId": 260908
     },
@@ -1276,7 +1286,7 @@
         68
       ],
       "hasDynamicImage": true,
-      "price": 840000,
+      "price": 768000,
       "resourceId": 67373516,
       "assetId": 264652
     },

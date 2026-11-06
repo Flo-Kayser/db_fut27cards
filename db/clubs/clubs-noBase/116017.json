@@ -1,6 +1,63 @@
 {
   "clubName": "Manchester City",
   "players": {
+    "50577478": {
+      "name": "Yui Hasegawa",
+      "cardName": "Hasegawa",
+      "originalVersionId": "31",
+      "clubId": 116017,
+      "leagueId": 2216,
+      "countryId": 163,
+      "versionId": "31",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        11,
+        13,
+        14,
+        16,
+        24
+      ],
+      "playStylesPlus": [
+        9
+      ],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        149
+      ],
+      "attributes": [
+        81,
+        75,
+        89,
+        89,
+        84,
+        78
+      ],
+      "hasDynamicImage": true,
+      "price": 663000,
+      "resourceId": 50577478,
+      "assetId": 245830
+    },
     "50588656": {
       "name": "Lauren Hemp",
       "cardName": "Hemp",
@@ -44,7 +101,7 @@
         72
       ],
       "hasDynamicImage": true,
-      "price": 116000,
+      "price": 101000,
       "resourceId": 50588656,
       "assetId": 257008
     },
@@ -93,7 +150,7 @@
         65
       ],
       "hasDynamicImage": true,
-      "price": 42250,
+      "price": 43250,
       "resourceId": 50596965,
       "assetId": 265317
     },

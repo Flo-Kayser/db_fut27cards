@@ -79,7 +79,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 2200,
       "resourceId": 74463,
       "assetId": 74463
     },
@@ -115,7 +115,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 1500,
       "resourceId": 86106,
       "assetId": 86106
     },
@@ -159,7 +159,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 2700,
+      "price": 3800,
       "resourceId": 88043,
       "assetId": 88043
     },
@@ -233,7 +233,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 1800,
+      "price": 2000,
       "resourceId": 213661,
       "assetId": 213661
     },
@@ -277,7 +277,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 17250,
+      "price": 17750,
       "resourceId": 228702,
       "assetId": 228702
     },
@@ -320,7 +320,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 33500,
+      "price": 34750,
       "resourceId": 231866,
       "assetId": 231866
     },
@@ -362,7 +362,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 3900,
+      "price": 3700,
       "resourceId": 241486,
       "assetId": 241486
     },
@@ -410,7 +410,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 1000,
       "resourceId": 244260,
       "assetId": 244260
     },
@@ -457,56 +457,9 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 4200,
+      "price": 4300,
       "resourceId": 245037,
       "assetId": 245037
-    },
-    "251854": {
-      "name": "Pedri",
-      "cardName": "Pedri",
-      "originalVersionId": "0",
-      "clubId": 241,
-      "leagueId": 53,
-      "countryId": 45,
-      "versionId": "2002",
-      "rating": 90,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        10,
-        11,
-        20,
-        22,
-        24,
-        8
-      ],
-      "playStylesPlus": [
-        9
-      ],
-      "rolesPlus": [
-        31,
-        116,
-        121
-      ],
-      "attributes": [
-        76,
-        75,
-        89,
-        91,
-        77,
-        75
-      ],
-      "hasDynamicImage": false,
-      "price": 195000,
-      "resourceId": 251854,
-      "assetId": 251854
     },
     "259532": {
       "name": "Joan García",
@@ -543,7 +496,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 15000,
+      "price": 14250,
       "resourceId": 259532,
       "assetId": 259532
     },
@@ -584,7 +537,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 900,
       "resourceId": 263578,
       "assetId": 263578
     },
@@ -630,7 +583,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 900,
       "resourceId": 264240,
       "assetId": 264240
     },
@@ -711,7 +664,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 5200,
+      "price": 4700,
       "resourceId": 278046,
       "assetId": 278046
     },
@@ -831,7 +784,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 47250,
+      "price": 45250,
       "resourceId": 50542162,
       "assetId": 210514
     },
@@ -872,7 +825,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 1200,
       "resourceId": 50562314,
       "assetId": 230666
     },
@@ -909,7 +862,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 1100,
       "resourceId": 50573319,
       "assetId": 241671
     },
@@ -960,7 +913,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 289000,
+      "price": 276000,
       "resourceId": 50574612,
       "assetId": 242964
     },
@@ -1030,6 +983,64 @@
       "resourceId": 50583500,
       "assetId": 251852
     },
+    "50583502": {
+      "name": "Pedri",
+      "cardName": "Pedri",
+      "originalVersionId": "50",
+      "clubId": 241,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "50",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        11,
+        20,
+        22,
+        24,
+        8
+      ],
+      "playStylesPlus": [
+        9
+      ],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        149
+      ],
+      "attributes": [
+        80,
+        81,
+        91,
+        92,
+        82,
+        80
+      ],
+      "hasDynamicImage": true,
+      "price": 4200000,
+      "resourceId": 50583502,
+      "assetId": 251854
+    },
     "50608827": {
       "name": "Fermín",
       "cardName": "Fermín",
@@ -1080,7 +1091,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 77500,
+      "price": 75000,
       "resourceId": 50608827,
       "assetId": 277179
     },
@@ -1130,7 +1141,7 @@
         63
       ],
       "hasDynamicImage": true,
-      "price": 1849000,
+      "price": 1910000,
       "resourceId": 67386507,
       "assetId": 277643
     },
@@ -1193,6 +1204,60 @@
       "resourceId": 84096594,
       "assetId": 210514
     },
+    "84163259": {
+      "name": "Fermín",
+      "cardName": "Fermín",
+      "originalVersionId": "19",
+      "clubId": 241,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "19",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM"
+      ],
+      "playStyles": [
+        13,
+        22,
+        26,
+        8,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134
+      ],
+      "attributes": [
+        83,
+        85,
+        82,
+        86,
+        65,
+        75
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 84163259,
+      "assetId": 277179
+    },
     "84163723": {
       "name": "Lamine Yamal",
       "cardName": "Lamine Yamal",
@@ -1237,7 +1302,7 @@
         64
       ],
       "hasDynamicImage": true,
-      "price": 2930000,
+      "price": 3098000,
       "resourceId": 84163723,
       "assetId": 277643
     },
@@ -1306,7 +1371,7 @@
         79
       ],
       "hasDynamicImage": true,
-      "price": 7098000,
+      "price": 6750000,
       "resourceId": 100896715,
       "assetId": 233419
     }
