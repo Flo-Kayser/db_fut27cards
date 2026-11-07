@@ -40,7 +40,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 750,
       "resourceId": 70145,
       "assetId": 70145
     },
@@ -82,7 +82,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 650,
       "resourceId": 70546,
       "assetId": 70546
     },
@@ -118,7 +118,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 84472,
       "assetId": 84472
     },
@@ -161,7 +161,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 650,
       "resourceId": 86396,
       "assetId": 86396
     },
@@ -197,7 +197,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 700,
       "resourceId": 86913,
       "assetId": 86913
     },
@@ -237,7 +237,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 850,
       "resourceId": 226998,
       "assetId": 226998
     },
@@ -282,7 +282,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 1000,
       "resourceId": 239345,
       "assetId": 239345
     },
@@ -323,7 +323,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 950,
       "resourceId": 247513,
       "assetId": 247513
     },
@@ -366,7 +366,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 900,
       "resourceId": 247788,
       "assetId": 247788
     },
@@ -412,7 +412,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 900,
       "resourceId": 248717,
       "assetId": 248717
     },
@@ -569,7 +569,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 650,
       "resourceId": 264908,
       "assetId": 264908
     },
@@ -655,50 +655,9 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 264994,
       "assetId": 264994
-    },
-    "270525": {
-      "name": "Franziska Kett",
-      "cardName": "Kett",
-      "originalVersionId": "0",
-      "clubId": 115995,
-      "leagueId": 2215,
-      "countryId": 21,
-      "versionId": "2002",
-      "rating": 81,
-      "preferredFoot": "Left",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "LB",
-      "possiblePositions": [
-        "CM",
-        "LB",
-        "RB"
-      ],
-      "playStyles": [
-        20
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        10,
-        22,
-        46,
-        47
-      ],
-      "attributes": [
-        78,
-        68,
-        76,
-        77,
-        79,
-        71
-      ],
-      "hasDynamicImage": false,
-      "price": 650,
-      "resourceId": 270525,
-      "assetId": 270525
     },
     "271860": {
       "name": "Ena Mahmutovic",
@@ -733,7 +692,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 850,
       "resourceId": 271860,
       "assetId": 271860
     },
@@ -768,7 +727,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 750,
       "resourceId": 273168,
       "assetId": 273168
     },
@@ -802,7 +761,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 600,
       "resourceId": 275968,
       "assetId": 275968
     },
@@ -844,7 +803,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 1000,
       "resourceId": 276519,
       "assetId": 276519
     },
@@ -887,7 +846,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 1300,
       "resourceId": 277039,
       "assetId": 277039
     },
@@ -928,7 +887,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 950,
       "resourceId": 277452,
       "assetId": 277452
     },
@@ -978,7 +937,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 130000,
+      "price": 90000,
       "resourceId": 50580470,
       "assetId": 248822
     },
@@ -1036,9 +995,64 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 102000,
+      "price": 95000,
       "resourceId": 50590935,
       "assetId": 259287
+    },
+    "50602173": {
+      "name": "Franziska Kett",
+      "cardName": "Kett",
+      "originalVersionId": "58",
+      "clubId": 115995,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "58",
+      "rating": 83,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CM",
+        "LB",
+        "RB"
+      ],
+      "playStyles": [
+        16,
+        17,
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        118,
+        119,
+        120,
+        121,
+        122,
+        146,
+        147
+      ],
+      "attributes": [
+        83,
+        74,
+        82,
+        82,
+        83,
+        76
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 12400,
+      "price": 0,
+      "resourceId": 50602173,
+      "assetId": 270525
     },
     "84134902": {
       "name": "Klara Bühl",
