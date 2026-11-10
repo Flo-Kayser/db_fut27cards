@@ -40,7 +40,7 @@
       64
     ],
     "hasDynamicImage": true,
-    "price": 2800000,
+    "price": 2714000,
     "resourceId": 84163723,
     "assetId": 277643,
     "cardName": "Lamine Yamal",
@@ -87,7 +87,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 1278000,
+    "price": 1147000,
     "resourceId": 84163926,
     "assetId": 277846,
     "cardName": "Nico Paz",
@@ -149,7 +149,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 1599000,
+    "price": 1780000,
     "resourceId": 50603069,
     "assetId": 271421,
     "cardName": "Doué",
@@ -206,11 +206,64 @@
       57
     ],
     "hasDynamicImage": true,
-    "price": 589000,
+    "price": 586000,
     "resourceId": 50569340,
     "assetId": 237692,
     "cardName": "Foden",
     "name": "Phil Foden"
+  },
+  {
+    "clubId": 73,
+    "leagueId": 16,
+    "countryId": 45,
+    "versionId": 8,
+    "rating": 87,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      0,
+      11,
+      20,
+      22
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134,
+      149
+    ],
+    "attributes": [
+      78,
+      83,
+      87,
+      87,
+      82,
+      82
+    ],
+    "hasDynamicImage": true,
+    "price": 501000,
+    "resourceId": 50557919,
+    "assetId": 226271,
+    "cardName": "Fabián Ruiz",
+    "name": "Fabián Ruiz"
   },
   {
     "clubId": 22,
@@ -259,7 +312,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 680000,
+    "price": 701000,
     "resourceId": 50536571,
     "assetId": 204923,
     "cardName": "Sabitzer",
@@ -314,7 +367,7 @@
       68
     ],
     "hasDynamicImage": true,
-    "price": 617000,
+    "price": 641000,
     "resourceId": 67373516,
     "assetId": 264652,
     "cardName": "Barcola",
@@ -357,7 +410,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 44750,
+    "price": 44500,
     "resourceId": 67324305,
     "assetId": 215441,
     "cardName": "Guirassy",
@@ -410,7 +463,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 0,
+    "price": 514000,
     "resourceId": 50610776,
     "assetId": 279128,
     "cardName": "Nyoni",
@@ -459,11 +512,111 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 159000,
+    "price": 220000,
     "resourceId": 50571485,
     "assetId": 239837,
     "cardName": "Mac Allister",
     "name": "Alexis Mac Allister"
+  },
+  {
+    "clubId": 21,
+    "leagueId": 19,
+    "countryId": 4,
+    "versionId": 8,
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "CDM",
+      "LB",
+      "RB",
+      "RM"
+    ],
+    "playStyles": [
+      14,
+      2,
+      26,
+      9
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      114,
+      115,
+      116,
+      117,
+      123,
+      124,
+      125,
+      126,
+      146,
+      147,
+      149
+    ],
+    "attributes": [
+      87,
+      81,
+      81,
+      80,
+      82,
+      80
+    ],
+    "hasDynamicImage": true,
+    "price": 380000,
+    "resourceId": 50557023,
+    "assetId": 225375,
+    "cardName": "Laimer",
+    "name": "Konrad Laimer"
+  },
+  {
+    "clubId": 1745,
+    "leagueId": 31,
+    "countryId": 22,
+    "versionId": 8,
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      21,
+      22,
+      6
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      85,
+      87,
+      78,
+      83,
+      40,
+      78
+    ],
+    "hasDynamicImage": true,
+    "price": 90500,
+    "resourceId": 117701990,
+    "assetId": 261478,
+    "cardName": "Douvikas",
+    "name": "Tasos Douvikas"
   },
   {
     "clubId": 131681,
@@ -505,11 +658,57 @@
       68
     ],
     "hasDynamicImage": true,
-    "price": 66500,
+    "price": 72000,
     "resourceId": 50609974,
     "assetId": 278326,
     "cardName": "Cissè",
     "name": "Alphadjo Cissè"
+  },
+  {
+    "clubId": 11,
+    "leagueId": 13,
+    "countryId": 14,
+    "versionId": 8,
+    "rating": 85,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      20,
+      24,
+      25,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      135,
+      136,
+      137
+    ],
+    "attributes": [
+      90,
+      81,
+      83,
+      85,
+      42,
+      70
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 38250,
+    "price": 0,
+    "resourceId": 50609772,
+    "assetId": 278124,
+    "cardName": "Lacey",
+    "name": "Shea Lacey"
   },
   {
     "clubId": 106,
@@ -557,11 +756,62 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 213000,
+    "price": 294000,
     "resourceId": 50600878,
     "assetId": 269230,
     "cardName": "Sadiki",
     "name": "Noah Sadiki"
+  },
+  {
+    "clubId": 326,
+    "leagueId": 68,
+    "countryId": 14,
+    "versionId": 8,
+    "rating": 85,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "LB",
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      12,
+      14,
+      25,
+      9
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      107,
+      108,
+      109,
+      110,
+      127,
+      128,
+      129,
+      130,
+      138,
+      139,
+      140,
+      147
+    ],
+    "attributes": [
+      88,
+      75,
+      80,
+      80,
+      81,
+      85
+    ],
+    "hasDynamicImage": true,
+    "price": 148000,
+    "resourceId": 50594616,
+    "assetId": 262968,
+    "cardName": "Brown",
+    "name": "Archie Brown"
   },
   {
     "clubId": 112172,
@@ -596,7 +846,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 42750,
+    "price": 46750,
     "resourceId": 50574527,
     "assetId": 242879,
     "cardName": "Vandevoordt",
@@ -636,7 +886,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 33250,
+    "price": 31000,
     "resourceId": 50555289,
     "assetId": 223641,
     "cardName": "Baumgartl",
@@ -675,7 +925,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 19000,
+    "price": 18250,
     "resourceId": 50539254,
     "assetId": 207606,
     "cardName": "Lynch",
@@ -720,11 +970,70 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 245000,
+    "price": 266000,
     "resourceId": 50414884,
     "assetId": 83236,
     "cardName": "Ta Bi",
     "name": "Jocelin Ta Bi"
+  },
+  {
+    "clubId": 78,
+    "leagueId": 50,
+    "countryId": 56,
+    "versionId": 8,
+    "rating": 85,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      20,
+      24,
+      25
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      88,
+      85,
+      78,
+      85,
+      44,
+      75
+    ],
+    "hasDynamicImage": true,
+    "price": 51000,
+    "resourceId": 50413372,
+    "assetId": 81724,
+    "cardName": "Durán",
+    "name": "Camilo Durán"
   },
   {
     "clubId": 231,
@@ -777,7 +1086,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 40500,
+    "price": 39000,
     "resourceId": 50402953,
     "assetId": 71305,
     "cardName": "Seys",

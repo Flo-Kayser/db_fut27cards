@@ -69,50 +69,9 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 600,
       "resourceId": 79342,
       "assetId": 79342
-    },
-    "81724": {
-      "name": "Camilo Durán",
-      "cardName": "Durán",
-      "originalVersionId": "0",
-      "clubId": 78,
-      "leagueId": 50,
-      "countryId": 56,
-      "versionId": "2001",
-      "rating": 70,
-      "preferredFoot": "Left",
-      "weakFoot": 2,
-      "skillMoves": 3,
-      "preferredPosition": "LW",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "RM",
-        "RW",
-        "ST"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        23,
-        27,
-        35,
-        38
-      ],
-      "attributes": [
-        77,
-        67,
-        65,
-        70,
-        37,
-        67
-      ],
-      "hasDynamicImage": false,
-      "price": 550,
-      "resourceId": 81724,
-      "assetId": 81724
     },
     "198784": {
       "name": "Alex Oxlade-Chamberlain",
@@ -154,7 +113,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 450,
       "resourceId": 198784,
       "assetId": 198784
     },
@@ -191,7 +150,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 450,
       "resourceId": 200630,
       "assetId": 200630
     },
@@ -275,7 +234,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 2300,
+      "price": 2700,
       "resourceId": 226491,
       "assetId": 226491
     },
@@ -353,7 +312,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 450,
       "resourceId": 234072,
       "assetId": 234072
     },
@@ -437,7 +396,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 550,
       "resourceId": 235755,
       "assetId": 235755
     },
@@ -473,7 +432,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 500,
       "resourceId": 243203,
       "assetId": 243203
     },
@@ -513,7 +472,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 1100,
       "resourceId": 245870,
       "assetId": 245870
     },
@@ -551,7 +510,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 1300,
       "resourceId": 246991,
       "assetId": 246991
     },
@@ -629,7 +588,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 500,
       "resourceId": 256383,
       "assetId": 256383
     },
@@ -699,7 +658,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 400,
       "resourceId": 258928,
       "assetId": 258928
     },
@@ -742,7 +701,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 500,
       "resourceId": 260397,
       "assetId": 260397
     },
@@ -783,7 +742,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 550,
       "resourceId": 262525,
       "assetId": 262525
     },
@@ -817,7 +776,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 550,
       "resourceId": 263561,
       "assetId": 263561
     },
@@ -860,7 +819,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 450,
       "resourceId": 266446,
       "assetId": 266446
     },
@@ -894,7 +853,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 550,
       "resourceId": 50409188,
       "assetId": 77540
     },
@@ -936,6 +895,66 @@
       "price": 450,
       "resourceId": 50412000,
       "assetId": 80352
+    },
+    "50413372": {
+      "name": "Camilo Durán",
+      "cardName": "Durán",
+      "originalVersionId": "8",
+      "clubId": 78,
+      "leagueId": 50,
+      "countryId": 56,
+      "versionId": "8",
+      "rating": 85,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        20,
+        24,
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        88,
+        85,
+        78,
+        85,
+        44,
+        75
+      ],
+      "hasDynamicImage": true,
+      "price": 51000,
+      "resourceId": 50413372,
+      "assetId": 81724
     },
     "50537723": {
       "name": "Sam Johnstone",
@@ -1008,7 +1027,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 500,
       "resourceId": 50566334,
       "assetId": 234686
     },
@@ -1075,7 +1094,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 10000,
+      "price": 11250,
       "resourceId": 50575294,
       "assetId": 243646
     },

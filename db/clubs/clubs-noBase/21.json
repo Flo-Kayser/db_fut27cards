@@ -1,6 +1,66 @@
 {
   "clubName": "FC Bayern München",
   "players": {
+    "50557023": {
+      "name": "Konrad Laimer",
+      "cardName": "Laimer",
+      "originalVersionId": "8",
+      "clubId": 21,
+      "leagueId": 19,
+      "countryId": 4,
+      "versionId": "8",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CDM",
+        "LB",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        14,
+        2,
+        26,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        114,
+        115,
+        116,
+        117,
+        123,
+        124,
+        125,
+        126,
+        146,
+        147,
+        149
+      ],
+      "attributes": [
+        87,
+        81,
+        81,
+        80,
+        82,
+        80
+      ],
+      "hasDynamicImage": true,
+      "price": 380000,
+      "resourceId": 50557023,
+      "assetId": 225375
+    },
     "50561206": {
       "name": "Dayot Upamecano",
       "cardName": "Upamecano",
@@ -41,7 +101,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 985000,
+      "price": 1045000,
       "resourceId": 50561206,
       "assetId": 229558
     },
@@ -96,7 +156,7 @@
         71
       ],
       "hasDynamicImage": true,
-      "price": 824000,
+      "price": 880000,
       "resourceId": 50579475,
       "assetId": 247827
     },
@@ -157,7 +217,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 57000,
+      "price": 55000,
       "resourceId": 50595413,
       "assetId": 263765
     },
@@ -205,7 +265,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 299000,
+      "price": 304000,
       "resourceId": 50601349,
       "assetId": 269701
     },
@@ -260,7 +320,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 241000,
+      "price": 239000,
       "resourceId": 67349948,
       "assetId": 241084
     },
@@ -426,7 +486,7 @@
         71
       ],
       "hasDynamicImage": true,
-      "price": 1116000,
+      "price": 1104000,
       "resourceId": 100911123,
       "assetId": 247827
     },
@@ -481,7 +541,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 1183000,
+      "price": 999000,
       "resourceId": 134458812,
       "assetId": 241084
     }

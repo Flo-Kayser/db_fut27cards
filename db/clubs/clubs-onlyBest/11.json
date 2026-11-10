@@ -140,7 +140,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 1500,
       "resourceId": 82899,
       "assetId": 82899
     },
@@ -174,7 +174,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 1700,
+      "price": 1500,
       "resourceId": 163264,
       "assetId": 163264
     },
@@ -208,7 +208,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 3200,
+      "price": 2500,
       "resourceId": 193331,
       "assetId": 193331
     },
@@ -283,7 +283,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 1300,
       "resourceId": 205988,
       "assetId": 205988
     },
@@ -328,7 +328,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 20250,
+      "price": 17000,
       "resourceId": 212198,
       "assetId": 212198
     },
@@ -373,7 +373,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 2700,
+      "price": 2500,
       "resourceId": 216393,
       "assetId": 216393
     },
@@ -415,7 +415,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 233064,
       "assetId": 233064
     },
@@ -459,7 +459,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 1200,
       "resourceId": 234574,
       "assetId": 234574
     },
@@ -538,7 +538,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 236401,
       "assetId": 236401
     },
@@ -613,7 +613,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 1000,
       "resourceId": 250961,
       "assetId": 250961
     },
@@ -651,7 +651,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 900,
       "resourceId": 253306,
       "assetId": 253306
     },
@@ -691,7 +691,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 254088,
       "assetId": 254088
     },
@@ -803,7 +803,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 2800,
       "resourceId": 269087,
       "assetId": 269087
     },
@@ -842,7 +842,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 1000,
       "resourceId": 273018,
       "assetId": 273018
     },
@@ -882,7 +882,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 1800,
       "resourceId": 273599,
       "assetId": 273599
     },
@@ -918,46 +918,9 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 3800,
       "resourceId": 277432,
       "assetId": 277432
-    },
-    "278124": {
-      "name": "Shea Lacey",
-      "cardName": "Lacey",
-      "originalVersionId": "0",
-      "clubId": 11,
-      "leagueId": 13,
-      "countryId": 14,
-      "versionId": "2001",
-      "rating": 65,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "RM",
-      "possiblePositions": [
-        "RM",
-        "RW"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        23,
-        25,
-        35
-      ],
-      "attributes": [
-        82,
-        59,
-        60,
-        70,
-        35,
-        41
-      ],
-      "hasDynamicImage": false,
-      "price": 3300,
-      "resourceId": 278124,
-      "assetId": 278124
     },
     "50548041": {
       "name": "Youri Tielemans",
@@ -1122,7 +1085,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 188000,
+      "price": 195000,
       "resourceId": 50571891,
       "assetId": 240243
     },
@@ -1176,7 +1139,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 621000,
+      "price": 649000,
       "resourceId": 50574662,
       "assetId": 243014
     },
@@ -1217,7 +1180,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 63000,
+      "price": 75500,
       "resourceId": 50586451,
       "assetId": 254803
     },
@@ -1273,7 +1236,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 1976000,
+      "price": 2000000,
       "resourceId": 50600784,
       "assetId": 269136
     },
@@ -1317,6 +1280,53 @@
       "price": 650,
       "resourceId": 50604148,
       "assetId": 272500
+    },
+    "50609772": {
+      "name": "Shea Lacey",
+      "cardName": "Lacey",
+      "originalVersionId": "8",
+      "clubId": 11,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "8",
+      "rating": 85,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        20,
+        24,
+        25,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        135,
+        136,
+        137
+      ],
+      "attributes": [
+        90,
+        81,
+        83,
+        85,
+        42,
+        70
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 38250,
+      "price": 0,
+      "resourceId": 50609772,
+      "assetId": 278124
     }
   }
 }
