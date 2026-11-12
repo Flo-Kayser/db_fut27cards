@@ -1,6 +1,56 @@
 {
   "clubName": "LOSC",
   "players": {
+    "50409012": {
+      "name": "Soriba Diaoune",
+      "cardName": "Diaoune",
+      "originalVersionId": "3",
+      "clubId": 65,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        25,
+        6,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        86,
+        77,
+        79,
+        82,
+        49,
+        70
+      ],
+      "hasDynamicImage": true,
+      "price": 10500,
+      "resourceId": 50409012,
+      "assetId": 77364
+    },
     "67361026": {
       "name": "Ayase Ueda",
       "cardName": "Ueda",
@@ -40,7 +90,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 12250,
+      "price": 12000,
       "resourceId": 67361026,
       "assetId": 252162
     },
@@ -87,7 +137,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 11000,
+      "price": 12500,
       "resourceId": 67379423,
       "assetId": 270559
     },

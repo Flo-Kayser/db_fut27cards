@@ -118,7 +118,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 72008,
       "assetId": 72008
     },
@@ -195,7 +195,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 79182,
       "assetId": 79182
     },
@@ -231,7 +231,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 81482,
       "assetId": 81482
     },
@@ -306,7 +306,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 450,
       "resourceId": 192241,
       "assetId": 192241
     },
@@ -348,7 +348,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 450,
       "resourceId": 211785,
       "assetId": 211785
     },
@@ -423,7 +423,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 500,
       "resourceId": 232377,
       "assetId": 232377
     },
@@ -460,51 +460,6 @@
       "price": 250,
       "resourceId": 246949,
       "assetId": 246949
-    },
-    "252468": {
-      "name": "Al Hassan Touré",
-      "cardName": "Touré",
-      "originalVersionId": "0",
-      "clubId": 111400,
-      "leagueId": 351,
-      "countryId": 195,
-      "versionId": "2000",
-      "rating": 63,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "CAM",
-        "LM",
-        "LW",
-        "RM",
-        "RW",
-        "ST"
-      ],
-      "playStyles": [
-        21
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        23,
-        27,
-        35,
-        38,
-        43
-      ],
-      "attributes": [
-        92,
-        59,
-        56,
-        63,
-        31,
-        68
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 252468,
-      "assetId": 252468
     },
     "252698": {
       "name": "Jordan Courtney-Perkins",
@@ -543,7 +498,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 252698,
       "assetId": 252698
     },
@@ -577,7 +532,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 253753,
       "assetId": 253753
     },
@@ -616,7 +571,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 259475,
       "assetId": 259475
     },
@@ -652,7 +607,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 500,
       "resourceId": 262434,
       "assetId": 262434
     },
@@ -721,7 +676,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 650,
       "resourceId": 271971,
       "assetId": 271971
     },
@@ -792,7 +747,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 276187,
       "assetId": 276187
     },
@@ -832,7 +787,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 200,
       "resourceId": 276462,
       "assetId": 276462
     },
@@ -906,7 +861,7 @@
         38
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 278224,
       "assetId": 278224
     },
@@ -942,9 +897,73 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 279478,
       "assetId": 279478
+    },
+    "50584116": {
+      "name": "Al Hassan Touré",
+      "cardName": "Touré",
+      "originalVersionId": "3",
+      "clubId": 111400,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        1,
+        21,
+        22
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        93,
+        78,
+        75,
+        80,
+        48,
+        81
+      ],
+      "hasDynamicImage": true,
+      "price": 10500,
+      "resourceId": 50584116,
+      "assetId": 252468
     },
     "50597070": {
       "name": "Jacob Farrell",
@@ -983,7 +1002,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 700,
       "resourceId": 50597070,
       "assetId": 265422
     }

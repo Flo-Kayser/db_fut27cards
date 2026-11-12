@@ -34,7 +34,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 2400,
       "resourceId": 72049,
       "assetId": 72049
     },
@@ -70,7 +70,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 750,
       "resourceId": 72315,
       "assetId": 72315
     },
@@ -104,7 +104,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 200,
       "resourceId": 75470,
       "assetId": 75470
     },
@@ -146,51 +146,9 @@
         51
       ],
       "hasDynamicImage": false,
-      "price": 3200,
+      "price": 650,
       "resourceId": 82888,
       "assetId": 82888
-    },
-    "207421": {
-      "name": "Leandro Trossard",
-      "cardName": "Trossard",
-      "originalVersionId": "0",
-      "clubId": 327,
-      "leagueId": 68,
-      "countryId": 7,
-      "versionId": "2002",
-      "rating": 82,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 4,
-      "preferredPosition": "LW",
-      "possiblePositions": [
-        "LM",
-        "LW"
-      ],
-      "playStyles": [
-        12,
-        8
-      ],
-      "playStylesPlus": [
-        24
-      ],
-      "rolesPlus": [
-        30,
-        38,
-        39
-      ],
-      "attributes": [
-        76,
-        82,
-        79,
-        85,
-        30,
-        59
-      ],
-      "hasDynamicImage": false,
-      "price": 700,
-      "resourceId": 207421,
-      "assetId": 207421
     },
     "216860": {
       "name": "Václav Černý",
@@ -232,7 +190,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 216860,
       "assetId": 216860
     },
@@ -307,7 +265,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 226790,
       "assetId": 226790
     },
@@ -389,7 +347,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 500,
       "resourceId": 235407,
       "assetId": 235407
     },
@@ -427,7 +385,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 600,
       "resourceId": 237841,
       "assetId": 237841
     },
@@ -503,7 +461,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 246430,
       "assetId": 246430
     },
@@ -537,7 +495,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 248712,
       "assetId": 248712
     },
@@ -577,7 +535,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 750,
       "resourceId": 252208,
       "assetId": 252208
     },
@@ -617,7 +575,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 500,
       "resourceId": 254296,
       "assetId": 254296
     },
@@ -657,7 +615,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 650,
       "resourceId": 256033,
       "assetId": 256033
     },
@@ -697,7 +655,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 258575,
       "assetId": 258575
     },
@@ -737,7 +695,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 550,
       "resourceId": 263132,
       "assetId": 263132
     },
@@ -861,7 +819,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 650,
       "resourceId": 271362,
       "assetId": 271362
     },
@@ -902,7 +860,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 1400,
       "resourceId": 273933,
       "assetId": 273933
     },
@@ -941,7 +899,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 600,
       "resourceId": 274616,
       "assetId": 274616
     },
@@ -1080,6 +1038,62 @@
       "price": 0,
       "resourceId": 50403818,
       "assetId": 72170
+    },
+    "50539069": {
+      "name": "Leandro Trossard",
+      "cardName": "Trossard",
+      "originalVersionId": "3",
+      "clubId": 327,
+      "leagueId": 68,
+      "countryId": 7,
+      "versionId": "3",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        12,
+        20,
+        8
+      ],
+      "playStylesPlus": [
+        24
+      ],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        80,
+        84,
+        82,
+        87,
+        32,
+        65
+      ],
+      "hasDynamicImage": true,
+      "price": 19500,
+      "resourceId": 50539069,
+      "assetId": 207421
     },
     "50574893": {
       "name": "Orkun Kökçü",
@@ -1258,7 +1272,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 50600450,
       "assetId": 268802
     },
@@ -1299,7 +1313,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 550,
       "resourceId": 50605581,
       "assetId": 273933
     },
@@ -1336,7 +1350,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 500,
       "resourceId": 50608792,
       "assetId": 277144
     }

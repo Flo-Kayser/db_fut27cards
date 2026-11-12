@@ -66,7 +66,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 500,
       "resourceId": 200715,
       "assetId": 200715
     },
@@ -105,7 +105,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 500,
       "resourceId": 201417,
       "assetId": 201417
     },
@@ -140,7 +140,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 600,
       "resourceId": 206534,
       "assetId": 206534
     },
@@ -180,7 +180,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 650,
       "resourceId": 213693,
       "assetId": 213693
     },
@@ -219,7 +219,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 550,
       "resourceId": 221269,
       "assetId": 221269
     },
@@ -258,7 +258,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 550,
       "resourceId": 224081,
       "assetId": 224081
     },
@@ -298,7 +298,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 550,
       "resourceId": 236600,
       "assetId": 236600
     },
@@ -336,7 +336,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 550,
       "resourceId": 240773,
       "assetId": 240773
     },
@@ -370,7 +370,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 600,
       "resourceId": 240783,
       "assetId": 240783
     },
@@ -408,7 +408,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 500,
       "resourceId": 240987,
       "assetId": 240987
     },
@@ -527,7 +527,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 550,
       "resourceId": 248050,
       "assetId": 248050
     },
@@ -565,7 +565,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 550,
       "resourceId": 248405,
       "assetId": 248405
     },
@@ -601,7 +601,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 200,
       "resourceId": 261640,
       "assetId": 261640
     },
@@ -640,7 +640,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 500,
       "resourceId": 264196,
       "assetId": 264196
     },
@@ -711,7 +711,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 750,
       "resourceId": 272651,
       "assetId": 272651
     },
@@ -790,48 +790,9 @@
         43
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 500,
       "resourceId": 278919,
       "assetId": 278919
-    },
-    "279572": {
-      "name": "Sydie Peck",
-      "cardName": "Peck",
-      "originalVersionId": "0",
-      "clubId": 1794,
-      "leagueId": 14,
-      "countryId": 14,
-      "versionId": "2001",
-      "rating": 71,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CDM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        18
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        16,
-        20,
-        49
-      ],
-      "attributes": [
-        68,
-        59,
-        68,
-        70,
-        66,
-        72
-      ],
-      "hasDynamicImage": false,
-      "price": 600,
-      "resourceId": 279572,
-      "assetId": 279572
     },
     "50529404": {
       "name": "Jordan Ayew",
@@ -869,7 +830,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 650,
       "resourceId": 50529404,
       "assetId": 197756
     },
@@ -910,7 +871,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 550,
       "resourceId": 50559980,
       "assetId": 228332
     },
@@ -967,7 +928,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 19000,
+      "price": 20500,
       "resourceId": 50565158,
       "assetId": 233510
     },
@@ -1008,7 +969,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 550,
       "resourceId": 50565443,
       "assetId": 233795
     },
@@ -1047,9 +1008,57 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 50578521,
       "assetId": 246873
+    },
+    "50611220": {
+      "name": "Sydie Peck",
+      "cardName": "Peck",
+      "originalVersionId": "3",
+      "clubId": 1794,
+      "leagueId": 14,
+      "countryId": 14,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        0,
+        18,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        149
+      ],
+      "attributes": [
+        78,
+        70,
+        78,
+        80,
+        75,
+        82
+      ],
+      "hasDynamicImage": true,
+      "price": 10500,
+      "resourceId": 50611220,
+      "assetId": 279572
     },
     "67355737": {
       "name": "Liam Kitching",
@@ -1086,7 +1095,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 500,
       "resourceId": 67355737,
       "assetId": 246873
     }
