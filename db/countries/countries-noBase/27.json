@@ -38,7 +38,7 @@
       85
     ],
     "hasDynamicImage": false,
-    "price": 364000,
+    "price": 348000,
     "resourceId": 1088,
     "assetId": 1088
   },
@@ -84,7 +84,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 880000,
+    "price": 892000,
     "resourceId": 1114,
     "assetId": 1114
   },
@@ -123,7 +123,7 @@
       90
     ],
     "hasDynamicImage": false,
-    "price": 903000,
+    "price": 876000,
     "resourceId": 1179,
     "assetId": 1179
   },
@@ -167,7 +167,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 750000,
+    "price": 734000,
     "resourceId": 1183,
     "assetId": 1183
   },
@@ -212,7 +212,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 617000,
+    "price": 609000,
     "resourceId": 1201,
     "assetId": 1201
   },
@@ -258,7 +258,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 1516000,
+    "price": 1417000,
     "resourceId": 1238,
     "assetId": 1238
   },
@@ -304,7 +304,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 564000,
+    "price": 540000,
     "resourceId": 7763,
     "assetId": 7763
   },
@@ -350,7 +350,7 @@
       87
     ],
     "hasDynamicImage": false,
-    "price": 409000,
+    "price": 384000,
     "resourceId": 53302,
     "assetId": 53302
   },
@@ -397,7 +397,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 1399000,
+    "price": 1395000,
     "resourceId": 120274,
     "assetId": 120274
   },
@@ -439,7 +439,7 @@
       85
     ],
     "hasDynamicImage": false,
-    "price": 464000,
+    "price": 432000,
     "resourceId": 137186,
     "assetId": 137186
   },
@@ -483,7 +483,7 @@
       89
     ],
     "hasDynamicImage": false,
-    "price": 707000,
+    "price": 691000,
     "resourceId": 138956,
     "assetId": 138956
   },
@@ -527,7 +527,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 410000,
+    "price": 420000,
     "resourceId": 166906,
     "assetId": 166906
   },
@@ -573,7 +573,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 369000,
+    "price": 360000,
     "resourceId": 173210,
     "assetId": 173210
   },
@@ -704,7 +704,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 97000,
+    "price": 84500,
     "resourceId": 233700,
     "assetId": 233700
   },
@@ -750,7 +750,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 1138000,
+    "price": 1081000,
     "resourceId": 238382,
     "assetId": 238382
   },
@@ -796,7 +796,7 @@
       84
     ],
     "hasDynamicImage": false,
-    "price": 3448000,
+    "price": 3900000,
     "resourceId": 238439,
     "assetId": 238439
   },
@@ -841,7 +841,7 @@
       88
     ],
     "hasDynamicImage": false,
-    "price": 282000,
+    "price": 278000,
     "resourceId": 243030,
     "assetId": 243030
   },
@@ -890,9 +890,54 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 464000,
+    "price": 409000,
     "resourceId": 250890,
     "assetId": 250890
+  },
+  "50518275": {
+    "name": "Mario Balotelli",
+    "cardName": "Balotelli",
+    "originalVersionId": "10",
+    "clubId": 132794,
+    "leagueId": 31,
+    "countryId": 27,
+    "versionId": "10",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      13,
+      2,
+      20,
+      22,
+      6
+    ],
+    "playStylesPlus": [
+      7
+    ],
+    "rolesPlus": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      88,
+      90,
+      76,
+      88,
+      37,
+      85
+    ],
+    "hasDynamicImage": true,
+    "price": 521000,
+    "resourceId": 50518275,
+    "assetId": 186627
   },
   "50529867": {
     "name": "Lorenzo Insigne",
@@ -949,6 +994,81 @@
     "resourceId": 50529867,
     "assetId": 198219
   },
+  "50535199": {
+    "name": "Alessandro Florenzi",
+    "cardName": "Florenzi",
+    "originalVersionId": "10",
+    "clubId": 132794,
+    "leagueId": 31,
+    "countryId": 27,
+    "versionId": "10",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "CDM",
+      "CM",
+      "LB",
+      "LM",
+      "RB",
+      "RM"
+    ],
+    "playStyles": [
+      12,
+      14,
+      25,
+      28,
+      6
+    ],
+    "playStylesPlus": [
+      17
+    ],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      146,
+      147,
+      149
+    ],
+    "attributes": [
+      90,
+      83,
+      83,
+      85,
+      84,
+      80
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 389300,
+    "price": 0,
+    "resourceId": 50535199,
+    "assetId": 203551
+  },
   "50562269": {
     "name": "Gianluigi Donnarumma",
     "cardName": "Donnarumma",
@@ -987,7 +1107,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 233000,
+    "price": 225000,
     "resourceId": 50562269,
     "assetId": 230621
   },
@@ -1085,7 +1205,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 22400,
+    "sbcPrice": 23800,
     "price": 0,
     "resourceId": 50583417,
     "assetId": 251769
@@ -1187,7 +1307,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 130400,
+    "sbcPrice": 138550,
     "price": 0,
     "resourceId": 50589359,
     "assetId": 257711
@@ -1238,7 +1358,7 @@
       67
     ],
     "hasDynamicImage": true,
-    "price": 11250,
+    "price": 10750,
     "resourceId": 50600351,
     "assetId": 268703
   },
@@ -1279,7 +1399,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 10750,
+    "price": 10500,
     "resourceId": 50600830,
     "assetId": 269182
   },
@@ -1319,7 +1439,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 15500,
+    "price": 13750,
     "resourceId": 50608373,
     "assetId": 276725
   },
@@ -1368,7 +1488,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 36750,
+    "price": 34000,
     "resourceId": 50609517,
     "assetId": 277869
   },
@@ -1415,7 +1535,7 @@
       68
     ],
     "hasDynamicImage": true,
-    "price": 79000,
+    "price": 72500,
     "resourceId": 50609974,
     "assetId": 278326
   },
@@ -1514,7 +1634,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 236000,
+    "price": 231000,
     "resourceId": 67346247,
     "assetId": 237383
   },
@@ -1630,7 +1750,7 @@
       67
     ],
     "hasDynamicImage": true,
-    "price": 1781000,
+    "price": 1584000,
     "resourceId": 83887281,
     "assetId": 1201
   },
@@ -1675,6 +1795,46 @@
     "price": 0,
     "resourceId": 84116701,
     "assetId": 230621
+  },
+  "84141383": {
+    "name": "Elia Caprile",
+    "cardName": "Caprile",
+    "originalVersionId": "19",
+    "clubId": 1842,
+    "leagueId": 31,
+    "countryId": 27,
+    "versionId": "19",
+    "rating": 82,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 1,
+    "preferredPosition": "GK",
+    "possiblePositions": [
+      "GK"
+    ],
+    "playStyles": [
+      31,
+      33,
+      35
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      101,
+      102,
+      145
+    ],
+    "attributes": [
+      82,
+      79,
+      80,
+      87,
+      55,
+      82
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84141383,
+    "assetId": 255303
   },
   "84154783": {
     "name": "Nicolò Cambiaghi",

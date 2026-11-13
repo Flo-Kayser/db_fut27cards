@@ -30,7 +30,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 600,
+    "price": 500,
     "resourceId": 276070,
     "assetId": 276070,
     "originalVersionId": 0
@@ -79,6 +79,51 @@
     "resourceId": 50607718,
     "assetId": 276070,
     "originalVersionId": 3
+  },
+  "84162150": {
+    "clubId": 1790,
+    "leagueId": 14,
+    "countryId": 35,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "RB",
+      "RM"
+    ],
+    "playStyles": [
+      16,
+      26,
+      28
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      123,
+      124,
+      125,
+      126,
+      146
+    ],
+    "attributes": [
+      82,
+      70,
+      73,
+      75,
+      78,
+      86
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84162150,
+    "assetId": 276070,
+    "originalVersionId": 19
   },
   "cardName": "Devlin",
   "name": "Terry Devlin"

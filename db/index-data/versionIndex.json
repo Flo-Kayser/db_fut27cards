@@ -39,6 +39,19 @@
         "tertiaryColor": "#81868b"
       }
     },
+    "10": {
+      "count": 21,
+      "file": "db/versions/10.json",
+      "details": {
+        "name": "Hall of FUT: Unleashed",
+        "hasStrip": true,
+        "createdAt": "2026-09-16T16:58:30.722Z",
+        "url": "https://assets.easysbc.io/fc27/cards/e_10_0.png",
+        "primaryColor": "#fef7b9",
+        "secondaryColor": "#860f19",
+        "tertiaryColor": "#a39964"
+      }
+    },
     "12": {
       "count": 136,
       "file": "db/versions/12.json",
@@ -53,7 +66,7 @@
       }
     },
     "19": {
-      "count": 131,
+      "count": 154,
       "file": "db/versions/19.json",
       "details": {
         "name": "FUT Champions",
@@ -105,7 +118,7 @@
       }
     },
     "43": {
-      "count": 1,
+      "count": 2,
       "file": "db/versions/43.json",
       "details": {
         "name": "POTM Premier League",
@@ -144,7 +157,7 @@
       }
     },
     "57": {
-      "count": 4,
+      "count": 6,
       "file": "db/versions/57.json",
       "details": {
         "name": "Showdown Upgrade",
@@ -157,7 +170,7 @@
       }
     },
     "58": {
-      "count": 4,
+      "count": 2,
       "file": "db/versions/58.json",
       "details": {
         "name": "Showdown",
@@ -431,8 +444,8 @@
     }
   },
   "meta": {
-    "totalVersions": 33,
-    "totalVersionsWithoutBase": 30,
-    "updatedAt": "2026-11-12T23:31:05.130Z"
+    "totalVersions": 34,
+    "totalVersionsWithoutBase": 31,
+    "updatedAt": "2026-11-13T23:28:47.354Z"
   }
 }

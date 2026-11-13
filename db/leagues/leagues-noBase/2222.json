@@ -48,7 +48,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 13600,
+    "sbcPrice": 14450,
     "price": 0,
     "resourceId": 50403797,
     "assetId": 72149
@@ -90,7 +90,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 12250,
+    "price": 11000,
     "resourceId": 50411878,
     "assetId": 80230
   },
@@ -136,7 +136,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 12500,
     "resourceId": 50416920,
     "assetId": 85272
   },
@@ -188,7 +188,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 1144000,
+    "price": 1119000,
     "resourceId": 50568937,
     "assetId": 237289
   },
@@ -249,7 +249,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 120000,
+    "price": 121000,
     "resourceId": 50572365,
     "assetId": 240717
   },
@@ -306,7 +306,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 1011000,
+    "price": 880000,
     "resourceId": 50573315,
     "assetId": 241667
   },
@@ -365,7 +365,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 970000,
+    "price": 928000,
     "resourceId": 50573494,
     "assetId": 241846
   },
@@ -490,7 +490,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 31500,
+    "price": 29000,
     "resourceId": 50593491,
     "assetId": 261843
   },
@@ -545,7 +545,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 804000,
+    "price": 701000,
     "resourceId": 50593503,
     "assetId": 261855
   },
@@ -710,7 +710,7 @@
       79
     ],
     "hasDynamicImage": true,
-    "price": 24000,
+    "price": 22750,
     "resourceId": 50598882,
     "assetId": 267234
   },
@@ -778,7 +778,7 @@
       66
     ],
     "hasDynamicImage": true,
-    "price": 2209000,
+    "price": 2101000,
     "resourceId": 50603094,
     "assetId": 271446
   },
@@ -848,7 +848,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 11250,
+    "price": 11000,
     "resourceId": 50603785,
     "assetId": 272137
   },
@@ -960,7 +960,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 446000,
+    "price": 389000,
     "resourceId": 50604801,
     "assetId": 273153
   },
@@ -1023,7 +1023,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 28500,
+    "price": 27000,
     "resourceId": 50607435,
     "assetId": 275787
   },
@@ -1092,11 +1092,11 @@
   "50609347": {
     "name": "Sydney Schertenleib",
     "cardName": "Schertenleib",
-    "originalVersionId": "58",
+    "originalVersionId": "57",
     "clubId": 116325,
     "leagueId": 2222,
     "countryId": 47,
-    "versionId": "58",
+    "versionId": "57",
     "rating": 84,
     "preferredFoot": "Right",
     "weakFoot": 4,
@@ -1110,6 +1110,7 @@
       "RB"
     ],
     "playStyles": [
+      11,
       16,
       20,
       9
@@ -1217,7 +1218,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 94500,
+    "price": 91500,
     "resourceId": 67376394,
     "assetId": 267530
   },
@@ -1615,5 +1616,67 @@
     "price": 0,
     "resourceId": 84158280,
     "assetId": 272200
+  },
+  "84162967": {
+    "name": "Isina Corte",
+    "cardName": "Isina Corte",
+    "originalVersionId": "19",
+    "clubId": 132629,
+    "leagueId": 2222,
+    "countryId": 45,
+    "versionId": "19",
+    "rating": 82,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM",
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      2,
+      21,
+      29
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      138,
+      139,
+      140,
+      149
+    ],
+    "attributes": [
+      89,
+      81,
+      79,
+      83,
+      38,
+      77
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84162967,
+    "assetId": 276887
   }
 }

@@ -37,98 +37,9 @@
       87
     ],
     "hasDynamicImage": false,
-    "price": 800000,
+    "price": 799000,
     "resourceId": 16619,
     "assetId": 16619
-  },
-  "169051": {
-    "name": "Fredy Guarín",
-    "cardName": "Guarín",
-    "originalVersionId": "9",
-    "clubId": 132794,
-    "leagueId": 31,
-    "countryId": 56,
-    "versionId": "9",
-    "rating": 84,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 3,
-    "preferredPosition": "CM",
-    "possiblePositions": [
-      "CAM",
-      "CDM",
-      "CM"
-    ],
-    "playStyles": [
-      26,
-      28,
-      6,
-      9
-    ],
-    "playStylesPlus": [
-      2
-    ],
-    "rolesPlus": [
-      31,
-      118,
-      149
-    ],
-    "attributes": [
-      79,
-      85,
-      82,
-      83,
-      75,
-      88
-    ],
-    "hasDynamicImage": false,
-    "price": 0,
-    "resourceId": 169051,
-    "assetId": 169051
-  },
-  "204550": {
-    "name": "Víctor Ibarbo",
-    "cardName": "Ibarbo",
-    "originalVersionId": "9",
-    "clubId": 132794,
-    "leagueId": 31,
-    "countryId": 56,
-    "versionId": "9",
-    "rating": 84,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 3,
-    "preferredPosition": "RW",
-    "possiblePositions": [
-      "RM",
-      "RW",
-      "ST"
-    ],
-    "playStyles": [
-      2,
-      21,
-      29
-    ],
-    "playStylesPlus": [
-      25
-    ],
-    "rolesPlus": [
-      26,
-      41,
-      136
-    ],
-    "attributes": [
-      93,
-      81,
-      71,
-      84,
-      42,
-      82
-    ],
-    "hasDynamicImage": false,
-    "price": 0,
-    "resourceId": 204550,
-    "assetId": 204550
   },
   "50413372": {
     "name": "Camilo Durán",
@@ -186,9 +97,119 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 49750,
+    "price": 41000,
     "resourceId": 50413372,
     "assetId": 81724
+  },
+  "50500699": {
+    "name": "Fredy Guarín",
+    "cardName": "Guarín",
+    "originalVersionId": "10",
+    "clubId": 132794,
+    "leagueId": 31,
+    "countryId": 56,
+    "versionId": "10",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      11,
+      2,
+      26,
+      28,
+      6
+    ],
+    "playStylesPlus": [
+      9
+    ],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134,
+      149
+    ],
+    "attributes": [
+      84,
+      89,
+      87,
+      88,
+      78,
+      90
+    ],
+    "hasDynamicImage": true,
+    "price": 685000,
+    "resourceId": 50500699,
+    "assetId": 169051
+  },
+  "50536198": {
+    "name": "Víctor Ibarbo",
+    "cardName": "Ibarbo",
+    "originalVersionId": "10",
+    "clubId": 132794,
+    "leagueId": 31,
+    "countryId": 56,
+    "versionId": "10",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      2,
+      25,
+      29,
+      6
+    ],
+    "playStylesPlus": [
+      21
+    ],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      135,
+      136,
+      137,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      94,
+      84,
+      75,
+      86,
+      45,
+      85
+    ],
+    "hasDynamicImage": true,
+    "price": 126000,
+    "resourceId": 50536198,
+    "assetId": 204550
   },
   "50569878": {
     "name": "Jaminton Campaz",
@@ -242,7 +263,7 @@
       65
     ],
     "hasDynamicImage": true,
-    "price": 10750,
+    "price": 11000,
     "resourceId": 50569878,
     "assetId": 238230
   },
@@ -303,7 +324,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 446000,
+    "price": 389000,
     "resourceId": 50604801,
     "assetId": 273153
   },
@@ -414,7 +435,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 910000,
+    "price": 790000,
     "resourceId": 134458812,
     "assetId": 241084
   }

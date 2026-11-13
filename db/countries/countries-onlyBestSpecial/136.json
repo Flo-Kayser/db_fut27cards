@@ -50,7 +50,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 23250,
+    "price": 21750,
     "resourceId": 50582506,
     "assetId": 250858
   },
@@ -100,7 +100,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 14250,
+    "price": 15250,
     "resourceId": 50606786,
     "assetId": 275138
   },
@@ -159,24 +159,26 @@
     "resourceId": 50606972,
     "assetId": 275324
   },
-  "67368061": {
+  "134476925": {
     "name": "Nicolas Jackson",
     "cardName": "Jackson",
-    "originalVersionId": "3",
+    "originalVersionId": "43",
     "clubId": 2,
     "leagueId": 13,
     "countryId": 136,
-    "versionId": "3",
-    "rating": 81,
+    "versionId": "43",
+    "rating": 85,
     "preferredFoot": "Right",
     "weakFoot": 3,
-    "skillMoves": 3,
+    "skillMoves": 4,
     "preferredPosition": "ST",
     "possiblePositions": [
       "ST"
     ],
     "playStyles": [
       20,
+      22,
+      26,
       6,
       7
     ],
@@ -188,57 +190,17 @@
       144
     ],
     "attributes": [
-      80,
-      80,
-      71,
-      82,
-      42,
-      78
+      84,
+      85,
+      75,
+      85,
+      46,
+      82
     ],
     "hasDynamicImage": true,
-    "price": 11250,
-    "resourceId": 67368061,
-    "assetId": 259197
-  },
-  "100922493": {
-    "name": "Nicolas Jackson",
-    "cardName": "Jackson",
-    "originalVersionId": "19",
-    "clubId": 2,
-    "leagueId": 13,
-    "countryId": 136,
-    "versionId": "19",
-    "rating": 81,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "ST"
-    ],
-    "playStyles": [
-      20,
-      6,
-      7
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      141,
-      142,
-      143,
-      144
-    ],
-    "attributes": [
-      80,
-      80,
-      71,
-      82,
-      42,
-      78
-    ],
-    "hasDynamicImage": false,
+    "sbcPrice": 17600,
     "price": 0,
-    "resourceId": 100922493,
+    "resourceId": 134476925,
     "assetId": 259197
   }
 }

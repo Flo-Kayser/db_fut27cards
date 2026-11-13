@@ -40,7 +40,7 @@
       88
     ],
     "hasDynamicImage": false,
-    "price": 191000,
+    "price": 204000,
     "resourceId": 26709,
     "assetId": 26709
   },
@@ -83,7 +83,7 @@
     ],
     "hasDynamicImage": false,
     "sbcPrice": 216900,
-    "price": 139000,
+    "price": 116000,
     "resourceId": 156353,
     "assetId": 156353
   },
@@ -127,106 +127,9 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 519000,
+    "price": 491000,
     "resourceId": 166149,
     "assetId": 166149
-  },
-  "170369": {
-    "name": "Giovani dos Santos",
-    "cardName": "dos Santos",
-    "originalVersionId": "9",
-    "clubId": 132794,
-    "leagueId": 53,
-    "countryId": 83,
-    "versionId": "9",
-    "rating": 84,
-    "preferredFoot": "Left",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "CAM",
-      "LM",
-      "LW",
-      "RM",
-      "RW",
-      "ST"
-    ],
-    "playStyles": [
-      22,
-      25,
-      6
-    ],
-    "playStylesPlus": [
-      20
-    ],
-    "rolesPlus": [
-      30,
-      32,
-      36,
-      39,
-      143
-    ],
-    "attributes": [
-      87,
-      83,
-      75,
-      88,
-      32,
-      58
-    ],
-    "hasDynamicImage": false,
-    "price": 0,
-    "resourceId": 170369,
-    "assetId": 170369
-  },
-  "178322": {
-    "name": "Miguel Layún",
-    "cardName": "Layún",
-    "originalVersionId": "9",
-    "clubId": 132794,
-    "leagueId": 308,
-    "countryId": 83,
-    "versionId": "9",
-    "rating": 84,
-    "preferredFoot": "Right",
-    "weakFoot": 5,
-    "skillMoves": 3,
-    "preferredPosition": "LB",
-    "possiblePositions": [
-      "LB",
-      "LM",
-      "RB",
-      "RM"
-    ],
-    "playStyles": [
-      16,
-      26,
-      3,
-      9
-    ],
-    "playStylesPlus": [
-      12
-    ],
-    "rolesPlus": [
-      7,
-      24,
-      47,
-      105,
-      109
-    ],
-    "attributes": [
-      86,
-      76,
-      80,
-      80,
-      78,
-      74
-    ],
-    "hasDynamicImage": false,
-    "price": 0,
-    "resourceId": 178322,
-    "assetId": 178322
   },
   "191694": {
     "name": "Jorge Campos",
@@ -264,7 +167,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 52000,
+    "price": 51500,
     "resourceId": 191694,
     "assetId": 191694
   },
@@ -323,7 +226,7 @@
       62
     ],
     "hasDynamicImage": true,
-    "price": 91500,
+    "price": 95500,
     "resourceId": 50411047,
     "assetId": 79399
   },
@@ -382,6 +285,135 @@
     "price": 0,
     "resourceId": 50417481,
     "assetId": 85833
+  },
+  "50502017": {
+    "name": "Giovani dos Santos",
+    "cardName": "dos Santos",
+    "originalVersionId": "10",
+    "clubId": 132794,
+    "leagueId": 53,
+    "countryId": 83,
+    "versionId": "10",
+    "rating": 87,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "LW",
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      20,
+      22,
+      24,
+      25,
+      6
+    ],
+    "playStylesPlus": [
+      8
+    ],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      90,
+      87,
+      80,
+      91,
+      36,
+      63
+    ],
+    "hasDynamicImage": true,
+    "price": 451000,
+    "resourceId": 50502017,
+    "assetId": 170369
+  },
+  "50509970": {
+    "name": "Miguel Layún",
+    "cardName": "Layún",
+    "originalVersionId": "10",
+    "clubId": 132794,
+    "leagueId": 341,
+    "countryId": 83,
+    "versionId": "10",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 3,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "LB",
+      "LM",
+      "RB",
+      "RM"
+    ],
+    "playStyles": [
+      12,
+      14,
+      15,
+      9
+    ],
+    "playStylesPlus": [
+      16
+    ],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      146,
+      147
+    ],
+    "attributes": [
+      88,
+      78,
+      82,
+      83,
+      83,
+      80
+    ],
+    "hasDynamicImage": true,
+    "price": 88000,
+    "resourceId": 50509970,
+    "assetId": 178322
   },
   "50524813": {
     "name": "Jesús Corona",
@@ -486,7 +518,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 12000,
+    "price": 11750,
     "resourceId": 50555799,
     "assetId": 224151
   },
