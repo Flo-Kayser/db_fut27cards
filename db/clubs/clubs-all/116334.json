@@ -42,7 +42,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 246287,
       "assetId": 246287
     },
@@ -76,7 +76,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 247530,
       "assetId": 247530
     },
@@ -110,7 +110,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 600,
       "resourceId": 265902,
       "assetId": 265902
     },
@@ -147,7 +147,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 650,
       "resourceId": 272061,
       "assetId": 272061
     },
@@ -186,7 +186,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 600,
       "resourceId": 272072,
       "assetId": 272072
     },
@@ -222,7 +222,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 650,
       "resourceId": 272077,
       "assetId": 272077
     },
@@ -262,7 +262,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 650,
       "resourceId": 272081,
       "assetId": 272081
     },
@@ -299,7 +299,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 1500,
       "resourceId": 272082,
       "assetId": 272082
     },
@@ -337,7 +337,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 700,
       "resourceId": 272244,
       "assetId": 272244
     },
@@ -371,7 +371,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 550,
       "resourceId": 273258,
       "assetId": 273258
     },
@@ -405,7 +405,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 650,
       "resourceId": 277685,
       "assetId": 277685
     },
@@ -439,8 +439,159 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 650,
       "resourceId": 278653,
+      "assetId": 278653
+    },
+    "50603729": {
+      "name": "Ana González",
+      "cardName": "Ana González",
+      "originalVersionId": "87",
+      "clubId": 116334,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "87",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        11,
+        18,
+        22,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        148,
+        149
+      ],
+      "attributes": [
+        77,
+        74,
+        80,
+        80,
+        82,
+        87
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 7200,
+      "price": 0,
+      "resourceId": 50603729,
+      "assetId": 272081
+    },
+    "50603892": {
+      "name": "Raiderlín Carrasco",
+      "cardName": "Carrasco",
+      "originalVersionId": "87",
+      "clubId": 116334,
+      "leagueId": 2222,
+      "countryId": 61,
+      "versionId": "87",
+      "rating": 84,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        10,
+        14,
+        24,
+        28
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        107,
+        108,
+        109,
+        110,
+        127,
+        128,
+        129,
+        130,
+        138,
+        139,
+        140,
+        147
+      ],
+      "attributes": [
+        89,
+        70,
+        76,
+        84,
+        80,
+        81
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 7200,
+      "price": 0,
+      "resourceId": 50603892,
+      "assetId": 272244
+    },
+    "50610301": {
+      "name": "Paula León",
+      "cardName": "Paula León",
+      "originalVersionId": "87",
+      "clubId": 116334,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "87",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        2,
+        20,
+        22,
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        84,
+        84,
+        65,
+        82,
+        45,
+        74
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 50400,
+      "price": 0,
+      "resourceId": 50610301,
       "assetId": 278653
     }
   }
