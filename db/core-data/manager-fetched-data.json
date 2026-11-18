@@ -1888,19 +1888,6 @@
       ]
     },
     {
-      "id": 116282,
-      "name": "AS Roma",
-      "abbrName": "ROM",
-      "league": 2236,
-      "isWomen": true,
-      "linkedClubIds": [
-        52
-      ],
-      "aliases": [
-        "Roma"
-      ]
-    },
-    {
       "id": 52,
       "name": "AS Roma",
       "abbrName": "ROM",
@@ -1908,6 +1895,19 @@
       "isWomen": false,
       "linkedClubIds": [
         116282
+      ],
+      "aliases": [
+        "Roma"
+      ]
+    },
+    {
+      "id": 116282,
+      "name": "AS Roma",
+      "abbrName": "ROM",
+      "league": 2236,
+      "isWomen": true,
+      "linkedClubIds": [
+        52
       ],
       "aliases": [
         "Roma"
@@ -2335,17 +2335,6 @@
       "aliases": []
     },
     {
-      "id": 1,
-      "name": "Arsenal",
-      "abbrName": "ARS",
-      "league": 13,
-      "isWomen": false,
-      "linkedClubIds": [
-        116009
-      ],
-      "aliases": []
-    },
-    {
       "id": 116009,
       "name": "Arsenal",
       "abbrName": "ARS",
@@ -2353,6 +2342,17 @@
       "isWomen": true,
       "linkedClubIds": [
         1
+      ],
+      "aliases": []
+    },
+    {
+      "id": 1,
+      "name": "Arsenal",
+      "abbrName": "ARS",
+      "league": 13,
+      "isWomen": false,
+      "linkedClubIds": [
+        116009
       ],
       "aliases": []
     },
@@ -2366,17 +2366,6 @@
       "aliases": []
     },
     {
-      "id": 116015,
-      "name": "Aston Villa",
-      "abbrName": "AVL",
-      "league": 2216,
-      "isWomen": true,
-      "linkedClubIds": [
-        2
-      ],
-      "aliases": []
-    },
-    {
       "id": 2,
       "name": "Aston Villa",
       "abbrName": "AVL",
@@ -2384,6 +2373,17 @@
       "isWomen": false,
       "linkedClubIds": [
         116015
+      ],
+      "aliases": []
+    },
+    {
+      "id": 116015,
+      "name": "Aston Villa",
+      "abbrName": "AVL",
+      "league": 2216,
+      "isWomen": true,
+      "linkedClubIds": [
+        2
       ],
       "aliases": []
     },
@@ -3438,17 +3438,6 @@
       ]
     },
     {
-      "id": 116010,
-      "name": "Chelsea",
-      "abbrName": "CHE",
-      "league": 2216,
-      "isWomen": true,
-      "linkedClubIds": [
-        5
-      ],
-      "aliases": []
-    },
-    {
       "id": 5,
       "name": "Chelsea",
       "abbrName": "CHE",
@@ -3456,6 +3445,17 @@
       "isWomen": false,
       "linkedClubIds": [
         116010
+      ],
+      "aliases": []
+    },
+    {
+      "id": 116010,
+      "name": "Chelsea",
+      "abbrName": "CHE",
+      "league": 2216,
+      "isWomen": true,
+      "linkedClubIds": [
+        5
       ],
       "aliases": []
     },
@@ -5100,19 +5100,19 @@
       "aliases": []
     },
     {
-      "id": 1335,
+      "id": 113003,
       "name": "France",
       "abbrName": "FRA",
-      "league": 78,
+      "league": 2136,
       "isWomen": false,
       "linkedClubIds": [],
       "aliases": []
     },
     {
-      "id": 113003,
+      "id": 1335,
       "name": "France",
       "abbrName": "FRA",
-      "league": 2136,
+      "league": 78,
       "isWomen": false,
       "linkedClubIds": [],
       "aliases": []
@@ -5408,19 +5408,6 @@
       ]
     },
     {
-      "id": 131391,
-      "name": "Granada CF",
-      "abbrName": "GRA",
-      "league": 2222,
-      "isWomen": true,
-      "linkedClubIds": [
-        110832
-      ],
-      "aliases": [
-        "Granada"
-      ]
-    },
-    {
       "id": 110832,
       "name": "Granada CF",
       "abbrName": "GRA",
@@ -5428,6 +5415,19 @@
       "isWomen": false,
       "linkedClubIds": [
         131391
+      ],
+      "aliases": [
+        "Granada"
+      ]
+    },
+    {
+      "id": 131391,
+      "name": "Granada CF",
+      "abbrName": "GRA",
+      "league": 2222,
+      "isWomen": true,
+      "linkedClubIds": [
+        110832
       ],
       "aliases": [
         "Granada"
@@ -6798,19 +6798,19 @@
       ]
     },
     {
-      "id": 1386,
+      "id": 113010,
       "name": "Mexico",
       "abbrName": "MEX",
-      "league": 78,
+      "league": 2136,
       "isWomen": false,
       "linkedClubIds": [],
       "aliases": []
     },
     {
-      "id": 113010,
+      "id": 1386,
       "name": "Mexico",
       "abbrName": "MEX",
-      "league": 2136,
+      "league": 78,
       "isWomen": false,
       "linkedClubIds": [],
       "aliases": []
@@ -7198,19 +7198,19 @@
       "aliases": []
     },
     {
-      "id": 113007,
+      "id": 1352,
       "name": "Norway",
       "abbrName": "NOR",
-      "league": 2136,
+      "league": 78,
       "isWomen": false,
       "linkedClubIds": [],
       "aliases": []
     },
     {
-      "id": 1352,
+      "id": 113007,
       "name": "Norway",
       "abbrName": "NOR",
-      "league": 78,
+      "league": 2136,
       "isWomen": false,
       "linkedClubIds": [],
       "aliases": []
@@ -7539,17 +7539,6 @@
       "aliases": []
     },
     {
-      "id": 111817,
-      "name": "Paris FC",
-      "abbrName": "PFC",
-      "league": 16,
-      "isWomen": false,
-      "linkedClubIds": [
-        116035
-      ],
-      "aliases": []
-    },
-    {
       "id": 116035,
       "name": "Paris FC",
       "abbrName": "PFC",
@@ -7557,6 +7546,17 @@
       "isWomen": true,
       "linkedClubIds": [
         111817
+      ],
+      "aliases": []
+    },
+    {
+      "id": 111817,
+      "name": "Paris FC",
+      "abbrName": "PFC",
+      "league": 16,
+      "isWomen": false,
+      "linkedClubIds": [
+        116035
       ],
       "aliases": []
     },
@@ -7763,19 +7763,19 @@
       ]
     },
     {
-      "id": 1354,
+      "id": 115682,
       "name": "Portugal",
       "abbrName": "POR",
-      "league": 78,
+      "league": 2136,
       "isWomen": false,
       "linkedClubIds": [],
       "aliases": []
     },
     {
-      "id": 115682,
+      "id": 1354,
       "name": "Portugal",
       "abbrName": "POR",
-      "league": 2136,
+      "league": 78,
       "isWomen": false,
       "linkedClubIds": [],
       "aliases": []
@@ -8006,20 +8006,6 @@
       ]
     },
     {
-      "id": 242,
-      "name": "RC Deportivo",
-      "abbrName": "DEP",
-      "league": 53,
-      "isWomen": false,
-      "linkedClubIds": [
-        131720
-      ],
-      "aliases": [
-        "Deportivo A Coruña",
-        "Deportivo La Coruña"
-      ]
-    },
-    {
       "id": 131720,
       "name": "RC Deportivo",
       "abbrName": "RCD",
@@ -8030,6 +8016,20 @@
       ],
       "aliases": [
         "Deportivo de A Coruña",
+        "Deportivo La Coruña"
+      ]
+    },
+    {
+      "id": 242,
+      "name": "RC Deportivo",
+      "abbrName": "DEP",
+      "league": 53,
+      "isWomen": false,
+      "linkedClubIds": [
+        131720
+      ],
+      "aliases": [
+        "Deportivo A Coruña",
         "Deportivo La Coruña"
       ]
     },
@@ -9197,19 +9197,19 @@
       ]
     },
     {
-      "id": 113012,
+      "id": 1362,
       "name": "Spain",
       "abbrName": "ESP",
-      "league": 2136,
+      "league": 78,
       "isWomen": false,
       "linkedClubIds": [],
       "aliases": []
     },
     {
-      "id": 1362,
+      "id": 113012,
       "name": "Spain",
       "abbrName": "ESP",
-      "league": 78,
+      "league": 2136,
       "isWomen": false,
       "linkedClubIds": [],
       "aliases": []
@@ -9937,106 +9937,7 @@
       ]
     },
     {
-      "id": 131562,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131579,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131606,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131603,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131591,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131561,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131605,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131611,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131554,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131552,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131574,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131608,
+      "id": 131536,
       "name": "Unknown",
       "abbrName": "Unknown",
       "linkedClubIds": [],
@@ -10054,7 +9955,7 @@
       "aliases": []
     },
     {
-      "id": 131563,
+      "id": 131594,
       "name": "Unknown",
       "abbrName": "Unknown",
       "linkedClubIds": [],
@@ -10063,133 +9964,7 @@
       "aliases": []
     },
     {
-      "id": 131559,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131565,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131585,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131540,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131588,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131570,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131555,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131578,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131524,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2240,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131536,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131541,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131567,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131601,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131560,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131550,
+      "id": 131595,
       "name": "Unknown",
       "abbrName": "Unknown",
       "linkedClubIds": [],
@@ -10207,60 +9982,6 @@
       "aliases": []
     },
     {
-      "id": 131586,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131609,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131533,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131573,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131600,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131577,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
       "id": 131538,
       "name": "Unknown",
       "abbrName": "Unknown",
@@ -10270,7 +9991,7 @@
       "aliases": []
     },
     {
-      "id": 131542,
+      "id": 131539,
       "name": "Unknown",
       "abbrName": "Unknown",
       "linkedClubIds": [],
@@ -10279,70 +10000,7 @@
       "aliases": []
     },
     {
-      "id": 131551,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131557,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131590,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131537,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131569,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131612,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131545,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131599,
+      "id": 131543,
       "name": "Unknown",
       "abbrName": "Unknown",
       "linkedClubIds": [],
@@ -10369,7 +10027,448 @@
       "aliases": []
     },
     {
+      "id": 131591,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
       "id": 131592,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131542,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131551,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131561,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131563,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131570,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131583,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131586,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131609,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131535,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131541,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131559,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131576,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131584,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131605,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131611,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131533,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131554,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131567,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131573,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131600,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131537,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131550,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131558,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131569,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131589,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131601,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131532,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131580,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131555,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131565,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131572,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131578,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131585,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131602,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131604,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131547,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131549,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131593,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131607,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131613,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131680,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 382,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131527,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2240,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131562,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131577,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131579,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131606,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131544,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131548,
       "name": "Unknown",
       "abbrName": "Unknown",
       "linkedClubIds": [],
@@ -10388,6 +10487,78 @@
     },
     {
       "id": 131587,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131540,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131553,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131557,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131564,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131575,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131597,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131598,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131612,
       "name": "Unknown",
       "abbrName": "Unknown",
       "linkedClubIds": [],
@@ -10423,177 +10594,6 @@
       "aliases": []
     },
     {
-      "id": 131532,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131572,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131549,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131613,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131544,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131548,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131575,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131558,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131580,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131607,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131553,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131564,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131597,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131598,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131583,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131576,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131589,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131602,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131604,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
       "id": 131596,
       "name": "Unknown",
       "abbrName": "Unknown",
@@ -10603,7 +10603,7 @@
       "aliases": []
     },
     {
-      "id": 131594,
+      "id": 131552,
       "name": "Unknown",
       "abbrName": "Unknown",
       "linkedClubIds": [],
@@ -10612,7 +10612,7 @@
       "aliases": []
     },
     {
-      "id": 131595,
+      "id": 131560,
       "name": "Unknown",
       "abbrName": "Unknown",
       "linkedClubIds": [],
@@ -10621,7 +10621,7 @@
       "aliases": []
     },
     {
-      "id": 131543,
+      "id": 131574,
       "name": "Unknown",
       "abbrName": "Unknown",
       "linkedClubIds": [],
@@ -10630,7 +10630,7 @@
       "aliases": []
     },
     {
-      "id": 131547,
+      "id": 131608,
       "name": "Unknown",
       "abbrName": "Unknown",
       "linkedClubIds": [],
@@ -10639,7 +10639,7 @@
       "aliases": []
     },
     {
-      "id": 131593,
+      "id": 131545,
       "name": "Unknown",
       "abbrName": "Unknown",
       "linkedClubIds": [],
@@ -10648,47 +10648,11 @@
       "aliases": []
     },
     {
-      "id": 131527,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2240,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131539,
+      "id": 131590,
       "name": "Unknown",
       "abbrName": "Unknown",
       "linkedClubIds": [],
       "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131535,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131584,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131680,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 382,
       "isWomen": false,
       "aliases": []
     },
@@ -10702,7 +10666,16 @@
       "aliases": []
     },
     {
-      "id": 131614,
+      "id": 131524,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2240,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131588,
       "name": "Unknown",
       "abbrName": "Unknown",
       "linkedClubIds": [],
@@ -10711,7 +10684,7 @@
       "aliases": []
     },
     {
-      "id": 131615,
+      "id": 131599,
       "name": "Unknown",
       "abbrName": "Unknown",
       "linkedClubIds": [],
@@ -10720,25 +10693,7 @@
       "aliases": []
     },
     {
-      "id": 131616,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131617,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131618,
+      "id": 131603,
       "name": "Unknown",
       "abbrName": "Unknown",
       "linkedClubIds": [],
@@ -10765,7 +10720,43 @@
       "aliases": []
     },
     {
-      "id": 131621,
+      "id": 131625,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131629,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131618,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131628,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131615,
       "name": "Unknown",
       "abbrName": "Unknown",
       "linkedClubIds": [],
@@ -10792,16 +10783,7 @@
       "aliases": []
     },
     {
-      "id": 131624,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131625,
+      "id": 131617,
       "name": "Unknown",
       "abbrName": "Unknown",
       "linkedClubIds": [],
@@ -10819,25 +10801,7 @@
       "aliases": []
     },
     {
-      "id": 131627,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131628,
-      "name": "Unknown",
-      "abbrName": "Unknown",
-      "linkedClubIds": [],
-      "league": 2241,
-      "isWomen": false,
-      "aliases": []
-    },
-    {
-      "id": 131629,
+      "id": 131624,
       "name": "Unknown",
       "abbrName": "Unknown",
       "linkedClubIds": [],
@@ -10855,6 +10819,24 @@
       "aliases": []
     },
     {
+      "id": 131616,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131621,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
       "id": 131631,
       "name": "Unknown",
       "abbrName": "Unknown",
@@ -10864,7 +10846,7 @@
       "aliases": []
     },
     {
-      "id": 132836,
+      "id": 132842,
       "name": "Unknown",
       "abbrName": "Unknown",
       "linkedClubIds": [],
@@ -10873,7 +10855,25 @@
       "aliases": []
     },
     {
-      "id": 132842,
+      "id": 131614,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 131627,
+      "name": "Unknown",
+      "abbrName": "Unknown",
+      "linkedClubIds": [],
+      "league": 2241,
+      "isWomen": false,
+      "aliases": []
+    },
+    {
+      "id": 132836,
       "name": "Unknown",
       "abbrName": "Unknown",
       "linkedClubIds": [],
