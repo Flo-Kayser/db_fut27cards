@@ -87,7 +87,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 12500,
+      "price": 12250,
       "resourceId": 50522413,
       "assetId": 190765
     },
@@ -142,7 +142,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 47000,
+      "price": 44250,
       "resourceId": 50583127,
       "assetId": 251479
     },
@@ -195,7 +195,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 11750,
+      "price": 11250,
       "resourceId": 50589048,
       "assetId": 257400
     },
@@ -257,7 +257,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 11250,
+      "price": 11500,
       "resourceId": 50600926,
       "assetId": 269278
     },
@@ -269,7 +269,7 @@
       "leagueId": 13,
       "countryId": 10,
       "versionId": "150",
-      "rating": 84,
+      "rating": 85,
       "preferredFoot": "Right",
       "weakFoot": 3,
       "skillMoves": 2,
@@ -291,12 +291,12 @@
         148
       ],
       "attributes": [
-        61,
+        62,
+        67,
         66,
-        65,
-        68,
-        86,
-        85
+        69,
+        87,
+        86
       ],
       "hasDynamicImage": true,
       "price": 0,
@@ -340,9 +340,51 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 12500,
+      "price": 11000,
       "resourceId": 67308779,
       "assetId": 199915
+    },
+    "67384056": {
+      "name": "Luka Vušković",
+      "cardName": "Vušković",
+      "originalVersionId": "3",
+      "clubId": 1808,
+      "leagueId": 13,
+      "countryId": 10,
+      "versionId": "3",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        14,
+        17,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        76,
+        64,
+        65,
+        70,
+        85,
+        84
+      ],
+      "hasDynamicImage": true,
+      "price": 10500,
+      "resourceId": 67384056,
+      "assetId": 275192
     },
     "84076845": {
       "name": "Pascal Groß",

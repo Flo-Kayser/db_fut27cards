@@ -45,7 +45,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 45500,
+    "price": 52000,
     "resourceId": 7743,
     "assetId": 7743
   },
@@ -84,7 +84,7 @@
       84
     ],
     "hasDynamicImage": false,
-    "price": 42000,
+    "price": 34250,
     "resourceId": 16254,
     "assetId": 16254
   },
@@ -129,7 +129,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 42000,
+    "price": 39000,
     "resourceId": 39386,
     "assetId": 39386
   },
@@ -176,7 +176,7 @@
       81
     ],
     "hasDynamicImage": false,
-    "price": 284000,
+    "price": 254000,
     "resourceId": 71608,
     "assetId": 71608
   },
@@ -223,7 +223,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 26000,
+    "price": 23000,
     "resourceId": 155897,
     "assetId": 155897
   },
@@ -268,7 +268,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 2050000,
+    "price": 1894000,
     "resourceId": 226301,
     "assetId": 226301
   },
@@ -318,7 +318,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 902000,
+    "price": 934000,
     "resourceId": 226330,
     "assetId": 226330
   },
@@ -365,7 +365,7 @@
       81
     ],
     "hasDynamicImage": false,
-    "price": 6900000,
+    "price": 6999000,
     "resourceId": 275243,
     "assetId": 275243
   },
@@ -424,7 +424,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 12250,
+    "price": 11750,
     "resourceId": 50405513,
     "assetId": 73865
   },
@@ -760,7 +760,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 71500,
+    "price": 62000,
     "resourceId": 50570392,
     "assetId": 238744
   },
@@ -808,7 +808,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 18250,
+    "price": 17500,
     "resourceId": 50573144,
     "assetId": 241496
   },
@@ -964,7 +964,7 @@
       66
     ],
     "hasDynamicImage": true,
-    "price": 12500,
+    "price": 12250,
     "resourceId": 50586923,
     "assetId": 255275
   },
@@ -1013,7 +1013,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 432000,
+    "price": 423000,
     "resourceId": 50595660,
     "assetId": 264012
   },
@@ -1126,7 +1126,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 106000,
+    "price": 103000,
     "resourceId": 50598576,
     "assetId": 266928
   },
@@ -1186,7 +1186,7 @@
       92
     ],
     "hasDynamicImage": true,
-    "price": 30000,
+    "price": 26500,
     "resourceId": 50599032,
     "assetId": 267384
   },
@@ -1288,9 +1288,56 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 45750,
+    "price": 46250,
     "resourceId": 50605114,
     "assetId": 273466
+  },
+  "50605115": {
+    "name": "Michelle Cooper",
+    "cardName": "Cooper",
+    "originalVersionId": "58",
+    "clubId": 116309,
+    "leagueId": 2221,
+    "countryId": 95,
+    "versionId": "58",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      22,
+      29,
+      6,
+      9
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      135,
+      136,
+      137
+    ],
+    "attributes": [
+      90,
+      83,
+      85,
+      87,
+      48,
+      80
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 38000,
+    "price": 0,
+    "resourceId": 50605115,
+    "assetId": 273467
   },
   "50606461": {
     "name": "Gisele Thompson",
@@ -1338,7 +1385,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 36750,
+    "price": 31750,
     "resourceId": 50606461,
     "assetId": 274813
   },
@@ -1446,7 +1493,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 21250,
+    "price": 18000,
     "resourceId": 50609599,
     "assetId": 277951
   },
@@ -1497,7 +1544,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 22750,
+    "price": 26000,
     "resourceId": 50609822,
     "assetId": 278174
   },
@@ -1553,6 +1600,66 @@
     "price": 0,
     "resourceId": 50611347,
     "assetId": 279699
+  },
+  "50611460": {
+    "name": "Croix Bethune",
+    "cardName": "Bethune",
+    "originalVersionId": "3",
+    "clubId": 116309,
+    "leagueId": 2221,
+    "countryId": 95,
+    "versionId": "3",
+    "rating": 85,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM",
+      "ST"
+    ],
+    "playStyles": [
+      1,
+      20,
+      3,
+      5,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134,
+      141,
+      142,
+      143,
+      144,
+      149
+    ],
+    "attributes": [
+      83,
+      80,
+      83,
+      87,
+      58,
+      70
+    ],
+    "hasDynamicImage": true,
+    "price": 11500,
+    "resourceId": 50611460,
+    "assetId": 279812
   },
   "67335194": {
     "name": "Tobin Heath",

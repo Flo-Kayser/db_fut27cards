@@ -42,7 +42,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 4800,
+    "price": 5900,
     "resourceId": 236772,
     "assetId": 236772,
     "originalVersionId": 0
@@ -108,10 +108,76 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 663000,
+    "price": 718000,
     "resourceId": 50568420,
     "assetId": 236772,
     "originalVersionId": 151
+  },
+  "84122852": {
+    "clubId": 9,
+    "leagueId": 13,
+    "countryId": 23,
+    "versionId": "3",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM",
+      "RB",
+      "RM"
+    ],
+    "playStyles": [
+      10,
+      2,
+      20,
+      26,
+      3
+    ],
+    "playStylesPlus": [
+      12
+    ],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      131,
+      132,
+      133,
+      134,
+      146,
+      149
+    ],
+    "attributes": [
+      84,
+      84,
+      88,
+      85,
+      78,
+      82
+    ],
+    "hasDynamicImage": true,
+    "price": 130000,
+    "resourceId": 84122852,
+    "assetId": 236772,
+    "originalVersionId": 3
   },
   "cardName": "Szoboszlai",
   "name": "Dominik Szoboszlai"

@@ -74,7 +74,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 850,
       "resourceId": 77524,
       "assetId": 77524
     },
@@ -181,7 +181,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 900,
       "resourceId": 82968,
       "assetId": 82968
     },
@@ -221,7 +221,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 900,
       "resourceId": 199189,
       "assetId": 199189
     },
@@ -257,56 +257,9 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 1000,
       "resourceId": 200110,
       "assetId": 200110
-    },
-    "210881": {
-      "name": "John McGinn",
-      "cardName": "McGinn",
-      "originalVersionId": "0",
-      "clubId": 2,
-      "leagueId": 13,
-      "countryId": 42,
-      "versionId": "2002",
-      "rating": 83,
-      "preferredFoot": "Left",
-      "weakFoot": 2,
-      "skillMoves": 3,
-      "preferredPosition": "RM",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "LM",
-        "LW",
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        24,
-        26,
-        29
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        23,
-        25,
-        29,
-        31,
-        37
-      ],
-      "attributes": [
-        69,
-        80,
-        81,
-        82,
-        78,
-        84
-      ],
-      "hasDynamicImage": false,
-      "price": 750,
-      "resourceId": 210881,
-      "assetId": 210881
     },
     "212419": {
       "name": "Tyrone Mings",
@@ -340,7 +293,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 950,
       "resourceId": 212419,
       "assetId": 212419
     },
@@ -378,7 +331,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 227174,
       "assetId": 227174
     },
@@ -457,7 +410,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 1000,
       "resourceId": 231352,
       "assetId": 231352
     },
@@ -496,7 +449,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 1100,
       "resourceId": 236987,
       "assetId": 236987
     },
@@ -533,7 +486,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 650,
       "resourceId": 241464,
       "assetId": 241464
     },
@@ -571,7 +524,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 248465,
       "assetId": 248465
     },
@@ -608,7 +561,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 1800,
       "resourceId": 255981,
       "assetId": 255981
     },
@@ -649,7 +602,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 257057,
       "assetId": 257057
     },
@@ -687,7 +640,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 950,
       "resourceId": 259584,
       "assetId": 259584
     },
@@ -725,7 +678,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 900,
       "resourceId": 264209,
       "assetId": 264209
     },
@@ -767,7 +720,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 268438,
       "assetId": 268438
     },
@@ -803,7 +756,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 900,
       "resourceId": 273463,
       "assetId": 273463
     },
@@ -846,9 +799,74 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 1800,
+      "price": 1400,
       "resourceId": 50406097,
       "assetId": 74449
+    },
+    "50542529": {
+      "name": "John McGinn",
+      "cardName": "McGinn",
+      "originalVersionId": "3",
+      "clubId": 2,
+      "leagueId": 13,
+      "countryId": 42,
+      "versionId": "3",
+      "rating": 84,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        24,
+        26,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        78,
+        81,
+        82,
+        84,
+        80,
+        85
+      ],
+      "hasDynamicImage": true,
+      "price": 25000,
+      "resourceId": 50542529,
+      "assetId": 210881
     },
     "50544067": {
       "name": "Tyrone Mings",
@@ -1020,7 +1038,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 1600,
       "resourceId": 50584441,
       "assetId": 252793
     },
@@ -1130,7 +1148,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 133450,
+      "sbcPrice": 149150,
       "price": 0,
       "resourceId": 84095738,
       "assetId": 209658
@@ -1174,7 +1192,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 17600,
+      "sbcPrice": 19700,
       "price": 0,
       "resourceId": 134476925,
       "assetId": 259197

@@ -41,7 +41,7 @@
       88
     ],
     "hasDynamicImage": false,
-    "price": 26500,
+    "price": 24750,
     "resourceId": 181783,
     "assetId": 181783
   },
@@ -83,7 +83,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 63000,
+    "price": 52000,
     "resourceId": 214649,
     "assetId": 214649
   },
@@ -140,7 +140,7 @@
       65
     ],
     "hasDynamicImage": true,
-    "price": 30500,
+    "price": 31750,
     "resourceId": 50508651,
     "assetId": 177003
   },
@@ -201,7 +201,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 19250,
+    "price": 21500,
     "resourceId": 50513106,
     "assetId": 181458
   },
@@ -256,7 +256,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 12250,
+    "price": 11500,
     "resourceId": 50548002,
     "assetId": 216354
   },
@@ -310,7 +310,7 @@
     "leagueId": 13,
     "countryId": 10,
     "versionId": "150",
-    "rating": 84,
+    "rating": 85,
     "preferredFoot": "Right",
     "weakFoot": 3,
     "skillMoves": 2,
@@ -332,16 +332,58 @@
       148
     ],
     "attributes": [
-      61,
+      62,
+      67,
       66,
-      65,
-      68,
-      86,
-      85
+      69,
+      87,
+      86
     ],
     "hasDynamicImage": true,
     "price": 0,
     "resourceId": 50606840,
+    "assetId": 275192
+  },
+  "67384056": {
+    "name": "Luka Vušković",
+    "cardName": "Vušković",
+    "originalVersionId": "3",
+    "clubId": 1808,
+    "leagueId": 13,
+    "countryId": 10,
+    "versionId": "3",
+    "rating": 83,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      10,
+      14,
+      17,
+      19
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      111,
+      112,
+      113,
+      148
+    ],
+    "attributes": [
+      76,
+      64,
+      65,
+      70,
+      85,
+      84
+    ],
+    "hasDynamicImage": true,
+    "price": 10500,
+    "resourceId": 67384056,
     "assetId": 275192
   },
   "84067863": {
@@ -390,7 +432,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 445000,
+    "price": 365000,
     "resourceId": 84067863,
     "assetId": 181783
   },

@@ -76,7 +76,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 700,
       "resourceId": 76570,
       "assetId": 76570
     },
@@ -148,7 +148,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 800,
       "resourceId": 207897,
       "assetId": 207897
     },
@@ -229,7 +229,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 1700,
+      "price": 1900,
       "resourceId": 209846,
       "assetId": 209846
     },
@@ -311,7 +311,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 1500,
       "resourceId": 226168,
       "assetId": 226168
     },
@@ -347,7 +347,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 229692,
       "assetId": 229692
     },
@@ -387,7 +387,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 231366,
       "assetId": 231366
     },
@@ -421,7 +421,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 700,
       "resourceId": 234833,
       "assetId": 234833
     },
@@ -504,7 +504,7 @@
         44
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 750,
       "resourceId": 239696,
       "assetId": 239696
     },
@@ -587,7 +587,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 250931,
       "assetId": 250931
     },
@@ -627,7 +627,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 255185,
       "assetId": 255185
     },
@@ -663,7 +663,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 800,
       "resourceId": 259750,
       "assetId": 259750
     },
@@ -707,7 +707,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 2000,
       "resourceId": 262666,
       "assetId": 262666
     },
@@ -743,7 +743,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 2200,
+      "price": 1900,
       "resourceId": 262668,
       "assetId": 262668
     },
@@ -782,7 +782,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 263022,
       "assetId": 263022
     },
@@ -823,50 +823,6 @@
       "resourceId": 268428,
       "assetId": 268428
     },
-    "269705": {
-      "name": "Derry Scherhant",
-      "cardName": "Scherhant",
-      "originalVersionId": "0",
-      "clubId": 25,
-      "leagueId": 19,
-      "countryId": 21,
-      "versionId": "2001",
-      "rating": 73,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "CAM",
-        "LM",
-        "LW",
-        "ST"
-      ],
-      "playStyles": [
-        21,
-        7
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        27,
-        30,
-        32,
-        39,
-        43
-      ],
-      "attributes": [
-        80,
-        67,
-        64,
-        76,
-        29,
-        66
-      ],
-      "hasDynamicImage": false,
-      "price": 650,
-      "resourceId": 269705,
-      "assetId": 269705
-    },
     "270923": {
       "name": "Rihito Yamamoto",
       "cardName": "Yamamoto",
@@ -899,7 +855,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 750,
       "resourceId": 270923,
       "assetId": 270923
     },
@@ -937,7 +893,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 800,
       "resourceId": 279045,
       "assetId": 279045
     },
@@ -978,7 +934,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 750,
       "resourceId": 279115,
       "assetId": 279115
     },
@@ -1022,7 +978,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 14500,
+      "price": 14750,
       "resourceId": 50539510,
       "assetId": 207862
     },
@@ -1058,9 +1014,64 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 800,
       "resourceId": 50594316,
       "assetId": 262668
+    },
+    "50601353": {
+      "name": "Derry Scherhant",
+      "cardName": "Scherhant",
+      "originalVersionId": "3",
+      "clubId": 25,
+      "leagueId": 19,
+      "countryId": 21,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        21,
+        22,
+        7
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        86,
+        78,
+        75,
+        83,
+        37,
+        74
+      ],
+      "hasDynamicImage": true,
+      "price": 11000,
+      "resourceId": 50601353,
+      "assetId": 269705
     },
     "67371770": {
       "name": "Yannik Engelhardt",
@@ -1106,7 +1117,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 15000,
+      "price": 14000,
       "resourceId": 67371770,
       "assetId": 262906
     }

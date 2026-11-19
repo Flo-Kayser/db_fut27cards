@@ -33,7 +33,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 800,
       "resourceId": 72705,
       "assetId": 72705
     },
@@ -149,7 +149,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 800,
       "resourceId": 74786,
       "assetId": 74786
     },
@@ -227,7 +227,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 75062,
       "assetId": 75062
     },
@@ -296,7 +296,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 800,
       "resourceId": 83229,
       "assetId": 83229
     },
@@ -330,50 +330,9 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 650,
       "resourceId": 83588,
       "assetId": 83588
-    },
-    "271942": {
-      "name": "Ane Azkona",
-      "cardName": "Ane Azkona",
-      "originalVersionId": "0",
-      "clubId": 116328,
-      "leagueId": 2222,
-      "countryId": 45,
-      "versionId": "2002",
-      "rating": 77,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "RM",
-        "RW",
-        "ST"
-      ],
-      "playStyles": [
-        1,
-        20
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        23,
-        36,
-        41
-      ],
-      "attributes": [
-        80,
-        77,
-        70,
-        78,
-        49,
-        72
-      ],
-      "hasDynamicImage": false,
-      "price": 750,
-      "resourceId": 271942,
-      "assetId": 271942
     },
     "272008": {
       "name": "Leire Baños",
@@ -415,7 +374,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 272008,
       "assetId": 272008
     },
@@ -453,7 +412,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 272119,
       "assetId": 272119
     },
@@ -489,7 +448,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 800,
       "resourceId": 272124,
       "assetId": 272124
     },
@@ -576,7 +535,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 750,
       "resourceId": 272126,
       "assetId": 272126
     },
@@ -613,7 +572,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 850,
       "resourceId": 272129,
       "assetId": 272129
     },
@@ -657,7 +616,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 850,
       "resourceId": 272135,
       "assetId": 272135
     },
@@ -698,7 +657,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 750,
       "resourceId": 272138,
       "assetId": 272138
     },
@@ -808,7 +767,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 272269,
       "assetId": 272269
     },
@@ -846,7 +805,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 275586,
       "assetId": 275586
     },
@@ -887,7 +846,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 800,
       "resourceId": 276445,
       "assetId": 276445
     },
@@ -929,9 +888,59 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 800,
       "resourceId": 278651,
       "assetId": 278651
+    },
+    "50603590": {
+      "name": "Ane Azkona",
+      "cardName": "Ane Azkona",
+      "originalVersionId": "3",
+      "clubId": 116328,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        20,
+        7,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        135,
+        136,
+        137,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        84,
+        80,
+        75,
+        82,
+        52,
+        76
+      ],
+      "hasDynamicImage": true,
+      "price": 10500,
+      "resourceId": 50603590,
+      "assetId": 271942
     },
     "50603785": {
       "name": "Sara Ortega",
@@ -999,7 +1008,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 11500,
+      "price": 12000,
       "resourceId": 50603785,
       "assetId": 272137
     }

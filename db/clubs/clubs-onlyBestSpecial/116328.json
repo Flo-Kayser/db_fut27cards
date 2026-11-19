@@ -1,6 +1,56 @@
 {
   "clubName": "Athletic Club",
   "players": {
+    "50603590": {
+      "name": "Ane Azkona",
+      "cardName": "Ane Azkona",
+      "originalVersionId": "3",
+      "clubId": 116328,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        20,
+        7,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        135,
+        136,
+        137,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        84,
+        80,
+        75,
+        82,
+        52,
+        76
+      ],
+      "hasDynamicImage": true,
+      "price": 10500,
+      "resourceId": 50603590,
+      "assetId": 271942
+    },
     "50603785": {
       "name": "Sara Ortega",
       "cardName": "Sara Ortega",
@@ -67,7 +117,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 11500,
+      "price": 12000,
       "resourceId": 50603785,
       "assetId": 272137
     }

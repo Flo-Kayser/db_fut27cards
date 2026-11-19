@@ -38,7 +38,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 49000,
+    "price": 48500,
     "resourceId": 227261,
     "assetId": 227261
   },
@@ -84,7 +84,7 @@
       89
     ],
     "hasDynamicImage": false,
-    "price": 66000,
+    "price": 45000,
     "resourceId": 227262,
     "assetId": 227262
   },
@@ -128,7 +128,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 43250,
+    "price": 31750,
     "resourceId": 227271,
     "assetId": 227271
   },
@@ -256,7 +256,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 1766000,
+    "price": 1900000,
     "resourceId": 50558851,
     "assetId": 227203
   },
@@ -305,7 +305,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 495000,
+    "price": 470000,
     "resourceId": 50559009,
     "assetId": 227361
   },
@@ -359,7 +359,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 64000,
+    "price": 61500,
     "resourceId": 50568845,
     "assetId": 237197
   },
@@ -406,7 +406,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 18750,
+    "price": 18250,
     "resourceId": 50571678,
     "assetId": 240030
   },
@@ -457,7 +457,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 440000,
+    "price": 471000,
     "resourceId": 50575052,
     "assetId": 243404
   },
@@ -505,7 +505,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 11500,
+    "price": 11250,
     "resourceId": 50575712,
     "assetId": 244064
   },
@@ -610,7 +610,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 200000,
+    "price": 199000,
     "resourceId": 50577478,
     "assetId": 245830
   },
@@ -653,7 +653,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 55500,
+    "price": 59500,
     "resourceId": 50577867,
     "assetId": 246219
   },
@@ -700,7 +700,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 53500,
+    "price": 58500,
     "resourceId": 50588656,
     "assetId": 257008
   },
@@ -751,9 +751,67 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 142000,
+    "price": 117000,
     "resourceId": 50590628,
     "assetId": 258980
+  },
+  "50593381": {
+    "name": "Sandy Baltimore",
+    "cardName": "Baltimore",
+    "originalVersionId": "3",
+    "clubId": 116010,
+    "leagueId": 2216,
+    "countryId": 18,
+    "versionId": "3",
+    "rating": 86,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "LB",
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      0,
+      12,
+      20,
+      25,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      107,
+      108,
+      109,
+      110,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      138,
+      139,
+      140,
+      147
+    ],
+    "attributes": [
+      90,
+      78,
+      85,
+      87,
+      73,
+      74
+    ],
+    "hasDynamicImage": true,
+    "price": 26750,
+    "resourceId": 50593381,
+    "assetId": 261733
   },
   "50596584": {
     "name": "Géraldine Reuteler",
@@ -816,7 +874,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 63500,
+    "price": 56500,
     "resourceId": 50596584,
     "assetId": 264936
   },
@@ -983,9 +1041,53 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 404000,
+    "price": 420000,
     "resourceId": 50596897,
     "assetId": 265249
+  },
+  "50596941": {
+    "name": "Maya Le Tissier",
+    "cardName": "Le Tissier",
+    "originalVersionId": "3",
+    "clubId": 116012,
+    "leagueId": 2216,
+    "countryId": 14,
+    "versionId": "3",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      10,
+      14,
+      18,
+      19
+    ],
+    "playStylesPlus": [
+      15
+    ],
+    "rolesPlus": [
+      111,
+      112,
+      113,
+      148
+    ],
+    "attributes": [
+      85,
+      61,
+      76,
+      75,
+      87,
+      83
+    ],
+    "hasDynamicImage": true,
+    "price": 92000,
+    "resourceId": 50596941,
+    "assetId": 265293
   },
   "50596965": {
     "name": "Laura Blindkilde Brown",
@@ -1032,7 +1134,7 @@
       65
     ],
     "hasDynamicImage": true,
-    "price": 21750,
+    "price": 20000,
     "resourceId": 50596965,
     "assetId": 265317
   },
@@ -1082,7 +1184,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 11250,
+    "price": 11500,
     "resourceId": 50604747,
     "assetId": 273099
   },
@@ -1138,7 +1240,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 11250,
+    "price": 11000,
     "resourceId": 50604825,
     "assetId": 273177
   },
@@ -1195,7 +1297,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 45750,
+    "price": 46250,
     "resourceId": 50605114,
     "assetId": 273466
   },
@@ -1365,7 +1467,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 18000,
+    "price": 20250,
     "resourceId": 67336110,
     "assetId": 227246
   },
