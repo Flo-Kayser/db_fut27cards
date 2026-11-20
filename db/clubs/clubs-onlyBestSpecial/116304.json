@@ -56,7 +56,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 100000,
+      "price": 85500,
       "resourceId": 50598576,
       "assetId": 266928
     },
@@ -105,7 +105,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 34000,
+      "sbcPrice": 30000,
       "price": 0,
       "resourceId": 50598618,
       "assetId": 266970
@@ -164,7 +164,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 12750,
+      "price": 13500,
       "resourceId": 50598644,
       "assetId": 266996
     },
@@ -226,6 +226,64 @@
       "price": 0,
       "resourceId": 84153008,
       "assetId": 266928
+    },
+    "84153076": {
+      "name": "Sofia Cantore",
+      "cardName": "Cantore",
+      "originalVersionId": "19",
+      "clubId": 116304,
+      "leagueId": 2221,
+      "countryId": 27,
+      "versionId": "19",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        1,
+        11,
+        2,
+        20,
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        85,
+        83,
+        78,
+        83,
+        44,
+        70
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 84153076,
+      "assetId": 266996
     }
   }
 }

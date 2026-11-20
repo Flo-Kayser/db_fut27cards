@@ -201,7 +201,7 @@
       62
     ],
     "hasDynamicImage": true,
-    "price": 105000,
+    "price": 85000,
     "resourceId": 50558541,
     "assetId": 226893
   },
@@ -259,7 +259,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "price": 12750,
+    "price": 13500,
     "resourceId": 50559029,
     "assetId": 227381
   },
@@ -366,7 +366,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 409000,
+    "price": 421000,
     "resourceId": 50595660,
     "assetId": 264012
   },
@@ -407,7 +407,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 13750,
     "resourceId": 50596668,
     "assetId": 265020
   },
@@ -459,7 +459,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 13750,
     "resourceId": 50596879,
     "assetId": 265231
   },
@@ -518,7 +518,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 26500,
+    "price": 12000,
     "resourceId": 50598032,
     "assetId": 266384
   },
@@ -577,7 +577,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 100000,
+    "price": 85500,
     "resourceId": 50598576,
     "assetId": 266928
   },
@@ -626,7 +626,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 34000,
+    "sbcPrice": 30000,
     "price": 0,
     "resourceId": 50598618,
     "assetId": 266970
@@ -685,7 +685,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 12750,
+    "price": 13500,
     "resourceId": 50598644,
     "assetId": 266996
   },
@@ -745,7 +745,7 @@
       92
     ],
     "hasDynamicImage": true,
-    "price": 33000,
+    "price": 13000,
     "resourceId": 50599032,
     "assetId": 267384
   },
@@ -791,7 +791,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 34000,
+    "sbcPrice": 30000,
     "price": 0,
     "resourceId": 50605115,
     "assetId": 273467
@@ -842,7 +842,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 38500,
+    "price": 14500,
     "resourceId": 50606461,
     "assetId": 274813
   },
@@ -998,7 +998,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 101000,
+    "price": 96500,
     "resourceId": 50611447,
     "assetId": 279799
   },
@@ -1058,7 +1058,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 13500,
     "resourceId": 50611460,
     "assetId": 279812
   },
@@ -1420,6 +1420,64 @@
     "resourceId": 84153008,
     "assetId": 266928
   },
+  "84153076": {
+    "name": "Sofia Cantore",
+    "cardName": "Cantore",
+    "originalVersionId": "19",
+    "clubId": 116304,
+    "leagueId": 2221,
+    "countryId": 27,
+    "versionId": "19",
+    "rating": 83,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "CAM",
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      1,
+      11,
+      2,
+      20,
+      25
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      85,
+      83,
+      78,
+      83,
+      44,
+      70
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84153076,
+    "assetId": 266996
+  },
   "84165879": {
     "name": "Temwa Chawinga",
     "cardName": "Chawinga",
@@ -1468,6 +1526,66 @@
     "price": 0,
     "resourceId": 84165879,
     "assetId": 279799
+  },
+  "84165892": {
+    "name": "Croix Bethune",
+    "cardName": "Bethune",
+    "originalVersionId": "19",
+    "clubId": 116309,
+    "leagueId": 2221,
+    "countryId": 95,
+    "versionId": "19",
+    "rating": 85,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM",
+      "ST"
+    ],
+    "playStyles": [
+      1,
+      20,
+      3,
+      5,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134,
+      141,
+      142,
+      143,
+      144,
+      149
+    ],
+    "attributes": [
+      83,
+      80,
+      83,
+      87,
+      58,
+      70
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84165892,
+    "assetId": 279812
   },
   "100934336": {
     "name": "Jaedyn Shaw",

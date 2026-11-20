@@ -1,6 +1,68 @@
 {
   "clubName": "SC Braga",
   "players": {
+    "50602780": {
+      "name": "Gabriel Silva",
+      "cardName": "Gabriel Silva",
+      "originalVersionId": "33",
+      "clubId": 1896,
+      "leagueId": 308,
+      "countryId": 54,
+      "versionId": "33",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        20,
+        23,
+        3,
+        7
+      ],
+      "playStylesPlus": [
+        25
+      ],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        96,
+        83,
+        81,
+        85,
+        34,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 16500,
+      "resourceId": 50602780,
+      "assetId": 271132
+    },
     "50611417": {
       "name": "Diogo Travassos",
       "cardName": "Diogo Travassos",
@@ -60,7 +122,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 14250,
+      "price": 14500,
       "resourceId": 50611417,
       "assetId": 279769
     }

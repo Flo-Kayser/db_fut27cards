@@ -1,55 +1,4 @@
 {
-  "226764": {
-    "name": "George Best",
-    "cardName": "Best",
-    "originalVersionId": "12",
-    "clubId": 112658,
-    "leagueId": 2118,
-    "countryId": 35,
-    "versionId": "12",
-    "rating": 90,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "RW",
-    "possiblePositions": [
-      "CAM",
-      "LM",
-      "LW",
-      "RM",
-      "RW"
-    ],
-    "playStyles": [
-      0,
-      13,
-      22,
-      25,
-      6,
-      7
-    ],
-    "playStylesPlus": [
-      20
-    ],
-    "rolesPlus": [
-      25,
-      31,
-      36,
-      137,
-      140
-    ],
-    "attributes": [
-      91,
-      89,
-      82,
-      92,
-      56,
-      69
-    ],
-    "hasDynamicImage": false,
-    "price": 1486000,
-    "resourceId": 226764,
-    "assetId": 226764
-  },
   "50574189": {
     "name": "Ciaron Brown",
     "cardName": "Brown",
@@ -93,7 +42,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 12750,
+    "price": 13500,
     "resourceId": 50574189,
     "assetId": 242541
   },
@@ -133,7 +82,7 @@
       79
     ],
     "hasDynamicImage": true,
-    "price": 13250,
+    "price": 14000,
     "resourceId": 50605487,
     "assetId": 273839
   },
@@ -229,9 +178,73 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 13500,
+    "price": 14000,
     "resourceId": 50608343,
     "assetId": 276695
+  },
+  "84112844": {
+    "name": "George Best",
+    "cardName": "Best",
+    "originalVersionId": "157",
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 35,
+    "versionId": "157",
+    "rating": 92,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "LW",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      13,
+      20,
+      22,
+      25,
+      6,
+      7
+    ],
+    "playStylesPlus": [
+      0
+    ],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140
+    ],
+    "attributes": [
+      93,
+      90,
+      85,
+      93,
+      60,
+      73
+    ],
+    "hasDynamicImage": true,
+    "price": 2981000,
+    "resourceId": 84112844,
+    "assetId": 226764
   },
   "84128621": {
     "name": "Ciaron Brown",

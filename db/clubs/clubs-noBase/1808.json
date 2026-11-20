@@ -91,6 +91,53 @@
       "resourceId": 50522413,
       "assetId": 190765
     },
+    "50577285": {
+      "name": "Georginio Rutter",
+      "cardName": "Rutter",
+      "originalVersionId": "33",
+      "clubId": 1808,
+      "leagueId": 13,
+      "countryId": 18,
+      "versionId": "33",
+      "rating": 85,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        23,
+        29,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        131,
+        132,
+        133,
+        134,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        83,
+        83,
+        84,
+        87,
+        70,
+        80
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50577285,
+      "assetId": 245637
+    },
     "50583127": {
       "name": "Maxim De Cuyper",
       "cardName": "De Cuyper",
@@ -142,7 +189,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 44750,
+      "price": 34500,
       "resourceId": 50583127,
       "assetId": 251479
     },
@@ -195,7 +242,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 13000,
+      "price": 13750,
       "resourceId": 50589048,
       "assetId": 257400
     },
@@ -257,7 +304,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 12750,
+      "price": 13750,
       "resourceId": 50600926,
       "assetId": 269278
     },
@@ -340,7 +387,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 12750,
+      "price": 13250,
       "resourceId": 67308779,
       "assetId": 199915
     },
@@ -382,7 +429,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 13000,
+      "price": 13500,
       "resourceId": 67384056,
       "assetId": 275192
     },
@@ -552,6 +599,48 @@
       "price": 0,
       "resourceId": 84155358,
       "assetId": 269278
+    },
+    "100938488": {
+      "name": "Luka Vušković",
+      "cardName": "Vušković",
+      "originalVersionId": "19",
+      "clubId": 1808,
+      "leagueId": 13,
+      "countryId": 10,
+      "versionId": "19",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        14,
+        17,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        76,
+        64,
+        65,
+        70,
+        85,
+        84
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 100938488,
+      "assetId": 275192
     }
   }
 }

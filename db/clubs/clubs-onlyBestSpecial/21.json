@@ -1,6 +1,49 @@
 {
   "clubName": "FC Bayern München",
   "players": {
+    "50499143": {
+      "name": "Manuel Neuer",
+      "cardName": "Neuer",
+      "originalVersionId": "33",
+      "clubId": 21,
+      "leagueId": 19,
+      "countryId": 21,
+      "versionId": "33",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        10,
+        30,
+        31,
+        9
+      ],
+      "playStylesPlus": [
+        34
+      ],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        86,
+        85,
+        90,
+        84,
+        42,
+        87
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50499143,
+      "assetId": 167495
+    },
     "50557023": {
       "name": "Konrad Laimer",
       "cardName": "Laimer",
@@ -57,7 +100,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 334000,
+      "price": 378000,
       "resourceId": 50557023,
       "assetId": 225375
     },
@@ -101,7 +144,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 861000,
+      "price": 491000,
       "resourceId": 50561206,
       "assetId": 229558
     },
@@ -156,7 +199,7 @@
         71
       ],
       "hasDynamicImage": true,
-      "price": 640000,
+      "price": 649000,
       "resourceId": 50579475,
       "assetId": 247827
     },
@@ -217,7 +260,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 48000,
+      "price": 15250,
       "resourceId": 50595413,
       "assetId": 263765
     },
@@ -265,9 +308,55 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 204000,
+      "price": 120000,
       "resourceId": 50601349,
       "assetId": 269701
+    },
+    "67310990": {
+      "name": "Harry Kane",
+      "cardName": "Kane",
+      "originalVersionId": "33",
+      "clubId": 21,
+      "leagueId": 19,
+      "countryId": 14,
+      "versionId": "33",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        22,
+        24,
+        7,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        6
+      ],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        83,
+        95,
+        86,
+        87,
+        52,
+        86
+      ],
+      "hasDynamicImage": true,
+      "price": 1120000,
+      "resourceId": 67310990,
+      "assetId": 202126
     },
     "84133907": {
       "name": "Michael Olise",
@@ -376,7 +465,7 @@
         71
       ],
       "hasDynamicImage": true,
-      "price": 881000,
+      "price": 616000,
       "resourceId": 100911123,
       "assetId": 247827
     },
@@ -431,7 +520,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 688000,
+      "price": 724000,
       "resourceId": 134458812,
       "assetId": 241084
     }

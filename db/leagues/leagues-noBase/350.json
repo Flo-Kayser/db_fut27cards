@@ -35,7 +35,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 30750,
+    "price": 21000,
     "resourceId": 168886,
     "assetId": 168886
   },
@@ -81,7 +81,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 271000,
+    "price": 250000,
     "resourceId": 266694,
     "assetId": 266694
   },
@@ -131,7 +131,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 13500,
+    "price": 14000,
     "resourceId": 50540066,
     "assetId": 208418
   },
@@ -172,7 +172,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 13250,
+    "price": 14500,
     "resourceId": 50542545,
     "assetId": 210897
   },
@@ -267,7 +267,7 @@
       87
     ],
     "hasDynamicImage": false,
-    "price": 13000,
+    "price": 13250,
     "resourceId": 50555158,
     "assetId": 223510
   },
@@ -328,7 +328,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 14000,
+    "price": 13250,
     "resourceId": 50555496,
     "assetId": 223848
   },
@@ -444,7 +444,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 13750,
+    "price": 14750,
     "resourceId": 50573586,
     "assetId": 241938
   },
@@ -501,9 +501,60 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 108000,
+    "price": 85000,
     "resourceId": 50574092,
     "assetId": 242444
+  },
+  "50578905": {
+    "name": "Ibañez",
+    "cardName": "Ibañez",
+    "originalVersionId": "33",
+    "clubId": 112387,
+    "leagueId": 350,
+    "countryId": 54,
+    "versionId": "33",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB",
+      "RB"
+    ],
+    "playStyles": [
+      10,
+      14,
+      15,
+      19,
+      4
+    ],
+    "playStylesPlus": [
+      16
+    ],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      111,
+      112,
+      113,
+      146,
+      148
+    ],
+    "attributes": [
+      88,
+      54,
+      70,
+      74,
+      86,
+      87
+    ],
+    "hasDynamicImage": true,
+    "price": 95000,
+    "resourceId": 50578905,
+    "assetId": 247257
   },
   "50583602": {
     "name": "Crysencio Summerville",
@@ -605,7 +656,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 3750000,
+    "price": 3050000,
     "resourceId": 67129665,
     "assetId": 20801
   },
@@ -646,7 +697,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 13500,
+    "price": 14500,
     "resourceId": 67330561,
     "assetId": 221697
   },
@@ -701,7 +752,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 13500,
     "resourceId": 67349502,
     "assetId": 240638
   },
@@ -1010,5 +1061,60 @@
     "price": 0,
     "resourceId": 100884993,
     "assetId": 221697
+  },
+  "100903934": {
+    "name": "Tijjani Reijnders",
+    "cardName": "Reijnders",
+    "originalVersionId": "19",
+    "clubId": 112391,
+    "leagueId": 350,
+    "countryId": 34,
+    "versionId": "19",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      0,
+      11,
+      2,
+      20,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134,
+      149
+    ],
+    "attributes": [
+      80,
+      79,
+      83,
+      85,
+      75,
+      80
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 100903934,
+    "assetId": 240638
   }
 }

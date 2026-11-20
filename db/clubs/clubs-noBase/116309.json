@@ -48,7 +48,7 @@
         62
       ],
       "hasDynamicImage": true,
-      "price": 105000,
+      "price": 85000,
       "resourceId": 50558541,
       "assetId": 226893
     },
@@ -94,7 +94,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 34000,
+      "sbcPrice": 30000,
       "price": 0,
       "resourceId": 50605115,
       "assetId": 273467
@@ -144,7 +144,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 101000,
+      "price": 96500,
       "resourceId": 50611447,
       "assetId": 279799
     },
@@ -204,7 +204,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 13000,
+      "price": 13500,
       "resourceId": 50611460,
       "assetId": 279812
     },
@@ -307,6 +307,66 @@
       "price": 0,
       "resourceId": 84165879,
       "assetId": 279799
+    },
+    "84165892": {
+      "name": "Croix Bethune",
+      "cardName": "Bethune",
+      "originalVersionId": "19",
+      "clubId": 116309,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "19",
+      "rating": 85,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [
+        1,
+        20,
+        3,
+        5,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        141,
+        142,
+        143,
+        144,
+        149
+      ],
+      "attributes": [
+        83,
+        80,
+        83,
+        87,
+        58,
+        70
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 84165892,
+      "assetId": 279812
     }
   }
 }

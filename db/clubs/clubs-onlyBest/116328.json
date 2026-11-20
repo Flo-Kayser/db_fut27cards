@@ -72,7 +72,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 300,
       "resourceId": 73231,
       "assetId": 73231
     },
@@ -110,7 +110,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 450,
       "resourceId": 73648,
       "assetId": 73648
     },
@@ -149,7 +149,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 450,
       "resourceId": 74786,
       "assetId": 74786
     },
@@ -189,7 +189,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 75061,
       "assetId": 75061
     },
@@ -227,7 +227,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 550,
       "resourceId": 75062,
       "assetId": 75062
     },
@@ -330,7 +330,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 300,
       "resourceId": 83588,
       "assetId": 83588
     },
@@ -448,7 +448,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 1000,
       "resourceId": 272124,
       "assetId": 272124
     },
@@ -535,7 +535,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 550,
       "resourceId": 272126,
       "assetId": 272126
     },
@@ -572,7 +572,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 900,
       "resourceId": 272129,
       "assetId": 272129
     },
@@ -616,7 +616,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 272135,
       "assetId": 272135
     },
@@ -657,7 +657,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 500,
       "resourceId": 272138,
       "assetId": 272138
     },
@@ -729,7 +729,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 272212,
       "assetId": 272212
     },
@@ -767,7 +767,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 500,
       "resourceId": 272269,
       "assetId": 272269
     },
@@ -805,7 +805,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 550,
       "resourceId": 275586,
       "assetId": 275586
     },
@@ -846,7 +846,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 600,
       "resourceId": 276445,
       "assetId": 276445
     },
@@ -888,7 +888,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 600,
       "resourceId": 278651,
       "assetId": 278651
     },
@@ -938,7 +938,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 12750,
+      "price": 13500,
       "resourceId": 50603590,
       "assetId": 271942
     },
@@ -1008,9 +1008,59 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 12750,
+      "price": 13250,
       "resourceId": 50603785,
       "assetId": 272137
+    },
+    "84158022": {
+      "name": "Ane Azkona",
+      "cardName": "Ane Azkona",
+      "originalVersionId": "19",
+      "clubId": 116328,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "19",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        20,
+        7,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        135,
+        136,
+        137,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        84,
+        80,
+        75,
+        82,
+        52,
+        76
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 84158022,
+      "assetId": 271942
     }
   }
 }

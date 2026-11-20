@@ -1,6 +1,64 @@
 {
   "clubName": "OL Lyonnes",
   "players": {
+    "50577527": {
+      "name": "Caroline Weir",
+      "cardName": "Weir",
+      "originalVersionId": "33",
+      "clubId": 116033,
+      "leagueId": 2218,
+      "countryId": 42,
+      "versionId": "33",
+      "rating": 87,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        0,
+        13,
+        20,
+        22,
+        23,
+        8
+      ],
+      "playStylesPlus": [
+        11
+      ],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        149
+      ],
+      "attributes": [
+        83,
+        85,
+        87,
+        88,
+        71,
+        74
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50577527,
+      "assetId": 245879
+    },
     "50601052": {
       "name": "Salma Paralluelo",
       "cardName": "Salma Paralluelo",
@@ -64,7 +122,7 @@
         79
       ],
       "hasDynamicImage": true,
-      "price": 1695000,
+      "price": 1209000,
       "resourceId": 50601052,
       "assetId": 269404
     },
@@ -172,7 +230,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 18750,
+      "price": 12000,
       "resourceId": 50609599,
       "assetId": 277951
     },
@@ -197,6 +255,7 @@
       ],
       "playStyles": [
         0,
+        20,
         21,
         25,
         6
@@ -222,15 +281,15 @@
         144
       ],
       "attributes": [
-        95,
-        84,
+        96,
+        85,
         80,
         88,
         37,
         84
       ],
       "hasDynamicImage": true,
-      "price": 845000,
+      "price": 904000,
       "resourceId": 50609867,
       "assetId": 278219
     },
@@ -284,7 +343,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 13000,
+      "price": 13500,
       "resourceId": 67370604,
       "assetId": 261740
     },
@@ -344,7 +403,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 2509000,
+      "price": 2900000,
       "resourceId": 67374762,
       "assetId": 265898
     },

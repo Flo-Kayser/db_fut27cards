@@ -1,4 +1,56 @@
 {
   "clubName": "Al Ahli",
-  "players": {}
+  "players": {
+    "50578905": {
+      "name": "Ibañez",
+      "cardName": "Ibañez",
+      "originalVersionId": "33",
+      "clubId": 112387,
+      "leagueId": 350,
+      "countryId": 54,
+      "versionId": "33",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "RB"
+      ],
+      "playStyles": [
+        10,
+        14,
+        15,
+        19,
+        4
+      ],
+      "playStylesPlus": [
+        16
+      ],
+      "rolesPlus": [
+        103,
+        104,
+        105,
+        106,
+        111,
+        112,
+        113,
+        146,
+        148
+      ],
+      "attributes": [
+        88,
+        54,
+        70,
+        74,
+        86,
+        87
+      ],
+      "hasDynamicImage": true,
+      "price": 95000,
+      "resourceId": 50578905,
+      "assetId": 247257
+    }
+  }
 }

@@ -114,7 +114,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 200,
       "resourceId": 85652,
       "assetId": 85652
     },
@@ -148,7 +148,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 650,
       "resourceId": 86857,
       "assetId": 86857
     },
@@ -187,7 +187,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 650,
       "resourceId": 200458,
       "assetId": 200458
     },
@@ -229,7 +229,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 220814,
       "assetId": 220814
     },
@@ -274,7 +274,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 49750,
+      "price": 40750,
       "resourceId": 235212,
       "assetId": 235212
     },
@@ -323,7 +323,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 24250,
+      "price": 20750,
       "resourceId": 247635,
       "assetId": 247635
     },
@@ -359,7 +359,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 700,
       "resourceId": 251752,
       "assetId": 251752
     },
@@ -404,7 +404,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 140000,
+      "price": 148000,
       "resourceId": 252145,
       "assetId": 252145
     },
@@ -450,7 +450,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 30250,
+      "price": 29500,
       "resourceId": 255253,
       "assetId": 255253
     },
@@ -491,7 +491,7 @@
         86
       ],
       "hasDynamicImage": false,
-      "price": 65500,
+      "price": 47250,
       "resourceId": 256196,
       "assetId": 256196
     },
@@ -533,54 +533,6 @@
       "price": 650,
       "resourceId": 258781,
       "assetId": 258781
-    },
-    "270673": {
-      "name": "Warren Zaïre-Emery",
-      "cardName": "Zaïre-Emery",
-      "originalVersionId": "0",
-      "clubId": 73,
-      "leagueId": 16,
-      "countryId": 18,
-      "versionId": "2002",
-      "rating": 83,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CDM",
-        "CM",
-        "RB",
-        "RM"
-      ],
-      "playStyles": [
-        11,
-        14,
-        22,
-        24,
-        25,
-        26
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        6,
-        18,
-        21,
-        23,
-        49
-      ],
-      "attributes": [
-        79,
-        71,
-        78,
-        81,
-        79,
-        85
-      ],
-      "hasDynamicImage": false,
-      "price": 750,
-      "resourceId": 270673,
-      "assetId": 270673
     },
     "272834": {
       "name": "João Neves",
@@ -624,7 +576,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 13000,
+      "price": 12750,
       "resourceId": 272834,
       "assetId": 272834
     },
@@ -719,7 +671,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 29250,
+      "price": 11750,
       "resourceId": 50412322,
       "assetId": 80674
     },
@@ -762,7 +714,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 221000,
+      "price": 188000,
       "resourceId": 50539513,
       "assetId": 207865
     },
@@ -816,7 +768,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 524000,
+      "price": 416000,
       "resourceId": 50557919,
       "assetId": 226271
     },
@@ -876,7 +828,7 @@
         71
       ],
       "hasDynamicImage": true,
-      "price": 5499000,
+      "price": 5300000,
       "resourceId": 50563091,
       "assetId": 231443
     },
@@ -990,7 +942,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 1399000,
+      "price": 995000,
       "resourceId": 50579283,
       "assetId": 247635
     },
@@ -1042,7 +994,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 1189000,
+      "price": 574000,
       "resourceId": 50583793,
       "assetId": 252145
     },
@@ -1090,7 +1042,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 177000,
+      "price": 78500,
       "resourceId": 50590026,
       "assetId": 258378
     },
@@ -1152,6 +1104,70 @@
       "resourceId": 50596510,
       "assetId": 264862
     },
+    "50602321": {
+      "name": "Warren Zaïre-Emery",
+      "cardName": "Zaïre-Emery",
+      "originalVersionId": "33",
+      "clubId": 73,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "33",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CDM",
+        "CM",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        11,
+        22,
+        24,
+        25,
+        26,
+        9
+      ],
+      "playStylesPlus": [
+        14
+      ],
+      "rolesPlus": [
+        103,
+        104,
+        105,
+        106,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        146,
+        149
+      ],
+      "attributes": [
+        85,
+        75,
+        83,
+        84,
+        87,
+        90
+      ],
+      "hasDynamicImage": true,
+      "price": 403000,
+      "resourceId": 50602321,
+      "assetId": 270673
+    },
     "50603069": {
       "name": "Désiré Doué",
       "cardName": "Doué",
@@ -1211,7 +1227,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 2499000,
+      "price": 2700000,
       "resourceId": 50603069,
       "assetId": 271421
     },
@@ -1251,7 +1267,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 16500,
+      "price": 16750,
       "resourceId": 67349089,
       "assetId": 240225
     }

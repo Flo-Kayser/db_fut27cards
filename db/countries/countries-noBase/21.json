@@ -34,7 +34,7 @@
       89
     ],
     "hasDynamicImage": false,
-    "price": 448000,
+    "price": 512000,
     "resourceId": 488,
     "assetId": 488
   },
@@ -77,7 +77,7 @@
       86
     ],
     "hasDynamicImage": false,
-    "price": 299000,
+    "price": 248000,
     "resourceId": 77676,
     "assetId": 77676
   },
@@ -125,7 +125,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 129000,
+    "price": 101000,
     "resourceId": 81644,
     "assetId": 81644
   },
@@ -172,7 +172,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 420000,
+    "price": 380000,
     "resourceId": 121939,
     "assetId": 121939
   },
@@ -221,7 +221,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 305000,
+    "price": 320000,
     "resourceId": 121944,
     "assetId": 121944
   },
@@ -264,7 +264,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 33000,
+    "price": 20250,
     "resourceId": 150418,
     "assetId": 150418
   },
@@ -308,7 +308,7 @@
       85
     ],
     "hasDynamicImage": false,
-    "price": 219000,
+    "price": 199000,
     "resourceId": 166676,
     "assetId": 166676
   },
@@ -356,7 +356,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 1851000,
+    "price": 1890000,
     "resourceId": 168473,
     "assetId": 168473
   },
@@ -404,7 +404,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 424000,
+    "price": 374000,
     "resourceId": 182521,
     "assetId": 182521
   },
@@ -448,7 +448,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 716000,
+    "price": 689000,
     "resourceId": 190048,
     "assetId": 190048
   },
@@ -490,7 +490,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 23250,
+    "price": 19250,
     "resourceId": 215732,
     "assetId": 215732
   },
@@ -528,7 +528,7 @@
       92
     ],
     "hasDynamicImage": false,
-    "price": 176000,
+    "price": 143000,
     "resourceId": 226293,
     "assetId": 226293
   },
@@ -570,7 +570,7 @@
       85
     ],
     "hasDynamicImage": false,
-    "price": 39250,
+    "price": 29750,
     "resourceId": 226306,
     "assetId": 226306
   },
@@ -616,7 +616,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 91000,
+    "price": 68500,
     "resourceId": 226307,
     "assetId": 226307
   },
@@ -660,7 +660,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 61500,
+    "price": 38250,
     "resourceId": 226373,
     "assetId": 226373
   },
@@ -709,7 +709,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 4000000,
+    "price": 3803000,
     "resourceId": 238435,
     "assetId": 238435
   },
@@ -751,7 +751,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 133000,
+    "price": 110000,
     "resourceId": 242510,
     "assetId": 242510
   },
@@ -799,7 +799,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 1361000,
+    "price": 1364000,
     "resourceId": 243075,
     "assetId": 243075
   },
@@ -842,7 +842,7 @@
       90
     ],
     "hasDynamicImage": false,
-    "price": 111000,
+    "price": 104000,
     "resourceId": 261593,
     "assetId": 261593
   },
@@ -886,7 +886,7 @@
       88
     ],
     "hasDynamicImage": false,
-    "price": 177000,
+    "price": 137000,
     "resourceId": 275276,
     "assetId": 275276
   },
@@ -939,7 +939,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 13500,
     "resourceId": 50410330,
     "assetId": 78682
   },
@@ -985,9 +985,52 @@
       50
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 13250,
     "resourceId": 50412102,
     "assetId": 80454
+  },
+  "50499143": {
+    "name": "Manuel Neuer",
+    "cardName": "Neuer",
+    "originalVersionId": "33",
+    "clubId": 21,
+    "leagueId": 19,
+    "countryId": 21,
+    "versionId": "33",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 1,
+    "preferredPosition": "GK",
+    "possiblePositions": [
+      "GK"
+    ],
+    "playStyles": [
+      10,
+      30,
+      31,
+      9
+    ],
+    "playStylesPlus": [
+      34
+    ],
+    "rolesPlus": [
+      101,
+      102,
+      145
+    ],
+    "attributes": [
+      86,
+      85,
+      90,
+      84,
+      42,
+      87
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50499143,
+    "assetId": 167495
   },
   "50519998": {
     "name": "Marco Reus",
@@ -1039,7 +1082,7 @@
       65
     ],
     "hasDynamicImage": true,
-    "price": 15250,
+    "price": 14500,
     "resourceId": 50519998,
     "assetId": 188350
   },
@@ -1228,7 +1271,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 13750,
+    "price": 12500,
     "resourceId": 50539510,
     "assetId": 207862
   },
@@ -1324,7 +1367,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 21000,
+    "price": 22750,
     "resourceId": 50555289,
     "assetId": 223641
   },
@@ -1366,7 +1409,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 26500,
+    "price": 11500,
     "resourceId": 50555345,
     "assetId": 223697
   },
@@ -1421,7 +1464,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 13750,
+    "price": 13500,
     "resourceId": 50558003,
     "assetId": 226355
   },
@@ -1503,7 +1546,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 72000,
+    "price": 16750,
     "resourceId": 50573384,
     "assetId": 241736
   },
@@ -1552,7 +1595,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 24500,
+    "price": 11750,
     "resourceId": 50575824,
     "assetId": 244176
   },
@@ -1604,6 +1647,52 @@
     "resourceId": 50575950,
     "assetId": 244302
   },
+  "50579467": {
+    "name": "Nico Schlotterbeck",
+    "cardName": "Schlotterbeck",
+    "originalVersionId": "33",
+    "clubId": 22,
+    "leagueId": 19,
+    "countryId": 21,
+    "versionId": "33",
+    "rating": 89,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      10,
+      14,
+      15,
+      18,
+      19,
+      4
+    ],
+    "playStylesPlus": [
+      17
+    ],
+    "rolesPlus": [
+      111,
+      112,
+      113,
+      148
+    ],
+    "attributes": [
+      84,
+      63,
+      80,
+      78,
+      89,
+      86
+    ],
+    "hasDynamicImage": true,
+    "price": 143000,
+    "resourceId": 50579467,
+    "assetId": 247819
+  },
   "50580470": {
     "name": "Klara Bühl",
     "cardName": "Bühl",
@@ -1650,7 +1739,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 64000,
+    "price": 52500,
     "resourceId": 50580470,
     "assetId": 248822
   },
@@ -1775,7 +1864,7 @@
       65
     ],
     "hasDynamicImage": true,
-    "price": 117000,
+    "price": 107000,
     "resourceId": 50588278,
     "assetId": 256630
   },
@@ -1829,9 +1918,62 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 14250,
     "resourceId": 50589605,
     "assetId": 257957
+  },
+  "50592574": {
+    "name": "Kevin Schade",
+    "cardName": "Schade",
+    "originalVersionId": "33",
+    "clubId": 1925,
+    "leagueId": 13,
+    "countryId": 21,
+    "versionId": "33",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      1,
+      19,
+      21,
+      25,
+      27,
+      4
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      127,
+      128,
+      129,
+      130,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      94,
+      82,
+      80,
+      85,
+      40,
+      80
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50592574,
+    "assetId": 260926
   },
   "50593388": {
     "name": "Jule Brand",
@@ -1943,7 +2085,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 48000,
+    "price": 15250,
     "resourceId": 50595413,
     "assetId": 263765
   },
@@ -2041,7 +2183,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 13750,
     "resourceId": 50596668,
     "assetId": 265020
   },
@@ -2229,7 +2371,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 28250,
+    "price": 11750,
     "resourceId": 50598543,
     "assetId": 266895
   },
@@ -2277,7 +2419,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 204000,
+    "price": 120000,
     "resourceId": 50601349,
     "assetId": 269701
   },
@@ -2332,7 +2474,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "price": 12750,
+    "price": 13000,
     "resourceId": 50601353,
     "assetId": 269705
   },
@@ -2454,7 +2596,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 20250,
+    "price": 12000,
     "resourceId": 50603487,
     "assetId": 271839
   },
@@ -2572,7 +2714,7 @@
       71
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 13500,
     "resourceId": 50605215,
     "assetId": 273567
   },
@@ -2621,7 +2763,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "price": 99500,
+    "price": 36000,
     "resourceId": 50605774,
     "assetId": 274126
   },
@@ -2663,7 +2805,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 19750,
+    "price": 11750,
     "resourceId": 50610428,
     "assetId": 278780
   },
@@ -2824,7 +2966,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 12600,
+    "sbcPrice": 11200,
     "price": 0,
     "resourceId": 67314295,
     "assetId": 205431
@@ -2929,7 +3071,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 156000,
+    "price": 263000,
     "resourceId": 67355727,
     "assetId": 246863
   },
@@ -3032,7 +3174,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 13500,
     "resourceId": 67370604,
     "assetId": 261740
   },
@@ -3080,7 +3222,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 14000,
+    "price": 13500,
     "resourceId": 67371770,
     "assetId": 262906
   },
@@ -3139,9 +3281,62 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 13250,
+    "price": 13750,
     "resourceId": 67381476,
     "assetId": 272612
+  },
+  "83964762": {
+    "name": "Svea Stoldt",
+    "cardName": "Stoldt",
+    "originalVersionId": "19",
+    "clubId": 132533,
+    "leagueId": 2215,
+    "countryId": 21,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      17,
+      18,
+      3
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      148,
+      149
+    ],
+    "attributes": [
+      77,
+      72,
+      78,
+      73,
+      82,
+      80
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 83964762,
+    "assetId": 78682
   },
   "83966534": {
     "name": "Wael Mohya",
@@ -3292,7 +3487,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 133450,
+    "sbcPrice": 117750,
     "price": 0,
     "resourceId": 84095738,
     "assetId": 209658
@@ -3349,7 +3544,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 345000,
+    "price": 312000,
     "resourceId": 84112387,
     "assetId": 226307
   },
@@ -3611,6 +3806,61 @@
     "price": 0,
     "resourceId": 84151100,
     "assetId": 265020
+  },
+  "84155785": {
+    "name": "Derry Scherhant",
+    "cardName": "Scherhant",
+    "originalVersionId": "19",
+    "clubId": 25,
+    "leagueId": 19,
+    "countryId": 21,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      21,
+      22,
+      7
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      86,
+      78,
+      75,
+      83,
+      37,
+      74
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84155785,
+    "assetId": 269705
   },
   "100925036": {
     "name": "Jule Brand",

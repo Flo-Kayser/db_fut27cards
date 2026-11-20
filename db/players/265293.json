@@ -34,7 +34,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 2900,
+    "price": 3300,
     "resourceId": 265293,
     "assetId": 265293,
     "originalVersionId": 0
@@ -76,10 +76,52 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 54000,
+    "price": 25000,
     "resourceId": 50596941,
     "assetId": 265293,
     "originalVersionId": 3
+  },
+  "84151373": {
+    "clubId": 116012,
+    "leagueId": 2216,
+    "countryId": 14,
+    "versionId": "19",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      10,
+      14,
+      18,
+      19
+    ],
+    "playStylesPlus": [
+      15
+    ],
+    "rolesPlus": [
+      111,
+      112,
+      113,
+      148
+    ],
+    "attributes": [
+      85,
+      61,
+      76,
+      75,
+      87,
+      83
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84151373,
+    "assetId": 265293,
+    "originalVersionId": 19
   },
   "cardName": "Le Tissier",
   "name": "Maya Le Tissier"

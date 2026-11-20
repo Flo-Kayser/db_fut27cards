@@ -1,6 +1,59 @@
 {
   "clubName": "Arsenal",
   "players": {
+    "50568936": {
+      "name": "Mariona",
+      "cardName": "Mariona",
+      "originalVersionId": "33",
+      "clubId": 116009,
+      "leagueId": 2216,
+      "countryId": 45,
+      "versionId": "33",
+      "rating": 90,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        11,
+        13,
+        20,
+        22,
+        26
+      ],
+      "playStylesPlus": [
+        8
+      ],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        149
+      ],
+      "attributes": [
+        82,
+        87,
+        88,
+        91,
+        80,
+        83
+      ],
+      "hasDynamicImage": true,
+      "price": 294000,
+      "resourceId": 50568936,
+      "assetId": 237288
+    },
     "50575052": {
       "name": "Georgia Stanway",
       "cardName": "Stanway",
@@ -48,7 +101,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 552000,
+      "price": 553000,
       "resourceId": 50575052,
       "assetId": 243404
     },
@@ -99,7 +152,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 124000,
+      "price": 133000,
       "resourceId": 50590628,
       "assetId": 258980
     },
@@ -164,7 +217,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 54000,
+      "price": 36250,
       "resourceId": 50596584,
       "assetId": 264936
     },

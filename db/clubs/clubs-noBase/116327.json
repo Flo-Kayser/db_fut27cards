@@ -1,4 +1,61 @@
 {
   "clubName": "Atlético de Madrid",
-  "players": {}
+  "players": {
+    "50603742": {
+      "name": "Fiamma Benítez",
+      "cardName": "Fiamma Benítez",
+      "originalVersionId": "33",
+      "clubId": 116327,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "33",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        13,
+        24,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        20
+      ],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        149
+      ],
+      "attributes": [
+        88,
+        83,
+        87,
+        87,
+        75,
+        81
+      ],
+      "hasDynamicImage": true,
+      "price": 22000,
+      "resourceId": 50603742,
+      "assetId": 272094
+    }
+  }
 }

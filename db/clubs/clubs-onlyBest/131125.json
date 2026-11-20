@@ -35,7 +35,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 1400,
       "resourceId": 81440,
       "assetId": 81440
     },
@@ -76,7 +76,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 800,
       "resourceId": 227201,
       "assetId": 227201
     },
@@ -114,7 +114,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 550,
       "resourceId": 268994,
       "assetId": 268994
     },
@@ -148,7 +148,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 500,
       "resourceId": 272021,
       "assetId": 272021
     },
@@ -188,7 +188,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 1400,
       "resourceId": 272046,
       "assetId": 272046
     },
@@ -233,7 +233,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 950,
       "resourceId": 272064,
       "assetId": 272064
     },
@@ -269,7 +269,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 500,
       "resourceId": 272085,
       "assetId": 272085
     },
@@ -313,7 +313,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 800,
       "resourceId": 272111,
       "assetId": 272111
     },
@@ -349,7 +349,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 900,
       "resourceId": 272140,
       "assetId": 272140
     },
@@ -386,7 +386,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 550,
       "resourceId": 272145,
       "assetId": 272145
     },
@@ -427,7 +427,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 272148,
       "assetId": 272148
     },
@@ -472,55 +472,9 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 272159,
       "assetId": 272159
-    },
-    "272163": {
-      "name": "Elena Julve",
-      "cardName": "Elena Julve",
-      "originalVersionId": "0",
-      "clubId": 131125,
-      "leagueId": 2222,
-      "countryId": 45,
-      "versionId": "2002",
-      "rating": 83,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "RW",
-      "possiblePositions": [
-        "CAM",
-        "RM",
-        "RW",
-        "ST"
-      ],
-      "playStyles": [
-        12,
-        23,
-        25,
-        9
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        26,
-        32,
-        36,
-        43,
-        135
-      ],
-      "attributes": [
-        89,
-        77,
-        80,
-        84,
-        65,
-        77
-      ],
-      "hasDynamicImage": false,
-      "price": 700,
-      "resourceId": 272163,
-      "assetId": 272163
     },
     "272188": {
       "name": "Lucía Martínez",
@@ -557,7 +511,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 450,
       "resourceId": 272188,
       "assetId": 272188
     },
@@ -595,7 +549,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 450,
       "resourceId": 272199,
       "assetId": 272199
     },
@@ -634,7 +588,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 450,
       "resourceId": 272205,
       "assetId": 272205
     },
@@ -670,7 +624,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 650,
       "resourceId": 273142,
       "assetId": 273142
     },
@@ -714,7 +668,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 800,
       "resourceId": 275784,
       "assetId": 275784
     },
@@ -748,7 +702,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 500,
       "resourceId": 278313,
       "assetId": 278313
     },
@@ -787,7 +741,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 400,
       "resourceId": 279037,
       "assetId": 279037
     },
@@ -825,9 +779,68 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 550,
       "resourceId": 50418048,
       "assetId": 86400
+    },
+    "50603811": {
+      "name": "Elena Julve",
+      "cardName": "Elena Julve",
+      "originalVersionId": "33",
+      "clubId": 131125,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "33",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        12,
+        23,
+        25,
+        9
+      ],
+      "playStylesPlus": [
+        7
+      ],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        91,
+        84,
+        85,
+        88,
+        68,
+        79
+      ],
+      "hasDynamicImage": true,
+      "price": 101000,
+      "resourceId": 50603811,
+      "assetId": 272163
     }
   }
 }

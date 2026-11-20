@@ -26,7 +26,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 800,
+    "price": 500,
     "resourceId": 270787,
     "assetId": 270787,
     "originalVersionId": 0
@@ -65,10 +65,49 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 13250,
     "resourceId": 50602435,
     "assetId": 270787,
     "originalVersionId": 3
+  },
+  "84156867": {
+    "clubId": 3,
+    "leagueId": 14,
+    "countryId": 24,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      1,
+      20,
+      25
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      86,
+      80,
+      65,
+      80,
+      40,
+      80
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84156867,
+    "assetId": 270787,
+    "originalVersionId": 19
   },
   "cardName": "Guðjohnsen",
   "name": "Andri Lucas Guðjohnsen"

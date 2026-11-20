@@ -117,7 +117,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 31250,
+      "price": 28000,
       "resourceId": 50542162,
       "assetId": 210514
     },
@@ -168,7 +168,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 141000,
+      "price": 49750,
       "resourceId": 50574612,
       "assetId": 242964
     },
@@ -292,7 +292,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 2509000,
+      "price": 2399000,
       "resourceId": 50583502,
       "assetId": 251854
     },
@@ -346,59 +346,9 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 65500,
+      "price": 42250,
       "resourceId": 50608827,
       "assetId": 277179
-    },
-    "67386507": {
-      "name": "Lamine Yamal",
-      "cardName": "Lamine Yamal",
-      "originalVersionId": "3",
-      "clubId": 241,
-      "leagueId": 53,
-      "countryId": 45,
-      "versionId": "3",
-      "rating": 91,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 5,
-      "preferredPosition": "RW",
-      "possiblePositions": [
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        0,
-        13,
-        21,
-        22,
-        25,
-        8
-      ],
-      "playStylesPlus": [
-        20
-      ],
-      "rolesPlus": [
-        123,
-        124,
-        125,
-        126,
-        135,
-        136,
-        137
-      ],
-      "attributes": [
-        87,
-        85,
-        88,
-        94,
-        40,
-        63
-      ],
-      "hasDynamicImage": true,
-      "price": 1212000,
-      "resourceId": 67386507,
-      "assetId": 277643
     },
     "84096594": {
       "name": "João Cancelo",
@@ -513,54 +463,6 @@
       "resourceId": 84163259,
       "assetId": 277179
     },
-    "84163723": {
-      "name": "Lamine Yamal",
-      "cardName": "Lamine Yamal",
-      "originalVersionId": "8",
-      "clubId": 241,
-      "leagueId": 53,
-      "countryId": 45,
-      "versionId": "8",
-      "rating": 91,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 5,
-      "preferredPosition": "RW",
-      "possiblePositions": [
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        0,
-        20,
-        21,
-        23,
-        25,
-        8
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        123,
-        124,
-        125,
-        126,
-        135,
-        136,
-        137
-      ],
-      "attributes": [
-        87,
-        85,
-        89,
-        94,
-        40,
-        64
-      ],
-      "hasDynamicImage": true,
-      "price": 2472000,
-      "resourceId": 84163723,
-      "assetId": 277643
-    },
     "100896715": {
       "name": "Raphinha",
       "cardName": "Raphinha",
@@ -626,9 +528,64 @@
         79
       ],
       "hasDynamicImage": true,
-      "price": 6600000,
+      "price": 4000000,
       "resourceId": 100896715,
       "assetId": 233419
+    },
+    "117718155": {
+      "name": "Lamine Yamal",
+      "cardName": "Lamine Yamal",
+      "originalVersionId": "33",
+      "clubId": 241,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "33",
+      "rating": 92,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        13,
+        20,
+        21,
+        23,
+        8
+      ],
+      "playStylesPlus": [
+        25
+      ],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137
+      ],
+      "attributes": [
+        90,
+        87,
+        90,
+        95,
+        43,
+        72
+      ],
+      "hasDynamicImage": true,
+      "price": 3320000,
+      "resourceId": 117718155,
+      "assetId": 277643
     }
   }
 }

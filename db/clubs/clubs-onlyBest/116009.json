@@ -31,7 +31,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 550,
       "resourceId": 71131,
       "assetId": 71131
     },
@@ -69,7 +69,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 78685,
       "assetId": 78685
     },
@@ -106,7 +106,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 450,
       "resourceId": 80053,
       "assetId": 80053
     },
@@ -140,7 +140,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 87678,
       "assetId": 87678
     },
@@ -181,7 +181,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 2900,
+      "price": 2600,
       "resourceId": 227110,
       "assetId": 227110
     },
@@ -220,7 +220,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 900,
       "resourceId": 227119,
       "assetId": 227119
     },
@@ -262,54 +262,9 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 233364,
       "assetId": 233364
-    },
-    "237288": {
-      "name": "Mariona",
-      "cardName": "Mariona",
-      "originalVersionId": "0",
-      "clubId": 116009,
-      "leagueId": 2216,
-      "countryId": 45,
-      "versionId": "2002",
-      "rating": 89,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        10,
-        11,
-        13,
-        22,
-        26,
-        8
-      ],
-      "playStylesPlus": [
-        20
-      ],
-      "rolesPlus": [
-        116,
-        118
-      ],
-      "attributes": [
-        79,
-        85,
-        86,
-        90,
-        78,
-        82
-      ],
-      "hasDynamicImage": false,
-      "price": 20250,
-      "resourceId": 237288,
-      "assetId": 237288
     },
     "239761": {
       "name": "Frida Maanum",
@@ -389,7 +344,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 900,
       "resourceId": 245872,
       "assetId": 245872
     },
@@ -513,7 +468,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 7200,
+      "price": 7800,
       "resourceId": 253436,
       "assetId": 253436
     },
@@ -563,7 +518,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 5900,
+      "price": 5300,
       "resourceId": 257001,
       "assetId": 257001
     },
@@ -600,7 +555,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 700,
       "resourceId": 258680,
       "assetId": 258680
     },
@@ -637,7 +592,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 258789,
       "assetId": 258789
     },
@@ -674,7 +629,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 700,
       "resourceId": 262866,
       "assetId": 262866
     },
@@ -711,7 +666,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 650,
       "resourceId": 263013,
       "assetId": 263013
     },
@@ -752,7 +707,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 900,
       "resourceId": 265025,
       "assetId": 265025
     },
@@ -790,7 +745,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 265106,
       "assetId": 265106
     },
@@ -826,7 +781,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 1000,
       "resourceId": 266915,
       "assetId": 266915
     },
@@ -864,9 +819,62 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 1500,
       "resourceId": 276299,
       "assetId": 276299
+    },
+    "50568936": {
+      "name": "Mariona",
+      "cardName": "Mariona",
+      "originalVersionId": "33",
+      "clubId": 116009,
+      "leagueId": 2216,
+      "countryId": 45,
+      "versionId": "33",
+      "rating": 90,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        11,
+        13,
+        20,
+        22,
+        26
+      ],
+      "playStylesPlus": [
+        8
+      ],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        149
+      ],
+      "attributes": [
+        82,
+        87,
+        88,
+        91,
+        80,
+        83
+      ],
+      "hasDynamicImage": true,
+      "price": 294000,
+      "resourceId": 50568936,
+      "assetId": 237288
     },
     "50575052": {
       "name": "Georgia Stanway",
@@ -915,7 +923,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 552000,
+      "price": 553000,
       "resourceId": 50575052,
       "assetId": 243404
     },
@@ -959,7 +967,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 50585117,
       "assetId": 253469
     },
@@ -1010,7 +1018,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 124000,
+      "price": 133000,
       "resourceId": 50590628,
       "assetId": 258980
     },
@@ -1075,7 +1083,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 54000,
+      "price": 36250,
       "resourceId": 50596584,
       "assetId": 264936
     },

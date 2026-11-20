@@ -178,7 +178,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 550,
       "resourceId": 205923,
       "assetId": 205923
     },
@@ -216,7 +216,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 650,
       "resourceId": 216267,
       "assetId": 216267
     },
@@ -252,7 +252,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 900,
       "resourceId": 220407,
       "assetId": 220407
     },
@@ -369,7 +369,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 227535,
       "assetId": 227535
     },
@@ -410,7 +410,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 231943,
       "assetId": 231943
     },
@@ -482,7 +482,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 600,
       "resourceId": 236568,
       "assetId": 236568
     },
@@ -608,7 +608,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 243576,
       "assetId": 243576
     },
@@ -652,7 +652,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 650,
       "resourceId": 245155,
       "assetId": 245155
     },
@@ -699,7 +699,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 650,
       "resourceId": 245367,
       "assetId": 245367
     },
@@ -743,7 +743,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 247394,
       "assetId": 247394
     },
@@ -780,47 +780,9 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 259583,
       "assetId": 259583
-    },
-    "264453": {
-      "name": "Micky van de Ven",
-      "cardName": "van de Ven",
-      "originalVersionId": "0",
-      "clubId": 18,
-      "leagueId": 13,
-      "countryId": 34,
-      "versionId": "2002",
-      "rating": 81,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB",
-        "LB"
-      ],
-      "playStyles": [
-        18
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        7,
-        11
-      ],
-      "attributes": [
-        90,
-        60,
-        65,
-        72,
-        80,
-        81
-      ],
-      "hasDynamicImage": false,
-      "price": 9700,
-      "resourceId": 264453,
-      "assetId": 264453
     },
     "270208": {
       "name": "Archie Gray",
@@ -860,7 +822,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 1100,
       "resourceId": 270208,
       "assetId": 270208
     },
@@ -943,7 +905,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 650,
       "resourceId": 272926,
       "assetId": 272926
     },
@@ -1012,7 +974,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 1700,
       "resourceId": 50553752,
       "assetId": 222104
     },
@@ -1052,7 +1014,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 50577988,
       "assetId": 246340
     },
@@ -1093,9 +1055,58 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 13000,
+      "price": 14000,
       "resourceId": 50590556,
       "assetId": 258908
+    },
+    "50596101": {
+      "name": "Micky van de Ven",
+      "cardName": "van de Ven",
+      "originalVersionId": "33",
+      "clubId": 18,
+      "leagueId": 13,
+      "countryId": 34,
+      "versionId": "33",
+      "rating": 87,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "LB"
+      ],
+      "playStyles": [
+        14,
+        15,
+        17,
+        18,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        147,
+        148
+      ],
+      "attributes": [
+        91,
+        65,
+        70,
+        80,
+        85,
+        86
+      ],
+      "hasDynamicImage": true,
+      "price": 389000,
+      "resourceId": 50596101,
+      "assetId": 264453
     },
     "50600069": {
       "name": "Mathys Tel",
@@ -1148,7 +1159,7 @@
         68
       ],
       "hasDynamicImage": true,
-      "price": 29000,
+      "price": 25000,
       "resourceId": 50600069,
       "assetId": 268421
     },
@@ -1255,7 +1266,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 37500,
+      "price": 11500,
       "resourceId": 50602505,
       "assetId": 270857
     },
@@ -1311,7 +1322,7 @@
         72
       ],
       "hasDynamicImage": true,
-      "price": 26000,
+      "price": 22750,
       "resourceId": 67365539,
       "assetId": 256675
     },

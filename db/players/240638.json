@@ -36,7 +36,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 1300,
+    "price": 1200,
     "resourceId": 240638,
     "assetId": 240638,
     "originalVersionId": 0
@@ -144,10 +144,63 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 13500,
     "resourceId": 67349502,
     "assetId": 240638,
     "originalVersionId": 3
+  },
+  "100903934": {
+    "clubId": 112391,
+    "leagueId": 350,
+    "countryId": 34,
+    "versionId": "19",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      0,
+      11,
+      2,
+      20,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134,
+      149
+    ],
+    "attributes": [
+      80,
+      79,
+      83,
+      85,
+      75,
+      80
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 100903934,
+    "assetId": 240638,
+    "originalVersionId": 19
   },
   "cardName": "Reijnders",
   "name": "Tijjani Reijnders"

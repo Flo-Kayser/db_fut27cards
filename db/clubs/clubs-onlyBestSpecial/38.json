@@ -37,7 +37,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 12750,
+      "price": 13500,
       "resourceId": 50547170,
       "assetId": 215522
     },
@@ -80,10 +80,50 @@
         89
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 12600,
+      "sbcPrice": 11200,
       "price": 0,
       "resourceId": 67314295,
       "assetId": 205431
+    },
+    "84101602": {
+      "name": "Alexander Schlager",
+      "cardName": "Schlager",
+      "originalVersionId": "19",
+      "clubId": 38,
+      "leagueId": 19,
+      "countryId": 4,
+      "versionId": "19",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        31,
+        34,
+        35
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        81,
+        79,
+        78,
+        83,
+        54,
+        80
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 84101602,
+      "assetId": 215522
     }
   }
 }
