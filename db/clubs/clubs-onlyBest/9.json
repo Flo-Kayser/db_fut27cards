@@ -31,7 +31,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 1000,
       "resourceId": 70824,
       "assetId": 70824
     },
@@ -71,7 +71,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 900,
       "resourceId": 70994,
       "assetId": 70994
     },
@@ -117,7 +117,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 76042,
       "assetId": 76042
     },
@@ -162,7 +162,7 @@
         85
       ],
       "hasDynamicImage": false,
-      "price": 13250,
+      "price": 13000,
       "resourceId": 203376,
       "assetId": 203376
     },
@@ -201,7 +201,7 @@
         86
       ],
       "hasDynamicImage": false,
-      "price": 8400,
+      "price": 8100,
       "resourceId": 212831,
       "assetId": 212831
     },
@@ -235,7 +235,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 850,
       "resourceId": 222514,
       "assetId": 222514
     },
@@ -276,7 +276,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 1100,
       "resourceId": 225100,
       "assetId": 225100
     },
@@ -313,7 +313,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 2900,
+      "price": 2000,
       "resourceId": 232223,
       "assetId": 232223
     },
@@ -351,52 +351,9 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 1000,
       "resourceId": 232487,
       "assetId": 232487
-    },
-    "235805": {
-      "name": "Federico Chiesa",
-      "cardName": "Chiesa",
-      "originalVersionId": "0",
-      "clubId": 9,
-      "leagueId": 13,
-      "countryId": 27,
-      "versionId": "2002",
-      "rating": 80,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "RM",
-      "possiblePositions": [
-        "RM",
-        "RW",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        21,
-        25
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        23,
-        26,
-        36,
-        42
-      ],
-      "attributes": [
-        87,
-        79,
-        75,
-        83,
-        44,
-        68
-      ],
-      "hasDynamicImage": false,
-      "price": 1500,
-      "resourceId": 235805,
-      "assetId": 235805
     },
     "242516": {
       "name": "Cody Gakpo",
@@ -437,7 +394,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 850,
       "resourceId": 242516,
       "assetId": 242516
     },
@@ -479,7 +436,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 850,
       "resourceId": 253149,
       "assetId": 253149
     },
@@ -519,7 +476,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 850,
       "resourceId": 253163,
       "assetId": 253163
     },
@@ -629,7 +586,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 850,
       "resourceId": 262621,
       "assetId": 262621
     },
@@ -737,7 +694,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 600,
       "resourceId": 271977,
       "assetId": 271977
     },
@@ -810,7 +767,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 8900,
+      "price": 5700,
       "resourceId": 278903,
       "assetId": 278903
     },
@@ -867,7 +824,7 @@
         63
       ],
       "hasDynamicImage": true,
-      "price": 637000,
+      "price": 687000,
       "resourceId": 50412024,
       "assetId": 80376
     },
@@ -912,9 +869,62 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 539000,
+      "price": 502000,
       "resourceId": 50565379,
       "assetId": 233731
+    },
+    "50567453": {
+      "name": "Federico Chiesa",
+      "cardName": "Chiesa",
+      "originalVersionId": "103",
+      "clubId": 9,
+      "leagueId": 13,
+      "countryId": 27,
+      "versionId": "103",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        20,
+        21,
+        25,
+        7
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        135,
+        136,
+        137,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        92,
+        85,
+        81,
+        88,
+        50,
+        77
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 153850,
+      "price": 0,
+      "resourceId": 50567453,
+      "assetId": 235805
     },
     "50568420": {
       "name": "Dominik Szoboszlai",
@@ -980,7 +990,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 718000,
+      "price": 649000,
       "resourceId": 50568420,
       "assetId": 236772
     },
@@ -1030,7 +1040,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 149000,
+      "price": 159000,
       "resourceId": 50571485,
       "assetId": 239837
     },
@@ -1081,7 +1091,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 357000,
+      "price": 371000,
       "resourceId": 50577752,
       "assetId": 246104
     },
@@ -1140,7 +1150,7 @@
         65
       ],
       "hasDynamicImage": true,
-      "price": 108000,
+      "price": 117000,
       "resourceId": 50588278,
       "assetId": 256630
     },
@@ -1187,7 +1197,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 32000,
+      "price": 29750,
       "resourceId": 50592556,
       "assetId": 260908
     },
@@ -1241,7 +1251,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 650000,
+      "price": 741000,
       "resourceId": 50610776,
       "assetId": 279128
     },
@@ -1297,7 +1307,7 @@
         68
       ],
       "hasDynamicImage": true,
-      "price": 416000,
+      "price": 444000,
       "resourceId": 67373516,
       "assetId": 264652
     },
