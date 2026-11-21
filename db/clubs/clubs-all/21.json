@@ -42,7 +42,7 @@
         43
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 650,
       "resourceId": 78063,
       "assetId": 78063
     },
@@ -191,7 +191,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 650,
       "resourceId": 167495,
       "assetId": 167495
     },
@@ -225,7 +225,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 400,
       "resourceId": 186569,
       "assetId": 186569
     },
@@ -269,7 +269,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 37000,
+      "price": 37750,
       "resourceId": 202126,
       "assetId": 202126
     },
@@ -358,7 +358,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 12000,
+      "price": 13250,
       "resourceId": 212622,
       "assetId": 212622
     },
@@ -396,7 +396,7 @@
         86
       ],
       "hasDynamicImage": false,
-      "price": 7500,
+      "price": 7700,
       "resourceId": 213331,
       "assetId": 213331
     },
@@ -441,7 +441,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 2600,
+      "price": 2900,
       "resourceId": 225375,
       "assetId": 225375
     },
@@ -483,7 +483,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 7500,
+      "price": 7800,
       "resourceId": 229558,
       "assetId": 229558
     },
@@ -562,7 +562,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 234396,
       "assetId": 234396
     },
@@ -601,7 +601,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 237086,
       "assetId": 237086
     },
@@ -695,7 +695,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 31000,
+      "price": 32000,
       "resourceId": 247827,
       "assetId": 247827
     },
@@ -733,7 +733,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 2100,
+      "price": 1300,
       "resourceId": 248266,
       "assetId": 248266
     },
@@ -775,7 +775,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 250955,
       "assetId": 250955
     },
@@ -821,7 +821,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 7300,
+      "price": 7700,
       "resourceId": 256790,
       "assetId": 256790
     },
@@ -865,7 +865,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 259480,
       "assetId": 259480
     },
@@ -907,7 +907,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 263765,
       "assetId": 263765
     },
@@ -1026,7 +1026,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 275298,
       "assetId": 275298
     },
@@ -1129,7 +1129,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 378000,
+      "price": 400000,
       "resourceId": 50557023,
       "assetId": 225375
     },
@@ -1173,7 +1173,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 491000,
+      "price": 601000,
       "resourceId": 50561206,
       "assetId": 229558
     },
@@ -1228,7 +1228,7 @@
         71
       ],
       "hasDynamicImage": true,
-      "price": 649000,
+      "price": 698000,
       "resourceId": 50579475,
       "assetId": 247827
     },
@@ -1337,7 +1337,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 120000,
+      "price": 126000,
       "resourceId": 50601349,
       "assetId": 269701
     },
@@ -1383,9 +1383,60 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 1120000,
+      "price": 1000000,
       "resourceId": 67310990,
       "assetId": 202126
+    },
+    "67343260": {
+      "name": "Alphonso Davies",
+      "cardName": "Davies",
+      "originalVersionId": "33",
+      "clubId": 21,
+      "leagueId": 19,
+      "countryId": 70,
+      "versionId": "33",
+      "rating": 87,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        12,
+        14,
+        24,
+        25
+      ],
+      "playStylesPlus": [
+        21
+      ],
+      "rolesPlus": [
+        107,
+        108,
+        109,
+        110,
+        127,
+        128,
+        129,
+        130,
+        147
+      ],
+      "attributes": [
+        95,
+        73,
+        84,
+        87,
+        80,
+        82
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 276900,
+      "price": 0,
+      "resourceId": 67343260,
+      "assetId": 234396
     },
     "67349948": {
       "name": "Luis Díaz",
@@ -1438,7 +1489,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 142000,
+      "price": 145000,
       "resourceId": 67349948,
       "assetId": 241084
     },
@@ -1604,7 +1655,7 @@
         71
       ],
       "hasDynamicImage": true,
-      "price": 616000,
+      "price": 610000,
       "resourceId": 100911123,
       "assetId": 247827
     },
@@ -1659,7 +1710,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 724000,
+      "price": 748000,
       "resourceId": 134458812,
       "assetId": 241084
     }
