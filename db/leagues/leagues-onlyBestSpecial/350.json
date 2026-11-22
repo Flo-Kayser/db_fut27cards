@@ -35,7 +35,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 24250,
+    "price": 28750,
     "resourceId": 168886,
     "assetId": 168886
   },
@@ -81,7 +81,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 264000,
+    "price": 255000,
     "resourceId": 266694,
     "assetId": 266694
   },
@@ -131,7 +131,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 15000,
+    "price": 17750,
     "resourceId": 50540066,
     "assetId": 208418
   },
@@ -172,7 +172,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 15750,
+    "price": 17750,
     "resourceId": 50542545,
     "assetId": 210897
   },
@@ -267,7 +267,7 @@
       87
     ],
     "hasDynamicImage": false,
-    "price": 15250,
+    "price": 17500,
     "resourceId": 50555158,
     "assetId": 223510
   },
@@ -328,7 +328,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 15500,
+    "price": 17250,
     "resourceId": 50555496,
     "assetId": 223848
   },
@@ -444,66 +444,9 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 15250,
+    "price": 17750,
     "resourceId": 50573586,
     "assetId": 241938
-  },
-  "50574092": {
-    "name": "João Félix",
-    "cardName": "João Félix",
-    "originalVersionId": "3",
-    "clubId": 112139,
-    "leagueId": 350,
-    "countryId": 38,
-    "versionId": "3",
-    "rating": 84,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 5,
-    "preferredPosition": "CAM",
-    "possiblePositions": [
-      "CAM",
-      "LM",
-      "LW",
-      "ST"
-    ],
-    "playStyles": [
-      0,
-      20,
-      22,
-      6,
-      8
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      127,
-      128,
-      129,
-      130,
-      131,
-      132,
-      133,
-      134,
-      138,
-      139,
-      140,
-      141,
-      142,
-      143,
-      144
-    ],
-    "attributes": [
-      83,
-      83,
-      80,
-      85,
-      46,
-      73
-    ],
-    "hasDynamicImage": true,
-    "price": 82000,
-    "resourceId": 50574092,
-    "assetId": 242444
   },
   "50578905": {
     "name": "Ibañez",
@@ -552,7 +495,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 69000,
+    "price": 61500,
     "resourceId": 50578905,
     "assetId": 247257
   },
@@ -656,7 +599,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 2898000,
+    "price": 2919000,
     "resourceId": 67129665,
     "assetId": 20801
   },
@@ -697,7 +640,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 15500,
+    "price": 17250,
     "resourceId": 67330561,
     "assetId": 221697
   },
@@ -752,7 +695,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 15000,
+    "price": 17000,
     "resourceId": 67349502,
     "assetId": 240638
   },
@@ -1017,7 +960,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 16250,
+    "price": 17250,
     "resourceId": 84137646,
     "assetId": 251566
   },
@@ -1116,5 +1059,65 @@
     "price": 0,
     "resourceId": 100903934,
     "assetId": 240638
+  },
+  "117682956": {
+    "name": "João Félix",
+    "cardName": "João Félix",
+    "originalVersionId": "33",
+    "clubId": 112139,
+    "leagueId": 350,
+    "countryId": 38,
+    "versionId": "33",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      20,
+      22,
+      23,
+      8
+    ],
+    "playStylesPlus": [
+      6
+    ],
+    "rolesPlus": [
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      86,
+      87,
+      84,
+      88,
+      50,
+      76
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 271550,
+    "price": 0,
+    "resourceId": 117682956,
+    "assetId": 242444
   }
 }
