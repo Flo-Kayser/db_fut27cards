@@ -32,7 +32,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 450,
+    "price": 600,
     "resourceId": 241938,
     "assetId": 241938,
     "originalVersionId": 0
@@ -89,7 +89,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 17750,
+    "price": 16750,
     "resourceId": 50573586,
     "assetId": 241938,
     "originalVersionId": 3
@@ -150,6 +150,63 @@
     "resourceId": 84128018,
     "assetId": 241938,
     "originalVersionId": 19
+  },
+  "117682450": {
+    "clubId": 605,
+    "leagueId": 350,
+    "countryId": 183,
+    "versionId": "62",
+    "rating": 72,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CDM",
+      "CM",
+      "LB",
+      "LM"
+    ],
+    "playStyles": [
+      10,
+      11,
+      16
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      107,
+      108,
+      109,
+      110,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      127,
+      128,
+      129,
+      130,
+      147,
+      149
+    ],
+    "attributes": [
+      73,
+      63,
+      73,
+      72,
+      68,
+      74
+    ],
+    "hasDynamicImage": true,
+    "price": 5700,
+    "resourceId": 117682450,
+    "assetId": 241938,
+    "originalVersionId": 62
   },
   "cardName": "Al Dawsari",
   "name": "Nasser Al Dawsari"

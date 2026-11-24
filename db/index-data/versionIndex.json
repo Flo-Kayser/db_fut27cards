@@ -105,7 +105,7 @@
       }
     },
     "33": {
-      "count": 24,
+      "count": 25,
       "file": "db/versions/33.json",
       "details": {
         "name": "Thunderstruck",
@@ -183,7 +183,7 @@
       }
     },
     "57": {
-      "count": 6,
+      "count": 7,
       "file": "db/versions/57.json",
       "details": {
         "name": "Showdown Upgrade",
@@ -196,7 +196,7 @@
       }
     },
     "58": {
-      "count": 4,
+      "count": 3,
       "file": "db/versions/58.json",
       "details": {
         "name": "Showdown",
@@ -206,6 +206,19 @@
         "primaryColor": "#f2f2f2",
         "secondaryColor": "#3f3f3f",
         "tertiaryColor": "#f2f2f2"
+      }
+    },
+    "62": {
+      "count": 8,
+      "file": "db/versions/62.json",
+      "details": {
+        "name": "FC Pro Live",
+        "hasStrip": true,
+        "createdAt": "2026-11-23T17:15:01.726Z",
+        "url": "https://assets.easysbc.io/fc27/cards/e_62_0.png",
+        "primaryColor": "#fcfcf7",
+        "secondaryColor": "#2e0050",
+        "tertiaryColor": "#b959ff"
       }
     },
     "69": {
@@ -443,7 +456,7 @@
       }
     },
     "2000": {
-      "count": 7233,
+      "count": 7239,
       "file": "db/versions/2000.json",
       "details": {
         "name": "Bronze Special",
@@ -456,7 +469,7 @@
       }
     },
     "2001": {
-      "count": 9924,
+      "count": 9928,
       "file": "db/versions/2001.json",
       "details": {
         "name": "Silver Special",
@@ -483,8 +496,8 @@
     }
   },
   "meta": {
-    "totalVersions": 37,
-    "totalVersionsWithoutBase": 34,
-    "updatedAt": "2026-11-22T23:33:18.001Z"
+    "totalVersions": 38,
+    "totalVersionsWithoutBase": 35,
+    "updatedAt": "2026-11-24T03:56:52.915Z"
   }
 }

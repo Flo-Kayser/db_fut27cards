@@ -1,6 +1,60 @@
 {
   "clubName": "Red Bulls",
   "players": {
+    "50578973": {
+      "name": "Cade Cowell",
+      "cardName": "Cowell",
+      "originalVersionId": "62",
+      "clubId": 689,
+      "leagueId": 39,
+      "countryId": 95,
+      "versionId": "62",
+      "rating": 73,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        12,
+        21,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        94,
+        63,
+        66,
+        71,
+        35,
+        78
+      ],
+      "hasDynamicImage": true,
+      "price": 9400,
+      "resourceId": 50578973,
+      "assetId": 247325
+    },
     "50609822": {
       "name": "Julian Hall",
       "cardName": "Hall",
@@ -48,7 +102,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 12750,
+      "price": 13250,
       "resourceId": 50609822,
       "assetId": 278174
     }

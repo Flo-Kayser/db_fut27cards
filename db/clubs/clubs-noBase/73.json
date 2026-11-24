@@ -1,6 +1,62 @@
 {
   "clubName": "PSG",
   "players": {
+    "50410197": {
+      "name": "Quentin Ndjantou",
+      "cardName": "Ndjantou",
+      "originalVersionId": "62",
+      "clubId": 73,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "62",
+      "rating": 73,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        11,
+        20,
+        22
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        84,
+        70,
+        72,
+        75,
+        48,
+        70
+      ],
+      "hasDynamicImage": true,
+      "price": 19750,
+      "resourceId": 50410197,
+      "assetId": 78549
+    },
     "50412322": {
       "name": "Dro Fernández",
       "cardName": "Dro Fernández",
@@ -50,9 +106,48 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 12750,
+      "price": 11500,
       "resourceId": 50412322,
       "assetId": 80674
+    },
+    "50418505": {
+      "name": "Alessandro Longoni",
+      "cardName": "Longoni",
+      "originalVersionId": "62",
+      "clubId": 73,
+      "leagueId": 16,
+      "countryId": 27,
+      "versionId": "62",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        30,
+        35
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        71,
+        70,
+        70,
+        73,
+        55,
+        66
+      ],
+      "hasDynamicImage": true,
+      "price": 7000,
+      "resourceId": 50418505,
+      "assetId": 86857
     },
     "50539513": {
       "name": "Marquinhos",
@@ -93,7 +188,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 172000,
+      "price": 178000,
       "resourceId": 50539513,
       "assetId": 207865
     },
@@ -147,7 +242,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 297000,
+      "price": 321000,
       "resourceId": 50557919,
       "assetId": 226271
     },
@@ -207,7 +302,7 @@
         71
       ],
       "hasDynamicImage": true,
-      "price": 4749000,
+      "price": 4169000,
       "resourceId": 50563091,
       "assetId": 231443
     },
@@ -321,7 +416,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 901000,
+      "price": 878000,
       "resourceId": 50579283,
       "assetId": 247635
     },
@@ -373,7 +468,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 558000,
+      "price": 509000,
       "resourceId": 50583793,
       "assetId": 252145
     },
@@ -421,7 +516,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 94000,
+      "price": 89000,
       "resourceId": 50590026,
       "assetId": 258378
     },
@@ -543,7 +638,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 297000,
+      "price": 260000,
       "resourceId": 50602321,
       "assetId": 270673
     },
@@ -606,7 +701,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 1474000,
+      "price": 1317000,
       "resourceId": 50603069,
       "assetId": 271421
     },
@@ -646,7 +741,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 19000,
+      "price": 18750,
       "resourceId": 67349089,
       "assetId": 240225
     },
