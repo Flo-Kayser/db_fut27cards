@@ -54,7 +54,7 @@
         61
       ],
       "hasDynamicImage": true,
-      "price": 17000,
+      "price": 16750,
       "resourceId": 50529429,
       "assetId": 197781
     },
@@ -136,7 +136,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 18000,
+      "price": 17000,
       "resourceId": 50577550,
       "assetId": 245902
     },
@@ -176,7 +176,7 @@
         146
       ],
       "attributes": [
-        90,
+        99,
         81,
         84,
         85,
@@ -291,6 +291,65 @@
       "price": 0,
       "resourceId": 84131982,
       "assetId": 245902
+    },
+    "117638293": {
+      "name": "Isco",
+      "cardName": "Isco",
+      "originalVersionId": "33",
+      "clubId": 449,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "33",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        0,
+        11,
+        13,
+        20,
+        3,
+        7
+      ],
+      "playStylesPlus": [
+        8
+      ],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        149
+      ],
+      "attributes": [
+        82,
+        84,
+        89,
+        90,
+        65,
+        67
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 106300,
+      "price": 0,
+      "resourceId": 117638293,
+      "assetId": 197781
     }
   }
 }

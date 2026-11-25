@@ -162,5 +162,103 @@
     "price": 0,
     "resourceId": 50598618,
     "assetId": 266970
+  },
+  "50609131": {
+    "name": "Gjivai Zechiël",
+    "cardName": "Zechiël",
+    "originalVersionId": "58",
+    "clubId": 246,
+    "leagueId": 10,
+    "countryId": 34,
+    "versionId": "58",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CB",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      11,
+      20,
+      8,
+      9
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      148,
+      149
+    ],
+    "attributes": [
+      83,
+      77,
+      78,
+      85,
+      80,
+      82
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 13600,
+    "price": 0,
+    "resourceId": 50609131,
+    "assetId": 277483
+  },
+  "67335093": {
+    "name": "Thilo Kehrer",
+    "cardName": "Kehrer",
+    "originalVersionId": "58",
+    "clubId": 245,
+    "leagueId": 10,
+    "countryId": 21,
+    "versionId": "58",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      16,
+      19,
+      28,
+      4
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      111,
+      112,
+      113,
+      148
+    ],
+    "attributes": [
+      80,
+      52,
+      75,
+      76,
+      86,
+      84
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 13600,
+    "price": 0,
+    "resourceId": 67335093,
+    "assetId": 226229
   }
 }
