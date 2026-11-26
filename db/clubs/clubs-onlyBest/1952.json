@@ -71,7 +71,7 @@
         85
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 400,
       "resourceId": 202693,
       "assetId": 202693
     },
@@ -107,7 +107,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 203042,
       "assetId": 203042
     },
@@ -143,7 +143,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 500,
       "resourceId": 204936,
       "assetId": 204936
     },
@@ -178,7 +178,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 300,
       "resourceId": 207952,
       "assetId": 207952
     },
@@ -252,45 +252,9 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 550,
       "resourceId": 218659,
       "assetId": 218659
-    },
-    "220031": {
-      "name": "Oli McBurnie",
-      "cardName": "McBurnie",
-      "originalVersionId": "0",
-      "clubId": 1952,
-      "leagueId": 13,
-      "countryId": 42,
-      "versionId": "2002",
-      "rating": 75,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        29
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        41
-      ],
-      "attributes": [
-        59,
-        76,
-        66,
-        71,
-        36,
-        84
-      ],
-      "hasDynamicImage": false,
-      "price": 1200,
-      "resourceId": 220031,
-      "assetId": 220031
     },
     "220058": {
       "name": "Dillon Phillips",
@@ -322,7 +286,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 220058,
       "assetId": 220058
     },
@@ -364,7 +328,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 500,
       "resourceId": 224099,
       "assetId": 224099
     },
@@ -526,7 +490,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 250,
       "resourceId": 241953,
       "assetId": 241953
     },
@@ -568,7 +532,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 242087,
       "assetId": 242087
     },
@@ -605,7 +569,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 500,
       "resourceId": 243608,
       "assetId": 243608
     },
@@ -683,7 +647,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 350,
       "resourceId": 257271,
       "assetId": 257271
     },
@@ -720,7 +684,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 350,
       "resourceId": 258433,
       "assetId": 258433
     },
@@ -757,7 +721,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 250,
       "resourceId": 268599,
       "assetId": 268599
     },
@@ -795,7 +759,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 550,
       "resourceId": 270209,
       "assetId": 270209
     },
@@ -879,7 +843,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 550,
       "resourceId": 272895,
       "assetId": 272895
     },
@@ -992,7 +956,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 300,
       "resourceId": 277663,
       "assetId": 277663
     },
@@ -1031,7 +995,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 450,
       "resourceId": 50405532,
       "assetId": 73884
     },
@@ -1065,9 +1029,50 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 450,
       "resourceId": 50408058,
       "assetId": 76410
+    },
+    "50551679": {
+      "name": "Oli McBurnie",
+      "cardName": "McBurnie",
+      "originalVersionId": "3",
+      "clubId": 1952,
+      "leagueId": 13,
+      "countryId": 42,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        24,
+        29,
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        80,
+        82,
+        73,
+        80,
+        41,
+        89
+      ],
+      "hasDynamicImage": true,
+      "price": 16500,
+      "resourceId": 50551679,
+      "assetId": 220031
     },
     "50584200": {
       "name": "Konstantinos Tzolakis",
@@ -1105,7 +1110,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 17500,
+      "price": 17250,
       "resourceId": 50584200,
       "assetId": 252552
     },
@@ -1146,7 +1151,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 450,
       "resourceId": 50588124,
       "assetId": 256476
     },
@@ -1192,7 +1197,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 950,
       "resourceId": 50592126,
       "assetId": 260478
     },
@@ -1264,7 +1269,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 1100,
       "resourceId": 50598257,
       "assetId": 266609
     },
@@ -1308,7 +1313,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 400,
       "resourceId": 50608020,
       "assetId": 276372
     },

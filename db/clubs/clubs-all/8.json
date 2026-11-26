@@ -33,7 +33,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 300,
       "resourceId": 73353,
       "assetId": 73353
     },
@@ -69,7 +69,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 300,
       "resourceId": 85700,
       "assetId": 85700
     },
@@ -292,7 +292,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 221479,
       "assetId": 221479
     },
@@ -331,7 +331,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 221491,
       "assetId": 221491
     },
@@ -367,7 +367,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 650,
       "resourceId": 229266,
       "assetId": 229266
     },
@@ -402,7 +402,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 230084,
       "assetId": 230084
     },
@@ -484,7 +484,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 232104,
       "assetId": 232104
     },
@@ -525,7 +525,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 235735,
       "assetId": 235735
     },
@@ -601,7 +601,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 236822,
       "assetId": 236822
     },
@@ -680,7 +680,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 242530,
       "assetId": 242530
     },
@@ -718,7 +718,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 244238,
       "assetId": 244238
     },
@@ -755,7 +755,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 950,
       "resourceId": 244591,
       "assetId": 244591
     },
@@ -835,7 +835,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 900,
       "resourceId": 248384,
       "assetId": 248384
     },
@@ -915,7 +915,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 4800,
+      "price": 5400,
       "resourceId": 262027,
       "assetId": 262027
     },
@@ -991,7 +991,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 750,
       "resourceId": 270206,
       "assetId": 270206
     },
@@ -1033,7 +1033,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 17000,
+      "price": 17250,
       "resourceId": 50553139,
       "assetId": 221491
     },
@@ -1070,9 +1070,64 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 50559018,
       "assetId": 227370
+    },
+    "50574178": {
+      "name": "Noah Okafor",
+      "cardName": "Okafor",
+      "originalVersionId": "3",
+      "clubId": 8,
+      "leagueId": 13,
+      "countryId": 47,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        21,
+        25,
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        90,
+        80,
+        75,
+        82,
+        35,
+        76
+      ],
+      "hasDynamicImage": true,
+      "price": 29750,
+      "resourceId": 50574178,
+      "assetId": 242530
     },
     "50586196": {
       "name": "Melvin Bard",
@@ -1116,7 +1171,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 50586196,
       "assetId": 254548
     },
@@ -1213,6 +1268,65 @@
       "price": 0,
       "resourceId": 67344599,
       "assetId": 235735
+    },
+    "67378592": {
+      "name": "Jean-Mattéo Bahoya",
+      "cardName": "Bahoya",
+      "originalVersionId": "33",
+      "clubId": 8,
+      "leagueId": 13,
+      "countryId": 18,
+      "versionId": "33",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        13,
+        21,
+        24,
+        25,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        96,
+        83,
+        79,
+        87,
+        56,
+        70
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 34850,
+      "price": 0,
+      "resourceId": 67378592,
+      "assetId": 269728
     },
     "84107571": {
       "name": "Nico Elvedi",

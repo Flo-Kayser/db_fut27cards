@@ -1,4 +1,92 @@
 {
   "clubName": "R. Racing Club",
-  "players": {}
+  "players": {
+    "50406346": {
+      "name": "Yassir Zabiri",
+      "cardName": "Zabiri",
+      "originalVersionId": "3",
+      "clubId": 456,
+      "leagueId": 53,
+      "countryId": 129,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        20,
+        21,
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        86,
+        81,
+        74,
+        83,
+        40,
+        70
+      ],
+      "hasDynamicImage": true,
+      "price": 16500,
+      "resourceId": 50406346,
+      "assetId": 74698
+    },
+    "50525442": {
+      "name": "Villalibre",
+      "cardName": "Villalibre",
+      "originalVersionId": "33",
+      "clubId": 456,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "33",
+      "rating": 85,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        2,
+        24,
+        28,
+        4,
+        6
+      ],
+      "playStylesPlus": [
+        29
+      ],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        86,
+        86,
+        70,
+        81,
+        50,
+        91
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 17600,
+      "price": 0,
+      "resourceId": 50525442,
+      "assetId": 193794
+    }
+  }
 }

@@ -33,7 +33,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 400,
       "resourceId": 70713,
       "assetId": 70713
     },
@@ -67,7 +67,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 76323,
       "assetId": 76323
     },
@@ -101,7 +101,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 76324,
       "assetId": 76324
     },
@@ -137,7 +137,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 76325,
       "assetId": 76325
     },
@@ -207,7 +207,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 9000,
+      "price": 7900,
       "resourceId": 83022,
       "assetId": 83022
     },
@@ -389,47 +389,9 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 400,
       "resourceId": 267254,
       "assetId": 267254
-    },
-    "267268": {
-      "name": "Vanessa DiBernardo",
-      "cardName": "DiBernardo",
-      "originalVersionId": "0",
-      "clubId": 116309,
-      "leagueId": 2221,
-      "countryId": 95,
-      "versionId": "2002",
-      "rating": 80,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        8
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        18,
-        49
-      ],
-      "attributes": [
-        75,
-        76,
-        79,
-        83,
-        64,
-        56
-      ],
-      "hasDynamicImage": false,
-      "price": 650,
-      "resourceId": 267268,
-      "assetId": 267268
     },
     "267276": {
       "name": "Kayla Sharples",
@@ -464,7 +426,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 267276,
       "assetId": 267276
     },
@@ -542,7 +504,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 267336,
       "assetId": 267336
     },
@@ -615,7 +577,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 300,
       "resourceId": 267521,
       "assetId": 267521
     },
@@ -653,7 +615,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 3500,
+      "price": 3200,
       "resourceId": 273136,
       "assetId": 273136
     },
@@ -730,7 +692,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 273476,
       "assetId": 273476
     },
@@ -766,7 +728,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 273480,
       "assetId": 273480
     },
@@ -817,9 +779,57 @@
         62
       ],
       "hasDynamicImage": true,
-      "price": 59000,
+      "price": 29750,
       "resourceId": 50558541,
       "assetId": 226893
+    },
+    "50598916": {
+      "name": "Vanessa DiBernardo",
+      "cardName": "DiBernardo",
+      "originalVersionId": "3",
+      "clubId": 116309,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "3",
+      "rating": 82,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        3,
+        8,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        149
+      ],
+      "attributes": [
+        80,
+        80,
+        83,
+        85,
+        70,
+        72
+      ],
+      "hasDynamicImage": true,
+      "price": 16250,
+      "resourceId": 50598916,
+      "assetId": 267268
     },
     "50605115": {
       "name": "Michelle Cooper",
@@ -914,7 +924,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 83500,
+      "price": 44250,
       "resourceId": 50611447,
       "assetId": 279799
     },
@@ -974,7 +984,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 16500,
+      "price": 16750,
       "resourceId": 50611460,
       "assetId": 279812
     },

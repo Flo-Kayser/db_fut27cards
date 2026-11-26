@@ -66,8 +66,8 @@
     },
     "hasStrip": false,
     "hasLevels": true,
-    "name": "Special",
-    "slug": "special",
+    "name": "Common",
+    "slug": "common",
     "hidden": false,
     "createdAt": "2026-09-16T16:58:30.722Z"
   },
@@ -746,6 +746,34 @@
     "slug": "fc-pro-live",
     "hidden": false,
     "createdAt": "2026-11-23T17:15:01.726Z"
+  },
+  "63": {
+    "large": {
+      "colors": {
+        "topText": "ffffff",
+        "bottomText": "ffffff",
+        "strip": "033435",
+        "lines": "9df4ca"
+      },
+      "url": "https://assets.easysbc.io/fc27/cards/e_63_0.png",
+      "isLight": false
+    },
+    "small": {
+      "colors": {
+        "topText": "ffffff",
+        "bottomText": "ffffff",
+        "strip": "033435",
+        "lines": "9df4ca"
+      },
+      "url": "https://assets.easysbc.io/fc27/cards/s_63_0.png",
+      "isLight": false
+    },
+    "hasStrip": true,
+    "hasLevels": false,
+    "name": "Positional Excellence",
+    "slug": "positional-excellence",
+    "hidden": true,
+    "createdAt": "2026-11-26T01:00:01.760Z"
   },
   "66": {
     "large": {

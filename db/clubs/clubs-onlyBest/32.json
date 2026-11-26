@@ -36,7 +36,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 500,
       "resourceId": 80202,
       "assetId": 80202
     },
@@ -74,7 +74,7 @@
         49
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 450,
       "resourceId": 81844,
       "assetId": 81844
     },
@@ -110,7 +110,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 500,
       "resourceId": 204092,
       "assetId": 204092
     },
@@ -149,7 +149,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 450,
       "resourceId": 208618,
       "assetId": 208618
     },
@@ -187,7 +187,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 210324,
       "assetId": 210324
     },
@@ -221,7 +221,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 210366,
       "assetId": 210366
     },
@@ -258,7 +258,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 211738,
       "assetId": 211738
     },
@@ -424,7 +424,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 236804,
       "assetId": 236804
     },
@@ -469,7 +469,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 237328,
       "assetId": 237328
     },
@@ -635,7 +635,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 256853,
       "assetId": 256853
     },
@@ -676,7 +676,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 900,
       "resourceId": 262151,
       "assetId": 262151
     },
@@ -715,7 +715,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 300,
       "resourceId": 270033,
       "assetId": 270033
     },
@@ -758,7 +758,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 500,
       "resourceId": 272781,
       "assetId": 272781
     },
@@ -802,47 +802,6 @@
       "price": 650,
       "resourceId": 273651,
       "assetId": 273651
-    },
-    "276901": {
-      "name": "Afonso Moreira",
-      "cardName": "Afonso Moreira",
-      "originalVersionId": "0",
-      "clubId": 32,
-      "leagueId": 19,
-      "countryId": 38,
-      "versionId": "2002",
-      "rating": 78,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "LM",
-        "LW"
-      ],
-      "playStyles": [
-        25,
-        26
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        27,
-        29,
-        30,
-        38
-      ],
-      "attributes": [
-        89,
-        71,
-        70,
-        78,
-        50,
-        70
-      ],
-      "hasDynamicImage": false,
-      "price": 700,
-      "resourceId": 276901,
-      "assetId": 276901
     },
     "50408064": {
       "name": "Christian Kofane",
@@ -986,7 +945,7 @@
         74
       ],
       "hasDynamicImage": true,
-      "price": 18000,
+      "price": 17000,
       "resourceId": 50593513,
       "assetId": 261865
     },
@@ -1081,9 +1040,54 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 50606856,
       "assetId": 275208
+    },
+    "50608549": {
+      "name": "Afonso Moreira",
+      "cardName": "Afonso Moreira",
+      "originalVersionId": "3",
+      "clubId": 32,
+      "leagueId": 19,
+      "countryId": 38,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        0,
+        25,
+        26
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        90,
+        78,
+        75,
+        82,
+        52,
+        72
+      ],
+      "hasDynamicImage": true,
+      "price": 16500,
+      "resourceId": 50608549,
+      "assetId": 276901
     },
     "67350716": {
       "name": "Moussa Diaby",
@@ -1139,7 +1143,7 @@
         63
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 56100,
+      "sbcPrice": 48450,
       "price": 0,
       "resourceId": 67350716,
       "assetId": 241852

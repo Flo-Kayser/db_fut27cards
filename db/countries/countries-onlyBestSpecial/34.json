@@ -38,7 +38,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 123000,
+    "price": 115000,
     "resourceId": 10264,
     "assetId": 10264
   },
@@ -80,7 +80,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 38750,
+    "price": 34750,
     "resourceId": 10704,
     "assetId": 10704
   },
@@ -128,7 +128,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 30250,
+    "price": 27250,
     "resourceId": 15723,
     "assetId": 15723
   },
@@ -167,7 +167,7 @@
       92
     ],
     "hasDynamicImage": false,
-    "price": 642000,
+    "price": 596000,
     "resourceId": 51539,
     "assetId": 51539
   },
@@ -212,7 +212,7 @@
       85
     ],
     "hasDynamicImage": false,
-    "price": 293000,
+    "price": 274000,
     "resourceId": 167680,
     "assetId": 167680
   },
@@ -258,7 +258,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 4499000,
+    "price": 4600000,
     "resourceId": 190045,
     "assetId": 190045
   },
@@ -302,7 +302,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 286000,
+    "price": 288000,
     "resourceId": 192181,
     "assetId": 192181
   },
@@ -350,7 +350,7 @@
       87
     ],
     "hasDynamicImage": false,
-    "price": 262000,
+    "price": 300000,
     "resourceId": 214098,
     "assetId": 214098
   },
@@ -401,7 +401,7 @@
       88
     ],
     "hasDynamicImage": false,
-    "price": 6100000,
+    "price": 6101000,
     "resourceId": 214100,
     "assetId": 214100
   },
@@ -447,7 +447,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 283000,
+    "price": 271000,
     "resourceId": 238388,
     "assetId": 238388
   },
@@ -489,7 +489,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 32750,
+    "price": 32500,
     "resourceId": 238424,
     "assetId": 238424
   },
@@ -533,7 +533,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 267000,
+    "price": 221000,
     "resourceId": 262112,
     "assetId": 262112
   },
@@ -583,7 +583,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 250000,
+    "price": 266000,
     "resourceId": 274750,
     "assetId": 274750
   },
@@ -636,7 +636,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 16500,
+    "price": 17250,
     "resourceId": 50407849,
     "assetId": 76201
   },
@@ -686,7 +686,7 @@
       68
     ],
     "hasDynamicImage": true,
-    "price": 17250,
+    "price": 11750,
     "resourceId": 50413981,
     "assetId": 82333
   },
@@ -739,9 +739,57 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 50000,
+    "price": 39750,
     "resourceId": 50503697,
     "assetId": 172049
+  },
+  "50535131": {
+    "name": "Davy Klaassen",
+    "cardName": "Klaassen",
+    "originalVersionId": "3",
+    "clubId": 245,
+    "leagueId": 10,
+    "countryId": 34,
+    "versionId": "3",
+    "rating": 80,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      11,
+      22,
+      6
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      149
+    ],
+    "attributes": [
+      75,
+      81,
+      78,
+      78,
+      79,
+      80
+    ],
+    "hasDynamicImage": true,
+    "price": 16500,
+    "resourceId": 50535131,
+    "assetId": 203483
   },
   "50555337": {
     "name": "Wout Weghorst",
@@ -780,7 +828,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 16500,
+    "price": 17750,
     "resourceId": 50555337,
     "assetId": 223689
   },
@@ -911,10 +959,79 @@
       65
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 33650,
+    "sbcPrice": 29150,
     "price": 0,
     "resourceId": 50563512,
     "assetId": 231864
+  },
+  "50565399": {
+    "name": "Daniëlle van de Donk",
+    "cardName": "van de Donk",
+    "originalVersionId": "3",
+    "clubId": 132176,
+    "leagueId": 2216,
+    "countryId": 34,
+    "versionId": "3",
+    "rating": 83,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM",
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      20,
+      22,
+      8
+    ],
+    "playStylesPlus": [
+      24
+    ],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      149
+    ],
+    "attributes": [
+      82,
+      80,
+      83,
+      87,
+      68,
+      75
+    ],
+    "hasDynamicImage": true,
+    "price": 16750,
+    "resourceId": 50565399,
+    "assetId": 233751
   },
   "50567924": {
     "name": "Arnaut Danjuma",
@@ -1083,7 +1200,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 43250,
+    "price": 42750,
     "resourceId": 50572365,
     "assetId": 240717
   },
@@ -1131,7 +1248,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 17250,
+    "price": 16750,
     "resourceId": 50575712,
     "assetId": 244064
   },
@@ -1182,7 +1299,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 394000,
+    "price": 321000,
     "resourceId": 50577752,
     "assetId": 246104
   },
@@ -1337,7 +1454,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 11750,
+    "price": 11500,
     "resourceId": 50584757,
     "assetId": 253109
   },
@@ -1431,7 +1548,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 16750,
+    "price": 17000,
     "resourceId": 50590556,
     "assetId": 258908
   },
@@ -1472,7 +1589,7 @@
       68
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 16500,
     "resourceId": 50595905,
     "assetId": 264257
   },
@@ -1583,7 +1700,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 231000,
+    "price": 208000,
     "resourceId": 50596101,
     "assetId": 264453
   },
@@ -1636,7 +1753,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 12250,
+    "price": 12500,
     "resourceId": 50597057,
     "assetId": 265409
   },
@@ -1679,7 +1796,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 16750,
     "resourceId": 50599622,
     "assetId": 267974
   },
@@ -1732,7 +1849,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 58500,
+    "price": 61500,
     "resourceId": 50604626,
     "assetId": 272978
   },
@@ -1892,10 +2009,64 @@
       82
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 13600,
+    "sbcPrice": 11800,
     "price": 0,
     "resourceId": 50609131,
     "assetId": 277483
+  },
+  "50609600": {
+    "name": "Lotte Keukelaar",
+    "cardName": "Keukelaar",
+    "originalVersionId": "3",
+    "clubId": 116326,
+    "leagueId": 2222,
+    "countryId": 34,
+    "versionId": "3",
+    "rating": 82,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      0,
+      20,
+      21
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140
+    ],
+    "attributes": [
+      88,
+      80,
+      80,
+      85,
+      43,
+      72
+    ],
+    "hasDynamicImage": true,
+    "price": 16500,
+    "resourceId": 50609600,
+    "assetId": 277952
   },
   "67349502": {
     "name": "Tijjani Reijnders",
@@ -1948,7 +2119,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 16750,
+    "price": 17750,
     "resourceId": 67349502,
     "assetId": 240638
   },
@@ -2007,7 +2178,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 16750,
+    "price": 16250,
     "resourceId": 67363653,
     "assetId": 254789
   },
@@ -2074,7 +2245,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 40250,
+    "price": 46250,
     "resourceId": 67376394,
     "assetId": 267530
   },
@@ -2125,7 +2296,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 1828000,
+    "price": 1601000,
     "resourceId": 83891820,
     "assetId": 5740
   },

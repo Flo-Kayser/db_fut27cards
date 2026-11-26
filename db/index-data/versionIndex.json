@@ -1,7 +1,7 @@
 {
   "versions": {
     "3": {
-      "count": 230,
+      "count": 253,
       "file": "db/versions/3.json",
       "details": {
         "name": "Team of the Week",
@@ -105,7 +105,7 @@
       }
     },
     "33": {
-      "count": 26,
+      "count": 28,
       "file": "db/versions/33.json",
       "details": {
         "name": "Thunderstruck",
@@ -459,7 +459,7 @@
       "count": 7239,
       "file": "db/versions/2000.json",
       "details": {
-        "name": "Bronze Special",
+        "name": "Bronze Common",
         "hasStrip": false,
         "createdAt": "2026-09-16T16:58:30.722Z",
         "url": "https://assets.easysbc.io/fc27/cards/e_0_1.png",
@@ -472,7 +472,7 @@
       "count": 9928,
       "file": "db/versions/2001.json",
       "details": {
-        "name": "Silver Special",
+        "name": "Silver Common",
         "hasStrip": false,
         "createdAt": "2026-09-16T16:58:30.722Z",
         "url": "https://assets.easysbc.io/fc27/cards/e_0_2.png",
@@ -485,7 +485,7 @@
       "count": 2567,
       "file": "db/versions/2002.json",
       "details": {
-        "name": "Gold Special",
+        "name": "Gold Common",
         "hasStrip": false,
         "createdAt": "2026-09-16T16:58:30.722Z",
         "url": "https://assets.easysbc.io/fc27/cards/e_0_3.png",
@@ -498,6 +498,6 @@
   "meta": {
     "totalVersions": 38,
     "totalVersionsWithoutBase": 35,
-    "updatedAt": "2026-11-25T02:17:41.219Z"
+    "updatedAt": "2026-11-26T01:45:02.794Z"
   }
 }

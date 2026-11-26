@@ -1,6 +1,54 @@
 {
   "clubName": "Al Ahli",
   "players": {
+    "50571130": {
+      "name": "Galeno",
+      "cardName": "Galeno",
+      "originalVersionId": "3",
+      "clubId": 112387,
+      "leagueId": 350,
+      "countryId": 54,
+      "versionId": "3",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        21,
+        22,
+        25,
+        26,
+        27,
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        92,
+        80,
+        80,
+        84,
+        48,
+        73
+      ],
+      "hasDynamicImage": true,
+      "price": 17500,
+      "resourceId": 50571130,
+      "assetId": 239482
+    },
     "50578905": {
       "name": "Ibañez",
       "cardName": "Ibañez",
@@ -48,7 +96,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 46250,
+      "price": 39500,
       "resourceId": 50578905,
       "assetId": 247257
     }

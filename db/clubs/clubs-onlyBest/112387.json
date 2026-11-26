@@ -76,7 +76,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 200,
       "resourceId": 75111,
       "assetId": 75111
     },
@@ -111,7 +111,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 750,
       "resourceId": 78049,
       "assetId": 78049
     },
@@ -154,7 +154,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 400,
       "resourceId": 81383,
       "assetId": 81383
     },
@@ -260,7 +260,7 @@
         50
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 83956,
       "assetId": 83956
     },
@@ -298,7 +298,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 600,
       "resourceId": 87127,
       "assetId": 87127
     },
@@ -374,7 +374,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 212228,
       "assetId": 212228
     },
@@ -451,7 +451,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 238160,
       "assetId": 238160
     },
@@ -496,53 +496,9 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 1000,
       "resourceId": 238545,
       "assetId": 238545
-    },
-    "239482": {
-      "name": "Galeno",
-      "cardName": "Galeno",
-      "originalVersionId": "0",
-      "clubId": 112387,
-      "leagueId": 350,
-      "countryId": 54,
-      "versionId": "2002",
-      "rating": 81,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "LM",
-        "LW"
-      ],
-      "playStyles": [
-        21,
-        22,
-        25,
-        26,
-        27,
-        6
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        27,
-        30,
-        39
-      ],
-      "attributes": [
-        91,
-        77,
-        76,
-        82,
-        45,
-        70
-      ],
-      "hasDynamicImage": false,
-      "price": 650,
-      "resourceId": 239482,
-      "assetId": 239482
     },
     "242506": {
       "name": "Ali Majrashi",
@@ -580,7 +536,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 900,
       "resourceId": 242506,
       "assetId": 242506
     },
@@ -666,7 +622,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 750,
       "resourceId": 255074,
       "assetId": 255074
     },
@@ -702,7 +658,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 750,
       "resourceId": 260010,
       "assetId": 260010
     },
@@ -744,7 +700,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 261357,
       "assetId": 261357
     },
@@ -787,7 +743,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 750,
       "resourceId": 262272,
       "assetId": 262272
     },
@@ -824,7 +780,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 700,
       "resourceId": 263182,
       "assetId": 263182
     },
@@ -897,7 +853,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 264203,
       "assetId": 264203
     },
@@ -940,7 +896,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 1500,
       "resourceId": 270331,
       "assetId": 270331
     },
@@ -978,7 +934,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 2000,
       "resourceId": 275137,
       "assetId": 275137
     },
@@ -1019,7 +975,7 @@
         49
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 300,
       "resourceId": 276116,
       "assetId": 276116
     },
@@ -1089,7 +1045,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 277459,
       "assetId": 277459
     },
@@ -1128,6 +1084,54 @@
       "price": 200,
       "resourceId": 50411476,
       "assetId": 79828
+    },
+    "50571130": {
+      "name": "Galeno",
+      "cardName": "Galeno",
+      "originalVersionId": "3",
+      "clubId": 112387,
+      "leagueId": 350,
+      "countryId": 54,
+      "versionId": "3",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        21,
+        22,
+        25,
+        26,
+        27,
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        92,
+        80,
+        80,
+        84,
+        48,
+        73
+      ],
+      "hasDynamicImage": true,
+      "price": 17500,
+      "resourceId": 50571130,
+      "assetId": 239482
     },
     "50578905": {
       "name": "Ibañez",
@@ -1176,7 +1180,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 46250,
+      "price": 39500,
       "resourceId": 50578905,
       "assetId": 247257
     },

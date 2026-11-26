@@ -35,7 +35,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 75012,
       "assetId": 75012
     },
@@ -177,7 +177,7 @@
         45
       ],
       "hasDynamicImage": false,
-      "price": 2900,
+      "price": 700,
       "resourceId": 81549,
       "assetId": 81549
     },
@@ -221,7 +221,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 227327,
       "assetId": 227327
     },
@@ -301,7 +301,7 @@
         85
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 247789,
       "assetId": 247789
     },
@@ -343,7 +343,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 263964,
       "assetId": 263964
     },
@@ -543,49 +543,9 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 271944,
       "assetId": 271944
-    },
-    "277952": {
-      "name": "Lotte Keukelaar",
-      "cardName": "Keukelaar",
-      "originalVersionId": "0",
-      "clubId": 116326,
-      "leagueId": 2222,
-      "countryId": 34,
-      "versionId": "2001",
-      "rating": 74,
-      "preferredFoot": "Right",
-      "weakFoot": 2,
-      "skillMoves": 3,
-      "preferredPosition": "LW",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "RM",
-        "RW"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        26,
-        27,
-        36,
-        38
-      ],
-      "attributes": [
-        81,
-        68,
-        68,
-        76,
-        35,
-        63
-      ],
-      "hasDynamicImage": false,
-      "price": 600,
-      "resourceId": 277952,
-      "assetId": 277952
     },
     "279107": {
       "name": "Pau Comendador",
@@ -662,7 +622,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 17000,
+      "price": 17750,
       "resourceId": 50411878,
       "assetId": 80230
     },
@@ -708,7 +668,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 16750,
+      "price": 16250,
       "resourceId": 50416920,
       "assetId": 85272
     },
@@ -769,7 +729,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 43250,
+      "price": 42750,
       "resourceId": 50572365,
       "assetId": 240717
     },
@@ -895,7 +855,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 23250,
+      "price": 20250,
       "resourceId": 50593491,
       "assetId": 261843
     },
@@ -1001,7 +961,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 12250,
+      "price": 12500,
       "resourceId": 50597057,
       "assetId": 265409
     },
@@ -1098,16 +1058,70 @@
       ],
       "attributes": [
         94,
-        80,
-        80,
+        81,
+        81,
         90,
         39,
         70
       ],
       "hasDynamicImage": true,
-      "price": 106000,
+      "price": 92500,
       "resourceId": 50604801,
       "assetId": 273153
+    },
+    "50609600": {
+      "name": "Lotte Keukelaar",
+      "cardName": "Keukelaar",
+      "originalVersionId": "3",
+      "clubId": 116326,
+      "leagueId": 2222,
+      "countryId": 34,
+      "versionId": "3",
+      "rating": 82,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        20,
+        21
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        88,
+        80,
+        80,
+        85,
+        43,
+        72
+      ],
+      "hasDynamicImage": true,
+      "price": 16500,
+      "resourceId": 50609600,
+      "assetId": 277952
     },
     "84126797": {
       "name": "Lineth Beerensteyn",

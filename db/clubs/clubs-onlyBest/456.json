@@ -32,7 +32,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 400,
       "resourceId": 74606,
       "assetId": 74606
     },
@@ -66,43 +66,9 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 74624,
       "assetId": 74624
-    },
-    "74698": {
-      "name": "Yassir Zabiri",
-      "cardName": "Zabiri",
-      "originalVersionId": "0",
-      "clubId": 456,
-      "leagueId": 53,
-      "countryId": 129,
-      "versionId": "2001",
-      "rating": 66,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        41
-      ],
-      "attributes": [
-        72,
-        66,
-        53,
-        69,
-        26,
-        48
-      ],
-      "hasDynamicImage": false,
-      "price": 400,
-      "resourceId": 74698,
-      "assetId": 74698
     },
     "74881": {
       "name": "Maguette Gueye",
@@ -137,7 +103,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 74881,
       "assetId": 74881
     },
@@ -171,7 +137,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 500,
       "resourceId": 75378,
       "assetId": 75378
     },
@@ -318,45 +284,9 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 190286,
       "assetId": 190286
-    },
-    "193794": {
-      "name": "Villalibre",
-      "cardName": "Villalibre",
-      "originalVersionId": "0",
-      "clubId": 456,
-      "leagueId": 53,
-      "countryId": 45,
-      "versionId": "2001",
-      "rating": 74,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        29
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        41
-      ],
-      "attributes": [
-        70,
-        76,
-        56,
-        70,
-        39,
-        83
-      ],
-      "hasDynamicImage": false,
-      "price": 450,
-      "resourceId": 193794,
-      "assetId": 193794
     },
     "243155": {
       "name": "Manu Hernando",
@@ -517,7 +447,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 246455,
       "assetId": 246455
     },
@@ -596,7 +526,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 254005,
       "assetId": 254005
     },
@@ -670,7 +600,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 500,
       "resourceId": 269197,
       "assetId": 269197
     },
@@ -744,6 +674,47 @@
       "resourceId": 277597,
       "assetId": 277597
     },
+    "50406346": {
+      "name": "Yassir Zabiri",
+      "cardName": "Zabiri",
+      "originalVersionId": "3",
+      "clubId": 456,
+      "leagueId": 53,
+      "countryId": 129,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        20,
+        21,
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        86,
+        81,
+        74,
+        83,
+        40,
+        70
+      ],
+      "hasDynamicImage": true,
+      "price": 16500,
+      "resourceId": 50406346,
+      "assetId": 74698
+    },
     "50408387": {
       "name": "Pablo García",
       "cardName": "Pablo García",
@@ -781,7 +752,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 450,
       "resourceId": 50408387,
       "assetId": 76739
     },
@@ -821,6 +792,52 @@
       "resourceId": 50414585,
       "assetId": 82937
     },
+    "50525442": {
+      "name": "Villalibre",
+      "cardName": "Villalibre",
+      "originalVersionId": "33",
+      "clubId": 456,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "33",
+      "rating": 85,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        2,
+        24,
+        28,
+        4,
+        6
+      ],
+      "playStylesPlus": [
+        29
+      ],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        86,
+        86,
+        70,
+        81,
+        50,
+        91
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 17600,
+      "price": 0,
+      "resourceId": 50525442,
+      "assetId": 193794
+    },
     "50567943": {
       "name": "Aarón Martín",
       "cardName": "Aarón Martín",
@@ -856,7 +873,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 450,
       "resourceId": 50567943,
       "assetId": 236295
     },
@@ -941,7 +958,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 50600270,
       "assetId": 268622
     },
@@ -980,7 +997,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 300,
       "resourceId": 50604373,
       "assetId": 272725
     }

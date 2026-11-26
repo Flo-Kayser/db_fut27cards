@@ -46,7 +46,7 @@
         41
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 72997,
       "assetId": 72997
     },
@@ -163,7 +163,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 208268,
       "assetId": 208268
     },
@@ -208,7 +208,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 3200,
+      "price": 3000,
       "resourceId": 211110,
       "assetId": 211110
     },
@@ -242,7 +242,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 550,
       "resourceId": 211515,
       "assetId": 211515
     },
@@ -321,7 +321,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 1100,
       "resourceId": 229582,
       "assetId": 229582
     },
@@ -391,7 +391,7 @@
         85
       ],
       "hasDynamicImage": false,
-      "price": 3300,
+      "price": 3500,
       "resourceId": 230872,
       "assetId": 230872
     },
@@ -429,7 +429,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 231447,
       "assetId": 231447
     },
@@ -467,7 +467,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 1300,
       "resourceId": 233084,
       "assetId": 233084
     },
@@ -542,7 +542,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 236403,
       "assetId": 236403
     },
@@ -703,7 +703,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 267861,
       "assetId": 267861
     },
@@ -782,7 +782,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 900,
       "resourceId": 270077,
       "assetId": 270077
     },
@@ -821,7 +821,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 400,
       "resourceId": 275291,
       "assetId": 275291
     },
@@ -858,7 +858,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 277695,
       "assetId": 277695
     },
@@ -1019,7 +1019,7 @@
         66
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 497200,
+      "sbcPrice": 429400,
       "price": 0,
       "resourceId": 50542758,
       "assetId": 211110
@@ -1061,7 +1061,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 17000,
+      "price": 18000,
       "resourceId": 50561316,
       "assetId": 229668
     },
@@ -1200,9 +1200,50 @@
         71
       ],
       "hasDynamicImage": true,
-      "price": 24250,
+      "price": 23250,
       "resourceId": 50597343,
       "assetId": 265695
+    },
+    "67340311": {
+      "name": "Donyell Malen",
+      "cardName": "Malen",
+      "originalVersionId": "3",
+      "clubId": 52,
+      "leagueId": 31,
+      "countryId": 34,
+      "versionId": "3",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        20,
+        25,
+        7
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        87,
+        84,
+        74,
+        86,
+        39,
+        70
+      ],
+      "hasDynamicImage": true,
+      "price": 27250,
+      "resourceId": 67340311,
+      "assetId": 231447
     },
     "67351699": {
       "name": "Leonardo Balerdi",
