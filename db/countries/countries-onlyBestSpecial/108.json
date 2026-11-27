@@ -1,53 +1,4 @@
 {
-  "20289": {
-    "name": "Yaya Touré",
-    "cardName": "Touré",
-    "originalVersionId": "12",
-    "clubId": 112658,
-    "leagueId": 2118,
-    "countryId": 108,
-    "versionId": "12",
-    "rating": 88,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "CM",
-    "possiblePositions": [
-      "CAM",
-      "CDM",
-      "CM"
-    ],
-    "playStyles": [
-      0,
-      17,
-      2,
-      24,
-      28,
-      29
-    ],
-    "playStylesPlus": [
-      8
-    ],
-    "rolesPlus": [
-      19,
-      21,
-      31,
-      118,
-      149
-    ],
-    "attributes": [
-      80,
-      85,
-      89,
-      84,
-      81,
-      90
-    ],
-    "hasDynamicImage": false,
-    "price": 1000000,
-    "resourceId": 20289,
-    "assetId": 20289
-  },
   "31432": {
     "name": "Didier Drogba",
     "cardName": "Drogba",
@@ -87,7 +38,7 @@
       90
     ],
     "hasDynamicImage": false,
-    "price": 525000,
+    "price": 530000,
     "resourceId": 31432,
     "assetId": 31432
   },
@@ -189,7 +140,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 109000,
+    "price": 134000,
     "resourceId": 50414884,
     "assetId": 83236
   },
@@ -246,7 +197,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "price": 118000,
+    "price": 135000,
     "resourceId": 50502381,
     "assetId": 170733
   },
@@ -290,7 +241,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 190000,
+    "price": 202000,
     "resourceId": 50520076,
     "assetId": 188428
   },
@@ -398,7 +349,7 @@
       65
     ],
     "hasDynamicImage": true,
-    "price": 16750,
+    "price": 17000,
     "resourceId": 50562620,
     "assetId": 230972
   },
@@ -441,7 +392,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 26500,
+    "price": 27750,
     "resourceId": 50591213,
     "assetId": 259565
   },
@@ -532,7 +483,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 16750,
+    "price": 17500,
     "resourceId": 50608167,
     "assetId": 276519
   },
@@ -578,9 +529,67 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 16750,
+    "price": 17250,
     "resourceId": 50611505,
     "assetId": 279857
+  },
+  "67129153": {
+    "name": "Yaya Touré",
+    "cardName": "Touré",
+    "originalVersionId": "161",
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 108,
+    "versionId": "161",
+    "rating": 89,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      0,
+      17,
+      2,
+      24,
+      28,
+      29
+    ],
+    "playStylesPlus": [
+      8
+    ],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134,
+      149
+    ],
+    "attributes": [
+      80,
+      87,
+      90,
+      82,
+      82,
+      91
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 67129153,
+    "assetId": 20289
   },
   "67386042": {
     "name": "Oumar Diakité",
@@ -619,7 +628,7 @@
       79
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 17250,
     "resourceId": 67386042,
     "assetId": 277178
   },
