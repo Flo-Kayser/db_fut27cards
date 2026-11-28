@@ -48,7 +48,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 16150,
+    "sbcPrice": 11900,
     "price": 0,
     "resourceId": 50403797,
     "assetId": 72149
@@ -157,7 +157,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 7100,
+    "sbcPrice": 7200,
     "price": 0,
     "resourceId": 50411270,
     "assetId": 79622
@@ -199,7 +199,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 17500,
+    "price": 15500,
     "resourceId": 50411878,
     "assetId": 80230
   },
@@ -245,7 +245,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 17500,
+    "price": 17250,
     "resourceId": 50416920,
     "assetId": 85272
   },
@@ -287,7 +287,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 7100,
+    "sbcPrice": 7200,
     "price": 0,
     "resourceId": 50418319,
     "assetId": 86671
@@ -307,8 +307,10 @@
     "preferredPosition": "RW",
     "possiblePositions": [
       "CAM",
+      "LW",
       "RM",
-      "RW"
+      "RW",
+      "ST"
     ],
     "playStyles": [
       10,
@@ -331,7 +333,14 @@
       134,
       135,
       136,
-      137
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
     ],
     "attributes": [
       89,
@@ -342,7 +351,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 629000,
+    "price": 729000,
     "resourceId": 50558750,
     "assetId": 227102
   },
@@ -394,7 +403,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 438000,
+    "price": 267000,
     "resourceId": 50568937,
     "assetId": 237289
   },
@@ -455,7 +464,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 42250,
+    "price": 35000,
     "resourceId": 50572365,
     "assetId": 240717
   },
@@ -512,7 +521,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 589000,
+    "price": 500000,
     "resourceId": 50573315,
     "assetId": 241667
   },
@@ -571,7 +580,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 229000,
+    "price": 131000,
     "resourceId": 50573494,
     "assetId": 241846
   },
@@ -697,7 +706,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 21750,
+    "price": 16000,
     "resourceId": 50593491,
     "assetId": 261843
   },
@@ -752,65 +761,9 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 112000,
+    "price": 53000,
     "resourceId": 50593503,
     "assetId": 261855
-  },
-  "50594179": {
-    "name": "Claudia Pina",
-    "cardName": "Claudia Pina",
-    "originalVersionId": "177",
-    "clubId": 116325,
-    "leagueId": 2222,
-    "countryId": 45,
-    "versionId": "177",
-    "rating": 89,
-    "preferredFoot": "Right",
-    "weakFoot": 5,
-    "skillMoves": 4,
-    "preferredPosition": "LW",
-    "possiblePositions": [
-      "LM",
-      "LW",
-      "ST"
-    ],
-    "playStyles": [
-      1,
-      11,
-      2,
-      20,
-      7,
-      8
-    ],
-    "playStylesPlus": [
-      0
-    ],
-    "rolesPlus": [
-      127,
-      128,
-      129,
-      130,
-      138,
-      139,
-      140,
-      141,
-      142,
-      143,
-      144
-    ],
-    "attributes": [
-      91,
-      89,
-      85,
-      89,
-      45,
-      74
-    ],
-    "hasDynamicImage": true,
-    "sbcPrice": 1491200,
-    "price": 0,
-    "resourceId": 50594179,
-    "assetId": 262531
   },
   "50596683": {
     "name": "Elisa Senß",
@@ -879,9 +832,11 @@
     "skillMoves": 4,
     "preferredPosition": "LB",
     "possiblePositions": [
+      "CDM",
       "LB",
       "LM",
-      "LW"
+      "LW",
+      "RM"
     ],
     "playStyles": [
       12,
@@ -896,6 +851,14 @@
       108,
       109,
       110,
+      114,
+      115,
+      116,
+      117,
+      123,
+      124,
+      125,
+      126,
       127,
       128,
       129,
@@ -903,7 +866,8 @@
       138,
       139,
       140,
-      147
+      147,
+      149
     ],
     "attributes": [
       88,
@@ -914,7 +878,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 11750,
+    "price": 12750,
     "resourceId": 50597057,
     "assetId": 265409
   },
@@ -970,7 +934,7 @@
       79
     ],
     "hasDynamicImage": true,
-    "price": 17250,
+    "price": 14500,
     "resourceId": 50598882,
     "assetId": 267234
   },
@@ -1038,7 +1002,7 @@
       66
     ],
     "hasDynamicImage": true,
-    "price": 986000,
+    "price": 951000,
     "resourceId": 50603094,
     "assetId": 271446
   },
@@ -1088,7 +1052,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 15250,
     "resourceId": 50603590,
     "assetId": 271942
   },
@@ -1142,7 +1106,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 7100,
+    "sbcPrice": 7200,
     "price": 0,
     "resourceId": 50603729,
     "assetId": 272081
@@ -1163,7 +1127,9 @@
     "possiblePositions": [
       "CAM",
       "CDM",
-      "CM"
+      "CM",
+      "LM",
+      "RM"
     ],
     "playStyles": [
       13,
@@ -1184,6 +1150,14 @@
       120,
       121,
       122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
       131,
       132,
       133,
@@ -1199,7 +1173,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 14000,
+    "price": 13250,
     "resourceId": 50603742,
     "assetId": 272094
   },
@@ -1269,7 +1243,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 17250,
+    "price": 15000,
     "resourceId": 50603785,
     "assetId": 272137
   },
@@ -1288,6 +1262,8 @@
     "preferredPosition": "RW",
     "possiblePositions": [
       "CAM",
+      "LM",
+      "LW",
       "RM",
       "RW",
       "ST"
@@ -1307,6 +1283,10 @@
       124,
       125,
       126,
+      127,
+      128,
+      129,
+      130,
       131,
       132,
       133,
@@ -1314,6 +1294,9 @@
       135,
       136,
       137,
+      138,
+      139,
+      140,
       141,
       142,
       143,
@@ -1328,7 +1311,7 @@
       79
     ],
     "hasDynamicImage": true,
-    "price": 55500,
+    "price": 56500,
     "resourceId": 50603811,
     "assetId": 272163
   },
@@ -1379,7 +1362,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 15000,
     "resourceId": 50603848,
     "assetId": 272200
   },
@@ -1552,7 +1535,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 116000,
+    "price": 98500,
     "resourceId": 50604801,
     "assetId": 273153
   },
@@ -1615,7 +1598,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 12750,
+    "price": 12250,
     "resourceId": 50607435,
     "assetId": 275787
   },
@@ -1677,7 +1660,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 17500,
+    "price": 15250,
     "resourceId": 50608535,
     "assetId": 276887
   },
@@ -1797,7 +1780,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 14250,
     "resourceId": 50609600,
     "assetId": 277952
   },
@@ -1839,10 +1822,65 @@
       74
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 50100,
+    "sbcPrice": 50400,
     "price": 0,
     "resourceId": 50610301,
     "assetId": 278653
+  },
+  "67371395": {
+    "name": "Claudia Pina",
+    "cardName": "Claudia Pina",
+    "originalVersionId": "33",
+    "clubId": 116325,
+    "leagueId": 2222,
+    "countryId": 45,
+    "versionId": "33",
+    "rating": 91,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      11,
+      20,
+      25,
+      7,
+      8
+    ],
+    "playStylesPlus": [
+      6
+    ],
+    "rolesPlus": [
+      127,
+      128,
+      129,
+      130,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      93,
+      92,
+      87,
+      90,
+      47,
+      75
+    ],
+    "hasDynamicImage": true,
+    "price": 3101000,
+    "resourceId": 67371395,
+    "assetId": 262531
   },
   "67376394": {
     "name": "Esmee Brugts",
@@ -1907,7 +1945,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 47500,
+    "price": 43500,
     "resourceId": 67376394,
     "assetId": 267530
   },
@@ -2417,5 +2455,59 @@
     "price": 0,
     "resourceId": 84162967,
     "assetId": 276887
+  },
+  "84164032": {
+    "name": "Lotte Keukelaar",
+    "cardName": "Keukelaar",
+    "originalVersionId": "19",
+    "clubId": 116326,
+    "leagueId": 2222,
+    "countryId": 34,
+    "versionId": "19",
+    "rating": 82,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      0,
+      20,
+      21
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140
+    ],
+    "attributes": [
+      88,
+      80,
+      80,
+      85,
+      43,
+      72
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84164032,
+    "assetId": 277952
   }
 }

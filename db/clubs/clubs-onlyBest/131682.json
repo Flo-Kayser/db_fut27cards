@@ -36,7 +36,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 192883,
       "assetId": 192883
     },
@@ -73,7 +73,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 203574,
       "assetId": 203574
     },
@@ -114,7 +114,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 210406,
       "assetId": 210406
     },
@@ -190,7 +190,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 8900,
+      "price": 6200,
       "resourceId": 224232,
       "assetId": 224232
     },
@@ -270,7 +270,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 6400,
+      "price": 4300,
       "resourceId": 226268,
       "assetId": 226268
     },
@@ -385,7 +385,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 9100,
+      "price": 5900,
       "resourceId": 231478,
       "assetId": 231478
     },
@@ -419,7 +419,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 243311,
       "assetId": 243311
     },
@@ -536,7 +536,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 276278,
       "assetId": 276278
     },
@@ -577,7 +577,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 700,
       "resourceId": 278318,
       "assetId": 278318
     },
@@ -618,7 +618,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 11750,
+      "price": 11500,
       "resourceId": 50573384,
       "assetId": 241736
     },
@@ -638,7 +638,9 @@
       "possiblePositions": [
         "CAM",
         "CDM",
-        "CM"
+        "CM",
+        "RB",
+        "RM"
       ],
       "playStyles": [
         10,
@@ -649,6 +651,10 @@
       ],
       "playStylesPlus": [],
       "rolesPlus": [
+        103,
+        104,
+        105,
+        106,
         114,
         115,
         116,
@@ -658,10 +664,15 @@
         120,
         121,
         122,
+        123,
+        124,
+        125,
+        126,
         131,
         132,
         133,
         134,
+        146,
         149
       ],
       "attributes": [
@@ -673,7 +684,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 16000,
+      "price": 16250,
       "resourceId": 50574082,
       "assetId": 242434
     },
@@ -817,7 +828,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 27750,
+      "price": 29000,
       "resourceId": 50591213,
       "assetId": 259565
     },
@@ -858,7 +869,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 17500,
+      "price": 15000,
       "resourceId": 50608975,
       "assetId": 277327
     },
@@ -915,7 +926,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 30000,
+      "price": 28500,
       "resourceId": 67316992,
       "assetId": 208128
     },
@@ -958,7 +969,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 17000,
+      "price": 14500,
       "resourceId": 67336957,
       "assetId": 228093
     },
@@ -1004,7 +1015,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 150000,
+      "price": 142000,
       "resourceId": 67346247,
       "assetId": 237383
     },

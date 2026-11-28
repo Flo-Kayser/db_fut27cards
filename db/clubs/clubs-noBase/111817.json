@@ -1,6 +1,53 @@
 {
   "clubName": "Paris FC",
   "players": {
+    "50566260": {
+      "name": "Jonathan Ikoné",
+      "cardName": "Ikoné",
+      "originalVersionId": "33",
+      "clubId": 111817,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "33",
+      "rating": 86,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        13,
+        20,
+        22,
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        135,
+        136,
+        137
+      ],
+      "attributes": [
+        90,
+        83,
+        85,
+        89,
+        46,
+        77
+      ],
+      "hasDynamicImage": true,
+      "price": 10500,
+      "resourceId": 50566260,
+      "assetId": 234612
+    },
     "50582818": {
       "name": "Lassine Sinayoko",
       "cardName": "Sinayoko",
@@ -93,7 +140,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 16750,
+      "price": 14250,
       "resourceId": 50600829,
       "assetId": 269181
     },
@@ -148,9 +195,50 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 18000,
+      "price": 14750,
       "resourceId": 67360034,
       "assetId": 251170
+    },
+    "84155261": {
+      "name": "Diego Coppola",
+      "cardName": "Coppola",
+      "originalVersionId": "19",
+      "clubId": 111817,
+      "leagueId": 16,
+      "countryId": 27,
+      "versionId": "19",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        16,
+        18,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        77,
+        45,
+        66,
+        71,
+        81,
+        82
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 84155261,
+      "assetId": 269181
     },
     "100914466": {
       "name": "Lassine Sinayoko",
@@ -260,7 +348,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 14000,
+      "sbcPrice": 10300,
       "price": 0,
       "resourceId": 134468898,
       "assetId": 251170

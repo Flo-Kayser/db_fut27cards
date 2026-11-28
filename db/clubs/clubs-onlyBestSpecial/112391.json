@@ -1,6 +1,64 @@
 {
   "clubName": "Al Qadsiah",
   "players": {
+    "50566227": {
+      "name": "Julián Quiñones",
+      "cardName": "Quiñones",
+      "originalVersionId": "33",
+      "clubId": 112391,
+      "leagueId": 350,
+      "countryId": 83,
+      "versionId": "33",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        1,
+        21,
+        4,
+        6
+      ],
+      "playStylesPlus": [
+        2
+      ],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        92,
+        87,
+        76,
+        88,
+        41,
+        86
+      ],
+      "hasDynamicImage": true,
+      "price": 24500,
+      "resourceId": 50566227,
+      "assetId": 234579
+    },
     "50572286": {
       "name": "Tijjani Reijnders",
       "cardName": "Reijnders",
@@ -109,7 +167,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 17000,
+      "price": 16250,
       "resourceId": 67349502,
       "assetId": 240638
     },

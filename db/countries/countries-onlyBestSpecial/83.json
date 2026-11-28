@@ -40,7 +40,7 @@
       88
     ],
     "hasDynamicImage": false,
-    "price": 144000,
+    "price": 108000,
     "resourceId": 26709,
     "assetId": 26709
   },
@@ -83,7 +83,7 @@
     ],
     "hasDynamicImage": false,
     "sbcPrice": 216900,
-    "price": 55000,
+    "price": 32750,
     "resourceId": 156353,
     "assetId": 156353
   },
@@ -127,7 +127,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 292000,
+    "price": 164000,
     "resourceId": 166149,
     "assetId": 166149
   },
@@ -167,7 +167,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 33500,
+    "price": 22750,
     "resourceId": 191694,
     "assetId": 191694
   },
@@ -214,7 +214,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 14250,
     "resourceId": 50410432,
     "assetId": 78784
   },
@@ -273,7 +273,7 @@
       62
     ],
     "hasDynamicImage": true,
-    "price": 14000,
+    "price": 11750,
     "resourceId": 50411047,
     "assetId": 79399
   },
@@ -397,7 +397,7 @@
       63
     ],
     "hasDynamicImage": true,
-    "price": 136000,
+    "price": 95500,
     "resourceId": 50502017,
     "assetId": 170369
   },
@@ -458,7 +458,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 44250,
+    "price": 45500,
     "resourceId": 50509970,
     "assetId": 178322
   },
@@ -565,9 +565,121 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 18250,
+    "price": 15750,
     "resourceId": 50555799,
     "assetId": 224151
+  },
+  "50556222": {
+    "name": "Orbelín Pineda",
+    "cardName": "Pineda",
+    "originalVersionId": "33",
+    "clubId": 1032,
+    "leagueId": 341,
+    "countryId": 83,
+    "versionId": "33",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      16,
+      20,
+      26,
+      9
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134,
+      149
+    ],
+    "attributes": [
+      86,
+      81,
+      84,
+      87,
+      81,
+      79
+    ],
+    "hasDynamicImage": true,
+    "price": 11750,
+    "resourceId": 50556222,
+    "assetId": 224574
+  },
+  "50566227": {
+    "name": "Julián Quiñones",
+    "cardName": "Quiñones",
+    "originalVersionId": "33",
+    "clubId": 112391,
+    "leagueId": 350,
+    "countryId": 83,
+    "versionId": "33",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      1,
+      21,
+      4,
+      6
+    ],
+    "playStylesPlus": [
+      2
+    ],
+    "rolesPlus": [
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      92,
+      87,
+      76,
+      88,
+      41,
+      86
+    ],
+    "hasDynamicImage": true,
+    "price": 24500,
+    "resourceId": 50566227,
+    "assetId": 234579
   },
   "50586866": {
     "name": "Víctor Guzmán",
@@ -611,6 +723,53 @@
     "price": 0,
     "resourceId": 50586866,
     "assetId": 255218
+  },
+  "83964864": {
+    "name": "Mateo Chávez",
+    "cardName": "Chávez",
+    "originalVersionId": "19",
+    "clubId": 1906,
+    "leagueId": 10,
+    "countryId": 83,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "LB",
+      "LM"
+    ],
+    "playStyles": [
+      12,
+      16,
+      25
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      107,
+      108,
+      109,
+      110,
+      127,
+      128,
+      129,
+      130,
+      147
+    ],
+    "attributes": [
+      86,
+      55,
+      75,
+      80,
+      76,
+      78
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 83964864,
+    "assetId": 78784
   },
   "84110231": {
     "name": "Henry Martín",

@@ -54,7 +54,7 @@
         65
       ],
       "hasDynamicImage": true,
-      "price": 17250,
+      "price": 14000,
       "resourceId": 50508651,
       "assetId": 177003
     },
@@ -108,7 +108,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 17250,
+      "price": 14250,
       "resourceId": 50541656,
       "assetId": 210008
     },
@@ -176,6 +176,8 @@
       "preferredPosition": "ST",
       "possiblePositions": [
         "CAM",
+        "LM",
+        "LW",
         "RM",
         "RW",
         "ST"
@@ -194,6 +196,10 @@
         124,
         125,
         126,
+        127,
+        128,
+        129,
+        130,
         131,
         132,
         133,
@@ -201,6 +207,9 @@
         135,
         136,
         137,
+        138,
+        139,
+        140,
         141,
         142,
         143,
@@ -215,7 +224,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 21500,
+      "price": 23750,
       "resourceId": 50559444,
       "assetId": 227796
     },
@@ -258,7 +267,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 166000,
+      "price": 132000,
       "resourceId": 50564404,
       "assetId": 232756
     },
@@ -359,7 +368,7 @@
         72
       ],
       "hasDynamicImage": true,
-      "price": 20000,
+      "price": 14500,
       "resourceId": 50601687,
       "assetId": 270039
     },
@@ -406,9 +415,63 @@
         68
       ],
       "hasDynamicImage": true,
-      "price": 41250,
+      "price": 37750,
       "resourceId": 50609974,
       "assetId": 278326
+    },
+    "84096088": {
+      "name": "Adrien Rabiot",
+      "cardName": "Rabiot",
+      "originalVersionId": "19",
+      "clubId": 131681,
+      "leagueId": 31,
+      "countryId": 18,
+      "versionId": "19",
+      "rating": 86,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        16,
+        17,
+        24,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        149
+      ],
+      "attributes": [
+        82,
+        80,
+        83,
+        83,
+        80,
+        86
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 84096088,
+      "assetId": 210008
     },
     "84156119": {
       "name": "Diego Moreira",

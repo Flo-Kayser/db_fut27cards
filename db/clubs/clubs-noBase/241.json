@@ -117,9 +117,65 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 28250,
+      "price": 28500,
       "resourceId": 50542162,
       "assetId": 210514
+    },
+    "50560350": {
+      "name": "Frenkie de Jong",
+      "cardName": "de Jong",
+      "originalVersionId": "33",
+      "clubId": 241,
+      "leagueId": 53,
+      "countryId": 34,
+      "versionId": "33",
+      "rating": 90,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        11,
+        13,
+        16,
+        24
+      ],
+      "playStylesPlus": [
+        8
+      ],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        149
+      ],
+      "attributes": [
+        82,
+        81,
+        91,
+        90,
+        85,
+        86
+      ],
+      "hasDynamicImage": true,
+      "price": 387000,
+      "resourceId": 50560350,
+      "assetId": 228702
     },
     "50565067": {
       "name": "Raphinha",
@@ -186,7 +242,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 679000,
+      "price": 570000,
       "resourceId": 50565067,
       "assetId": 233419
     },
@@ -237,7 +293,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 71500,
+      "price": 61000,
       "resourceId": 50574612,
       "assetId": 242964
     },
@@ -361,7 +417,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 2181000,
+      "price": 1956000,
       "resourceId": 50583502,
       "assetId": 251854
     },
@@ -415,7 +471,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 16750,
+      "price": 14000,
       "resourceId": 50608827,
       "assetId": 277179
     },
@@ -465,7 +521,7 @@
         63
       ],
       "hasDynamicImage": true,
-      "price": 433000,
+      "price": 301000,
       "resourceId": 67386507,
       "assetId": 277643
     },
@@ -652,7 +708,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 505000,
+      "price": 324000,
       "resourceId": 84137934,
       "assetId": 251854
     },
@@ -754,7 +810,7 @@
         64
       ],
       "hasDynamicImage": true,
-      "price": 1599000,
+      "price": 1379000,
       "resourceId": 84163723,
       "assetId": 277643
     },
@@ -823,9 +879,67 @@
         79
       ],
       "hasDynamicImage": true,
-      "price": 3232000,
+      "price": 3301000,
       "resourceId": 100896715,
       "assetId": 233419
+    },
+    "117692366": {
+      "name": "Pedri",
+      "cardName": "Pedri",
+      "originalVersionId": "19",
+      "clubId": 241,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "19",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        11,
+        20,
+        22,
+        24,
+        9
+      ],
+      "playStylesPlus": [
+        8
+      ],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        149
+      ],
+      "attributes": [
+        78,
+        78,
+        90,
+        92,
+        79,
+        77
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 117692366,
+      "assetId": 251854
     },
     "117718155": {
       "name": "Lamine Yamal",
@@ -842,8 +956,10 @@
       "preferredPosition": "RW",
       "possiblePositions": [
         "CAM",
+        "LW",
         "RM",
-        "RW"
+        "RW",
+        "ST"
       ],
       "playStyles": [
         0,
@@ -867,7 +983,14 @@
         134,
         135,
         136,
-        137
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
       ],
       "attributes": [
         90,
@@ -878,7 +1001,7 @@
         72
       ],
       "hasDynamicImage": true,
-      "price": 2401000,
+      "price": 2416000,
       "resourceId": 117718155,
       "assetId": 277643
     }

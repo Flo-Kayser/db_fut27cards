@@ -77,7 +77,7 @@
       54
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 250,
     "resourceId": 80304,
     "assetId": 80304
   },
@@ -153,47 +153,9 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 700,
+    "price": 650,
     "resourceId": 239964,
     "assetId": 239964
-  },
-  "277031": {
-    "name": "Abdukodir Khusanov",
-    "cardName": "Khusanov",
-    "originalVersionId": "0",
-    "clubId": 10,
-    "leagueId": 13,
-    "countryId": 191,
-    "versionId": "2002",
-    "rating": 82,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 2,
-    "preferredPosition": "CB",
-    "possiblePositions": [
-      "CB"
-    ],
-    "playStyles": [
-      14,
-      16,
-      28
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      11
-    ],
-    "attributes": [
-      88,
-      39,
-      64,
-      68,
-      83,
-      80
-    ],
-    "hasDynamicImage": false,
-    "price": 2200,
-    "resourceId": 277031,
-    "assetId": 277031
   },
   "277568": {
     "name": "Khusniddin Alikulov",
@@ -234,5 +196,49 @@
     "price": 350,
     "resourceId": 277568,
     "assetId": 277568
+  },
+  "50608679": {
+    "name": "Abdukodir Khusanov",
+    "cardName": "Khusanov",
+    "originalVersionId": "33",
+    "clubId": 10,
+    "leagueId": 13,
+    "countryId": 191,
+    "versionId": "33",
+    "rating": 89,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      14,
+      16,
+      18,
+      19
+    ],
+    "playStylesPlus": [
+      28
+    ],
+    "rolesPlus": [
+      111,
+      112,
+      113,
+      148
+    ],
+    "attributes": [
+      90,
+      45,
+      71,
+      75,
+      88,
+      86
+    ],
+    "hasDynamicImage": true,
+    "price": 347000,
+    "resourceId": 50608679,
+    "assetId": 277031
   }
 }

@@ -41,7 +41,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 1252000,
+    "price": 1065000,
     "resourceId": 247699,
     "assetId": 247699
   },
@@ -106,7 +106,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 18000,
+    "price": 16250,
     "resourceId": 50542529,
     "assetId": 210881
   },
@@ -147,7 +147,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 14250,
     "resourceId": 50551679,
     "assetId": 220031
   },
@@ -203,7 +203,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 144000,
+    "price": 127000,
     "resourceId": 50568886,
     "assetId": 237238
   },
@@ -223,7 +223,9 @@
     "possiblePositions": [
       "CAM",
       "CDM",
-      "CM"
+      "CM",
+      "LM",
+      "RM"
     ],
     "playStyles": [
       0,
@@ -246,6 +248,14 @@
       120,
       121,
       122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
       131,
       132,
       133,
@@ -329,5 +339,46 @@
     "price": 0,
     "resourceId": 84096961,
     "assetId": 210881
+  },
+  "84106111": {
+    "name": "Oli McBurnie",
+    "cardName": "McBurnie",
+    "originalVersionId": "19",
+    "clubId": 1952,
+    "leagueId": 13,
+    "countryId": 42,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      24,
+      29,
+      6
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      80,
+      82,
+      73,
+      80,
+      41,
+      89
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84106111,
+    "assetId": 220031
   }
 }

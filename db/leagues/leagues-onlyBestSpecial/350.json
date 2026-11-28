@@ -35,7 +35,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 23750,
+    "price": 15250,
     "resourceId": 168886,
     "assetId": 168886
   },
@@ -81,7 +81,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 228000,
+    "price": 162000,
     "resourceId": 266694,
     "assetId": 266694
   },
@@ -131,7 +131,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 15750,
     "resourceId": 50540066,
     "assetId": 208418
   },
@@ -172,7 +172,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 18000,
+    "price": 17250,
     "resourceId": 50542545,
     "assetId": 210897
   },
@@ -267,7 +267,7 @@
       87
     ],
     "hasDynamicImage": false,
-    "price": 17750,
+    "price": 14250,
     "resourceId": 50555158,
     "assetId": 223510
   },
@@ -328,9 +328,67 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 17250,
+    "price": 15250,
     "resourceId": 50555496,
     "assetId": 223848
+  },
+  "50566227": {
+    "name": "Julián Quiñones",
+    "cardName": "Quiñones",
+    "originalVersionId": "33",
+    "clubId": 112391,
+    "leagueId": 350,
+    "countryId": 83,
+    "versionId": "33",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      1,
+      21,
+      4,
+      6
+    ],
+    "playStylesPlus": [
+      2
+    ],
+    "rolesPlus": [
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      92,
+      87,
+      76,
+      88,
+      41,
+      86
+    ],
+    "hasDynamicImage": true,
+    "price": 24500,
+    "resourceId": 50566227,
+    "assetId": 234579
   },
   "50571130": {
     "name": "Galeno",
@@ -376,7 +434,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 14250,
     "resourceId": 50571130,
     "assetId": 239482
   },
@@ -492,7 +550,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 17250,
+    "price": 14500,
     "resourceId": 50573586,
     "assetId": 241938
   },
@@ -511,6 +569,8 @@
     "preferredPosition": "CB",
     "possiblePositions": [
       "CB",
+      "CDM",
+      "LB",
       "RB"
     ],
     "playStyles": [
@@ -528,11 +588,21 @@
       104,
       105,
       106,
+      107,
+      108,
+      109,
+      110,
       111,
       112,
       113,
+      114,
+      115,
+      116,
+      117,
       146,
-      148
+      147,
+      148,
+      149
     ],
     "attributes": [
       88,
@@ -543,7 +613,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 42250,
+    "price": 43000,
     "resourceId": 50578905,
     "assetId": 247257
   },
@@ -647,7 +717,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 2464000,
+    "price": 2220000,
     "resourceId": 67129665,
     "assetId": 20801
   },
@@ -688,7 +758,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 18000,
+    "price": 16500,
     "resourceId": 67330561,
     "assetId": 221697
   },
@@ -743,7 +813,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 16250,
     "resourceId": 67349502,
     "assetId": 240638
   },
@@ -899,6 +969,54 @@
     "resourceId": 84109928,
     "assetId": 223848
   },
+  "84125562": {
+    "name": "Galeno",
+    "cardName": "Galeno",
+    "originalVersionId": "19",
+    "clubId": 112387,
+    "leagueId": 350,
+    "countryId": 54,
+    "versionId": "19",
+    "rating": 83,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      21,
+      22,
+      25,
+      26,
+      27,
+      6
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      127,
+      128,
+      129,
+      130,
+      138,
+      139,
+      140
+    ],
+    "attributes": [
+      92,
+      80,
+      80,
+      84,
+      48,
+      73
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84125562,
+    "assetId": 239482
+  },
   "84128018": {
     "name": "Nasser Al Dawsari",
     "cardName": "Al Dawsari",
@@ -1008,7 +1126,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 16250,
     "resourceId": 84137646,
     "assetId": 251566
   },
@@ -1163,7 +1281,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 286600,
+    "sbcPrice": 211200,
     "price": 0,
     "resourceId": 117682956,
     "assetId": 242444

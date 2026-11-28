@@ -1,50 +1,4 @@
 {
-  "1114": {
-    "name": "Roberto Baggio",
-    "cardName": "Baggio",
-    "originalVersionId": "12",
-    "clubId": 112658,
-    "leagueId": 2118,
-    "countryId": 27,
-    "versionId": "12",
-    "rating": 91,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 5,
-    "preferredPosition": "CAM",
-    "possiblePositions": [
-      "CAM",
-      "ST"
-    ],
-    "playStyles": [
-      0,
-      10,
-      13,
-      22,
-      3,
-      8
-    ],
-    "playStylesPlus": [
-      20
-    ],
-    "rolesPlus": [
-      31,
-      132,
-      143
-    ],
-    "attributes": [
-      85,
-      86,
-      90,
-      91,
-      38,
-      65
-    ],
-    "hasDynamicImage": false,
-    "price": 370000,
-    "resourceId": 1114,
-    "assetId": 1114
-  },
   "1179": {
     "name": "Gianluigi Buffon",
     "cardName": "Buffon",
@@ -80,7 +34,7 @@
       90
     ],
     "hasDynamicImage": false,
-    "price": 778000,
+    "price": 691000,
     "resourceId": 1179,
     "assetId": 1179
   },
@@ -124,7 +78,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 429000,
+    "price": 334000,
     "resourceId": 1183,
     "assetId": 1183
   },
@@ -170,7 +124,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 1049000,
+    "price": 796000,
     "resourceId": 1238,
     "assetId": 1238
   },
@@ -216,7 +170,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 357000,
+    "price": 269000,
     "resourceId": 7763,
     "assetId": 7763
   },
@@ -262,7 +216,7 @@
       87
     ],
     "hasDynamicImage": false,
-    "price": 0,
+    "price": 169000,
     "resourceId": 53302,
     "assetId": 53302
   },
@@ -309,7 +263,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 900000,
+    "price": 804000,
     "resourceId": 120274,
     "assetId": 120274
   },
@@ -351,53 +305,9 @@
       85
     ],
     "hasDynamicImage": false,
-    "price": 214000,
+    "price": 180000,
     "resourceId": 137186,
     "assetId": 137186
-  },
-  "138956": {
-    "name": "Giorgio Chiellini",
-    "cardName": "Chiellini",
-    "originalVersionId": "12",
-    "clubId": 112658,
-    "leagueId": 2118,
-    "countryId": 27,
-    "versionId": "12",
-    "rating": 88,
-    "preferredFoot": "Left",
-    "weakFoot": 3,
-    "skillMoves": 2,
-    "preferredPosition": "CB",
-    "possiblePositions": [
-      "CB"
-    ],
-    "playStyles": [
-      14,
-      15,
-      16,
-      18,
-      19,
-      27
-    ],
-    "playStylesPlus": [
-      28
-    ],
-    "rolesPlus": [
-      48,
-      111
-    ],
-    "attributes": [
-      78,
-      55,
-      62,
-      64,
-      92,
-      89
-    ],
-    "hasDynamicImage": false,
-    "price": 425000,
-    "resourceId": 138956,
-    "assetId": 138956
   },
   "166906": {
     "name": "Franco Baresi",
@@ -439,7 +349,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 265000,
+    "price": 189000,
     "resourceId": 166906,
     "assetId": 166906
   },
@@ -485,7 +395,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 166000,
+    "price": 138000,
     "resourceId": 173210,
     "assetId": 173210
   },
@@ -527,7 +437,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 40000,
+    "price": 36250,
     "resourceId": 233700,
     "assetId": 233700
   },
@@ -573,7 +483,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 1017000,
+    "price": 468000,
     "resourceId": 238382,
     "assetId": 238382
   },
@@ -619,7 +529,7 @@
       84
     ],
     "hasDynamicImage": false,
-    "price": 2894000,
+    "price": 2998000,
     "resourceId": 238439,
     "assetId": 238439
   },
@@ -664,7 +574,7 @@
       88
     ],
     "hasDynamicImage": false,
-    "price": 161000,
+    "price": 119000,
     "resourceId": 243030,
     "assetId": 243030
   },
@@ -703,7 +613,7 @@
       66
     ],
     "hasDynamicImage": true,
-    "price": 5600,
+    "price": 6600,
     "resourceId": 50418505,
     "assetId": 86857
   },
@@ -748,7 +658,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 126000,
+    "price": 94500,
     "resourceId": 50518275,
     "assetId": 186627
   },
@@ -877,10 +787,58 @@
       80
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 435100,
+    "sbcPrice": 320600,
     "price": 0,
     "resourceId": 50535199,
     "assetId": 203551
+  },
+  "50542583": {
+    "name": "Domenico Berardi",
+    "cardName": "Berardi",
+    "originalVersionId": "33",
+    "clubId": 111974,
+    "leagueId": 31,
+    "countryId": 27,
+    "versionId": "33",
+    "rating": 87,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      10,
+      20,
+      25,
+      6
+    ],
+    "playStylesPlus": [
+      13
+    ],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      135,
+      136,
+      137
+    ],
+    "attributes": [
+      88,
+      87,
+      86,
+      88,
+      42,
+      83
+    ],
+    "hasDynamicImage": true,
+    "price": 15250,
+    "resourceId": 50542583,
+    "assetId": 210935
   },
   "50562269": {
     "name": "Gianluigi Donnarumma",
@@ -920,7 +878,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 43500,
+    "price": 33750,
     "resourceId": 50562269,
     "assetId": 230621
   },
@@ -1071,7 +1029,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 26600,
+    "sbcPrice": 19600,
     "price": 0,
     "resourceId": 50583417,
     "assetId": 251769
@@ -1112,7 +1070,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 17500,
+    "price": 16000,
     "resourceId": 50586951,
     "assetId": 255303
   },
@@ -1282,7 +1240,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 18000,
+    "price": 14500,
     "resourceId": 50598644,
     "assetId": 266996
   },
@@ -1332,7 +1290,7 @@
       67
     ],
     "hasDynamicImage": true,
-    "price": 17750,
+    "price": 16500,
     "resourceId": 50600351,
     "assetId": 268703
   },
@@ -1373,7 +1331,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 16750,
+    "price": 14250,
     "resourceId": 50600829,
     "assetId": 269181
   },
@@ -1414,7 +1372,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 17750,
+    "price": 14500,
     "resourceId": 50600830,
     "assetId": 269182
   },
@@ -1454,7 +1412,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 18000,
+    "price": 16000,
     "resourceId": 50608373,
     "assetId": 276725
   },
@@ -1495,7 +1453,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 17500,
+    "price": 15000,
     "resourceId": 50608975,
     "assetId": 277327
   },
@@ -1544,7 +1502,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 20250,
+    "price": 16750,
     "resourceId": 50609517,
     "assetId": 277869
   },
@@ -1591,7 +1549,7 @@
       68
     ],
     "hasDynamicImage": true,
-    "price": 41250,
+    "price": 37750,
     "resourceId": 50609974,
     "assetId": 278326
   },
@@ -1690,7 +1648,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 150000,
+    "price": 142000,
     "resourceId": 67346247,
     "assetId": 237383
   },
@@ -1803,9 +1761,61 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 601000,
+    "price": 528000,
     "resourceId": 83887168,
     "assetId": 1088
+  },
+  "83887194": {
+    "name": "Roberto Baggio",
+    "cardName": "Baggio",
+    "originalVersionId": "157",
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 27,
+    "versionId": "157",
+    "rating": 92,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      10,
+      13,
+      20,
+      22,
+      3
+    ],
+    "playStylesPlus": [
+      8
+    ],
+    "rolesPlus": [
+      131,
+      132,
+      133,
+      134,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      86,
+      88,
+      91,
+      92,
+      40,
+      67
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 253500,
+    "price": 0,
+    "resourceId": 83887194,
+    "assetId": 1114
   },
   "83887281": {
     "name": "Gianfranco Zola",
@@ -1857,9 +1867,55 @@
       67
     ],
     "hasDynamicImage": true,
-    "price": 1157000,
+    "price": 1008000,
     "resourceId": 83887281,
     "assetId": 1201
+  },
+  "84025036": {
+    "name": "Giorgio Chiellini",
+    "cardName": "Chiellini",
+    "originalVersionId": "157",
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 27,
+    "versionId": "157",
+    "rating": 90,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      14,
+      15,
+      17,
+      18,
+      19,
+      28
+    ],
+    "playStylesPlus": [
+      16
+    ],
+    "rolesPlus": [
+      111,
+      112,
+      113,
+      148
+    ],
+    "attributes": [
+      81,
+      57,
+      65,
+      66,
+      94,
+      91
+    ],
+    "hasDynamicImage": true,
+    "price": 523000,
+    "resourceId": 84025036,
+    "assetId": 138956
   },
   "84116701": {
     "name": "Gianluigi Donnarumma",
@@ -2050,6 +2106,47 @@
     "price": 0,
     "resourceId": 84154783,
     "assetId": 268703
+  },
+  "84155261": {
+    "name": "Diego Coppola",
+    "cardName": "Coppola",
+    "originalVersionId": "19",
+    "clubId": 111817,
+    "leagueId": 16,
+    "countryId": 27,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      16,
+      18,
+      19
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      111,
+      112,
+      113,
+      148
+    ],
+    "attributes": [
+      77,
+      45,
+      66,
+      71,
+      81,
+      82
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84155261,
+    "assetId": 269181
   },
   "84155262": {
     "name": "Antonio Raimondo",

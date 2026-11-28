@@ -55,10 +55,12 @@
     "skillMoves": 4,
     "preferredPosition": "LM",
     "possiblePositions": [
+      "CAM",
       "LM",
       "LW",
       "RM",
-      "RW"
+      "RW",
+      "ST"
     ],
     "playStyles": [
       13,
@@ -79,12 +81,20 @@
       128,
       129,
       130,
+      131,
+      132,
+      133,
+      134,
       135,
       136,
       137,
       138,
       139,
-      140
+      140,
+      141,
+      142,
+      143,
+      144
     ],
     "attributes": [
       95,
@@ -95,7 +105,7 @@
       63
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 48450,
+    "sbcPrice": 34000,
     "price": 0,
     "resourceId": 67350716,
     "assetId": 241852,

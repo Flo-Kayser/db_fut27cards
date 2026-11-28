@@ -1,6 +1,50 @@
 {
   "clubName": "SL Benfica",
   "players": {
+    "50578820": {
+      "name": "Jhon Durán",
+      "cardName": "Durán",
+      "originalVersionId": "33",
+      "clubId": 234,
+      "leagueId": 308,
+      "countryId": 56,
+      "versionId": "33",
+      "rating": 87,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        21,
+        24,
+        29,
+        6
+      ],
+      "playStylesPlus": [
+        4
+      ],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        90,
+        88,
+        78,
+        87,
+        43,
+        91
+      ],
+      "hasDynamicImage": true,
+      "price": 15250,
+      "resourceId": 50578820,
+      "assetId": 247172
+    },
     "50608900": {
       "name": "Samuel Dahl",
       "cardName": "Dahl",
@@ -44,7 +88,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 17750,
+      "price": 14000,
       "resourceId": 50608900,
       "assetId": 277252
     },

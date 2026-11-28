@@ -1,43 +1,4 @@
 {
-  "488": {
-    "name": "Oliver Kahn",
-    "cardName": "Kahn",
-    "originalVersionId": "12",
-    "clubId": 112658,
-    "leagueId": 2118,
-    "countryId": 21,
-    "versionId": "12",
-    "rating": 91,
-    "preferredFoot": "Right",
-    "weakFoot": 2,
-    "skillMoves": 1,
-    "preferredPosition": "GK",
-    "possiblePositions": [
-      "GK"
-    ],
-    "playStyles": [
-      30,
-      33
-    ],
-    "playStylesPlus": [
-      34
-    ],
-    "rolesPlus": [
-      101
-    ],
-    "attributes": [
-      93,
-      86,
-      70,
-      95,
-      57,
-      89
-    ],
-    "hasDynamicImage": false,
-    "price": 433000,
-    "resourceId": 488,
-    "assetId": 488
-  },
   "77676": {
     "name": "Steffi Jones",
     "cardName": "Jones",
@@ -77,7 +38,7 @@
       86
     ],
     "hasDynamicImage": false,
-    "price": 207000,
+    "price": 150000,
     "resourceId": 77676,
     "assetId": 77676
   },
@@ -125,7 +86,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 82000,
+    "price": 59000,
     "resourceId": 81644,
     "assetId": 81644
   },
@@ -172,7 +133,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 316000,
+    "price": 263000,
     "resourceId": 121939,
     "assetId": 121939
   },
@@ -215,7 +176,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 20750,
+    "price": 19000,
     "resourceId": 150418,
     "assetId": 150418
   },
@@ -259,7 +220,7 @@
       85
     ],
     "hasDynamicImage": false,
-    "price": 218000,
+    "price": 138000,
     "resourceId": 166676,
     "assetId": 166676
   },
@@ -307,7 +268,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 1888000,
+    "price": 1540000,
     "resourceId": 168473,
     "assetId": 168473
   },
@@ -355,7 +316,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 400000,
+    "price": 266000,
     "resourceId": 182521,
     "assetId": 182521
   },
@@ -399,7 +360,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 585000,
+    "price": 498000,
     "resourceId": 190048,
     "assetId": 190048
   },
@@ -441,7 +402,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 16500,
+    "price": 14750,
     "resourceId": 215732,
     "assetId": 215732
   },
@@ -479,7 +440,7 @@
       92
     ],
     "hasDynamicImage": false,
-    "price": 187000,
+    "price": 151000,
     "resourceId": 226293,
     "assetId": 226293
   },
@@ -521,7 +482,7 @@
       85
     ],
     "hasDynamicImage": false,
-    "price": 34500,
+    "price": 23500,
     "resourceId": 226306,
     "assetId": 226306
   },
@@ -565,7 +526,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 35000,
+    "price": 25000,
     "resourceId": 226373,
     "assetId": 226373
   },
@@ -614,7 +575,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 2731000,
+    "price": 2594000,
     "resourceId": 238435,
     "assetId": 238435
   },
@@ -656,7 +617,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 107000,
+    "price": 82500,
     "resourceId": 242510,
     "assetId": 242510
   },
@@ -704,7 +665,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 1100000,
+    "price": 1149000,
     "resourceId": 243075,
     "assetId": 243075
   },
@@ -747,7 +708,7 @@
       90
     ],
     "hasDynamicImage": false,
-    "price": 83000,
+    "price": 59500,
     "resourceId": 261593,
     "assetId": 261593
   },
@@ -791,7 +752,7 @@
       88
     ],
     "hasDynamicImage": false,
-    "price": 136000,
+    "price": 111000,
     "resourceId": 275276,
     "assetId": 275276
   },
@@ -844,7 +805,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 17750,
+    "price": 15000,
     "resourceId": 50410330,
     "assetId": 78682
   },
@@ -890,7 +851,7 @@
       50
     ],
     "hasDynamicImage": true,
-    "price": 18000,
+    "price": 14500,
     "resourceId": 50412102,
     "assetId": 80454
   },
@@ -987,7 +948,7 @@
       65
     ],
     "hasDynamicImage": true,
-    "price": 18250,
+    "price": 15500,
     "resourceId": 50519998,
     "assetId": 188350
   },
@@ -1034,6 +995,65 @@
     "price": 0,
     "resourceId": 50521244,
     "assetId": 189596
+  },
+  "50523966": {
+    "name": "Mario Götze",
+    "cardName": "Götze",
+    "originalVersionId": "33",
+    "clubId": 1824,
+    "leagueId": 19,
+    "countryId": 21,
+    "versionId": "33",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      13,
+      22,
+      24,
+      8
+    ],
+    "playStylesPlus": [
+      11
+    ],
+    "rolesPlus": [
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137
+    ],
+    "attributes": [
+      80,
+      83,
+      87,
+      89,
+      76,
+      83
+    ],
+    "hasDynamicImage": true,
+    "price": 10250,
+    "resourceId": 50523966,
+    "assetId": 192318
   },
   "50534077": {
     "name": "Danny da Costa",
@@ -1127,7 +1147,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 13750,
+    "price": 12000,
     "resourceId": 50539510,
     "assetId": 207862
   },
@@ -1186,6 +1206,63 @@
     "resourceId": 50543836,
     "assetId": 212188
   },
+  "50554140": {
+    "name": "Leroy Sané",
+    "cardName": "Leroy Sané",
+    "originalVersionId": "33",
+    "clubId": 325,
+    "leagueId": 68,
+    "countryId": 21,
+    "versionId": "33",
+    "rating": 87,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      2,
+      21,
+      25,
+      8
+    ],
+    "playStylesPlus": [
+      7
+    ],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140
+    ],
+    "attributes": [
+      91,
+      86,
+      85,
+      90,
+      36,
+      73
+    ],
+    "hasDynamicImage": true,
+    "price": 13250,
+    "resourceId": 50554140,
+    "assetId": 222492
+  },
   "50555289": {
     "name": "Timo Baumgartl",
     "cardName": "Baumgartl",
@@ -1223,7 +1300,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 21750,
+    "price": 21000,
     "resourceId": 50555289,
     "assetId": 223641
   },
@@ -1265,7 +1342,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 12250,
+    "price": 11500,
     "resourceId": 50555345,
     "assetId": 223697
   },
@@ -1320,7 +1397,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 17500,
+    "price": 14750,
     "resourceId": 50558003,
     "assetId": 226355
   },
@@ -1402,7 +1479,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 11750,
+    "price": 11500,
     "resourceId": 50573384,
     "assetId": 241736
   },
@@ -1451,7 +1528,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 12500,
+    "price": 12750,
     "resourceId": 50575824,
     "assetId": 244176
   },
@@ -1545,9 +1622,62 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 82500,
+    "price": 99500,
     "resourceId": 50579467,
     "assetId": 247819
+  },
+  "50580365": {
+    "name": "Lena Oberdorf",
+    "cardName": "Oberdorf",
+    "originalVersionId": "33",
+    "clubId": 115995,
+    "leagueId": 2215,
+    "countryId": 21,
+    "versionId": "33",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      17,
+      19,
+      2,
+      24,
+      28,
+      9
+    ],
+    "playStylesPlus": [
+      16
+    ],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      149
+    ],
+    "attributes": [
+      80,
+      68,
+      82,
+      80,
+      88,
+      88
+    ],
+    "hasDynamicImage": true,
+    "price": 22500,
+    "resourceId": 50580365,
+    "assetId": 248717
   },
   "50580470": {
     "name": "Klara Bühl",
@@ -1595,7 +1725,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 26500,
+    "price": 20500,
     "resourceId": 50580470,
     "assetId": 248822
   },
@@ -1720,7 +1850,7 @@
       65
     ],
     "hasDynamicImage": true,
-    "price": 20250,
+    "price": 20500,
     "resourceId": 50588278,
     "assetId": 256630
   },
@@ -1774,7 +1904,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 18000,
+    "price": 17750,
     "resourceId": 50589605,
     "assetId": 257957
   },
@@ -1794,6 +1924,8 @@
     "possiblePositions": [
       "LM",
       "LW",
+      "RM",
+      "RW",
       "ST"
     ],
     "playStyles": [
@@ -1806,10 +1938,17 @@
     ],
     "playStylesPlus": [],
     "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
       127,
       128,
       129,
       130,
+      135,
+      136,
+      137,
       138,
       139,
       140,
@@ -1986,7 +2125,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 15250,
     "resourceId": 50596668,
     "assetId": 265020
   },
@@ -2174,7 +2313,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 13250,
     "resourceId": 50598543,
     "assetId": 266895
   },
@@ -2222,7 +2361,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 124000,
+    "price": 117000,
     "resourceId": 50601349,
     "assetId": 269701
   },
@@ -2277,7 +2416,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "price": 17500,
+    "price": 14750,
     "resourceId": 50601353,
     "assetId": 269705
   },
@@ -2399,7 +2538,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 12000,
+    "price": 11750,
     "resourceId": 50603487,
     "assetId": 271839
   },
@@ -2441,7 +2580,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 14000,
     "resourceId": 50603924,
     "assetId": 272276
   },
@@ -2559,7 +2698,7 @@
       71
     ],
     "hasDynamicImage": true,
-    "price": 17500,
+    "price": 14750,
     "resourceId": 50605215,
     "assetId": 273567
   },
@@ -2608,7 +2747,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "price": 42500,
+    "price": 44750,
     "resourceId": 50605774,
     "assetId": 274126
   },
@@ -2811,7 +2950,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 14000,
+    "sbcPrice": 10300,
     "price": 0,
     "resourceId": 67314295,
     "assetId": 205431
@@ -2854,7 +2993,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 11800,
+    "sbcPrice": 8700,
     "price": 0,
     "resourceId": 67335093,
     "assetId": 226229
@@ -3062,7 +3201,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 17250,
+    "price": 15750,
     "resourceId": 67370604,
     "assetId": 261740
   },
@@ -3102,7 +3241,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 14250,
     "resourceId": 67371523,
     "assetId": 262659
   },
@@ -3150,9 +3289,52 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 18750,
+    "price": 15000,
     "resourceId": 67371770,
     "assetId": 262906
+  },
+  "83886568": {
+    "name": "Oliver Kahn",
+    "cardName": "Kahn",
+    "originalVersionId": "157",
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 21,
+    "versionId": "157",
+    "rating": 92,
+    "preferredFoot": "Right",
+    "weakFoot": 2,
+    "skillMoves": 1,
+    "preferredPosition": "GK",
+    "possiblePositions": [
+      "GK"
+    ],
+    "playStyles": [
+      30,
+      31,
+      34,
+      35
+    ],
+    "playStylesPlus": [
+      33
+    ],
+    "rolesPlus": [
+      101,
+      102,
+      145
+    ],
+    "attributes": [
+      94,
+      87,
+      72,
+      96,
+      60,
+      90
+    ],
+    "hasDynamicImage": true,
+    "price": 655000,
+    "resourceId": 83886568,
+    "assetId": 488
   },
   "83964762": {
     "name": "Svea Stoldt",
@@ -3413,7 +3595,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 281000,
+    "price": 247000,
     "resourceId": 84112387,
     "assetId": 226307
   },
@@ -3731,6 +3913,48 @@
     "resourceId": 84155785,
     "assetId": 269705
   },
+  "84158356": {
+    "name": "Kara Bathmann",
+    "cardName": "Bathmann",
+    "originalVersionId": "19",
+    "clubId": 132866,
+    "leagueId": 2215,
+    "countryId": 21,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "RB"
+    ],
+    "playStyles": [
+      16,
+      2,
+      28
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      146
+    ],
+    "attributes": [
+      81,
+      72,
+      76,
+      74,
+      80,
+      82
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84158356,
+    "assetId": 272276
+  },
   "100925036": {
     "name": "Jule Brand",
     "cardName": "Brand",
@@ -3784,5 +4008,45 @@
     "price": 0,
     "resourceId": 100925036,
     "assetId": 261740
+  },
+  "100925955": {
+    "name": "Noah Atubolu",
+    "cardName": "Atubolu",
+    "originalVersionId": "19",
+    "clubId": 1824,
+    "leagueId": 19,
+    "countryId": 21,
+    "versionId": "19",
+    "rating": 81,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 1,
+    "preferredPosition": "GK",
+    "possiblePositions": [
+      "GK"
+    ],
+    "playStyles": [
+      10,
+      33,
+      34
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      101,
+      102,
+      145
+    ],
+    "attributes": [
+      82,
+      78,
+      81,
+      83,
+      57,
+      80
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 100925955,
+    "assetId": 262659
   }
 }

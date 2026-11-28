@@ -45,7 +45,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 17000,
+      "price": 14250,
       "resourceId": 50571130,
       "assetId": 239482
     },
@@ -64,6 +64,8 @@
       "preferredPosition": "CB",
       "possiblePositions": [
         "CB",
+        "CDM",
+        "LB",
         "RB"
       ],
       "playStyles": [
@@ -81,11 +83,21 @@
         104,
         105,
         106,
+        107,
+        108,
+        109,
+        110,
         111,
         112,
         113,
+        114,
+        115,
+        116,
+        117,
         146,
-        148
+        147,
+        148,
+        149
       ],
       "attributes": [
         88,
@@ -96,9 +108,57 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 42250,
+      "price": 43000,
       "resourceId": 50578905,
       "assetId": 247257
+    },
+    "84125562": {
+      "name": "Galeno",
+      "cardName": "Galeno",
+      "originalVersionId": "19",
+      "clubId": 112387,
+      "leagueId": 350,
+      "countryId": 54,
+      "versionId": "19",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        21,
+        22,
+        25,
+        26,
+        27,
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        92,
+        80,
+        80,
+        84,
+        48,
+        73
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 84125562,
+      "assetId": 239482
     }
   }
 }

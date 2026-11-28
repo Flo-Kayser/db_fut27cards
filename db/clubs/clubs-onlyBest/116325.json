@@ -68,7 +68,7 @@
         50
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 350,
       "resourceId": 71784,
       "assetId": 71784
     },
@@ -142,7 +142,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 78357,
       "assetId": 78357
     },
@@ -178,7 +178,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 79675,
       "assetId": 79675
     },
@@ -216,7 +216,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 250,
       "resourceId": 81289,
       "assetId": 81289
     },
@@ -250,7 +250,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 250,
       "resourceId": 83800,
       "assetId": 83800
     },
@@ -293,7 +293,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 9900,
+      "price": 5900,
       "resourceId": 227190,
       "assetId": 227190
     },
@@ -332,7 +332,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 227191,
       "assetId": 227191
     },
@@ -377,7 +377,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 40250,
+      "price": 29250,
       "resourceId": 241667,
       "assetId": 241667
     },
@@ -424,54 +424,6 @@
       "resourceId": 253435,
       "assetId": 253435
     },
-    "262531": {
-      "name": "Claudia Pina",
-      "cardName": "Claudia Pina",
-      "originalVersionId": "0",
-      "clubId": 116325,
-      "leagueId": 2222,
-      "countryId": 45,
-      "versionId": "2002",
-      "rating": 89,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 4,
-      "preferredPosition": "LW",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "ST"
-      ],
-      "playStyles": [
-        11,
-        2,
-        20,
-        3,
-        7,
-        8
-      ],
-      "playStylesPlus": [
-        0
-      ],
-      "rolesPlus": [
-        30,
-        40,
-        139,
-        141
-      ],
-      "attributes": [
-        91,
-        89,
-        84,
-        88,
-        45,
-        73
-      ],
-      "hasDynamicImage": false,
-      "price": 370000,
-      "resourceId": 262531,
-      "assetId": 262531
-    },
     "268942": {
       "name": "Cata Coll",
       "cardName": "Cata Coll",
@@ -504,7 +456,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 3200,
+      "price": 2500,
       "resourceId": 268942,
       "assetId": 268942
     },
@@ -538,7 +490,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 200,
       "resourceId": 268943,
       "assetId": 268943
     },
@@ -574,7 +526,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 200,
       "resourceId": 268947,
       "assetId": 268947
     },
@@ -612,7 +564,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 279890,
       "assetId": 279890
     },
@@ -631,8 +583,10 @@
       "preferredPosition": "RW",
       "possiblePositions": [
         "CAM",
+        "LW",
         "RM",
-        "RW"
+        "RW",
+        "ST"
       ],
       "playStyles": [
         10,
@@ -655,7 +609,14 @@
         134,
         135,
         136,
-        137
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
       ],
       "attributes": [
         89,
@@ -666,7 +627,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 629000,
+      "price": 729000,
       "resourceId": 50558750,
       "assetId": 227102
     },
@@ -718,7 +679,7 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 438000,
+      "price": 267000,
       "resourceId": 50568937,
       "assetId": 237289
     },
@@ -775,7 +736,7 @@
         72
       ],
       "hasDynamicImage": true,
-      "price": 589000,
+      "price": 500000,
       "resourceId": 50573315,
       "assetId": 241667
     },
@@ -834,7 +795,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 229000,
+      "price": 131000,
       "resourceId": 50573494,
       "assetId": 241846
     },
@@ -889,65 +850,9 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 112000,
+      "price": 53000,
       "resourceId": 50593503,
       "assetId": 261855
-    },
-    "50594179": {
-      "name": "Claudia Pina",
-      "cardName": "Claudia Pina",
-      "originalVersionId": "177",
-      "clubId": 116325,
-      "leagueId": 2222,
-      "countryId": 45,
-      "versionId": "177",
-      "rating": 89,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 4,
-      "preferredPosition": "LW",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "ST"
-      ],
-      "playStyles": [
-        1,
-        11,
-        2,
-        20,
-        7,
-        8
-      ],
-      "playStylesPlus": [
-        0
-      ],
-      "rolesPlus": [
-        127,
-        128,
-        129,
-        130,
-        138,
-        139,
-        140,
-        141,
-        142,
-        143,
-        144
-      ],
-      "attributes": [
-        91,
-        89,
-        85,
-        89,
-        45,
-        74
-      ],
-      "hasDynamicImage": true,
-      "sbcPrice": 1491200,
-      "price": 0,
-      "resourceId": 50594179,
-      "assetId": 262531
     },
     "50598882": {
       "name": "Kerolin Nicoli",
@@ -1001,7 +906,7 @@
         79
       ],
       "hasDynamicImage": true,
-      "price": 17250,
+      "price": 14500,
       "resourceId": 50598882,
       "assetId": 267234
     },
@@ -1069,7 +974,7 @@
         66
       ],
       "hasDynamicImage": true,
-      "price": 986000,
+      "price": 951000,
       "resourceId": 50603094,
       "assetId": 271446
     },
@@ -1139,6 +1044,61 @@
       "resourceId": 50609347,
       "assetId": 277699
     },
+    "67371395": {
+      "name": "Claudia Pina",
+      "cardName": "Claudia Pina",
+      "originalVersionId": "33",
+      "clubId": 116325,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "33",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        11,
+        20,
+        25,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        6
+      ],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        93,
+        92,
+        87,
+        90,
+        47,
+        75
+      ],
+      "hasDynamicImage": true,
+      "price": 3101000,
+      "resourceId": 67371395,
+      "assetId": 262531
+    },
     "67376394": {
       "name": "Esmee Brugts",
       "cardName": "Brugts",
@@ -1202,7 +1162,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 47500,
+      "price": 43500,
       "resourceId": 67376394,
       "assetId": 267530
     },

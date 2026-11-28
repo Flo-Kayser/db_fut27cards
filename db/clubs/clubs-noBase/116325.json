@@ -16,8 +16,10 @@
       "preferredPosition": "RW",
       "possiblePositions": [
         "CAM",
+        "LW",
         "RM",
-        "RW"
+        "RW",
+        "ST"
       ],
       "playStyles": [
         10,
@@ -40,7 +42,14 @@
         134,
         135,
         136,
-        137
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
       ],
       "attributes": [
         89,
@@ -51,7 +60,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 629000,
+      "price": 729000,
       "resourceId": 50558750,
       "assetId": 227102
     },
@@ -103,7 +112,7 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 438000,
+      "price": 267000,
       "resourceId": 50568937,
       "assetId": 237289
     },
@@ -160,7 +169,7 @@
         72
       ],
       "hasDynamicImage": true,
-      "price": 589000,
+      "price": 500000,
       "resourceId": 50573315,
       "assetId": 241667
     },
@@ -219,7 +228,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 229000,
+      "price": 131000,
       "resourceId": 50573494,
       "assetId": 241846
     },
@@ -274,7 +283,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 112000,
+      "price": 53000,
       "resourceId": 50593503,
       "assetId": 261855
     },
@@ -386,7 +395,7 @@
         79
       ],
       "hasDynamicImage": true,
-      "price": 17250,
+      "price": 14500,
       "resourceId": 50598882,
       "assetId": 267234
     },
@@ -454,7 +463,7 @@
         66
       ],
       "hasDynamicImage": true,
-      "price": 986000,
+      "price": 951000,
       "resourceId": 50603094,
       "assetId": 271446
     },
@@ -524,6 +533,61 @@
       "resourceId": 50609347,
       "assetId": 277699
     },
+    "67371395": {
+      "name": "Claudia Pina",
+      "cardName": "Claudia Pina",
+      "originalVersionId": "33",
+      "clubId": 116325,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "33",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        11,
+        20,
+        25,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        6
+      ],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        93,
+        92,
+        87,
+        90,
+        47,
+        75
+      ],
+      "hasDynamicImage": true,
+      "price": 3101000,
+      "resourceId": 67371395,
+      "assetId": 262531
+    },
     "67376394": {
       "name": "Esmee Brugts",
       "cardName": "Brugts",
@@ -587,7 +651,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 47500,
+      "price": 43500,
       "resourceId": 67376394,
       "assetId": 267530
     },

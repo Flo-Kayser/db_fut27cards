@@ -33,51 +33,9 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 7800,
+      "price": 5600,
       "resourceId": 71651,
       "assetId": 71651
-    },
-    "76687": {
-      "name": "Estêvão",
-      "cardName": "Estêvão",
-      "originalVersionId": "0",
-      "clubId": 5,
-      "leagueId": 13,
-      "countryId": 54,
-      "versionId": "2002",
-      "rating": 80,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "RM",
-      "possiblePositions": [
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        0,
-        13,
-        20,
-        25
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        25,
-        26,
-        36
-      ],
-      "attributes": [
-        89,
-        76,
-        75,
-        84,
-        33,
-        57
-      ],
-      "hasDynamicImage": false,
-      "price": 650,
-      "resourceId": 76687,
-      "assetId": 76687
     },
     "186146": {
       "name": "Danny Welbeck",
@@ -113,51 +71,9 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 186146,
       "assetId": 186146
-    },
-    "238074": {
-      "name": "Reece James",
-      "cardName": "James",
-      "originalVersionId": "0",
-      "clubId": 5,
-      "leagueId": 13,
-      "countryId": 14,
-      "versionId": "2002",
-      "rating": 84,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "RB",
-      "possiblePositions": [
-        "CDM",
-        "CM",
-        "RB"
-      ],
-      "playStyles": [
-        12,
-        14,
-        28
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        16,
-        20,
-        104
-      ],
-      "attributes": [
-        76,
-        71,
-        83,
-        78,
-        83,
-        82
-      ],
-      "hasDynamicImage": false,
-      "price": 1100,
-      "resourceId": 238074,
-      "assetId": 238074
     },
     "248158": {
       "name": "Gabriel Slonina",
@@ -189,7 +105,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 400,
       "resourceId": 248158,
       "assetId": 248158
     },
@@ -228,7 +144,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 248695,
       "assetId": 248695
     },
@@ -313,7 +229,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 6800,
+      "price": 4100,
       "resourceId": 256079,
       "assetId": 256079
     },
@@ -347,7 +263,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 500,
       "resourceId": 257126,
       "assetId": 257126
     },
@@ -387,7 +303,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 258371,
       "assetId": 258371
     },
@@ -502,7 +418,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 262859,
       "assetId": 262859
     },
@@ -727,7 +643,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 400,
       "resourceId": 278455,
       "assetId": 278455
     },
@@ -778,6 +694,60 @@
       "resourceId": 279044,
       "assetId": 279044
     },
+    "50408335": {
+      "name": "Estêvão",
+      "cardName": "Estêvão",
+      "originalVersionId": "33",
+      "clubId": 5,
+      "leagueId": 13,
+      "countryId": 54,
+      "versionId": "33",
+      "rating": 89,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        12,
+        13,
+        25,
+        7
+      ],
+      "playStylesPlus": [
+        20
+      ],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137
+      ],
+      "attributes": [
+        96,
+        84,
+        84,
+        92,
+        43,
+        68
+      ],
+      "hasDynamicImage": true,
+      "price": 277000,
+      "resourceId": 50408335,
+      "assetId": 76687
+    },
     "50515359": {
       "name": "Jordan Henderson",
       "cardName": "Henderson",
@@ -822,7 +792,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 17250,
+      "price": 15750,
       "resourceId": 50515359,
       "assetId": 183711
     },
@@ -861,9 +831,66 @@
         85
       ],
       "hasDynamicImage": false,
-      "price": 3300,
+      "price": 2100,
       "resourceId": 50534459,
       "assetId": 202811
+    },
+    "50569722": {
+      "name": "Reece James",
+      "cardName": "James",
+      "originalVersionId": "33",
+      "clubId": 5,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "33",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CDM",
+        "CM",
+        "RB"
+      ],
+      "playStyles": [
+        12,
+        14,
+        16,
+        28,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        103,
+        104,
+        105,
+        106,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        146,
+        149
+      ],
+      "attributes": [
+        82,
+        78,
+        85,
+        81,
+        87,
+        87
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 63500,
+      "price": 0,
+      "resourceId": 50569722,
+      "assetId": 238074
     },
     "50570264": {
       "name": "Pedro Neto",
@@ -915,7 +942,7 @@
         74
       ],
       "hasDynamicImage": true,
-      "price": 172000,
+      "price": 156000,
       "resourceId": 50570264,
       "assetId": 238616
     },
@@ -1017,7 +1044,7 @@
         66
       ],
       "hasDynamicImage": true,
-      "price": 206000,
+      "price": 207000,
       "resourceId": 50589182,
       "assetId": 257534
     },
@@ -1075,7 +1102,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 90500,
+      "price": 86500,
       "resourceId": 50591895,
       "assetId": 260247
     },
@@ -1128,7 +1155,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 27000,
+      "price": 14000,
       "resourceId": 50604626,
       "assetId": 272978
     },
@@ -1173,7 +1200,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 2300,
+      "price": 1300,
       "resourceId": 50606207,
       "assetId": 274559
     },

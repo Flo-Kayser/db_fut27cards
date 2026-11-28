@@ -47,7 +47,7 @@
         68
       ],
       "hasDynamicImage": true,
-      "price": 17250,
+      "price": 14000,
       "resourceId": 50554313,
       "assetId": 222665
     },
@@ -89,7 +89,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 38250,
+      "price": 39250,
       "resourceId": 50559326,
       "assetId": 227678
     },
@@ -136,54 +136,9 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 18250,
+      "price": 16250,
       "resourceId": 50563584,
       "assetId": 231936
-    },
-    "50564228": {
-      "name": "Gabriel",
-      "cardName": "Gabriel",
-      "originalVersionId": "3",
-      "clubId": 1,
-      "leagueId": 13,
-      "countryId": 54,
-      "versionId": "3",
-      "rating": 90,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [
-        14,
-        15,
-        18,
-        28,
-        4
-      ],
-      "playStylesPlus": [
-        19
-      ],
-      "rolesPlus": [
-        111,
-        112,
-        113,
-        148
-      ],
-      "attributes": [
-        76,
-        45,
-        66,
-        70,
-        92,
-        85
-      ],
-      "hasDynamicImage": true,
-      "price": 73500,
-      "resourceId": 50564228,
-      "assetId": 232580
     },
     "50573299": {
       "name": "Viktor Gyökeres",
@@ -225,7 +180,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 16750,
+      "price": 14500,
       "resourceId": 50573299,
       "assetId": 241651
     },
@@ -389,7 +344,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 301000,
+      "price": 258000,
       "resourceId": 50610421,
       "assetId": 278773
     },
@@ -431,7 +386,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 48500,
+      "price": 48250,
       "resourceId": 67329765,
       "assetId": 220901
     },
@@ -482,15 +437,15 @@
       "resourceId": 84118016,
       "assetId": 231936
     },
-    "84118660": {
+    "117673092": {
       "name": "Gabriel",
       "cardName": "Gabriel",
-      "originalVersionId": "19",
+      "originalVersionId": "33",
       "clubId": 1,
       "leagueId": 13,
       "countryId": 54,
-      "versionId": "19",
-      "rating": 90,
+      "versionId": "33",
+      "rating": 91,
       "preferredFoot": "Left",
       "weakFoot": 3,
       "skillMoves": 2,
@@ -499,14 +454,14 @@
         "CB"
       ],
       "playStyles": [
-        14,
         15,
-        18,
+        16,
+        19,
         28,
         4
       ],
       "playStylesPlus": [
-        19
+        14
       ],
       "rolesPlus": [
         111,
@@ -515,16 +470,16 @@
         148
       ],
       "attributes": [
-        76,
-        45,
-        66,
+        81,
+        46,
         70,
-        92,
-        85
+        75,
+        93,
+        88
       ],
-      "hasDynamicImage": false,
-      "price": 0,
-      "resourceId": 84118660,
+      "hasDynamicImage": true,
+      "price": 227000,
+      "resourceId": 117673092,
       "assetId": 232580
     }
   }

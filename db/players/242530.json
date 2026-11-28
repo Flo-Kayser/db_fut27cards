@@ -35,7 +35,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 650,
+    "price": 700,
     "resourceId": 242530,
     "assetId": 242530,
     "originalVersionId": 0
@@ -88,10 +88,63 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 15500,
     "resourceId": 50574178,
     "assetId": 242530,
     "originalVersionId": 3
+  },
+  "84128610": {
+    "clubId": 8,
+    "leagueId": 13,
+    "countryId": 47,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      21,
+      25,
+      6
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      90,
+      80,
+      75,
+      82,
+      35,
+      76
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84128610,
+    "assetId": 242530,
+    "originalVersionId": 19
   },
   "cardName": "Okafor",
   "name": "Noah Okafor"

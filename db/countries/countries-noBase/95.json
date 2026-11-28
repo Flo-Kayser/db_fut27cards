@@ -45,7 +45,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 27750,
+    "price": 18250,
     "resourceId": 7743,
     "assetId": 7743
   },
@@ -84,7 +84,7 @@
       84
     ],
     "hasDynamicImage": false,
-    "price": 35500,
+    "price": 27000,
     "resourceId": 16254,
     "assetId": 16254
   },
@@ -129,7 +129,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 27250,
+    "price": 18250,
     "resourceId": 39386,
     "assetId": 39386
   },
@@ -176,7 +176,7 @@
       81
     ],
     "hasDynamicImage": false,
-    "price": 196000,
+    "price": 137000,
     "resourceId": 71608,
     "assetId": 71608
   },
@@ -223,7 +223,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 18000,
+    "price": 14500,
     "resourceId": 155897,
     "assetId": 155897
   },
@@ -268,7 +268,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 1719000,
+    "price": 1565000,
     "resourceId": 226301,
     "assetId": 226301
   },
@@ -318,7 +318,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 714000,
+    "price": 599000,
     "resourceId": 226330,
     "assetId": 226330
   },
@@ -365,7 +365,7 @@
       81
     ],
     "hasDynamicImage": false,
-    "price": 4422000,
+    "price": 4869000,
     "resourceId": 275243,
     "assetId": 275243
   },
@@ -424,7 +424,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 17250,
+    "price": 15500,
     "resourceId": 50405513,
     "assetId": 73865
   },
@@ -657,6 +657,8 @@
     "preferredPosition": "ST",
     "possiblePositions": [
       "CAM",
+      "LM",
+      "LW",
       "RM",
       "RW",
       "ST"
@@ -675,6 +677,10 @@
       124,
       125,
       126,
+      127,
+      128,
+      129,
+      130,
       131,
       132,
       133,
@@ -682,6 +688,9 @@
       135,
       136,
       137,
+      138,
+      139,
+      140,
       141,
       142,
       143,
@@ -696,7 +705,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 21500,
+    "price": 23750,
     "resourceId": 50559444,
     "assetId": 227796
   },
@@ -818,7 +827,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 13750,
+    "price": 13500,
     "resourceId": 50570392,
     "assetId": 238744
   },
@@ -866,7 +875,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 15750,
+    "price": 13000,
     "resourceId": 50573144,
     "assetId": 241496
   },
@@ -917,7 +926,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 17250,
+    "price": 14250,
     "resourceId": 50574555,
     "assetId": 242907
   },
@@ -971,7 +980,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 5700,
+    "price": 5600,
     "resourceId": 50578973,
     "assetId": 247325
   },
@@ -1021,7 +1030,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 17250,
     "resourceId": 50586853,
     "assetId": 255205
   },
@@ -1076,9 +1085,75 @@
       66
     ],
     "hasDynamicImage": true,
-    "price": 17750,
+    "price": 16250,
     "resourceId": 50586923,
     "assetId": 255275
+  },
+  "50588501": {
+    "name": "Malik Tillman",
+    "cardName": "Tillman",
+    "originalVersionId": "33",
+    "clubId": 32,
+    "leagueId": 19,
+    "countryId": 95,
+    "versionId": "33",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM",
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      0,
+      13,
+      2,
+      22,
+      7
+    ],
+    "playStylesPlus": [
+      8
+    ],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      138,
+      139,
+      140,
+      149
+    ],
+    "attributes": [
+      83,
+      88,
+      88,
+      89,
+      76,
+      85
+    ],
+    "hasDynamicImage": true,
+    "price": 17000,
+    "resourceId": 50588501,
+    "assetId": 256853
   },
   "50595660": {
     "name": "Sophia Wilson",
@@ -1125,7 +1200,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 148000,
+    "price": 85000,
     "resourceId": 50595660,
     "assetId": 264012
   },
@@ -1238,7 +1313,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 20750,
+    "price": 16250,
     "resourceId": 50598576,
     "assetId": 266928
   },
@@ -1286,7 +1361,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 14250,
     "resourceId": 50598916,
     "assetId": 267268
   },
@@ -1346,7 +1421,7 @@
       92
     ],
     "hasDynamicImage": true,
-    "price": 14250,
+    "price": 13750,
     "resourceId": 50599032,
     "assetId": 267384
   },
@@ -1448,7 +1523,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 34000,
+    "price": 29750,
     "resourceId": 50605114,
     "assetId": 273466
   },
@@ -1546,7 +1621,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 17250,
+    "price": 15750,
     "resourceId": 50606461,
     "assetId": 274813
   },
@@ -1654,7 +1729,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 11750,
+    "price": 12000,
     "resourceId": 50609599,
     "assetId": 277951
   },
@@ -1818,7 +1893,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 17250,
+    "price": 14750,
     "resourceId": 50611460,
     "assetId": 279812
   },
@@ -1933,7 +2008,7 @@
       71
     ],
     "hasDynamicImage": true,
-    "price": 18000,
+    "price": 14000,
     "resourceId": 67379904,
     "assetId": 271040
   },
@@ -2211,6 +2286,54 @@
     "resourceId": 84153008,
     "assetId": 266928
   },
+  "84153348": {
+    "name": "Vanessa DiBernardo",
+    "cardName": "DiBernardo",
+    "originalVersionId": "19",
+    "clubId": 116309,
+    "leagueId": 2221,
+    "countryId": 95,
+    "versionId": "19",
+    "rating": 82,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      3,
+      8,
+      9
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      149
+    ],
+    "attributes": [
+      80,
+      80,
+      83,
+      85,
+      70,
+      72
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84153348,
+    "assetId": 267268
+  },
   "84161323": {
     "name": "Mia Hamm",
     "cardName": "Hamm",
@@ -2262,7 +2385,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 6250000,
+    "price": 6721000,
     "resourceId": 84161323,
     "assetId": 275243
   },

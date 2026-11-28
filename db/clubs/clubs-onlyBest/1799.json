@@ -76,7 +76,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 850,
       "resourceId": 74133,
       "assetId": 74133
     },
@@ -148,7 +148,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 300,
       "resourceId": 203824,
       "assetId": 203824
     },
@@ -225,7 +225,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 650,
       "resourceId": 213991,
       "assetId": 213991
     },
@@ -259,7 +259,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 215223,
       "assetId": 215223
     },
@@ -295,7 +295,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 232730,
       "assetId": 232730
     },
@@ -338,7 +338,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 900,
       "resourceId": 232938,
       "assetId": 232938
     },
@@ -453,7 +453,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 236461,
       "assetId": 236461
     },
@@ -489,7 +489,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 850,
       "resourceId": 236988,
       "assetId": 236988
     },
@@ -603,7 +603,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 650,
       "resourceId": 242619,
       "assetId": 242619
     },
@@ -645,7 +645,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 1800,
       "resourceId": 243282,
       "assetId": 243282
     },
@@ -683,7 +683,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 250954,
       "assetId": 250954
     },
@@ -756,52 +756,9 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 250,
       "resourceId": 258490,
       "assetId": 258490
-    },
-    "259240": {
-      "name": "Adam Wharton",
-      "cardName": "Wharton",
-      "originalVersionId": "0",
-      "clubId": 1799,
-      "leagueId": 13,
-      "countryId": 14,
-      "versionId": "2002",
-      "rating": 82,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        11,
-        13,
-        22,
-        24
-      ],
-      "playStylesPlus": [
-        8
-      ],
-      "rolesPlus": [
-        16,
-        20
-      ],
-      "attributes": [
-        54,
-        63,
-        85,
-        80,
-        77,
-        69
-      ],
-      "hasDynamicImage": false,
-      "price": 750,
-      "resourceId": 259240,
-      "assetId": 259240
     },
     "259377": {
       "name": "Yeremy Pino",
@@ -842,7 +799,7 @@
         51
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 259377,
       "assetId": 259377
     },
@@ -1004,7 +961,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 300,
       "resourceId": 278875,
       "assetId": 278875
     },
@@ -1041,7 +998,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 350,
       "resourceId": 50406131,
       "assetId": 74483
     },
@@ -1079,7 +1036,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 750,
       "resourceId": 50561590,
       "assetId": 229942
     },
@@ -1117,7 +1074,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 50561632,
       "assetId": 229984
     },
@@ -1164,6 +1121,58 @@
       "resourceId": 50583454,
       "assetId": 251806
     },
+    "50590888": {
+      "name": "Adam Wharton",
+      "cardName": "Wharton",
+      "originalVersionId": "33",
+      "clubId": 1799,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "33",
+      "rating": 87,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        11,
+        13,
+        22,
+        24,
+        8
+      ],
+      "playStylesPlus": [
+        16
+      ],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        149
+      ],
+      "attributes": [
+        77,
+        83,
+        88,
+        86,
+        88,
+        86
+      ],
+      "hasDynamicImage": true,
+      "price": 22500,
+      "resourceId": 50590888,
+      "assetId": 259240
+    },
     "50609660": {
       "name": "Darío Osorio",
       "cardName": "Osorio",
@@ -1206,7 +1215,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 350,
       "resourceId": 50609660,
       "assetId": 278012
     }

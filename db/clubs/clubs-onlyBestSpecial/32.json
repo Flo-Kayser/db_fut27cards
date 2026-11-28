@@ -100,6 +100,72 @@
       "resourceId": 50560461,
       "assetId": 228813
     },
+    "50588501": {
+      "name": "Malik Tillman",
+      "cardName": "Tillman",
+      "originalVersionId": "33",
+      "clubId": 32,
+      "leagueId": 19,
+      "countryId": 95,
+      "versionId": "33",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        0,
+        13,
+        2,
+        22,
+        7
+      ],
+      "playStylesPlus": [
+        8
+      ],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        138,
+        139,
+        140,
+        149
+      ],
+      "attributes": [
+        83,
+        88,
+        88,
+        89,
+        76,
+        85
+      ],
+      "hasDynamicImage": true,
+      "price": 17000,
+      "resourceId": 50588501,
+      "assetId": 256853
+    },
     "50593513": {
       "name": "Miguel Gutiérrez",
       "cardName": "Miguel Gutiérrez",
@@ -243,7 +309,7 @@
         72
       ],
       "hasDynamicImage": true,
-      "price": 17000,
+      "price": 14250,
       "resourceId": 50608549,
       "assetId": 276901
     },
@@ -261,10 +327,12 @@
       "skillMoves": 4,
       "preferredPosition": "LM",
       "possiblePositions": [
+        "CAM",
         "LM",
         "LW",
         "RM",
-        "RW"
+        "RW",
+        "ST"
       ],
       "playStyles": [
         13,
@@ -285,12 +353,20 @@
         128,
         129,
         130,
+        131,
+        132,
+        133,
+        134,
         135,
         136,
         137,
         138,
         139,
-        140
+        140,
+        141,
+        142,
+        143,
+        144
       ],
       "attributes": [
         95,
@@ -301,10 +377,55 @@
         63
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 48450,
+      "sbcPrice": 34000,
       "price": 0,
       "resourceId": 67350716,
       "assetId": 241852
+    },
+    "84162981": {
+      "name": "Afonso Moreira",
+      "cardName": "Afonso Moreira",
+      "originalVersionId": "19",
+      "clubId": 32,
+      "leagueId": 19,
+      "countryId": 38,
+      "versionId": "19",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        0,
+        25,
+        26
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        90,
+        78,
+        75,
+        82,
+        52,
+        72
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 84162981,
+      "assetId": 276901
     }
   }
 }

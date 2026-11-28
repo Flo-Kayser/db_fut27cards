@@ -1,6 +1,60 @@
 {
   "clubName": "Chelsea",
   "players": {
+    "50408335": {
+      "name": "Estêvão",
+      "cardName": "Estêvão",
+      "originalVersionId": "33",
+      "clubId": 5,
+      "leagueId": 13,
+      "countryId": 54,
+      "versionId": "33",
+      "rating": 89,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        12,
+        13,
+        25,
+        7
+      ],
+      "playStylesPlus": [
+        20
+      ],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137
+      ],
+      "attributes": [
+        96,
+        84,
+        84,
+        92,
+        43,
+        68
+      ],
+      "hasDynamicImage": true,
+      "price": 277000,
+      "resourceId": 50408335,
+      "assetId": 76687
+    },
     "50515359": {
       "name": "Jordan Henderson",
       "cardName": "Henderson",
@@ -45,9 +99,66 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 17250,
+      "price": 15750,
       "resourceId": 50515359,
       "assetId": 183711
+    },
+    "50569722": {
+      "name": "Reece James",
+      "cardName": "James",
+      "originalVersionId": "33",
+      "clubId": 5,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "33",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CDM",
+        "CM",
+        "RB"
+      ],
+      "playStyles": [
+        12,
+        14,
+        16,
+        28,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        103,
+        104,
+        105,
+        106,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        146,
+        149
+      ],
+      "attributes": [
+        82,
+        78,
+        85,
+        81,
+        87,
+        87
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 63500,
+      "price": 0,
+      "resourceId": 50569722,
+      "assetId": 238074
     },
     "50570264": {
       "name": "Pedro Neto",
@@ -99,7 +210,7 @@
         74
       ],
       "hasDynamicImage": true,
-      "price": 172000,
+      "price": 156000,
       "resourceId": 50570264,
       "assetId": 238616
     },
@@ -201,7 +312,7 @@
         66
       ],
       "hasDynamicImage": true,
-      "price": 206000,
+      "price": 207000,
       "resourceId": 50589182,
       "assetId": 257534
     },
@@ -259,7 +370,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 90500,
+      "price": 86500,
       "resourceId": 50591895,
       "assetId": 260247
     },
@@ -312,7 +423,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 27000,
+      "price": 14000,
       "resourceId": 50604626,
       "assetId": 272978
     },
@@ -519,7 +630,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 18750,
+      "price": 15500,
       "resourceId": 84146327,
       "assetId": 260247
     },

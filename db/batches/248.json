@@ -47,7 +47,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 6250000,
+    "price": 6721000,
     "resourceId": 84161323,
     "assetId": 275243,
     "cardName": "Hamm",
@@ -104,7 +104,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 815000,
+    "price": 754000,
     "resourceId": 84113055,
     "assetId": 226975,
     "cardName": "Seger",
@@ -167,7 +167,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 1879000,
+    "price": 1859000,
     "resourceId": 84112844,
     "assetId": 226764,
     "cardName": "Best",
@@ -185,8 +185,10 @@
     "preferredPosition": "RW",
     "possiblePositions": [
       "CAM",
+      "LW",
       "RM",
-      "RW"
+      "RW",
+      "ST"
     ],
     "playStyles": [
       0,
@@ -210,7 +212,14 @@
       134,
       135,
       136,
-      137
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
     ],
     "attributes": [
       90,
@@ -221,7 +230,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 2401000,
+    "price": 2416000,
     "resourceId": 117718155,
     "assetId": 277643,
     "cardName": "Lamine Yamal",
@@ -276,7 +285,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 576000,
+    "price": 515000,
     "resourceId": 84076126,
     "assetId": 190046,
     "cardName": "Sócrates",
@@ -326,7 +335,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 601000,
+    "price": 528000,
     "resourceId": 83887168,
     "assetId": 1088,
     "cardName": "Nesta",
@@ -371,7 +380,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 700000,
+    "price": 728000,
     "resourceId": 67310990,
     "assetId": 202126,
     "cardName": "Kane",
@@ -423,7 +432,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 124000,
+    "price": 129000,
     "resourceId": 50568936,
     "assetId": 237288,
     "cardName": "Mariona",
@@ -441,8 +450,10 @@
     "preferredPosition": "RW",
     "possiblePositions": [
       "CAM",
+      "LW",
       "RM",
-      "RW"
+      "RW",
+      "ST"
     ],
     "playStyles": [
       10,
@@ -465,7 +476,14 @@
       134,
       135,
       136,
-      137
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
     ],
     "attributes": [
       89,
@@ -476,7 +494,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 629000,
+    "price": 729000,
     "resourceId": 50558750,
     "assetId": 227102,
     "cardName": "Graham Hansen",
@@ -528,7 +546,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 320000,
+    "price": 359000,
     "resourceId": 50543846,
     "assetId": 212198,
     "cardName": "Bruno Fernandes",
@@ -547,6 +565,8 @@
     "possiblePositions": [
       "CDM",
       "CM",
+      "LB",
+      "LM",
       "RB",
       "RM"
     ],
@@ -566,6 +586,10 @@
       104,
       105,
       106,
+      107,
+      108,
+      109,
+      110,
       114,
       115,
       116,
@@ -579,7 +603,12 @@
       124,
       125,
       126,
+      127,
+      128,
+      129,
+      130,
       146,
+      147,
       149
     ],
     "attributes": [
@@ -591,7 +620,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 219000,
+    "price": 244000,
     "resourceId": 50602321,
     "assetId": 270673,
     "cardName": "Zaïre-Emery",
@@ -636,7 +665,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 82500,
+    "price": 99500,
     "resourceId": 50579467,
     "assetId": 247819,
     "cardName": "Schlotterbeck",
@@ -654,6 +683,8 @@
     "preferredPosition": "RW",
     "possiblePositions": [
       "CAM",
+      "LM",
+      "LW",
       "RM",
       "RW",
       "ST"
@@ -673,6 +704,10 @@
       124,
       125,
       126,
+      127,
+      128,
+      129,
+      130,
       131,
       132,
       133,
@@ -680,6 +715,9 @@
       135,
       136,
       137,
+      138,
+      139,
+      140,
       141,
       142,
       143,
@@ -694,7 +732,7 @@
       79
     ],
     "hasDynamicImage": true,
-    "price": 55500,
+    "price": 56500,
     "resourceId": 50603811,
     "assetId": 272163,
     "cardName": "Elena Julve",
@@ -712,6 +750,8 @@
     "preferredPosition": "CB",
     "possiblePositions": [
       "CB",
+      "CDM",
+      "LB",
       "RB"
     ],
     "playStyles": [
@@ -729,11 +769,21 @@
       104,
       105,
       106,
+      107,
+      108,
+      109,
+      110,
       111,
       112,
       113,
+      114,
+      115,
+      116,
+      117,
       146,
-      148
+      147,
+      148,
+      149
     ],
     "attributes": [
       88,
@@ -744,7 +794,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 42250,
+    "price": 43000,
     "resourceId": 50578905,
     "assetId": 247257,
     "cardName": "Ibañez",
@@ -763,7 +813,9 @@
     "possiblePositions": [
       "CAM",
       "CDM",
-      "CM"
+      "CM",
+      "LM",
+      "RM"
     ],
     "playStyles": [
       13,
@@ -784,6 +836,14 @@
       120,
       121,
       122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
       131,
       132,
       133,
@@ -799,7 +859,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 14000,
+    "price": 13250,
     "resourceId": 50603742,
     "assetId": 272094,
     "cardName": "Fiamma Benítez",
@@ -817,7 +877,9 @@
     "preferredPosition": "CB",
     "possiblePositions": [
       "CB",
-      "LB"
+      "CDM",
+      "LB",
+      "RB"
     ],
     "playStyles": [
       14,
@@ -828,6 +890,10 @@
     ],
     "playStylesPlus": [],
     "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
       107,
       108,
       109,
@@ -835,8 +901,14 @@
       111,
       112,
       113,
+      114,
+      115,
+      116,
+      117,
+      146,
       147,
-      148
+      148,
+      149
     ],
     "attributes": [
       91,
@@ -847,7 +919,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 212000,
+    "price": 247000,
     "resourceId": 50596101,
     "assetId": 264453,
     "cardName": "van de Ven",
@@ -865,6 +937,8 @@
     "preferredPosition": "ST",
     "possiblePositions": [
       "CAM",
+      "LM",
+      "LW",
       "RM",
       "RW",
       "ST"
@@ -883,6 +957,10 @@
       124,
       125,
       126,
+      127,
+      128,
+      129,
+      130,
       131,
       132,
       133,
@@ -890,6 +968,9 @@
       135,
       136,
       137,
+      138,
+      139,
+      140,
       141,
       142,
       143,
@@ -904,7 +985,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 21500,
+    "price": 23750,
     "resourceId": 50559444,
     "assetId": 227796,
     "cardName": "Pulisic",
@@ -965,7 +1046,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 12000,
+    "price": 12750,
     "resourceId": 50602780,
     "assetId": 271132,
     "cardName": "Gabriel Silva",
@@ -982,9 +1063,11 @@
     "skillMoves": 4,
     "preferredPosition": "LB",
     "possiblePositions": [
+      "CDM",
       "LB",
       "LM",
-      "LW"
+      "LW",
+      "RM"
     ],
     "playStyles": [
       12,
@@ -999,6 +1082,14 @@
       108,
       109,
       110,
+      114,
+      115,
+      116,
+      117,
+      123,
+      124,
+      125,
+      126,
       127,
       128,
       129,
@@ -1006,7 +1097,8 @@
       138,
       139,
       140,
-      147
+      147,
+      149
     ],
     "attributes": [
       88,
@@ -1017,7 +1109,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 11750,
+    "price": 12750,
     "resourceId": 50597057,
     "assetId": 265409,
     "cardName": "Levels",
@@ -1036,7 +1128,9 @@
     "possiblePositions": [
       "CAM",
       "CDM",
-      "CM"
+      "CM",
+      "RB",
+      "RM"
     ],
     "playStyles": [
       10,
@@ -1047,6 +1141,10 @@
     ],
     "playStylesPlus": [],
     "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
       114,
       115,
       116,
@@ -1056,10 +1154,15 @@
       120,
       121,
       122,
+      123,
+      124,
+      125,
+      126,
       131,
       132,
       133,
       134,
+      146,
       149
     ],
     "attributes": [
@@ -1071,7 +1174,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 16000,
+    "price": 16250,
     "resourceId": 50574082,
     "assetId": 242434,
     "cardName": "Jones",

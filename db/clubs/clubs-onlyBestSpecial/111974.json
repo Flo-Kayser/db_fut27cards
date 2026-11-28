@@ -1,4 +1,53 @@
 {
   "clubName": "Sassuolo",
-  "players": {}
+  "players": {
+    "50542583": {
+      "name": "Domenico Berardi",
+      "cardName": "Berardi",
+      "originalVersionId": "33",
+      "clubId": 111974,
+      "leagueId": 31,
+      "countryId": 27,
+      "versionId": "33",
+      "rating": 87,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        10,
+        20,
+        25,
+        6
+      ],
+      "playStylesPlus": [
+        13
+      ],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        135,
+        136,
+        137
+      ],
+      "attributes": [
+        88,
+        87,
+        86,
+        88,
+        42,
+        83
+      ],
+      "hasDynamicImage": true,
+      "price": 15250,
+      "resourceId": 50542583,
+      "assetId": 210935
+    }
+  }
 }

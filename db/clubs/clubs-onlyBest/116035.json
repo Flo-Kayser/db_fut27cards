@@ -33,7 +33,7 @@
         42
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 72042,
       "assetId": 72042
     },
@@ -177,7 +177,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 200,
       "resourceId": 80077,
       "assetId": 80077
     },
@@ -211,7 +211,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 80209,
       "assetId": 80209
     },
@@ -247,7 +247,7 @@
         45
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 81874,
       "assetId": 81874
     },
@@ -281,7 +281,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 350,
       "resourceId": 87251,
       "assetId": 87251
     },
@@ -317,7 +317,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 200,
       "resourceId": 87699,
       "assetId": 87699
     },
@@ -357,57 +357,9 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 241546,
       "assetId": 241546
-    },
-    "245697": {
-      "name": "Clara Mateo",
-      "cardName": "Mateo",
-      "originalVersionId": "0",
-      "clubId": 116035,
-      "leagueId": 2218,
-      "countryId": 18,
-      "versionId": "2002",
-      "rating": 85,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "CAM",
-        "RM",
-        "RW",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        22,
-        26,
-        7
-      ],
-      "playStylesPlus": [
-        1
-      ],
-      "rolesPlus": [
-        26,
-        32,
-        36,
-        42,
-        143
-      ],
-      "attributes": [
-        87,
-        85,
-        80,
-        85,
-        56,
-        77
-      ],
-      "hasDynamicImage": false,
-      "price": 3400,
-      "resourceId": 245697,
-      "assetId": 245697
     },
     "261514": {
       "name": "Évelyne Viens",
@@ -441,7 +393,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 261514,
       "assetId": 261514
     },
@@ -477,7 +429,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 264865,
       "assetId": 264865
     },
@@ -511,7 +463,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 264906,
       "assetId": 264906
     },
@@ -552,7 +504,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 3200,
+      "price": 3000,
       "resourceId": 264959,
       "assetId": 264959
     },
@@ -594,7 +546,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 264963,
       "assetId": 264963
     },
@@ -635,7 +587,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 269811,
       "assetId": 269811
     },
@@ -675,7 +627,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 269817,
       "assetId": 269817
     },
@@ -715,7 +667,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 350,
       "resourceId": 271174,
       "assetId": 271174
     },
@@ -751,7 +703,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 250,
       "resourceId": 274786,
       "assetId": 274786
     },
@@ -789,7 +741,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 300,
       "resourceId": 276548,
       "assetId": 276548
     },
@@ -832,7 +784,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 276765,
       "assetId": 276765
     },
@@ -946,7 +898,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 300,
       "resourceId": 277171,
       "assetId": 277171
     },
@@ -1031,9 +983,68 @@
         68
       ],
       "hasDynamicImage": true,
-      "price": 17500,
+      "price": 15250,
       "resourceId": 50411180,
       "assetId": 79532
+    },
+    "50577345": {
+      "name": "Clara Mateo",
+      "cardName": "Mateo",
+      "originalVersionId": "33",
+      "clubId": 116035,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "33",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        1,
+        20,
+        22,
+        26,
+        7
+      ],
+      "playStylesPlus": [
+        0
+      ],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        90,
+        88,
+        84,
+        88,
+        60,
+        80
+      ],
+      "hasDynamicImage": true,
+      "price": 44500,
+      "resourceId": 50577345,
+      "assetId": 245697
     },
     "50596607": {
       "name": "Célina Ould Hocine",
@@ -1072,7 +1083,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 50596607,
       "assetId": 264959
     },

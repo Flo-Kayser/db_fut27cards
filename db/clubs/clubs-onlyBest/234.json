@@ -31,7 +31,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 79686,
       "assetId": 79686
     },
@@ -67,7 +67,7 @@
         47
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 400,
       "resourceId": 81674,
       "assetId": 81674
     },
@@ -103,7 +103,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 82744,
       "assetId": 82744
     },
@@ -242,7 +242,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 87512,
       "assetId": 87512
     },
@@ -327,7 +327,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 216547,
       "assetId": 216547
     },
@@ -362,7 +362,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 650,
       "resourceId": 220440,
       "assetId": 220440
     },
@@ -577,7 +577,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 245253,
       "assetId": 245253
     },
@@ -617,45 +617,9 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 246871,
       "assetId": 246871
-    },
-    "247172": {
-      "name": "Jhon Durán",
-      "cardName": "Durán",
-      "originalVersionId": "0",
-      "clubId": 234,
-      "leagueId": 308,
-      "countryId": 56,
-      "versionId": "2002",
-      "rating": 78,
-      "preferredFoot": "Left",
-      "weakFoot": 2,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        4
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        42
-      ],
-      "attributes": [
-        80,
-        81,
-        62,
-        75,
-        34,
-        80
-      ],
-      "hasDynamicImage": false,
-      "price": 700,
-      "resourceId": 247172,
-      "assetId": 247172
     },
     "250753": {
       "name": "Anatoliy Trubin",
@@ -776,7 +740,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 259913,
       "assetId": 259913
     },
@@ -977,7 +941,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 300,
       "resourceId": 270060,
       "assetId": 270060
     },
@@ -1016,7 +980,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 500,
       "resourceId": 274105,
       "assetId": 274105
     },
@@ -1093,9 +1057,53 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 50561039,
       "assetId": 229391
+    },
+    "50578820": {
+      "name": "Jhon Durán",
+      "cardName": "Durán",
+      "originalVersionId": "33",
+      "clubId": 234,
+      "leagueId": 308,
+      "countryId": 56,
+      "versionId": "33",
+      "rating": 87,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        21,
+        24,
+        29,
+        6
+      ],
+      "playStylesPlus": [
+        4
+      ],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        90,
+        88,
+        78,
+        87,
+        43,
+        91
+      ],
+      "hasDynamicImage": true,
+      "price": 15250,
+      "resourceId": 50578820,
+      "assetId": 247172
     },
     "50594121": {
       "name": "Souffian El Karouani",
@@ -1134,7 +1142,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 50594121,
       "assetId": 262473
     },
@@ -1170,7 +1178,7 @@
         49
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 300,
       "resourceId": 50608176,
       "assetId": 276528
     },
@@ -1217,7 +1225,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 17750,
+      "price": 14000,
       "resourceId": 50608900,
       "assetId": 277252
     },

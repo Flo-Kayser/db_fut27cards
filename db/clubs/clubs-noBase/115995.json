@@ -1,6 +1,59 @@
 {
   "clubName": "FC Bayern München",
   "players": {
+    "50580365": {
+      "name": "Lena Oberdorf",
+      "cardName": "Oberdorf",
+      "originalVersionId": "33",
+      "clubId": 115995,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "33",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        17,
+        19,
+        2,
+        24,
+        28,
+        9
+      ],
+      "playStylesPlus": [
+        16
+      ],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        149
+      ],
+      "attributes": [
+        80,
+        68,
+        82,
+        80,
+        88,
+        88
+      ],
+      "hasDynamicImage": true,
+      "price": 22500,
+      "resourceId": 50580365,
+      "assetId": 248717
+    },
     "50580470": {
       "name": "Klara Bühl",
       "cardName": "Bühl",
@@ -47,7 +100,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 26500,
+      "price": 20500,
       "resourceId": 50580470,
       "assetId": 248822
     },
@@ -105,7 +158,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 22000,
+      "price": 23250,
       "resourceId": 50590935,
       "assetId": 259287
     },
@@ -210,7 +263,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 17500,
+      "price": 14500,
       "resourceId": 50608167,
       "assetId": 276519
     },

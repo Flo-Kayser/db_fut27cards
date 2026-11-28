@@ -38,7 +38,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 70000,
+    "price": 60000,
     "resourceId": 277643,
     "assetId": 277643,
     "originalVersionId": 0
@@ -86,7 +86,7 @@
       63
     ],
     "hasDynamicImage": true,
-    "price": 433000,
+    "price": 301000,
     "resourceId": 67386507,
     "assetId": 277643,
     "originalVersionId": 3
@@ -132,7 +132,7 @@
       64
     ],
     "hasDynamicImage": true,
-    "price": 1599000,
+    "price": 1379000,
     "resourceId": 84163723,
     "assetId": 277643,
     "originalVersionId": 8
@@ -149,8 +149,10 @@
     "preferredPosition": "RW",
     "possiblePositions": [
       "CAM",
+      "LW",
       "RM",
-      "RW"
+      "RW",
+      "ST"
     ],
     "playStyles": [
       0,
@@ -174,7 +176,14 @@
       134,
       135,
       136,
-      137
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
     ],
     "attributes": [
       90,
@@ -185,7 +194,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 2401000,
+    "price": 2416000,
     "resourceId": 117718155,
     "assetId": 277643,
     "originalVersionId": 33

@@ -31,7 +31,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 950,
+    "price": 1100,
     "resourceId": 203483,
     "assetId": 203483,
     "originalVersionId": 0
@@ -77,10 +77,56 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 14250,
     "resourceId": 50535131,
     "assetId": 203483,
     "originalVersionId": 3
+  },
+  "84089563": {
+    "clubId": 245,
+    "leagueId": 10,
+    "countryId": 34,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      11,
+      22,
+      6
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      149
+    ],
+    "attributes": [
+      75,
+      81,
+      78,
+      78,
+      79,
+      80
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84089563,
+    "assetId": 203483,
+    "originalVersionId": 19
   },
   "cardName": "Klaassen",
   "name": "Davy Klaassen"

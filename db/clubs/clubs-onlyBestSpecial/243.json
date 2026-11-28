@@ -142,6 +142,61 @@
       "resourceId": 50560266,
       "assetId": 228618
     },
+    "50570442": {
+      "name": "Vini Jr.",
+      "cardName": "Vini Jr.",
+      "originalVersionId": "33",
+      "clubId": 243,
+      "leagueId": 53,
+      "countryId": 54,
+      "versionId": "33",
+      "rating": 90,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        13,
+        20,
+        22,
+        25,
+        6
+      ],
+      "playStylesPlus": [
+        21
+      ],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        94,
+        87,
+        81,
+        93,
+        32,
+        72
+      ],
+      "hasDynamicImage": true,
+      "price": 1700000,
+      "resourceId": 50570442,
+      "assetId": 238794
+    },
     "50570701": {
       "name": "Federico Valverde",
       "cardName": "Valverde",
@@ -205,7 +260,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 812000,
+      "price": 844000,
       "resourceId": 50570701,
       "assetId": 239053
     },
@@ -249,7 +304,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 89000,
+      "price": 106000,
       "resourceId": 50570879,
       "assetId": 239231
     },
@@ -321,7 +376,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 529000,
+      "price": 378000,
       "resourceId": 50584019,
       "assetId": 252371
     },
@@ -386,63 +441,9 @@
         62
       ],
       "hasDynamicImage": true,
-      "price": 19500,
+      "price": 18250,
       "resourceId": 50595957,
       "assetId": 264309
-    },
-    "67377753": {
-      "name": "Álvaro Carreras",
-      "cardName": "Álvaro Carreras",
-      "originalVersionId": "3",
-      "clubId": 243,
-      "leagueId": 53,
-      "countryId": 45,
-      "versionId": "3",
-      "rating": 83,
-      "preferredFoot": "Left",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "LB",
-      "possiblePositions": [
-        "CB",
-        "LB",
-        "LM"
-      ],
-      "playStyles": [
-        11,
-        14,
-        16,
-        17,
-        26
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        107,
-        108,
-        109,
-        110,
-        111,
-        112,
-        113,
-        127,
-        128,
-        129,
-        130,
-        147,
-        148
-      ],
-      "attributes": [
-        88,
-        69,
-        80,
-        82,
-        78,
-        83
-      ],
-      "hasDynamicImage": true,
-      "price": 479000,
-      "resourceId": 67377753,
-      "assetId": 268889
     },
     "83971352": {
       "name": "Felicia Schröder",
@@ -536,7 +537,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 3798000,
+      "price": 3654000,
       "resourceId": 84117827,
       "assetId": 231747
     },
@@ -677,6 +678,62 @@
       "resourceId": 84150389,
       "assetId": 264309
     },
+    "84154969": {
+      "name": "Álvaro Carreras",
+      "cardName": "Álvaro Carreras",
+      "originalVersionId": "33",
+      "clubId": 243,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "33",
+      "rating": 88,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CB",
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        14,
+        16,
+        26,
+        27,
+        9
+      ],
+      "playStylesPlus": [
+        17
+      ],
+      "rolesPlus": [
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        127,
+        128,
+        129,
+        130,
+        147,
+        148
+      ],
+      "attributes": [
+        92,
+        75,
+        84,
+        87,
+        82,
+        88
+      ],
+      "hasDynamicImage": true,
+      "price": 835000,
+      "resourceId": 84154969,
+      "assetId": 268889
+    },
     "117672259": {
       "name": "Kylian Mbappé",
       "cardName": "Mbappé",
@@ -795,7 +852,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 1615000,
+      "price": 1729000,
       "resourceId": 117692883,
       "assetId": 252371
     },
@@ -845,7 +902,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 5952250,
+      "sbcPrice": 4385800,
       "price": 0,
       "resourceId": 151226691,
       "assetId": 231747

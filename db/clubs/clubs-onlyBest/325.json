@@ -32,7 +32,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 400,
       "resourceId": 70253,
       "assetId": 70253
     },
@@ -229,7 +229,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 350,
       "resourceId": 207790,
       "assetId": 207790
     },
@@ -263,7 +263,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 200,
       "resourceId": 211908,
       "assetId": 211908
     },
@@ -307,7 +307,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 212811,
       "assetId": 212811
     },
@@ -351,53 +351,6 @@
       "price": 650,
       "resourceId": 220793,
       "assetId": 220793
-    },
-    "222492": {
-      "name": "Leroy Sané",
-      "cardName": "Leroy Sané",
-      "originalVersionId": "0",
-      "clubId": 325,
-      "leagueId": 68,
-      "countryId": 21,
-      "versionId": "2002",
-      "rating": 80,
-      "preferredFoot": "Left",
-      "weakFoot": 2,
-      "skillMoves": 4,
-      "preferredPosition": "RM",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        2,
-        21,
-        25,
-        7,
-        8
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        24,
-        26,
-        30,
-        36,
-        39
-      ],
-      "attributes": [
-        84,
-        79,
-        78,
-        83,
-        29,
-        65
-      ],
-      "hasDynamicImage": false,
-      "price": 650,
-      "resourceId": 222492,
-      "assetId": 222492
     },
     "223959": {
       "name": "Lucas Torreira",
@@ -476,7 +429,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 226300,
       "assetId": 226300
     },
@@ -559,7 +512,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 234171,
       "assetId": 234171
     },
@@ -607,7 +560,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 239892,
       "assetId": 239892
     },
@@ -647,7 +600,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 650,
       "resourceId": 252293,
       "assetId": 252293
     },
@@ -728,7 +681,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 257084,
       "assetId": 257084
     },
@@ -768,7 +721,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 800,
       "resourceId": 259754,
       "assetId": 259754
     },
@@ -808,7 +761,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 262607,
       "assetId": 262607
     },
@@ -858,7 +811,7 @@
         86
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 263205,
       "assetId": 263205
     },
@@ -901,7 +854,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 270571,
       "assetId": 270571
     },
@@ -973,9 +926,66 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 278168,
       "assetId": 278168
+    },
+    "50554140": {
+      "name": "Leroy Sané",
+      "cardName": "Leroy Sané",
+      "originalVersionId": "33",
+      "clubId": 325,
+      "leagueId": 68,
+      "countryId": 21,
+      "versionId": "33",
+      "rating": 87,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        2,
+        21,
+        25,
+        8
+      ],
+      "playStylesPlus": [
+        7
+      ],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        91,
+        86,
+        85,
+        90,
+        36,
+        73
+      ],
+      "hasDynamicImage": true,
+      "price": 13250,
+      "resourceId": 50554140,
+      "assetId": 222492
     },
     "50563941": {
       "name": "Victor Osimhen",
@@ -1016,7 +1026,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 17250,
+      "price": 14500,
       "resourceId": 50563941,
       "assetId": 232293
     },
@@ -1052,7 +1062,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 650,
       "resourceId": 50594841,
       "assetId": 263193
     },
@@ -1086,7 +1096,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 300,
       "resourceId": 50610235,
       "assetId": 278587
     },
@@ -1144,7 +1154,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 104000,
+      "price": 58500,
       "resourceId": 67350585,
       "assetId": 241721
     },

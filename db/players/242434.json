@@ -32,7 +32,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 900,
+    "price": 650,
     "resourceId": 242434,
     "assetId": 242434,
     "originalVersionId": 0
@@ -50,7 +50,9 @@
     "possiblePositions": [
       "CAM",
       "CDM",
-      "CM"
+      "CM",
+      "RB",
+      "RM"
     ],
     "playStyles": [
       10,
@@ -61,6 +63,10 @@
     ],
     "playStylesPlus": [],
     "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
       114,
       115,
       116,
@@ -70,10 +76,15 @@
       120,
       121,
       122,
+      123,
+      124,
+      125,
+      126,
       131,
       132,
       133,
       134,
+      146,
       149
     ],
     "attributes": [
@@ -85,7 +96,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 16000,
+    "price": 16250,
     "resourceId": 50574082,
     "assetId": 242434,
     "originalVersionId": 33

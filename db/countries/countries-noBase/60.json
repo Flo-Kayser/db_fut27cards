@@ -40,7 +40,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 110000,
+    "price": 82000,
     "resourceId": 266691,
     "assetId": 266691
   },
@@ -86,7 +86,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 79500,
+    "price": 49250,
     "resourceId": 275049,
     "assetId": 275049
   },
@@ -127,7 +127,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 14250,
     "resourceId": 50514142,
     "assetId": 182494
   },
@@ -194,7 +194,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 812000,
+    "price": 844000,
     "resourceId": 50570701,
     "assetId": 239053
   },
@@ -235,7 +235,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 14250,
     "resourceId": 50572311,
     "assetId": 240663
   },
@@ -339,10 +339,66 @@
       87
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 91900,
+    "sbcPrice": 67700,
     "price": 0,
     "resourceId": 50584811,
     "assetId": 253163
+  },
+  "50586465": {
+    "name": "Maximiliano Araújo",
+    "cardName": "Araújo",
+    "originalVersionId": "33",
+    "clubId": 237,
+    "leagueId": 308,
+    "countryId": 60,
+    "versionId": "33",
+    "rating": 87,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "LB",
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      12,
+      19,
+      2,
+      20,
+      26,
+      27
+    ],
+    "playStylesPlus": [
+      21
+    ],
+    "rolesPlus": [
+      107,
+      108,
+      109,
+      110,
+      127,
+      128,
+      129,
+      130,
+      138,
+      139,
+      140,
+      147
+    ],
+    "attributes": [
+      91,
+      81,
+      84,
+      87,
+      78,
+      82
+    ],
+    "hasDynamicImage": true,
+    "price": 11750,
+    "resourceId": 50586465,
+    "assetId": 254817
   },
   "50591227": {
     "name": "Salomón Rodríguez",
@@ -381,7 +437,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 15000,
     "resourceId": 50591227,
     "assetId": 259579
   },
@@ -427,7 +483,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 17500,
+    "price": 15750,
     "resourceId": 67383910,
     "assetId": 275046
   },
@@ -471,5 +527,46 @@
     "price": 0,
     "resourceId": 84068574,
     "assetId": 182494
+  },
+  "84126743": {
+    "name": "Miguel Ángel Merentiel",
+    "cardName": "Merentiel",
+    "originalVersionId": "19",
+    "clubId": 1877,
+    "leagueId": 353,
+    "countryId": 60,
+    "versionId": "19",
+    "rating": 80,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      2,
+      22
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      82,
+      81,
+      68,
+      80,
+      41,
+      80
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84126743,
+    "assetId": 240663
   }
 }

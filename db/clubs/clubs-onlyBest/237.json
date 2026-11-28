@@ -34,7 +34,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 300,
       "resourceId": 70007,
       "assetId": 70007
     },
@@ -68,7 +68,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 350,
       "resourceId": 71176,
       "assetId": 71176
     },
@@ -103,7 +103,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 300,
       "resourceId": 71781,
       "assetId": 71781
     },
@@ -146,7 +146,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 250,
       "resourceId": 72754,
       "assetId": 72754
     },
@@ -182,7 +182,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 300,
       "resourceId": 73379,
       "assetId": 73379
     },
@@ -221,7 +221,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 400,
       "resourceId": 75150,
       "assetId": 75150
     },
@@ -293,7 +293,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 450,
       "resourceId": 82746,
       "assetId": 82746
     },
@@ -330,7 +330,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 350,
       "resourceId": 85333,
       "assetId": 85333
     },
@@ -412,7 +412,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 650,
       "resourceId": 227890,
       "assetId": 227890
     },
@@ -451,7 +451,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 245158,
       "assetId": 245158
     },
@@ -492,7 +492,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 252144,
       "assetId": 252144
     },
@@ -539,53 +539,6 @@
       "resourceId": 254262,
       "assetId": 254262
     },
-    "254817": {
-      "name": "Maximiliano Araújo",
-      "cardName": "Araújo",
-      "originalVersionId": "0",
-      "clubId": 237,
-      "leagueId": 308,
-      "countryId": 60,
-      "versionId": "2002",
-      "rating": 81,
-      "preferredFoot": "Left",
-      "weakFoot": 2,
-      "skillMoves": 4,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "LB",
-        "LM",
-        "LW"
-      ],
-      "playStyles": [
-        12,
-        19,
-        2,
-        21,
-        26,
-        27
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        10,
-        27,
-        28,
-        30,
-        39
-      ],
-      "attributes": [
-        85,
-        69,
-        76,
-        81,
-        71,
-        75
-      ],
-      "hasDynamicImage": false,
-      "price": 650,
-      "resourceId": 254817,
-      "assetId": 254817
-    },
     "255634": {
       "name": "Georgios Vagiannidis",
       "cardName": "Vagiannidis",
@@ -621,7 +574,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 650,
       "resourceId": 255634,
       "assetId": 255634
     },
@@ -662,7 +615,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 257179,
       "assetId": 257179
     },
@@ -795,7 +748,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 250,
       "resourceId": 266245,
       "assetId": 266245
     },
@@ -868,7 +821,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 400,
       "resourceId": 270865,
       "assetId": 270865
     },
@@ -904,7 +857,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 276471,
       "assetId": 276471
     },
@@ -942,7 +895,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 350,
       "resourceId": 277971,
       "assetId": 277971
     },
@@ -979,7 +932,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 50411080,
       "assetId": 79432
     },
@@ -1094,6 +1047,62 @@
       "price": 0,
       "resourceId": 50583025,
       "assetId": 251377
+    },
+    "50586465": {
+      "name": "Maximiliano Araújo",
+      "cardName": "Araújo",
+      "originalVersionId": "33",
+      "clubId": 237,
+      "leagueId": 308,
+      "countryId": 60,
+      "versionId": "33",
+      "rating": 87,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        12,
+        19,
+        2,
+        20,
+        26,
+        27
+      ],
+      "playStylesPlus": [
+        21
+      ],
+      "rolesPlus": [
+        107,
+        108,
+        109,
+        110,
+        127,
+        128,
+        129,
+        130,
+        138,
+        139,
+        140,
+        147
+      ],
+      "attributes": [
+        91,
+        81,
+        84,
+        87,
+        78,
+        82
+      ],
+      "hasDynamicImage": true,
+      "price": 11750,
+      "resourceId": 50586465,
+      "assetId": 254817
     }
   }
 }

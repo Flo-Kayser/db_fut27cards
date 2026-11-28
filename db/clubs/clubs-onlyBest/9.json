@@ -31,7 +31,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 400,
       "resourceId": 70824,
       "assetId": 70824
     },
@@ -71,7 +71,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 400,
       "resourceId": 70994,
       "assetId": 70994
     },
@@ -117,54 +117,9 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 76042,
       "assetId": 76042
-    },
-    "203376": {
-      "name": "Virgil van Dijk",
-      "cardName": "van Dijk",
-      "originalVersionId": "0",
-      "clubId": 9,
-      "leagueId": 13,
-      "countryId": 34,
-      "versionId": "2002",
-      "rating": 88,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [
-        14,
-        16,
-        17,
-        28,
-        4,
-        9
-      ],
-      "playStylesPlus": [
-        19
-      ],
-      "rolesPlus": [
-        11,
-        12,
-        113
-      ],
-      "attributes": [
-        70,
-        60,
-        72,
-        70,
-        89,
-        85
-      ],
-      "hasDynamicImage": false,
-      "price": 16250,
-      "resourceId": 203376,
-      "assetId": 203376
     },
     "212831": {
       "name": "Alisson",
@@ -201,7 +156,7 @@
         86
       ],
       "hasDynamicImage": false,
-      "price": 10250,
+      "price": 6000,
       "resourceId": 212831,
       "assetId": 212831
     },
@@ -235,7 +190,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 300,
       "resourceId": 222514,
       "assetId": 222514
     },
@@ -313,7 +268,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 1800,
+      "price": 1500,
       "resourceId": 232223,
       "assetId": 232223
     },
@@ -394,7 +349,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 242516,
       "assetId": 242516
     },
@@ -470,7 +425,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 300,
       "resourceId": 253428,
       "assetId": 253428
     },
@@ -510,7 +465,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 3200,
+      "price": 2000,
       "resourceId": 257289,
       "assetId": 257289
     },
@@ -582,7 +537,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 264298,
       "assetId": 264298
     },
@@ -654,7 +609,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 400,
       "resourceId": 271977,
       "assetId": 271977
     },
@@ -690,7 +645,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 400,
       "resourceId": 278292,
       "assetId": 278292
     },
@@ -727,7 +682,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 6900,
+      "price": 4300,
       "resourceId": 278903,
       "assetId": 278903
     },
@@ -784,9 +739,55 @@
         63
       ],
       "hasDynamicImage": true,
-      "price": 421000,
+      "price": 449000,
       "resourceId": 50412024,
       "assetId": 80376
+    },
+    "50535024": {
+      "name": "Virgil van Dijk",
+      "cardName": "van Dijk",
+      "originalVersionId": "33",
+      "clubId": 9,
+      "leagueId": 13,
+      "countryId": 34,
+      "versionId": "33",
+      "rating": 90,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        14,
+        16,
+        19,
+        28,
+        4,
+        9
+      ],
+      "playStylesPlus": [
+        17
+      ],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        80,
+        62,
+        78,
+        78,
+        91,
+        90
+      ],
+      "hasDynamicImage": true,
+      "price": 514000,
+      "resourceId": 50535024,
+      "assetId": 203376
     },
     "50565379": {
       "name": "Alexander Isak",
@@ -829,7 +830,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 269000,
+      "price": 225000,
       "resourceId": 50565379,
       "assetId": 233731
     },
@@ -950,7 +951,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 449000,
+      "price": 378000,
       "resourceId": 50568420,
       "assetId": 236772
     },
@@ -1000,7 +1001,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 146000,
+      "price": 108000,
       "resourceId": 50571485,
       "assetId": 239837
     },
@@ -1051,7 +1052,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 197000,
+      "price": 98000,
       "resourceId": 50577752,
       "assetId": 246104
     },
@@ -1100,7 +1101,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 91900,
+      "sbcPrice": 67700,
       "price": 0,
       "resourceId": 50584811,
       "assetId": 253163
@@ -1160,7 +1161,7 @@
         65
       ],
       "hasDynamicImage": true,
-      "price": 20250,
+      "price": 20500,
       "resourceId": 50588278,
       "assetId": 256630
     },
@@ -1207,7 +1208,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 23750,
+      "price": 20000,
       "resourceId": 50592556,
       "assetId": 260908
     },
@@ -1261,7 +1262,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 536000,
+      "price": 449000,
       "resourceId": 50610776,
       "assetId": 279128
     },
@@ -1317,7 +1318,7 @@
         68
       ],
       "hasDynamicImage": true,
-      "price": 419000,
+      "price": 350000,
       "resourceId": 67373516,
       "assetId": 264652
     },

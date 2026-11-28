@@ -1,52 +1,4 @@
 {
-  "6235": {
-    "name": "Pavel Nedvěd",
-    "cardName": "Nedvěd",
-    "originalVersionId": "12",
-    "clubId": 112658,
-    "leagueId": 2118,
-    "countryId": 12,
-    "versionId": "12",
-    "rating": 89,
-    "preferredFoot": "Right",
-    "weakFoot": 5,
-    "skillMoves": 4,
-    "preferredPosition": "LM",
-    "possiblePositions": [
-      "CAM",
-      "LM",
-      "LW"
-    ],
-    "playStyles": [
-      12,
-      2,
-      21,
-      22,
-      26,
-      3
-    ],
-    "playStylesPlus": [
-      7
-    ],
-    "rolesPlus": [
-      29,
-      31,
-      127,
-      138
-    ],
-    "attributes": [
-      86,
-      86,
-      87,
-      88,
-      58,
-      77
-    ],
-    "hasDynamicImage": false,
-    "price": 206000,
-    "resourceId": 6235,
-    "assetId": 6235
-  },
   "8473": {
     "name": "Tomáš Rosický",
     "cardName": "Rosický",
@@ -91,7 +43,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 20750,
+    "price": 14500,
     "resourceId": 8473,
     "assetId": 8473
   },
@@ -130,8 +82,63 @@
       90
     ],
     "hasDynamicImage": false,
-    "price": 326000,
+    "price": 264000,
     "resourceId": 48940,
     "assetId": 48940
+  },
+  "83892315": {
+    "name": "Pavel Nedvěd",
+    "cardName": "Nedvěd",
+    "originalVersionId": "157",
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 12,
+    "versionId": "157",
+    "rating": 90,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      12,
+      2,
+      21,
+      26,
+      3,
+      7
+    ],
+    "playStylesPlus": [
+      22
+    ],
+    "rolesPlus": [
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      138,
+      139,
+      140
+    ],
+    "attributes": [
+      88,
+      87,
+      89,
+      90,
+      59,
+      78
+    ],
+    "hasDynamicImage": true,
+    "price": 101000,
+    "resourceId": 83892315,
+    "assetId": 6235
   }
 }

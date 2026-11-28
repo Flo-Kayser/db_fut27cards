@@ -17,7 +17,9 @@
       "possiblePositions": [
         "CAM",
         "CDM",
-        "CM"
+        "CM",
+        "LM",
+        "RM"
       ],
       "playStyles": [
         0,
@@ -40,6 +42,14 @@
         120,
         121,
         122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
         131,
         132,
         133,
@@ -112,6 +122,62 @@
       "resourceId": 50593388,
       "assetId": 261740
     },
+    "50597322": {
+      "name": "Selma Bacha",
+      "cardName": "Bacha",
+      "originalVersionId": "33",
+      "clubId": 116033,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "33",
+      "rating": 89,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        12,
+        13,
+        17,
+        20,
+        25,
+        26
+      ],
+      "playStylesPlus": [
+        14
+      ],
+      "rolesPlus": [
+        107,
+        108,
+        109,
+        110,
+        127,
+        128,
+        129,
+        130,
+        138,
+        139,
+        140,
+        147
+      ],
+      "attributes": [
+        91,
+        77,
+        88,
+        86,
+        85,
+        86
+      ],
+      "hasDynamicImage": true,
+      "price": 505000,
+      "resourceId": 50597322,
+      "assetId": 265674
+    },
     "50601052": {
       "name": "Salma Paralluelo",
       "cardName": "Salma Paralluelo",
@@ -175,7 +241,7 @@
         79
       ],
       "hasDynamicImage": true,
-      "price": 1089000,
+      "price": 1154000,
       "resourceId": 50601052,
       "assetId": 269404
     },
@@ -283,7 +349,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 11750,
+      "price": 12000,
       "resourceId": 50609599,
       "assetId": 277951
     },
@@ -342,7 +408,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 820000,
+      "price": 704000,
       "resourceId": 50609867,
       "assetId": 278219
     },
@@ -396,7 +462,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 17250,
+      "price": 15750,
       "resourceId": 67370604,
       "assetId": 261740
     },
@@ -456,7 +522,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 1050000,
+      "price": 806000,
       "resourceId": 67374762,
       "assetId": 265898
     },

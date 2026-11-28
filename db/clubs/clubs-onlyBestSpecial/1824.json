@@ -1,6 +1,65 @@
 {
   "clubName": "Frankfurt",
   "players": {
+    "50523966": {
+      "name": "Mario Götze",
+      "cardName": "Götze",
+      "originalVersionId": "33",
+      "clubId": 1824,
+      "leagueId": 19,
+      "countryId": 21,
+      "versionId": "33",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        13,
+        22,
+        24,
+        8
+      ],
+      "playStylesPlus": [
+        11
+      ],
+      "rolesPlus": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137
+      ],
+      "attributes": [
+        80,
+        83,
+        87,
+        89,
+        76,
+        83
+      ],
+      "hasDynamicImage": true,
+      "price": 10250,
+      "resourceId": 50523966,
+      "assetId": 192318
+    },
     "50568180": {
       "name": "Robin Koch",
       "cardName": "Koch",
@@ -78,8 +137,48 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 17000,
+      "price": 14250,
       "resourceId": 67371523,
+      "assetId": 262659
+    },
+    "100925955": {
+      "name": "Noah Atubolu",
+      "cardName": "Atubolu",
+      "originalVersionId": "19",
+      "clubId": 1824,
+      "leagueId": 19,
+      "countryId": 21,
+      "versionId": "19",
+      "rating": 81,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        10,
+        33,
+        34
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        82,
+        78,
+        81,
+        83,
+        57,
+        80
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 100925955,
       "assetId": 262659
     }
   }

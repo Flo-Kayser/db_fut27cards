@@ -67,7 +67,7 @@
       58
     ],
     "hasDynamicImage": false,
-    "price": 400,
+    "price": 200,
     "resourceId": 81958,
     "assetId": 81958
   },
@@ -101,7 +101,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 400,
+    "price": 350,
     "resourceId": 81960,
     "assetId": 81960
   },
@@ -135,7 +135,7 @@
       39
     ],
     "hasDynamicImage": false,
-    "price": 4900,
+    "price": 4800,
     "resourceId": 86084,
     "assetId": 86084
   },
@@ -171,7 +171,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 700,
+    "price": 650,
     "resourceId": 86106,
     "assetId": 86106
   },
@@ -209,7 +209,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 400,
+    "price": 250,
     "resourceId": 197975,
     "assetId": 197975
   },
@@ -245,7 +245,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 300,
+    "price": 200,
     "resourceId": 220380,
     "assetId": 220380
   },
@@ -287,7 +287,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 700,
+    "price": 650,
     "resourceId": 226078,
     "assetId": 226078
   },
@@ -327,7 +327,7 @@
       57
     ],
     "hasDynamicImage": false,
-    "price": 400,
+    "price": 200,
     "resourceId": 245870,
     "assetId": 245870
   },
@@ -362,7 +362,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 300,
     "resourceId": 269164,
     "assetId": 269164
   },
@@ -399,7 +399,7 @@
       52
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 271214,
     "assetId": 271214
   },
@@ -434,68 +434,9 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 450,
+    "price": 350,
     "resourceId": 277944,
     "assetId": 277944
-  },
-  "50540979": {
-    "name": "Mohamed Salah",
-    "cardName": "Salah",
-    "originalVersionId": "3",
-    "clubId": 436,
-    "leagueId": 68,
-    "countryId": 111,
-    "versionId": "3",
-    "rating": 88,
-    "preferredFoot": "Left",
-    "weakFoot": 3,
-    "skillMoves": 4,
-    "preferredPosition": "RM",
-    "possiblePositions": [
-      "CAM",
-      "RM",
-      "RW",
-      "ST"
-    ],
-    "playStyles": [
-      0,
-      13,
-      20,
-      22,
-      7
-    ],
-    "playStylesPlus": [
-      6
-    ],
-    "rolesPlus": [
-      123,
-      124,
-      125,
-      126,
-      131,
-      132,
-      133,
-      134,
-      135,
-      136,
-      137,
-      141,
-      142,
-      143,
-      144
-    ],
-    "attributes": [
-      86,
-      84,
-      84,
-      88,
-      46,
-      74
-    ],
-    "hasDynamicImage": true,
-    "price": 24250,
-    "resourceId": 50540979,
-    "assetId": 209331
   },
   "50585895": {
     "name": "Mostafa Mohamed",
@@ -532,7 +473,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 400,
+    "price": 300,
     "resourceId": 50585895,
     "assetId": 254247
   },
@@ -588,9 +529,69 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 26750,
+    "price": 21250,
     "resourceId": 67365539,
     "assetId": 256675
+  },
+  "100872627": {
+    "name": "Mohamed Salah",
+    "cardName": "Salah",
+    "originalVersionId": "33",
+    "clubId": 436,
+    "leagueId": 68,
+    "countryId": 111,
+    "versionId": "33",
+    "rating": 90,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "CAM",
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      13,
+      20,
+      22,
+      6,
+      7
+    ],
+    "playStylesPlus": [
+      25
+    ],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      90,
+      87,
+      86,
+      90,
+      48,
+      78
+    ],
+    "hasDynamicImage": true,
+    "price": 216000,
+    "resourceId": 100872627,
+    "assetId": 209331
   },
   "100919971": {
     "name": "Omar Marmoush",
